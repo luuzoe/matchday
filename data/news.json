@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T18:32:54Z",
+      "fetchedAt": "2026-11-02T18:42:54Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2",
@@ -15,6 +15,16 @@
           "publishedAt": "2026-11-02T18:18:55Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/d2cdad00-d6e7-11f1-a741-236ee91c2e25.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pkxggd#2",
+          "title": "BBC Women's Football Weekly",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&at_campaign=rss",
+          "description": "Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?",
+          "author": "",
+          "publishedAt": "2026-11-02T18:10:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#0",
@@ -247,6 +257,36 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#6",
+          "title": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
+          "description": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:45:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#5",
+          "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
+          "description": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:38:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#3",
+          "title": "Are Celtic club in regression amid run of six defeats in 10?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
+          "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+          "author": "",
+          "publishedAt": "2026-11-01T17:34:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#17",
           "title": "Defeat for London City - but is Europe a real possibility?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
@@ -261,7 +301,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T18:32:54Z",
+      "fetchedAt": "2026-11-02T18:42:54Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
