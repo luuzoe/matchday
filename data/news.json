@@ -7,6 +7,16 @@
       "fetchedAt": "2026-11-02T13:24:09Z",
       "articles": [
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo#0",
+          "title": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
+          "description": "A non-league game abandoned after one team was reduced to six players while trailing 8-0 is labelled \"a complete farce\".",
+          "author": "",
+          "publishedAt": "2026-11-02T13:32:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d13a/live/557622f0-d6bb-11f1-aacc-5b5f23abff4b.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0",
           "title": "Bottom club Sunderland to stick with manager Le Bris",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
@@ -225,6 +235,16 @@
           "publishedAt": "2026-11-01T20:16:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#3",
+          "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
+          "description": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:38:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"
         }
       ]
     },
