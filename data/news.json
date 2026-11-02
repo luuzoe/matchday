@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T11:52:37.24338123Z",
+      "fetchedAt": "2026-11-02T12:12:37.874737662Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0",
+          "title": "Bottom club Sunderland to stick with manager Le Bris",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
+          "description": "Bottom club Sunderland are firmly behind manager Regis Le Bris despite their poor start to the season.",
+          "author": "",
+          "publishedAt": "2026-11-02T12:04:09Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#0",
           "title": "Villa drop legal action threat against Carragher ",
