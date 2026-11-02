@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T21:33:17Z",
+      "fetchedAt": "2026-11-02T21:53:05Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o#0",
+          "title": "Kane would swap Ballon d'Or for Champions League victory",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal. ",
+          "author": "",
+          "publishedAt": "2026-11-02T21:46:42Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2230/live/193b93b0-d701-11f1-91df-b96ca3dbd380.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pkyhnx#2",
           "title": "Football Daily",
@@ -251,7 +261,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T21:33:17Z",
+      "fetchedAt": "2026-11-02T21:53:05Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
