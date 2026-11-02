@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T23:12:58Z",
+      "fetchedAt": "2026-11-02T23:22:59Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#0",
+          "title": "Grealish can still have Everton future - Moyes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
+          "description": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
+          "author": "",
+          "publishedAt": "2026-11-02T23:14:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o#0",
           "title": "Who has made Troy's Premier League team of the week?",
@@ -375,13 +385,33 @@
           "publishedAt": "2026-11-01T20:00:18Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#5",
+          "title": "Defeat for London City - but is Europe a real possibility?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+          "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+          "author": "",
+          "publishedAt": "2026-11-01T15:49:47Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#6",
+          "title": "Are Manchester United really at risk of a relegation scrap?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
+          "author": "",
+          "publishedAt": "2026-10-31T23:52:28Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T23:12:58Z",
+      "fetchedAt": "2026-11-02T23:22:59Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607310/bournemouth-forward-junior-kroupi-and-juventus-winger-kenan-yildiz-both-in-arsenal-boss-mikel-artetas-sights-ahead-of-january-window-paper-talk",
