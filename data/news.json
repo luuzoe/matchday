@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T10:53:47Z",
+      "fetchedAt": "2026-11-02T11:12:42Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#13",
@@ -241,8 +241,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T10:53:47Z",
+      "fetchedAt": "2026-11-02T11:12:42Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Sunderland latest: Le Bris has full support of board",
+          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T11:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
+        },
         {
           "guid": "",
           "title": "Ref Watch LIVE! Madueke 'headbutt' and Isak penalty claim analysed...",
@@ -392,16 +402,6 @@
           "publishedAt": "2026-11-01T15:31:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-gary-neville-utd_7393914.jpg?20261101153752"
-        },
-        {
-          "guid": "",
-          "title": "Celtic stunned as Falkirk claim first win vs Hoops in 19 years",
-          "url": "https://www.skysports.com/football/falkirk-vs-celtic/report/558400",
-          "description": "Falkirk claimed their first win against Celtic since 2007 as the champions missed another chance to extend their lead in the Scottish Premiership title race.",
-          "author": "",
-          "publishedAt": "2026-11-01T14:50:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-celtic-cameron-carter-vickers_7393874.jpg?20261101145844"
         },
         {
           "guid": "",
