@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T16:03:32Z",
+      "fetchedAt": "2026-11-02T16:23:31Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0",
@@ -231,7 +231,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T16:03:32Z",
+      "fetchedAt": "2026-11-02T16:23:31Z",
       "articles": [
         {
           "guid": "",
@@ -242,16 +242,6 @@
           "publishedAt": "2026-11-02T14:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-oliver-glasner-nottingham-forest_7394978.jpg?20261102144336"
-        },
-        {
-          "guid": "",
-          "title": "Euro latest: Gordon thriving under different pressure at Barca but says best yet to come",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T13:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326"
         },
         {
           "guid": "",
@@ -272,16 +262,6 @@
           "publishedAt": "2026-11-02T11:48:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "Bellingham vs Zidane: How do the Real Madrid stars' stats compare?",
-          "url": "https://www.skysports.com/watch/video/13607038/jude-bellingham-how-do-real-madrid-stars-stats-compare-with-the-rest-of-europe",
-          "description": "Sky Sports takes a closer look at how Jude Bellingham's goalscoring stats compare to the legendary Zinedine Zidane and the rest of Europe.",
-          "author": "",
-          "publishedAt": "2026-11-02T11:26:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jude-bellingham-real_7394753.jpg?20261102113030"
         },
         {
           "guid": "",
@@ -322,16 +302,6 @@
           "publishedAt": "2026-11-02T10:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ref-watch-liverpool_7394771.jpg?20261102114110"
-        },
-        {
-          "guid": "",
-          "title": "Deadline looms for FIFA to answer UEFA's 42 questions on Infantino",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T10:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-gianni-infantino_7375643.jpg?20261013084027"
         },
         {
           "guid": "",
@@ -382,6 +352,26 @@
           "publishedAt": "2026-11-01T18:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea flex title-winning credentials but Man City following closely",
+          "url": "https://www.skysports.com/football/news/11095/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-01T17:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7393939.jpg?20261101160800"
+        },
+        {
+          "guid": "",
+          "title": "Why Man Utd fans continue to stick by Carrick",
+          "url": "https://www.skysports.com/football/news/11095/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout",
+          "description": "The last time Manchester United won a league game, schools were closed for the summer and the transfer window was still open.",
+          "author": "",
+          "publishedAt": "2026-11-01T17:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-reporter-notebook_7393916.jpg?20261101154449"
         },
         {
           "guid": "",
