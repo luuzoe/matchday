@@ -1,4 +1,4 @@
-const CACHE_NAME = 'matchday-root-shell-v1';
+const CACHE_NAME = 'matchday-root-shell-v2';
 const SHELL_FILES = [
   './',
   './index.html',

@@ -46,7 +46,7 @@ test('requests fullscreen display with a neutral top-bar theme and caches locali
   assert.deepEqual(manifest.display_override, ['fullscreen', 'standalone', 'minimal-ui']);
   assert.equal(manifest.theme_color, '#f5f6f7');
   assert.match(html, /name="theme-color" content="#f5f6f7"/);
-  assert.match(serviceWorker, /matchday-root-shell-v1/);
+  assert.match(serviceWorker, /matchday-root-shell-v2/);
   assert.match(serviceWorker, /'\.\/i18n\.js'/);
   assert.match(app, /themeColor\.content=state\.theme==='dark'\?'#101214':'#f5f6f7'/);
 });
