@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T18:22:57Z",
+      "fetchedAt": "2026-11-02T18:32:54Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2",
@@ -261,8 +261,28 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T18:22:57Z",
+      "fetchedAt": "2026-11-02T18:32:54Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
+          "title": "Newcastle vs Everton team news LIVE!",
+          "url": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-newcastle_7387516.jpg?20261026081721"
+        },
+        {
+          "guid": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Tottenham latest: Carra highlights where Spurs can improve further",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T18:17:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
         {
           "guid": "",
           "title": "Man Utd beware! Malen is a man transformed at Roma",
