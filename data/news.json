@@ -4,17 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T16:23:31Z",
+      "fetchedAt": "2026-11-02T16:53:31Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0",
-          "title": "'Crazy' Carrick looks forward to Roma game",
+          "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
           "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
           "description": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
           "author": "",
           "publishedAt": "2026-11-02T16:00:07Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eade/live/072c4ea0-d6cd-11f1-93e1-3b657b665bcf.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#0",
@@ -231,13 +231,13 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T16:23:31Z",
+      "fetchedAt": "2026-11-02T16:53:31Z",
       "articles": [
         {
           "guid": "",
           "title": "Merse: Arsenal showed mark of champions at Anfield",
           "url": "https://www.skysports.com/football/news/11095/13607147/paul-merson-arsenal-showed-mark-of-champions-against-liverpool-in-defensive-masterclass-victory-at-anfield",
-          "description": "After Arsenal moved three points clear at the top of the Premier League with a 1-0 win at Liverpool on Super Sunday, Sky Sports pundit Paul Merson says the Gunners' victory showed the sign of champions at Anfield.",
+          "description": "After Arsenal moved three points clear at the top of the Premier League with a 1-0 win at Liverpool on Super Sunday, <em>Sky Sports</em> pundit Paul Merson says the Gunners' victory showed the sign of champions at Anfield.",
           "author": "",
           "publishedAt": "2026-11-02T15:06:00Z",
           "publisher": "Sky Sports",
@@ -252,6 +252,16 @@
           "publishedAt": "2026-11-02T14:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-oliver-glasner-nottingham-forest_7394978.jpg?20261102144336"
+        },
+        {
+          "guid": "",
+          "title": "Euro latest: Gordon thriving under different pressure at Barca but says best yet to come",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T13:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326"
         },
         {
           "guid": "",
@@ -272,16 +282,6 @@
           "publishedAt": "2026-11-02T11:48:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "'It's nailed on!' - Why was Isak NOT awarded penalty against Arsenal?",
-          "url": "https://www.skysports.com/watch/video/13607034/alexander-isak-penalty-appeal-ref-watch-debate-why-liverpool-striker-wasnt-awarded-penalty-against-arsenal",
-          "description": "The Ref Watch panel discuss whether Liverpool should have been awarded a penalty at Anfield against Arsenal, after Jurrien Timber appeared to pull the shirt of Alexander Isak.",
-          "author": "",
-          "publishedAt": "2026-11-02T11:23:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-ref-watch_7394754.jpg?20261102113143"
         },
         {
           "guid": "",
@@ -365,26 +365,6 @@
         },
         {
           "guid": "",
-          "title": "Chelsea flex title-winning credentials but Man City following closely",
-          "url": "https://www.skysports.com/football/news/11095/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-01T17:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7393939.jpg?20261101160800"
-        },
-        {
-          "guid": "",
-          "title": "Why Man Utd fans continue to stick by Carrick",
-          "url": "https://www.skysports.com/football/news/11095/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout",
-          "description": "The last time Manchester United won a league game, schools were closed for the summer and the transfer window was still open.",
-          "author": "",
-          "publishedAt": "2026-11-01T17:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-reporter-notebook_7393916.jpg?20261101154449"
-        },
-        {
-          "guid": "",
           "title": "Neville: Man Utd stuck in a rut - and it's really worrying",
           "url": "https://www.skysports.com/football/news/11095/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side",
           "description": "Gary Neville says Manchester United are stuck in a rut and that a difficult run of fixtures ahead makes for &#8220;really worrying&#8221; times at Old Trafford.",
@@ -395,13 +375,13 @@
         },
         {
           "guid": "",
-          "title": "Palace latest: Under-fire Sage vows to fight on and has 'rage to train more'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
+          "title": "Sutton blames O'Neill for Celtic struggles",
+          "url": "https://www.skysports.com/football/news/11095/13606700/celtic-team-in-regression-under-martin-oneill-and-manager-to-blame-says-chris-sutton",
+          "description": "\"It's a lottery waiting for the Celtic team. Who knows what team Martin is going to pick?\"",
           "author": "",
-          "publishedAt": "2026-10-31T20:48:00Z",
+          "publishedAt": "2026-11-01T15:37:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sutton-celtic-oneill_7393947.jpg?20261101162024"
         },
         {
           "guid": "",
@@ -422,6 +402,16 @@
           "publishedAt": "2026-10-30T13:35:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Championship Talking Points: West Ham need reaction & things look bleak at Wrexham",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-30T09:46:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-efl-championship_7392754.jpg?20261031153513"
         },
         {
           "guid": "",
