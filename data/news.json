@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T14:33:39Z",
+      "fetchedAt": "2026-11-02T15:13:33Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#0",
@@ -44,7 +44,7 @@
           "author": "",
           "publishedAt": "2026-11-02T13:32:20Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d13a/live/557622f0-d6bb-11f1-aacc-5b5f23abff4b.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5c/live/03c10590-d6cc-11f1-ac20-7783925c811f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0",
@@ -225,29 +225,19 @@
           "publishedAt": "2026-11-01T23:00:21Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o#1",
-          "title": "Rice relishing title race 'anxiety' after win at Liverpool",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
-          "description": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
-          "author": "",
-          "publishedAt": "2026-11-01T22:50:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T14:33:40Z",
+      "fetchedAt": "2026-11-02T15:13:34Z",
       "articles": [
         {
           "guid": "",
           "title": "Forest hierarchy welcome Glasner's strong words after Brentford loss",
           "url": "https://www.skysports.com/football/news/11095/13607133/oliver-glasner-nottingham-forest-hierarchy-welcome-strong-reaction-from-head-coach-after-brentford-defeat",
-          "description": "Oliver Glasner’s strong words about his team have been welcomed by many in the Nottingham Forest hierarchy, Sky Sports News understands.",
+          "description": "Oliver Glasner&#8217;s strong words about his team have been welcomed by many in the Nottingham Forest hierarchy, <em>Sky Sports News </em>understands.",
           "author": "",
           "publishedAt": "2026-11-02T14:45:00Z",
           "publisher": "Sky Sports",
@@ -265,6 +255,16 @@
         },
         {
           "guid": "",
+          "title": "Man Utd latest: Carrick dismisses two-game job fears and backs Martinez",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T13:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
+        {
+          "guid": "",
           "title": "Aston Villa latest: Why McGinn should have retaken penalty vs Fulham",
           "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -272,16 +272,6 @@
           "publishedAt": "2026-11-02T11:48:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Carrick confirms Dorgu will not be involved vs Roma LIVE!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T11:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
         },
         {
           "guid": "",
@@ -392,16 +382,6 @@
           "publishedAt": "2026-11-01T18:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea flex title-winning credentials but Man City following closely",
-          "url": "https://www.skysports.com/football/news/11095/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-01T17:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7393939.jpg?20261101160800"
         },
         {
           "guid": "",
