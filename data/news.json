@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T13:03:25Z",
+      "fetchedAt": "2026-11-02T13:24:09Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0",
@@ -124,7 +124,7 @@
           "author": "",
           "publishedAt": "2026-11-02T06:13:37Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ab/live/33e680e0-d3bd-11f1-b441-2b33b063138f.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#2",
@@ -225,33 +225,13 @@
           "publishedAt": "2026-11-01T20:16:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#5",
-          "title": "Are Manchester United really at risk of a relegation scrap?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-          "author": "",
-          "publishedAt": "2026-10-31T23:52:28Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#6",
-          "title": "Are De Zerbi's Spurs finding elusive consistency?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
-          "description": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
-          "author": "",
-          "publishedAt": "2026-10-31T21:16:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T13:03:25Z",
+      "fetchedAt": "2026-11-02T13:24:10Z",
       "articles": [
         {
           "guid": "",
