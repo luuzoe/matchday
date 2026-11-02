@@ -4,11 +4,11 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T18:42:54Z",
+      "fetchedAt": "2026-11-02T19:38:55Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2",
-          "title": "Tenerife player in intensive care with head injury",
+          "title": "Tenerife player in intensive care with injury",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
           "description": "Tenerife striker Jesus de Miguel is in a stable condition in intensive care after suffering a serious injury during a Spanish second division match on Monday.",
           "author": "",
@@ -177,16 +177,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pks27w.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o#16",
-          "title": "'Dundee Utd want permanent Cameron signing' - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o?at_medium=RSS&at_campaign=rss",
-          "description": "Dundee United are reportedly keen to keep Rangers' Lyall Cameron permanently, while Scott McKenna looks certain to miss Scotland's next Nations League games through injury.",
-          "author": "",
-          "publishedAt": "2026-11-02T07:50:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/c06da850-d691-11f1-93e1-3b657b665bcf.png"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo#0",
           "title": "No Grealish, no problem - the rise of Everton's youngsters",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
@@ -215,97 +205,17 @@
           "publishedAt": "2026-11-02T06:13:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#3",
-          "title": "Why Scottish football is struggling to produce young talent",
-          "url": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&at_campaign=rss",
-          "description": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
-          "author": "",
-          "publishedAt": "2026-11-02T06:05:57Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pks2xb#5",
-          "title": "Football Daily",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&at_campaign=rss",
-          "description": "Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.",
-          "author": "",
-          "publishedAt": "2026-11-02T00:59:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo#3",
-          "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
-          "description": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-01T23:00:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#5",
-          "title": "Warnock hid seizures from Liverpool as a youngster",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.",
-          "author": "",
-          "publishedAt": "2026-11-01T20:32:44Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#6",
-          "title": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
-          "description": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
-          "author": "",
-          "publishedAt": "2026-11-01T18:45:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#5",
-          "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
-          "description": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
-          "author": "",
-          "publishedAt": "2026-11-01T18:38:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#3",
-          "title": "Are Celtic club in regression amid run of six defeats in 10?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-          "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-          "author": "",
-          "publishedAt": "2026-11-01T17:34:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#17",
-          "title": "Defeat for London City - but is Europe a real possibility?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-          "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-          "author": "",
-          "publishedAt": "2026-11-01T15:49:47Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T18:42:54Z",
+      "fetchedAt": "2026-11-02T19:38:55Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
-          "title": "Newcastle vs Everton team news LIVE!",
+          "guid": "",
+          "title": "Elanga starts for Newcastle as Branthwaite returns for Everton LIVE!",
           "url": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
           "description": "",
           "author": "",
@@ -314,7 +224,7 @@
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-newcastle_7387516.jpg?20261026081721"
         },
         {
-          "guid": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "guid": "",
           "title": "Tottenham latest: Carra highlights where Spurs can improve further",
           "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -322,6 +232,16 @@
           "publishedAt": "2026-11-02T18:17:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Forest latest: 'Glasner hasn't fully been himself,' says Carragher",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T17:42:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
         },
         {
           "guid": "",
@@ -465,16 +385,6 @@
         },
         {
           "guid": "",
-          "title": "PL Predictions: Can Everton beat unconvincing Newcastle?",
-          "url": "https://www.skysports.com/football/news/11095/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-          "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for an intriguing Monday Night Football.",
-          "author": "",
-          "publishedAt": "2026-11-01T18:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
           "title": "Neville: Man Utd stuck in a rut - and it's really worrying",
           "url": "https://www.skysports.com/football/news/11095/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side",
           "description": "Gary Neville says Manchester United are stuck in a rut and that a difficult run of fixtures ahead makes for &#8220;really worrying&#8221; times at Old Trafford.",
@@ -482,16 +392,6 @@
           "publishedAt": "2026-11-01T16:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-andrey-santos-mason-mount_7386834.jpg?20261025160630"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Lavia tops Premier League chart after impressing vs Man Utd",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-30T13:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
         },
         {
           "guid": "",
@@ -512,16 +412,6 @@
           "publishedAt": "2026-10-29T23:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-        },
-        {
-          "guid": "",
-          "title": "Forest latest: Should be fourth! Underperformance revealed",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-22T12:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
         }
       ]
     }
