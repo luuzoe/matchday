@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T22:12:53Z",
+      "fetchedAt": "2026-11-02T22:22:53Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#0",
@@ -281,8 +281,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T22:12:53Z",
+      "fetchedAt": "2026-11-02T22:22:53Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532",
+          "title": "Sorry Newcastle booed off as Everton earn first away PL win of season",
+          "url": "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532",
+          "description": "Everton deservedly claimed their first away league win of the season as Thierno Barry&#8217;s second-half goal earned a 1-0 victory at a lacklustre Newcastle, who were booed off at half-time and full-time.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-everton-thierno-barry_7395311.jpg?20261102211356"
+        },
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "title": "Man City latest: Allan eyes City breakthrough after earning first Brazil call-up",
