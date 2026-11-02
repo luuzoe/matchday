@@ -241,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T10:22:28Z",
+      "fetchedAt": "2026-11-02T10:52:37.391206195Z",
       "articles": [
         {
           "guid": "",
@@ -442,6 +442,16 @@
           "publishedAt": "2026-10-26T10:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20251201130707"
+        },
+        {
+          "guid": "",
+          "title": "Forest latest: Should be fourth! Underperformance revealed",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-22T11:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
         }
       ]
     }
