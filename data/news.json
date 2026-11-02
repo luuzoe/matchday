@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T15:13:33Z",
+      "fetchedAt": "2026-11-02T16:03:32Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0",
@@ -225,23 +225,13 @@
           "publishedAt": "2026-11-02T00:00:03Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo#2",
-          "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
-          "description": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-01T23:00:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T15:13:34Z",
+      "fetchedAt": "2026-11-02T16:03:32Z",
       "articles": [
         {
           "guid": "",
@@ -422,16 +412,6 @@
           "publishedAt": "2026-10-30T13:35:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
-          "title": "Championship Talking Points: West Ham need reaction & things look bleak at Wrexham",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-30T09:46:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-efl-championship_7392754.jpg?20261031153513"
         },
         {
           "guid": "",
