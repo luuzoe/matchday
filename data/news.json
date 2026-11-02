@@ -7,6 +7,16 @@
       "fetchedAt": "2026-11-02T15:13:33Z",
       "articles": [
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0",
+          "title": "'Crazy' Carrick looks forward to Roma game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+          "description": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
+          "author": "",
+          "publishedAt": "2026-11-02T16:00:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eade/live/072c4ea0-d6cd-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#0",
           "title": "To dive or not to dive? Football's big dilemma",
           "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
@@ -422,6 +432,16 @@
           "publishedAt": "2026-10-30T09:46:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-efl-championship_7392754.jpg?20261031153513"
+        },
+        {
+          "guid": "",
+          "title": "Everton latest: Grealish not in squad for Newcastle trip",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-29T23:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
         },
         {
           "guid": "",
