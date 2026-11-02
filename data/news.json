@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T11:12:42Z",
+      "fetchedAt": "2026-11-02T11:22:37.250633584Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#13",
@@ -75,6 +75,16 @@
           "publishedAt": "2026-11-02T06:24:40Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cm4g1jk8we42o#3",
+          "title": "Non-league clubs tackle teen trouble at matches",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&at_campaign=rss",
+          "description": "Stones thrown at away fans and a kit man punched as some grounds ban unaccompanied under-16s.",
+          "author": "",
+          "publishedAt": "2026-11-02T06:13:37Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ab/live/33e680e0-d3bd-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#2",
@@ -235,6 +245,16 @@
           "publishedAt": "2026-11-01T18:45:49Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo#6",
+          "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
+          "author": "",
+          "publishedAt": "2026-10-31T17:27:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b8/live/ed87fc60-d578-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     },
