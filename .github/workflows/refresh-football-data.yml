@@ -1,36 +1,44 @@
-name: Restore Matchday website
+name: Refresh football feeds
 on:
   push:
     branches: [main]
-    paths: ['.github/workflows/refresh-football-data.yml']
+  schedule:
+    - cron: '4-59/5 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+concurrency:
+  group: matchday-football-feed-refresh
+  cancel-in-progress: false
 jobs:
-  restore:
+  refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out the published site
+        uses: actions/checkout@v4
         with:
           ref: main
-      - name: Restore verified public website source
-        run: |
-          curl --fail --location --retry 3 'https://8911-i4tt294sr5wbr3yoqk1o5-f8f02e22.us2.manus.computer/matchday-source.tar.gz' -o "$RUNNER_TEMP/matchday-source.tar.gz"
-          echo "7f36c4eaf9bdcfdc8124510eb2325c0e48656dfcd3a4527e2586303139290865  $RUNNER_TEMP/matchday-source.tar.gz" | sha256sum --check -
-          tar -xzf "$RUNNER_TEMP/matchday-source.tar.gz" -C "$GITHUB_WORKSPACE"
-      - name: Validate restored website
-        run: |
-          node --test *.test.cjs
-          python3 refresh_espn.test.py
-          python3 update_scores.test.py
-          python3 refresh_news.test.py
-      - name: Publish restored source
+      - name: Cache approved ESPN responses for browser fallback
+        run: python3 refresh_espn.py
+      - name: Refresh approved football RSS feeds
+        continue-on-error: true
+        run: python3 refresh_news.py
+      - name: Fetch changed score data
+        continue-on-error: true
+        run: python3 update_scores.py
+      - name: Publish changed snapshots
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add data
           if ! git diff --cached --quiet; then
-            git commit -m "Restore verified Matchday website"
+            git commit -m "Refresh football feed snapshots"
             git push origin HEAD:main
+          else
+            echo "No published data changes."
           fi
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent || echo "Pages rebuild deferred; the next refresh can retry."
