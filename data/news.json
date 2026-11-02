@@ -4,11 +4,11 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T16:53:31Z",
+      "fetchedAt": "2026-11-02T17:43:27Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#16",
-          "title": "Key questions as Pocognoli names Scotland squad",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#0",
+          "title": "Key questions as Pocognoli prepares to name Scotland squad",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&at_campaign=rss",
           "description": "Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.",
           "author": "",
@@ -127,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b177/live/1aa00750-d6a1-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#2",
           "title": "Falkirk brick wall Bain boosts Scotland chances",
           "url": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&at_campaign=rss",
           "description": "Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.",
@@ -155,6 +155,16 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pks27w.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o#16",
+          "title": "'Dundee Utd want permanent Cameron signing' - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o?at_medium=RSS&at_campaign=rss",
+          "description": "Dundee United are reportedly keen to keep Rangers' Lyall Cameron permanently, while Scott McKenna looks certain to miss Scotland's next Nations League games through injury.",
+          "author": "",
+          "publishedAt": "2026-11-02T07:50:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/c06da850-d691-11f1-93e1-3b657b665bcf.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo#0",
@@ -205,53 +215,33 @@
           "publishedAt": "2026-11-02T00:59:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o#1",
-          "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
-          "author": "",
-          "publishedAt": "2026-11-02T00:00:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro#1",
-          "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
-          "author": "",
-          "publishedAt": "2026-11-02T00:00:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de5/live/bf9d3990-d63c-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#1",
-          "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
-          "author": "",
-          "publishedAt": "2026-11-02T00:00:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T16:53:31Z",
+      "fetchedAt": "2026-11-02T17:43:28Z",
       "articles": [
         {
           "guid": "",
           "title": "Man Utd beware! Malen is a man transformed at Roma",
           "url": "https://www.skysports.com/football/news/11095/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europes-major-leagues-in-2026-with-the-dutchman-transformed",
-          "description": "The top scorer in Europe’s major leagues in 2026 is not Harry Kane or Kylian Mbappe, not Erling Haaland or Lamine Yamal. That honour belongs to Donyell Malen. A revelation at Roma, he makes his return to England against Manchester United on Tuesday night.",
+          "description": "The top scorer in Europe&#8217;s major leagues in 2026 is not Harry Kane or Kylian Mbappe, not Erling Haaland or Lamine Yamal. That honour belongs to Donyell Malen. A revelation at Roma, he makes his return to England against Manchester United on Tuesday night.",
           "author": "",
           "publishedAt": "2026-11-02T17:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-donyell-malen-roma_7394882.jpg?20261102132905"
+        },
+        {
+          "guid": "",
+          "title": "Ronaldo skips trip to Pakhtakor with Al Nassr amid security concerns",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T16:27:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/05/1920x1080/skysports-ronaldo-saudi-pro-league_7246922.jpg?20260512214658"
         },
         {
           "guid": "",
@@ -392,26 +382,6 @@
           "publishedAt": "2026-11-01T16:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-andrey-santos-mason-mount_7386834.jpg?20261025160630"
-        },
-        {
-          "guid": "",
-          "title": "Sutton blames O'Neill for Celtic struggles",
-          "url": "https://www.skysports.com/football/news/11095/13606700/celtic-team-in-regression-under-martin-oneill-and-manager-to-blame-says-chris-sutton",
-          "description": "\"It's a lottery waiting for the Celtic team. Who knows what team Martin is going to pick?\"",
-          "author": "",
-          "publishedAt": "2026-11-01T15:37:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sutton-celtic-oneill_7393947.jpg?20261101162024"
-        },
-        {
-          "guid": "",
-          "title": "Ipswich latest: Enciso sets new Premier League high",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-31T17:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
         },
         {
           "guid": "",
