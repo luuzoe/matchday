@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T22:42:53Z",
+      "fetchedAt": "2026-11-02T22:52:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#0",
+          "title": "Everton hold off Newcastle to move into seventh ",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+          "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:44:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711d/live/e346fbb0-d70e-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o#0",
           "title": "Arsenal want Kroupi in January - Tuesday's gossip",
@@ -277,6 +287,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o#7",
+          "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
+          "description": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+          "author": "",
+          "publishedAt": "2026-11-01T22:50:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#3",
           "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
@@ -285,14 +305,34 @@
           "publishedAt": "2026-11-01T20:15:52Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#1",
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:00:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T22:42:53Z",
+      "fetchedAt": "2026-11-02T22:52:53Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Newcastle latest: Jaissle responds to boos but feels Everton winner shouldn't have stood",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T22:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
+        },
         {
           "guid": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights",
           "title": "Barry goal sees Everton ease past meagre Newcastle",
