@@ -249,7 +249,8 @@ test('does not reload after a failed shell refresh and offers a retry', async ()
   assert.equal(storage.get('matchday-site-version'), 'version-old', 'does not mark a failed update as installed');
 });
 
-test('waits for the football run animation before hiding the boot splash', () => {
+test('keeps the boot splash visible for at least five seconds and waits for the football run', () => {
+  let now = 1000;
   const registered = new Map();
   const timers = new Map();
   let nextTimer = 0;
@@ -274,18 +275,26 @@ test('waits for the football run animation before hiding the boot splash', () =>
     clearTimeout(id) { timers.delete(id); },
   };
   const navigator = { userAgent: 'Test browser', platform: 'Linux', maxTouchPoints: 0 };
+  const FakeDate = class extends Date { static now() { return now; } };
 
-  vm.runInNewContext(pwaSource, { document, window, navigator, console: { warn() {} } }, { filename: 'pwa.js' });
+  vm.runInNewContext(pwaSource, { document, window, navigator, Date: FakeDate, console: { warn() {} } }, { filename: 'pwa.js' });
 
   assert.equal(bootSplash.hidden, false, 'does not dismiss the splash immediately on DOM ready');
   assert.equal(bootSplash.classList.classes.has('is-hiding'), false);
+  assert.ok([...timers.values()].some(timer => timer.milliseconds === 5000), 'sets a five-second minimum-time fallback');
   registered.get('animationend')({ target: bootRun, animationName: 'boot-player-bob' });
   assert.equal(registered.has('animationend'), true, 'keeps listening after bubbled child animations');
-  assert.equal(bootSplash.classList.classes.has('is-hiding'), false, 'ignores unrelated SVG animation events');
+  assert.equal(bootSplash.classList.classes.has('is-hiding'), false, 'ignores unrelated SVG animations');
 
+  now = 3500;
   registered.get('animationend')({ target: bootRun, animationName: 'boot-run-enter' });
-  assert.equal(bootSplash.classList.classes.has('is-hiding'), true, 'starts the splash fade only after the run finishes');
+  assert.equal(bootSplash.classList.classes.has('is-hiding'), false, 'does not dismiss early when the run finishes');
   assert.equal(registered.has('animationend'), false, 'removes the handler after the main animation ends');
+  const minimumWait = [...timers.values()].find(timer => timer.milliseconds === 2500);
+  assert.ok(minimumWait, 'waits out the remaining time until five seconds have elapsed');
+  now = 6000;
+  minimumWait.callback();
+  assert.equal(bootSplash.classList.classes.has('is-hiding'), true, 'starts the splash fade after the five-second minimum');
   assert.equal(bootSplash.hidden, false, 'keeps the splash during its fade');
   const fade = [...timers.values()].find(timer => timer.milliseconds === 300);
   assert.ok(fade, 'schedules the final hide after the fade transition');

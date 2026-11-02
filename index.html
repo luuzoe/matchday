@@ -9,7 +9,6 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Matchday">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="mobile-web-app-capable" content="yes">
 <title>Matchday · Football scores</title>
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="preconnect" href="https://site.api.espn.com" crossorigin>
@@ -17,12 +16,12 @@
 <link rel="preconnect" href="https://matchday-espn-live.mongla-drive.workers.dev" crossorigin>
 <link rel="icon" type="image/png" sizes="192x192" href="./icons/matchday-192.png">
 <link rel="apple-touch-icon" sizes="180x180" href="./icons/matchday-180.png">
-<link rel="stylesheet" href="./styles.css?v=20261102-fullscreen1">
+<link rel="stylesheet" href="./styles.css?v=20261102-splash-refine1">
 <script defer src="./clock.js"></script>
 <script defer src="./i18n.js?v=20261102-bilingual1"></script>
 <script defer src="./news.js?v=20261102-news-burmese1"></script>
 <script defer src="./league.js?v=20261102-leagues1"></script>
-<script defer src="./pwa.js?v=20261102-bootrun2"></script>
+<script defer src="./pwa.js?v=20261102-splash-min5s1"></script>
 <script defer src="./app.js?v=20261102-backlang1"></script>
 </head>
 <body>
@@ -37,6 +36,7 @@
         <path class="boot-ground" d="M18 117H202"/>
         <path class="boot-ground-mark" d="M18 117h28m128 0h28"/>
         <g class="boot-run" id="boot-run">
+          <g transform="translate(16 14) scale(.82)">
           <g class="boot-player">
             <path class="boot-player-limb boot-player-arm-back" d="M73 45c-7 1-12 7-16 13l-10 2-5-5c-3-3-6 0-4 4l4 7c3 4 8 5 13 3l14-6 10-10z"/>
             <path class="boot-player-limb boot-player-leg-back" d="M77 91c-5 5-11 10-16 14-4 3-8 3-12 1l-6-6-6 2c-3 3 0 7 4 10 6 4 13 3 19 0l18-10z"/>
@@ -55,6 +55,7 @@
               <path class="boot-player-hair" d="M83 27c-3-9 2-19 11-22 9-3 18 1 21 9-5-2-8-2-12-4-3 5-10 5-14 11l-2 8z"/>
               <path class="boot-player-face-detail" d="m104 25 5 1-4 2m-7 7 5 1"/>
             </g>
+          </g>
           </g>
           <g class="boot-ball">
             <circle cx="174" cy="112" r="11"/>

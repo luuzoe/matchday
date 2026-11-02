@@ -1,4 +1,4 @@
-const CACHE_NAME = 'matchday-root-shell-v3';
+const CACHE_NAME = 'matchday-root-shell-v4';
 const SHELL_FILES = [
   './',
   './index.html',
@@ -12,8 +12,8 @@ const SHELL_FILES = [
   './manifest.webmanifest',
   './brand-options.html',
   './icons/matchday-180.png',
-  './icons/matchday-192.png',
-  './icons/matchday-512.png',
+  './icons/matchday-circle-192.png',
+  './icons/matchday-circle-512.png',
   './icons/matchday-maskable-512.png',
   './icons/option-a-football-badge.svg',
   './icons/option-b-ball-m.svg',

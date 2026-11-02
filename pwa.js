@@ -25,11 +25,20 @@
   const updateCheckIntervalMs = 5 * 60 * 1000;
   const bootSplash = document.getElementById('boot-splash');
   const bootRun = document.getElementById('boot-run');
+  const bootSplashMinDurationMs = 5000;
+  const bootSplashStartedAt = Date.now();
   let bootSplashTimeout = null;
 
   function dismissBootSplash() {
     if (!bootSplash || bootSplash.hidden) return;
+    const remaining = bootSplashMinDurationMs - (Date.now() - bootSplashStartedAt);
+    if (remaining > 0) {
+      if (bootSplashTimeout !== null) window.clearTimeout(bootSplashTimeout);
+      bootSplashTimeout = window.setTimeout(dismissBootSplash, remaining);
+      return;
+    }
     if (bootSplashTimeout !== null) window.clearTimeout(bootSplashTimeout);
+    bootSplashTimeout = null;
     bootSplash.classList.add('is-hiding');
     window.setTimeout(() => { bootSplash.hidden = true; }, 300);
   }
@@ -43,10 +52,8 @@
         dismissBootSplash();
       };
       bootRun.addEventListener('animationend', finishBootOnAnimationEnd);
-      bootSplashTimeout = window.setTimeout(dismissBootSplash, 4000);
-    } else {
-      bootSplashTimeout = window.setTimeout(dismissBootSplash, 120);
     }
+    bootSplashTimeout = window.setTimeout(dismissBootSplash, bootSplashMinDurationMs);
   }
 
   const ua = navigator.userAgent || '';

@@ -45,9 +45,12 @@ test('keeps native Android system UI visible with a neutral theme and caches loc
   assert.equal(manifest.display, 'standalone');
   assert.deepEqual(manifest.display_override, ['standalone', 'minimal-ui']);
   assert.equal(manifest.theme_color, '#f5f6f7');
+  assert.match(JSON.stringify(manifest.icons), /matchday-circle-512\.png/);
+  assert.doesNotMatch(JSON.stringify(manifest), /fullscreen/);
   assert.match(html, /name="theme-color" content="#f5f6f7"/);
+  assert.doesNotMatch(html, /name="mobile-web-app-capable"/);
   assert.doesNotMatch(html, /class="statusbar"/);
-  assert.match(serviceWorker, /matchday-root-shell-v3/);
+  assert.match(serviceWorker, /matchday-root-shell-v4/);
   assert.match(serviceWorker, /'\.\/i18n\.js'/);
   assert.match(app, /themeColor\.content=state\.theme==='dark'\?'#101214':'#f5f6f7'/);
 });

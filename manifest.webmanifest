@@ -14,22 +14,16 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "./icons/matchday-192.png",
+      "src": "./icons/matchday-circle-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/matchday-512.png",
+      "src": "./icons/matchday-circle-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./icons/matchday-maskable-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }
