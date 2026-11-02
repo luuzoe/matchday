@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T23:22:59Z",
+      "fetchedAt": "2026-11-02T23:32:55Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo#0",
+          "title": "From nightmare debut season to Everton hero - Barry's revival",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
+          "description": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
+          "author": "",
+          "publishedAt": "2026-11-02T23:28:17Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/8799e290-d70a-11f1-81b9-c76bd127a61a.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#0",
           "title": "Grealish can still have Everton future - Moyes",
@@ -317,6 +327,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#5",
+          "title": "Why Scottish football is struggling to produce young talent",
+          "url": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&at_campaign=rss",
+          "description": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
+          "author": "",
+          "publishedAt": "2026-11-02T06:05:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pks2xb#6",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&at_campaign=rss",
@@ -411,7 +431,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T23:22:59Z",
+      "fetchedAt": "2026-11-02T23:32:55Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607310/bournemouth-forward-junior-kroupi-and-juventus-winger-kenan-yildiz-both-in-arsenal-boss-mikel-artetas-sights-ahead-of-january-window-paper-talk",
@@ -432,6 +452,16 @@
           "publishedAt": "2026-11-02T22:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
+        },
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607320/newcastle-are-flat-and-boring-8211-jamie-carragher-warns-magpies-face-tough-premier-league-season-after-everton-defeat",
+          "title": "Carragher: Boring Newcastle face a tough season ahead",
+          "url": "https://www.skysports.com/football/news/11095/13607320/newcastle-are-flat-and-boring-8211-jamie-carragher-warns-magpies-face-tough-premier-league-season-after-everton-defeat",
+          "description": "Jamie Carragher described Newcastle as flat and boring following their defeat to Everton on <em>Monday Night Football</em> and reckons Matthias Jaissle's side faces a difficult season.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-matthias-jaissle_7395383.jpg?20261102224537"
         },
         {
           "guid": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights",
