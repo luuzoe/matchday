@@ -25,6 +25,7 @@ LEAGUES = [
     'bel.1', 'ksa.1', 'sco.1', 'usa.1', 'mex.1', 'uefa.champions', 'uefa.europa', 'uefa.europa.conf'
 ]
 WORKERS = 6
+LEAGUE_DATA_REFRESH_SECONDS = 240
 
 
 def stamp():
@@ -83,7 +84,8 @@ def current_league_data(code, previous):
             ]
             if not any(item['year'] == year for item in seasons):
                 seasons.append({'year': year, 'displayName': str(season['displayName'])})
-            result.update({'seasons': seasons, 'currentSeasonYear': year, 'standings': standings, 'standingsFetchedAt': stamp()})
+            refreshed_at = stamp()
+            result.update({'seasons': seasons, 'currentSeasonYear': year, 'seasonsFetchedAt': refreshed_at, 'standings': standings, 'standingsFetchedAt': refreshed_at})
             result.pop('standingsError', None)
             print(f'League {code}: cached current-season standings and season list after catalogue {type(catalogue_error).__name__}', flush=True)
             return code, result
@@ -99,7 +101,7 @@ def current_league_data(code, previous):
         if not seasons:
             raise ValueError('No season list returned')
         year = max(item['year'] for item in seasons)
-        result.update({'seasons': seasons, 'currentSeasonYear': year})
+        result.update({'seasons': seasons, 'currentSeasonYear': year, 'seasonsFetchedAt': stamp()})
         try:
             standings = get_url(f'{WEB_BASE}/{code}/standings?region=us&lang=en&season={year}')
             returned_year = int((standings.get('season') or {}).get('year') or year)
@@ -125,6 +127,39 @@ def age(payload):
         return float('inf')
 
 
+def timestamp_age(value, now=None):
+    try:
+        refreshed_at = datetime.fromisoformat(str(value).replace('Z', '+00:00'))
+        if refreshed_at.tzinfo is None:
+            refreshed_at = refreshed_at.replace(tzinfo=timezone.utc)
+        return ((now or datetime.now(timezone.utc)) - refreshed_at).total_seconds()
+    except (TypeError, ValueError):
+        return float('inf')
+
+
+def league_data_needs_refresh(payload, now=None):
+    if not isinstance(payload, dict):
+        return True
+    return any(
+        timestamp_age(payload.get(field), now) > LEAGUE_DATA_REFRESH_SECONDS
+        for field in ('seasonsFetchedAt', 'standingsFetchedAt')
+    )
+
+
+def merge_league_refresh(competitions, code, payload):
+    previous = competitions.get(code)
+    if not isinstance(payload, dict):
+        return False
+    refreshed = any(
+        payload.get(field) and payload.get(field) != (previous or {}).get(field)
+        for field in ('seasonsFetchedAt', 'standingsFetchedAt')
+    )
+    if not refreshed:
+        return False
+    competitions[code] = payload
+    return True
+
+
 def main():
     now = datetime.now(timezone.utc)
     team_file = ROOT / 'teams.json'
@@ -147,22 +182,23 @@ def main():
     league_data_path = ROOT / 'league-data.json'
     previous_league_data = read(league_data_path)
     previous_competitions = dict((previous_league_data or {}).get('competitions', {}))
-    missing_competitions = set(LEAGUES) - set(previous_competitions)
-    if not previous_league_data or age(previous_league_data) > 240 or missing_competitions:
+    refresh_competitions = [code for code in LEAGUES if league_data_needs_refresh(previous_competitions.get(code), now)]
+    if refresh_competitions:
         competitions = previous_competitions
+        updated_count = 0
         with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-            jobs = {pool.submit(current_league_data, code, competitions.get(code)): code for code in LEAGUES}
+            jobs = {pool.submit(current_league_data, code, competitions.get(code)): code for code in refresh_competitions}
             for job in as_completed(jobs):
                 code = jobs[job]
                 try:
                     result_code, payload = job.result()
-                    if payload:
-                        competitions[result_code] = payload
+                    updated_count += int(merge_league_refresh(competitions, result_code, payload))
                 except Exception as exc:
                     print(f'League data {code}: preserving previous response ({type(exc).__name__})', flush=True)
-        if competitions:
+        if updated_count:
             write(league_data_path, {'provider': 'ESPN', 'fetchedAt': stamp(), 'competitions': competitions})
-        print(f'League catalogues and current tables cached: {len(competitions)}', flush=True)
+        stale_count = sum(1 for code in refresh_competitions if league_data_needs_refresh(competitions.get(code)))
+        print(f'League catalogues and current tables cached: {len(competitions)}; still stale/unavailable: {stale_count}', flush=True)
     news_path = ROOT / 'news.json'
     previous_news = read(news_path)
     if not previous_news or age(previous_news) > 600:
@@ -254,13 +290,16 @@ def main():
     print(f'ESPN same-origin fallback ready: {completed} summaries refreshed.', flush=True)
     if not team_file.exists() or not any((ROOT / 'scoreboards').glob('*.json')):
         raise RuntimeError('No usable ESPN fallback responses were obtained')
+    stale_leagues = [code for code in LEAGUES if league_data_needs_refresh(previous_competitions.get(code))]
+    if stale_leagues:
+        print(f'ESPN league data remains stale or unavailable for {len(stale_leagues)} competitions: {", ".join(stale_leagues)}', flush=True)
     # Retain recent detail caches for date navigation; remove only very old files.
     cutoff = time.time() - 30 * 86400
     for folder in ['scoreboards', 'summaries']:
         for path in (ROOT / folder).glob('*.json'):
             if path.stat().st_mtime < cutoff:
                 path.unlink()
-    return 0
+    return 1 if stale_leagues else 0
 
 
 if __name__ == '__main__':

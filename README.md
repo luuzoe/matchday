@@ -24,4 +24,4 @@ Then open `http://localhost:8080/`.
 
 ## Data refresh
 
-A GitHub Actions workflow refreshes the public ESPN snapshots and score data every five minutes and on code pushes. The site uses GitHub Pages from the `main` branch root. No paid hosting or Cloudflare service is enabled by this repository.
+A GitHub Actions workflow refreshes public ESPN snapshots and monitors known score groups every five minutes; the full current-season fixture list is resynchronized every ten minutes so newly listed fixtures are discovered. League caches track freshness independently, preserving prior data when an individual ESPN feed fails. Successful snapshots can still publish when another source fails, but the workflow run is marked failed so the issue is visible. The site uses GitHub Pages from the `main` branch root. No paid hosting or Cloudflare service is enabled by this repository.

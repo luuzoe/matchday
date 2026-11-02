@@ -34,6 +34,7 @@ PAST_PUBLISH_DAYS = 7
 FUTURE_PUBLISH_DAYS = 14
 MONITOR_PAST_DAYS = 4
 MONITOR_FUTURE_DAYS = 4
+FULL_SYNC_INTERVAL = timedelta(minutes=10)
 RETRYABLE = {429, 500, 502, 503, 504}
 
 
@@ -254,6 +255,27 @@ def read_existing() -> dict | None:
         return None
 
 
+def full_sync_due(previous: dict | None, current_ids: list[tuple], year: int, now: datetime) -> bool:
+    if not previous or previous.get("schemaVersion", 0) < 2 or previous.get("season") != year:
+        return True
+    previous_comps = previous.get("competitions", [])
+    previous_ids = [(c.get("id"), c.get("shortcut"), c.get("season")) for c in previous_comps]
+    if previous_ids != current_ids:
+        return True
+    if any(not isinstance(c.get("playerStats"), dict) or not c.get("playerStatsUpdatedAt") for c in previous_comps):
+        return True
+    last_sync = previous.get("fullSyncAt")
+    if not last_sync:
+        return True
+    try:
+        last_sync_at = datetime.fromisoformat(str(last_sync).replace("Z", "+00:00"))
+    except (TypeError, ValueError):
+        return True
+    if last_sync_at.tzinfo is None:
+        last_sync_at = last_sync_at.replace(tzinfo=timezone.utc)
+    return now - last_sync_at >= FULL_SYNC_INTERVAL
+
+
 def write_snapshot(snapshot: dict) -> None:
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     tmp = DATA_FILE.with_suffix(".json.tmp")
@@ -271,10 +293,8 @@ def main() -> int:
 
     previous = read_existing()
     previous_comps = previous.get("competitions", []) if previous else []
-    previous_ids = [(c.get("id"), c.get("shortcut"), c.get("season")) for c in previous_comps]
     current_ids = [(c["id"], c["shortcut"], c["season"]) for c in competitions]
-    missing_player_stats = any(not isinstance(c.get("playerStats"), dict) or not c.get("playerStatsUpdatedAt") for c in previous_comps)
-    full_refresh = (not previous or previous.get("schemaVersion", 0) < 2 or previous.get("season") != year or previous_ids != current_ids or previous.get("fullSyncDate") != today or missing_player_stats)
+    full_refresh = full_sync_due(previous, current_ids, year, now)
 
     markers = dict(previous.get("changeMarkers", {})) if previous else {}
     old_by_id = {int(c["id"]): c for c in previous_comps}
@@ -296,6 +316,7 @@ def main() -> int:
         competitions_data = updated_comps
         changed = True
         full_sync_date = today
+        full_sync_at = utc_iso(now)
     else:
         competitions_data = []
         changed = False
@@ -330,6 +351,7 @@ def main() -> int:
             matches = [m for m in matches if in_publish_window(m, now)]
             competitions_data.append({**comp, "matches": matches, "standings": old.get("standings", []), "standingsUpdatedAt": old.get("standingsUpdatedAt"), "standingsStatus": old.get("standingsStatus", "unavailable"), "playerStats": old.get("playerStats", {"provider": "OpenLigaDB", "license": "ODbL-1.0", "category": "named non-own-goal records", "coverage": {}, "players": []}), "playerStatsUpdatedAt": old.get("playerStatsUpdatedAt"), "playerStatsStatus": old.get("playerStatsStatus", "unavailable")})
         full_sync_date = previous.get("fullSyncDate", today)
+        full_sync_at = previous.get("fullSyncAt")
 
     if not changed:
         print("No source changes; leaving the public snapshot untouched.")
@@ -343,6 +365,7 @@ def main() -> int:
         "season": year,
         "snapshotUpdatedAt": utc_iso(now),
         "fullSyncDate": full_sync_date,
+        "fullSyncAt": full_sync_at,
         "refreshTargetMinutes": 5,
         "coverageNote": "Community-maintained coverage; scores and event records may be delayed, incomplete, or absent.",
         "competitions": competitions_data,

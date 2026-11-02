@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import importlib.util
 import unittest
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 MODULE_PATH = Path(__file__).with_name("update_scores.py")
@@ -38,6 +39,31 @@ class PlayerScorerStatsTests(unittest.TestCase):
         self.assertEqual(result["players"], [])
         self.assertEqual(result["coverage"]["goalEventsInSourceResponse"], 2)
         self.assertEqual(result["coverage"]["goalEventsNotCounted"], 2)
+
+
+class FullSyncTests(unittest.TestCase):
+    def setUp(self):
+        self.now = datetime(2026, 11, 2, 11, 0, tzinfo=timezone.utc)
+        self.comp = {"id": 1, "shortcut": "pl", "season": 2026, "playerStats": {"players": []}, "playerStatsUpdatedAt": "2026-11-02T11:00:00Z"}
+        self.previous = {
+            "schemaVersion": 2,
+            "season": 2026,
+            "competitions": [self.comp],
+            "fullSyncAt": "2026-11-02T11:00:00Z",
+        }
+        self.current_ids = [(1, "pl", 2026)]
+
+    def test_full_sync_becomes_due_after_ten_minutes(self):
+        self.assertFalse(module.full_sync_due(self.previous, self.current_ids, 2026, self.now + timedelta(minutes=9)))
+        self.assertTrue(module.full_sync_due(self.previous, self.current_ids, 2026, self.now + timedelta(minutes=10)))
+
+    def test_missing_sync_timestamp_forces_full_refresh(self):
+        self.previous.pop("fullSyncAt")
+        self.assertTrue(module.full_sync_due(self.previous, self.current_ids, 2026, self.now))
+
+    def test_competition_or_season_change_forces_full_refresh(self):
+        self.assertTrue(module.full_sync_due(self.previous, [(2, "la1", 2026)], 2026, self.now))
+        self.assertTrue(module.full_sync_due(self.previous, self.current_ids, 2027, self.now))
 
 
 if __name__ == "__main__":

@@ -21,11 +21,15 @@ jobs:
         with:
           ref: main
       - name: Cache approved ESPN responses for browser fallback
+        id: refresh_espn
+        continue-on-error: true
         run: python3 refresh_espn.py
       - name: Refresh approved football RSS feeds
+        id: refresh_news
         continue-on-error: true
         run: python3 refresh_news.py
       - name: Fetch changed score data
+        id: refresh_scores
         continue-on-error: true
         run: python3 update_scores.py
       - name: Publish changed snapshots
@@ -42,3 +46,24 @@ jobs:
             echo "No published data changes."
           fi
           gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent || echo "Pages rebuild deferred; the next refresh can retry."
+      - name: Surface data refresh failures
+        if: always()
+        env:
+          ESPN_OUTCOME: ${{ steps.refresh_espn.outcome }}
+          NEWS_OUTCOME: ${{ steps.refresh_news.outcome }}
+          SCORES_OUTCOME: ${{ steps.refresh_scores.outcome }}
+        run: |
+          failed=0
+          if [ "$ESPN_OUTCOME" != "success" ]; then
+            echo "::error::ESPN refresh did not complete cleanly (outcome: $ESPN_OUTCOME)."
+            failed=1
+          fi
+          if [ "$NEWS_OUTCOME" != "success" ]; then
+            echo "::error::Football news refresh did not complete cleanly (outcome: $NEWS_OUTCOME)."
+            failed=1
+          fi
+          if [ "$SCORES_OUTCOME" != "success" ]; then
+            echo "::error::OpenLigaDB score refresh did not complete cleanly (outcome: $SCORES_OUTCOME)."
+            failed=1
+          fi
+          exit "$failed"
