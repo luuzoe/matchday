@@ -7,6 +7,16 @@
       "fetchedAt": "2026-11-02T13:43:30Z",
       "articles": [
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#0",
+          "title": "Hellberg unsure of 'brilliant' Lankshear's England chances",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
+          "description": "Head coach Kim Hellberg hails Will Lankshear a \"brilliant lad\" as the goals keep coming, raising questions of a possible England call-up.",
+          "author": "",
+          "publishedAt": "2026-11-02T13:36:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo#0",
           "title": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
@@ -225,6 +235,26 @@
           "publishedAt": "2026-11-01T20:32:44Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#2",
+          "title": "Are Celtic club in regression amid run of six defeats in 10?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
+          "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+          "author": "",
+          "publishedAt": "2026-11-01T17:34:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#6",
+          "title": "Retired Sheff Utd legend Sharp signs for Rushden",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.",
+          "author": "",
+          "publishedAt": "2026-11-01T16:51:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"
         }
       ]
     },
