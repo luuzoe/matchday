@@ -41,12 +41,13 @@ test('offers a persisted Burmese/English selector and preserves source article c
   assert.doesNotMatch(i18n, /[А-Яа-яЁё]/);
 });
 
-test('requests fullscreen display with a neutral top-bar theme and caches localization offline', () => {
-  assert.equal(manifest.display, 'fullscreen');
-  assert.deepEqual(manifest.display_override, ['fullscreen', 'standalone', 'minimal-ui']);
+test('keeps native Android system UI visible with a neutral theme and caches localization offline', () => {
+  assert.equal(manifest.display, 'standalone');
+  assert.deepEqual(manifest.display_override, ['standalone', 'minimal-ui']);
   assert.equal(manifest.theme_color, '#f5f6f7');
   assert.match(html, /name="theme-color" content="#f5f6f7"/);
-  assert.match(serviceWorker, /matchday-root-shell-v2/);
+  assert.doesNotMatch(html, /class="statusbar"/);
+  assert.match(serviceWorker, /matchday-root-shell-v3/);
   assert.match(serviceWorker, /'\.\/i18n\.js'/);
   assert.match(app, /themeColor\.content=state\.theme==='dark'\?'#101214':'#f5f6f7'/);
 });
