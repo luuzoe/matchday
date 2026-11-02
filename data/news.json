@@ -311,8 +311,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T11:42:37Z",
+      "fetchedAt": "2026-11-02T12:02:37.41309414Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Aston Villa latest: Why McGinn should have retaken penalty vs Fulham",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T11:48:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+        },
         {
           "guid": "",
           "title": "'It's nailed on!' - Why was Isak NOT awarded penalty against Arsenal?",
