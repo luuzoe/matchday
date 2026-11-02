@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T21:53:05Z",
+      "fetchedAt": "2026-11-02T22:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#0",
+          "title": "Who produced the kind of performance Moyes loves? - player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United and Everton's players rated following their Premier League match.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:08:43Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4849/live/5bf82cd0-d707-11f1-ac17-5d3d5470aaba.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o#0",
           "title": "Kane would swap Ballon d'Or for Champions League victory",
@@ -35,6 +45,16 @@
           "publishedAt": "2026-11-02T20:00:08Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cw62ye7y6v57o#16",
+          "title": "Police attacked with fireworks and bottles ahead of cup semi-final",
+          "url": "https://www.bbc.co.uk/news/articles/cw62ye7y6v57o?at_medium=RSS&at_campaign=rss",
+          "description": "The disorder happened on Curtis Avenue ahead of the Rangers v Aberdeen match at Hampden on Saturday. ",
+          "author": "",
+          "publishedAt": "2026-11-02T18:31:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6508/live/64421d80-d6e7-11f1-a741-236ee91c2e25.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2",
@@ -261,7 +281,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T21:53:05Z",
+      "fetchedAt": "2026-11-02T22:12:53Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
