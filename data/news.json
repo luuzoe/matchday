@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T22:22:53Z",
+      "fetchedAt": "2026-11-02T22:42:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o#0",
+          "title": "Arsenal want Kroupi in January - Tuesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:24:56Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/5575bbe0-d70a-11f1-81b9-c76bd127a61a.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#0",
           "title": "Who produced the kind of performance Moyes loves? - player ratings",
@@ -281,8 +291,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T22:22:53Z",
+      "fetchedAt": "2026-11-02T22:42:53Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights",
+          "title": "Barry goal sees Everton ease past meagre Newcastle",
+          "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights",
+          "description": "Highlights of the Premier League match between Newcastle and Everton.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:18:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-newcastle-everton_7395353.jpg?20261102220519"
+        },
         {
           "guid": "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532",
           "title": "Sorry Newcastle booed off as Everton earn first away PL win of season",
