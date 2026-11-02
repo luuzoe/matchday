@@ -1,569 +1,439 @@
 {
-  "provider": "BBC Sport",
-  "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-  "fetchedAt": "2026-11-02T07:52:36.980402023Z",
-  "articles": [
+  "provider": "Football news feeds",
+  "feeds": [
     {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o#16",
-      "title": "'Dundee Utd want permenent Cameron signing' - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o?at_medium=RSS&at_campaign=rss",
-      "description": "Dundee United are reportedly keen to keep Rangers' Lyall Cameron permanently, while Scott McKenna looks certain to miss Scotland's next Nations League games through injury.",
-      "publishedAt": "2026-11-02T07:50:54Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/c06da850-d691-11f1-93e1-3b657b665bcf.png"
+      "title": "BBC Sport",
+      "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
+      "fetchedAt": "2026-11-02T09:19:49Z",
+      "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#0",
+          "title": "Falkirk brick wall Bain boosts Scotland chances",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&at_campaign=rss",
+          "description": "Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.",
+          "author": "",
+          "publishedAt": "2026-11-02T08:22:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c8ly0qw3nee9o#7",
+          "title": "Watch: Best of Scottish Championship & Leagues 1 & 2 action",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8ly0qw3nee9o?at_medium=RSS&at_campaign=rss",
+          "description": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+          "author": "",
+          "publishedAt": "2026-11-02T08:01:32Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4a/live/e4f14f40-cba8-11f1-9ee2-f74dfb8e54e5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pks275#16",
+          "title": "Listen: Derby delight for Hibs, fresh questions for Celtic",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pks275?at_medium=RSS&at_campaign=rss",
+          "description": "A huge weekend of League Cup drama and a significant twist in the Premiership title race.",
+          "author": "",
+          "publishedAt": "2026-11-02T08:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pks27w.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o#16",
+          "title": "'Dundee Utd want permanent Cameron signing' - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmgqwj54vjg1o?at_medium=RSS&at_campaign=rss",
+          "description": "Dundee United are reportedly keen to keep Rangers' Lyall Cameron permanently, while Scott McKenna looks certain to miss Scotland's next Nations League games through injury.",
+          "author": "",
+          "publishedAt": "2026-11-02T07:50:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/c06da850-d691-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo#0",
+          "title": "No Grealish, no cry - the rise of Everton's youngsters",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season.",
+          "author": "",
+          "publishedAt": "2026-11-02T07:19:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4d/live/e7135150-d46e-11f1-9dda-1ba6fcc7d159.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo#2",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-02T06:24:40Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#2",
+          "title": "The pathway promise: Why Scottish football is struggling to produce young talent",
+          "url": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&at_campaign=rss",
+          "description": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
+          "author": "",
+          "publishedAt": "2026-11-02T06:05:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pks2xb#3",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&at_campaign=rss",
+          "description": "Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.",
+          "author": "",
+          "publishedAt": "2026-11-02T00:59:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o#1",
+          "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
+          "author": "",
+          "publishedAt": "2026-11-02T00:00:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro#1",
+          "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
+          "author": "",
+          "publishedAt": "2026-11-02T00:00:11Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de5/live/bf9d3990-d63c-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#1",
+          "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+          "author": "",
+          "publishedAt": "2026-11-02T00:00:03Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo#0",
+          "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
+          "description": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-01T23:00:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o#1",
+          "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
+          "description": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+          "author": "",
+          "publishedAt": "2026-11-01T22:50:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#0",
+          "title": "I'll tell my players to dive in future - Iraola",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
+          "description": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
+          "author": "",
+          "publishedAt": "2026-11-01T21:00:26Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#2",
+          "title": "Warnock hid seizures from Liverpool as a youngster",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:32:44Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#0",
+          "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:16:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#0",
+          "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
+          "description": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:15:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#0",
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:00:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/iplayer/episode/m0033wbj#16",
+          "title": "Watch: Falkirk v Celtic highlights on Sportscene",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0033wbj?at_medium=RSS&at_campaign=rss",
+          "description": "Extended highlights of Falkirk v Celtic, and a look back at Saturday's action.",
+          "author": "",
+          "publishedAt": "2026-11-01T19:45:11Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo#1",
+          "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a penalty.",
+          "author": "",
+          "publishedAt": "2026-11-01T19:37:44Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f434/live/50cc1ac0-d62a-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo#7",
+          "title": "Arteta credits Fleetwood loss for spirited win at Anfield",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
+          "author": "",
+          "publishedAt": "2026-11-01T19:21:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/469c/live/6fee0580-d625-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#0",
+          "title": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
+          "description": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:45:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
+        }
+      ]
     },
     {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo#0",
-      "title": "No Grealish, no cry - the rise of Everton's youngsters",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season.",
-      "publishedAt": "2026-11-02T07:19:35Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4d/live/e7135150-d46e-11f1-9dda-1ba6fcc7d159.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo#0",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30erg1d2rjo?at_medium=RSS&at_campaign=rss",
-      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "publishedAt": "2026-11-02T06:24:40Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#16",
-      "title": "The pathway promise: Why Scottish football is struggling to produce young talent",
-      "url": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&at_campaign=rss",
-      "description": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
-      "publishedAt": "2026-11-02T06:05:57Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pks2xb#2",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&at_campaign=rss",
-      "description": "Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.",
-      "publishedAt": "2026-11-02T00:59:00Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o#1",
-      "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
-      "publishedAt": "2026-11-02T00:00:21Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro#1",
-      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
-      "publishedAt": "2026-11-02T00:00:11Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de5/live/bf9d3990-d63c-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#1",
-      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by. ",
-      "publishedAt": "2026-11-02T00:00:03Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "id:https://www.bbc.co.uk/iplayer/live/bbcone#0",
-      "title": "Watch: Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "description": "Highlights of Sunday’s only Premier League game as Liverpool take on champions Arsenal.",
-      "publishedAt": "2026-11-01T23:12:25Z",
-      "publisher": "BBC Sport"
-    },
-    {
-      "guid": "id:https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo#0",
-      "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
-      "description": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
-      "publishedAt": "2026-11-01T23:00:21Z",
-      "publisher": "BBC Sport"
-    },
-    {
-      "guid": "id:https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o#1",
-      "title": "Rice relishing title race 'anxiety' after win at Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
-      "description": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
-      "publishedAt": "2026-11-01T22:50:05Z",
-      "publisher": "BBC Sport"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#0",
-      "title": "I'll tell my players to dive in future - Iraola",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
-      "description": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
-      "publishedAt": "2026-11-01T21:00:26Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6f/live/4e8ffeb0-d630-11f1-81be-7db9d1d08850.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#2",
-      "title": "Warnock hid seizures from Liverpool as a youngster",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&at_campaign=rss",
-      "description": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.",
-      "publishedAt": "2026-11-01T20:32:44Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/iplayer/episode/l00590gw#0",
-      "title": "Watch: Bundesliga highlights - matchday eight",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l00590gw?at_medium=RSS&at_campaign=rss",
-      "description": "Watch highlights from matchday eight in the Bundesliga.",
-      "publishedAt": "2026-11-01T20:18:38Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o#0",
-      "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making ",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
-      "description": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
-      "publishedAt": "2026-11-01T20:16:46Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#0",
-      "title": "Boy, 14, hands himself into police over Bradley Lowery video",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
-      "description": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
-      "publishedAt": "2026-11-01T20:15:52Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#0",
-      "title": "Arsenal move clear at the top with a rare win at Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
-      "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
-      "publishedAt": "2026-11-01T20:00:18Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/iplayer/live/bbcscotland#17",
-      "title": "Watch: Falkirk v Celtic highlights on Sportscene",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
-      "description": "Extended highlights of Falkirk v Celtic, and a look back at Saturday's action.",
-      "publishedAt": "2026-11-01T19:45:14Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m0033wbj#17",
-      "title": "Watch: Falkirk v Celtic highlights on Sportscene",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0033wbj?at_medium=RSS&at_campaign=rss",
-      "description": "Extended highlights of Falkirk v Celtic, and a look back at Saturday's action.",
-      "publishedAt": "2026-11-01T19:45:14Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo#1",
-      "title": "Arteta credits Fleetwood loss for spirited win at Anfield",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo?at_medium=RSS&at_campaign=rss",
-      "description": "Arsenal manager Mikel Arteta believes their loss in the League Cup to Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
-      "publishedAt": "2026-11-01T19:21:49Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/469c/live/6fee0580-d625-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo#17",
-      "title": "Giant curiosity Hibs finally liberated from the sucker punch ",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
-      "description": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
-      "publishedAt": "2026-11-01T18:45:49Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o#0",
-      "title": "Rice brings energy, Alisson costs hosts - Liverpool and Arsenal player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
-      "description": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
-      "publishedAt": "2026-11-01T18:38:45Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381b/live/0f9c8e70-d61d-11f1-905f-4bb31135b4e2.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o#1",
-      "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss",
-      "description": "Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0 win against Racing Santander, moving only three points behind Barcelona at the top of La Liga.",
-      "publishedAt": "2026-11-01T18:37:48Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9010/live/2011c5a0-d61c-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o#1",
-      "title": "Clinical Man City edge past London City in WSL thriller",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.",
-      "publishedAt": "2026-11-01T17:54:43Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4858/live/af032900-d600-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c678pe84l97go#4",
-      "title": "Russo rescues late point for Arsenal against Villa",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c678pe84l97go?at_medium=RSS&at_campaign=rss",
-      "description": "Chastity Grant's first-half strike for Aston Villa is cancelled out by a late header from Alessia Russo, as Arsenal record another draw at home in a frustrating afternoon.",
-      "publishedAt": "2026-11-01T17:54:40Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e39/live/9912a9f0-d5ff-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#17",
-      "title": "Are Celtic club in regression amid run of six defeats in 10?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-      "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-      "publishedAt": "2026-11-01T17:34:12Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo#4",
-      "title": "Chelsea put six past Charlton to top WSL table",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&at_campaign=rss",
-      "description": "Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.",
-      "publishedAt": "2026-11-01T17:10:45Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d0/live/8ca24210-d614-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo#2",
-      "title": "Retired Sheff Utd legend Sharp signs for Rushden",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&at_campaign=rss",
-      "description": "Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.",
-      "publishedAt": "2026-11-01T16:51:07Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f1/live/61412250-d612-11f1-90fb-b3468681b3ba.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#0",
-      "title": "Defeat for London City - but is Europe a real possibility?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-      "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-      "author": "",
-      "publishedAt": "2026-11-01T15:49:47Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#18",
-      "title": "Defeat for London City - but is Europe a real possibility?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-      "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-      "author": "",
-      "publishedAt": "2026-11-01T15:49:47Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o#0",
-      "title": "Spence 'very proud' to break WSL appearance record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o?at_medium=RSS&at_campaign=rss",
-      "description": "Tottenham midfielder Drew Spence says it is a \"very proud moment\" to become the Women's Super League's all-time appearance record holder.",
-      "author": "",
-      "publishedAt": "2026-11-01T15:18:43Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ef/live/b83d8390-d203-11f1-b3b6-c1e79e957e40.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o#18",
-      "title": "Spence 'very proud' to break WSL appearance record",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o?at_medium=RSS&at_campaign=rss",
-      "description": "Tottenham midfielder Drew Spence says it is a \"very proud moment\" to become the Women's Super League's all-time appearance record holder.",
-      "author": "",
-      "publishedAt": "2026-11-01T15:18:43Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ef/live/b83d8390-d203-11f1-b3b6-c1e79e957e40.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/iplayer/episodes/m002jryr/sportscene-premiership-highlights#17",
-      "title": "Watch Saturday's Sportscene highlights on iPlayer",
-      "url": "https://www.bbc.co.uk/iplayer/episodes/m002jryr/sportscene-premiership-highlights?at_medium=RSS&at_campaign=rss",
-      "description": "With action from Kilmarnock v St Johnstone and Motherwell v St Mirren",
-      "author": "",
-      "publishedAt": "2026-11-01T13:00:00Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo#3",
-      "title": "Wednesday appoint former Stockport boss Challinor",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&at_campaign=rss",
-      "description": "Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.",
-      "author": "",
-      "publishedAt": "2026-11-01T11:15:42Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe4b/live/5cc02ee0-d5e2-11f1-8fc6-43c59756914a.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo#11",
-      "title": "Manager ins and outs - 2026-27",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "author": "",
-      "publishedAt": "2026-11-01T11:11:40Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f91/live/e6c88cc0-d139-11f1-be77-d1864d279cb0.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o#2",
-      "title": "Kilmarnock 'need support more than ever' but patience wearing thin",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o?at_medium=RSS&at_campaign=rss",
-      "description": "Kilmarnock climb out of bottom spot, but failure to beat 10 men at home adds to gloom at Rugby Park.",
-      "author": "",
-      "publishedAt": "2026-11-01T10:41:28Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1be/live/48da30d0-d568-11f1-910b-9bd7c745c627.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o#17",
-      "title": "Kilmarnock 'need support more than ever' but patience wearing thin",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o?at_medium=RSS&at_campaign=rss",
-      "description": "Kilmarnock climb out of bottom spot, but failure to beat 10 men at home adds to gloom at Rugby Park.",
-      "author": "",
-      "publishedAt": "2026-11-01T10:41:28Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1be/live/48da30d0-d568-11f1-910b-9bd7c745c627.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cm20vy1kwynko#17",
-      "title": "O'Neill insists frozen-out midfielder can still have Celtic future - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm20vy1kwynko?at_medium=RSS&at_campaign=rss",
-      "description": "Martin O'Neill insists frozen-out midfielder can still have a Celtic future, plus more Scottish football gossip.",
-      "author": "",
-      "publishedAt": "2026-11-01T10:22:22Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8829/live/10ed2c90-407b-11f1-bd52-e755d604ece4.png"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o#2",
-      "title": "Third choice? Inside Alexander-Arnold's struggles in Madrid",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&at_campaign=rss",
-      "description": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
-      "author": "",
-      "publishedAt": "2026-11-01T07:42:08Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo#0",
-      "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
-      "description": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
-      "author": "",
-      "publishedAt": "2026-11-01T07:38:15Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo?at_medium=RSS&at_campaign=rss",
-      "title": "Who am I? Guess WSL star No 10",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgyqrw90nxo?at_medium=RSS&at_campaign=rss",
-      "description": "Work out the identity of today's player in as few attempts as possible.",
-      "author": "",
-      "publishedAt": "2026-11-01T06:56:19Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o#2",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ezj09e9k6o?at_medium=RSS&at_campaign=rss",
-      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "author": "",
-      "publishedAt": "2026-11-01T06:54:38Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cmewe7ee1djzo#6",
-      "title": "Fishlock out to keep career alive in NWSL play-offs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmewe7ee1djzo?at_medium=RSS&at_campaign=rss",
-      "description": "On Sunday, 1 November, Jess Fishlock takes to the pitch for Seattle Reign against Orlando Pride, not knowing if it will be her final match.",
-      "author": "",
-      "publishedAt": "2026-11-01T05:15:00Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a352/live/0473ba50-d488-11f1-80bc-6d398902272f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo#4",
-      "title": "How 'brave & balanced' Brighton beat Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo?at_medium=RSS&at_campaign=rss",
-      "description": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.",
-      "author": "",
-      "publishedAt": "2026-10-31T23:59:24Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7688/live/aebb6ee0-d582-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo#4",
-      "title": "Has Martinez become a liability for Man Utd?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
-      "description": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
-      "author": "",
-      "publishedAt": "2026-10-31T23:59:22Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541c/live/8561b7e0-d580-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#0",
-      "title": "Are Manchester United really at risk of a relegation scrap?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-      "author": "",
-      "publishedAt": "2026-10-31T23:52:28Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro#6",
-      "title": "Coventry, Ipswich, Hull - promoted trio enjoy positive starts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro?at_medium=RSS&at_campaign=rss",
-      "description": "The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
-      "author": "",
-      "publishedAt": "2026-10-31T23:08:07Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba92/live/63ab8750-d57d-11f1-a701-fddedf244c16.png"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o#4",
-      "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o?at_medium=RSS&at_campaign=rss",
-      "description": "Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
-      "author": "",
-      "publishedAt": "2026-10-31T23:05:55Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f367/live/6d027830-d57e-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c83vqypr511po#17",
-      "title": "McInnes demands more after delivering Rangers' trophy chance",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c83vqypr511po?at_medium=RSS&at_campaign=rss",
-      "description": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
-      "author": "",
-      "publishedAt": "2026-10-31T22:40:38Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c1/live/ce1cbe80-d57b-11f1-ab63-077ce6c8a12a.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o#1",
-      "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
-      "description": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
-      "author": "",
-      "publishedAt": "2026-10-31T22:30:16Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/c15e4960-d55e-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo#1",
-      "title": "Brighton pick up first away league victory over Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
-      "description": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-      "author": "",
-      "publishedAt": "2026-10-31T22:30:05Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo#1",
-      "title": "Coventry out of bottom three with win over struggling Sunderland",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
-      "description": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-      "author": "",
-      "publishedAt": "2026-10-31T22:29:50Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6971/live/776ab830-d562-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o#1",
-      "title": "Enciso's stunning goal earns Ipswich draw at Hull",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o?at_medium=RSS&at_campaign=rss",
-      "description": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the MKM Stadium.",
-      "author": "",
-      "publishedAt": "2026-10-31T22:29:40Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4cb/live/4de6b580-d563-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o#4",
-      "title": "Spurs revival continues with victory over 10-man Crystal Palace",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o?at_medium=RSS&at_campaign=rss",
-      "description": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.",
-      "publishedAt": "2026-10-31T22:29:29Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9230/live/038f60d0-d564-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo#4",
-      "title": "Evanilson scores again as Bournemouth beat Leeds",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&at_campaign=rss",
-      "description": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.",
-      "publishedAt": "2026-10-31T22:29:21Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae1/live/c3c33b70-d55e-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo#4",
-      "title": "Thiago on target as Brentford beat Forest",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss",
-      "description": "Igor Thiago's second-half goal helps Brentford to their first win in five as they beat Nottingham Forest 2-0 at the Gtech Community Stadium. ",
-      "publishedAt": "2026-10-31T22:29:11Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0170/live/c24a4850-d564-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o#4",
-      "title": "Suzuki mistake gifts Fulham point at Villa",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o?at_medium=RSS&at_campaign=rss",
-      "description": "Aston Villa goalkeeper Zion Suzuki's second-half mistake sees Fulham secure a 1-1 draw at Villa Park after Nicolas Jackson had given the hosts the lead. \n\n\n",
-      "publishedAt": "2026-10-31T22:29:02Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo#6",
-      "title": "Man Utd enquire about Toney - Sunday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United enquire about Ivan Toney's availability, Barcelona are tracking Chelsea winger Estevao Willian, Jean-Philippe Mateta is set to leave Crystal Palace in January, plus more.",
-      "publishedAt": "2026-10-31T22:14:36Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc19/live/848cd980-d571-11f1-858c-9b90cf3a2059.png"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#2",
-      "title": "Are De Zerbi's Spurs finding elusive consistency?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
-      "description": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
-      "publishedAt": "2026-10-31T21:16:11Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo#3",
-      "title": "Verbruggen spreads belief as impressive Brighton beat Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo?at_medium=RSS&at_campaign=rss",
-      "description": "Goalkeeper Bart Verbruggen was the man of the moment on Saturday afternoon as he produced an impressive individual display to help Brighton beat Manchester City",
-      "publishedAt": "2026-10-31T20:36:26Z",
-      "publisher": "BBC Sport",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/3b22ede0-d579-11f1-a701-fddedf244c16.jpg"
+      "title": "Sky Sports",
+      "feedUrl": "https://www.skysports.com/rss/11095",
+      "fetchedAt": "2026-11-02T09:19:49Z",
+      "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd latest: Relegation certainly possible, says former boss Ten Hag",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T07:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
+        {
+          "guid": "",
+          "title": "Defensive 'masterclass' and elite Rice - how Arsenal ended Anfield torment",
+          "url": "https://www.skysports.com/football/news/11095/13606815/arsenals-defensive-masterclass-praised-in-liverpool-win-as-jamie-carragher-salutes-world-class-declan-rice",
+          "description": "Not since 2012 - when current boss Mikel Arteta was commanding Arsenal's midfield on the pitch - had the Gunners won on Liverpool&#8217;s patch. That curse has finally been broken.",
+          "author": "",
+          "publishedAt": "2026-11-01T23:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7394132.jpg?20261101231038"
+        },
+        {
+          "guid": "",
+          "title": "Isak's non-penalty and Madueke-Mac Allister 'headbutt' - were big calls right?",
+          "url": "https://www.skysports.com/football/news/11095/13606793/liverpool-0-1-arsenal-alexander-isak-jurrien-timber-shirt-pull-and-noni-madueke-alexis-mac-allister-headbutt-show-good-and-bad-sides-of-var",
+          "description": "There were two big flashpoints during Arsenal's 1-0 win over Liverpool, demonstrating the good and bad sides of VAR.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:05:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-alexis-mac-allister_7394192.jpg?20261101200054"
+        },
+        {
+          "guid": "",
+          "title": "Falkirk shock Celtic to earn first win over Hoops in 19 years",
+          "url": "https://www.skysports.com/watch/video/13606683/falkirk-2-0-celtic-scottish-premiership-highlights",
+          "description": "Highlights of the Scottish Premiership match between Falkirk and Celtic.",
+          "author": "",
+          "publishedAt": "2026-11-01T19:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/sky-sports-scottish-premiership_7393911.jpg?20261101153315"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Mac Allister tried to bait me into red card, says Madueke",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-01T19:39:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Iraola 'will tell players to dive' after Isak controversy",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-01T19:18:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal triumphant in long-awaited Anfield victory",
+          "url": "https://www.skysports.com/watch/video/13606781/liverpool-0-1-arsenal-premier-league-highlights",
+          "description": "FREE TO WATCH: Highlights from the Premier League match between Liverpool and Arsenal.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:34:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-premier-league_7394114.jpg?20261101183652"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal win at Anfield for first time in 14 years to move top",
+          "url": "https://www.skysports.com/football/liverpool-vs-arsenal/report/559530",
+          "description": "Arsenal won at Anfield for the first time in 14 years after Kai Havertz's strike sealed a gritty 1-0 victory - but Liverpool were denied what looked to be a clear penalty.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kai-havertz-premier-league_7393984.jpg?20261101165117"
+        },
+        {
+          "guid": "",
+          "title": "PL Predictions: Can Everton beat unconvincing Newcastle?",
+          "url": "https://www.skysports.com/football/news/11095/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
+          "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for an intriguing Monday Night Football.",
+          "author": "",
+          "publishedAt": "2026-11-01T18:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea flex title-winning credentials but Man City following closely",
+          "url": "https://www.skysports.com/football/news/11095/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-01T17:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7393939.jpg?20261101160800"
+        },
+        {
+          "guid": "",
+          "title": "Why Man Utd fans continue to stick by Carrick",
+          "url": "https://www.skysports.com/football/news/11095/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout",
+          "description": "The last time Manchester United won a league game, schools were closed for the summer and the transfer window was still open.",
+          "author": "",
+          "publishedAt": "2026-11-01T17:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-reporter-notebook_7393916.jpg?20261101154449"
+        },
+        {
+          "guid": "",
+          "title": "Neville: Man Utd stuck in a rut - and it's really worrying",
+          "url": "https://www.skysports.com/football/news/11095/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side",
+          "description": "Gary Neville says Manchester United are stuck in a rut and that a difficult run of fixtures ahead makes for &#8220;really worrying&#8221; times at Old Trafford.",
+          "author": "",
+          "publishedAt": "2026-11-01T16:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-andrey-santos-mason-mount_7386834.jpg?20261025160630"
+        },
+        {
+          "guid": "",
+          "title": "Sutton blames O'Neill for Celtic struggles",
+          "url": "https://www.skysports.com/football/news/11095/13606700/celtic-team-in-regression-under-martin-oneill-and-manager-to-blame-says-chris-sutton",
+          "description": "\"It's a lottery waiting for the Celtic team. Who knows what team Martin is going to pick?\"",
+          "author": "",
+          "publishedAt": "2026-11-01T15:37:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sutton-celtic-oneill_7393947.jpg?20261101162024"
+        },
+        {
+          "guid": "",
+          "title": "Neville critical of Martinez as Man Utd worries deepen",
+          "url": "https://www.skysports.com/watch/video/13606686/man-utd-latest-gary-neville-concerns-grow-over-plight-of-for-club",
+          "description": "Sky Sports' Gary Neville has his say on the current situation at Manchester United and admits he is finding the poor run of form 'really worrying '.",
+          "author": "",
+          "publishedAt": "2026-11-01T15:31:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-gary-neville-utd_7393914.jpg?20261101153752"
+        },
+        {
+          "guid": "",
+          "title": "Celtic stunned as Falkirk claim first win vs Hoops in 19 years",
+          "url": "https://www.skysports.com/football/falkirk-vs-celtic/report/558400",
+          "description": "Falkirk claimed their first win against Celtic since 2007 as the champions missed another chance to extend their lead in the Scottish Premiership title race.",
+          "author": "",
+          "publishedAt": "2026-11-01T14:50:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-celtic-cameron-carter-vickers_7393874.jpg?20261101145844"
+        },
+        {
+          "guid": "",
+          "title": "Russo rescues frustrated Arsenal as Man City beat London City",
+          "url": "https://www.skysports.com/football/news/11095/13605750/wsl-round-up-alessia-russo-scores-late-equaliser-to-salvage-draw-for-arsenal-as-man-city-hold-on-to-beat-london-city",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-01T14:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7393850.jpg?20261101143440"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Lopez wants Barca retirement amid Man Utd rumours",
+          "url": "https://www.skysports.com/football/news/11095/13606869/erik-ten-hag-warns-manchester-united-could-be-relegated-after-slipping-to-17th-in-the-premier-league-paper-talk",
+          "description": "The top stories and transfer rumours from Monday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-10-31T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Worst run for 42 years but Carrick not expecting Man Utd sack before Roma",
+          "url": "https://www.skysports.com/football/news/11095/13606140/man-utd-boss-michael-carrick-expects-to-remain-in-charge-vs-roma-despite-winless-run-stretching-to-nine-matches",
+          "description": "Michael Carrick expects to remain in charge of Manchester United despite the 2-0 defeat at Chelsea confirming the club's worst winless run for 42 years.",
+          "author": "",
+          "publishedAt": "2026-10-31T14:42:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-man-utd-michael-carrick_7392807.jpg?20261031160908"
+        },
+        {
+          "guid": "",
+          "title": "Euro latest: Bellingham nets as Real Madrid run continues",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-30T20:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-kylian-mbappe-jude-bellingham_7380406.jpg?20261019072821"
+        },
+        {
+          "guid": "",
+          "title": "Ref Watch: Get your questions in for Dermot...",
+          "url": "https://www.skysports.com/football/live-blog/11095/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-26T10:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20251201130707"
+        }
+      ]
     }
   ]
 }
