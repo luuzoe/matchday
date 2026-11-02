@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T11:22:37.250633584Z",
+      "fetchedAt": "2026-11-02T11:42:37Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#16",
+          "title": "Hibs toast win over Hearts - but will they 'kick on' before cup final?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
+          "description": "Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?",
+          "author": "",
+          "publishedAt": "2026-11-02T11:39:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#13",
           "title": "Which Premier League players are set for yellow card suspensions?",
@@ -261,8 +271,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T11:12:42Z",
+      "fetchedAt": "2026-11-02T11:42:37Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "'It's nailed on!' - Why was Isak NOT awarded penalty against Arsenal?",
+          "url": "https://www.skysports.com/watch/video/13607034/alexander-isak-penalty-appeal-ref-watch-debate-why-liverpool-striker-wasnt-awarded-penalty-against-arsenal",
+          "description": "The Ref Watch panel discuss whether Liverpool should have been awarded a penalty at Anfield against Arsenal, after Jurrien Timber appeared to pull the shirt of Alexander Isak.",
+          "author": "",
+          "publishedAt": "2026-11-02T11:23:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-ref-watch_7394754.jpg?20261102113143"
+        },
         {
           "guid": "",
           "title": "Sunderland latest: Le Bris has full support of board",
