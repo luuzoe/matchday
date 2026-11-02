@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T20:12:58Z",
+      "fetchedAt": "2026-11-02T21:33:17Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pkyhnx#2",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pkyhnx?at_medium=RSS&at_campaign=rss",
+          "description": "Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?",
+          "author": "",
+          "publishedAt": "2026-11-02T21:20:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pkyhpf.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#0",
           "title": "Fifa to share confidential World Cup sell-off plan documents",
@@ -217,6 +227,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pks2xb#6",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&at_campaign=rss",
+          "description": "Rick Edwards is joined by Luke Kempner to reflect on Arsenal’s 1-0 win at Anfield.",
+          "author": "",
+          "publishedAt": "2026-11-02T00:59:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#3",
           "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
@@ -231,7 +251,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T20:12:58Z",
+      "fetchedAt": "2026-11-02T21:33:17Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
