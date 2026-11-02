@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T12:42:37Z",
+      "fetchedAt": "2026-11-02T13:02:37.543259065Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0",
@@ -235,6 +235,16 @@
           "publishedAt": "2026-11-01T15:18:43Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ef/live/b83d8390-d203-11f1-b3b6-c1e79e957e40.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#5",
+          "title": "Are Manchester United really at risk of a relegation scrap?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
+          "author": "",
+          "publishedAt": "2026-10-31T23:52:28Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
         }
       ]
     },
