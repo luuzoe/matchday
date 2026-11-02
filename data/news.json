@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T19:38:55Z",
+      "fetchedAt": "2026-11-02T20:12:58Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#0",
+          "title": "Fifa to share confidential World Cup sell-off plan documents",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss",
+          "description": "Fifa has informed members of its Council that they will be granted access to view some documents related to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private investors.",
+          "author": "",
+          "publishedAt": "2026-11-02T20:00:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2",
           "title": "Tenerife player in intensive care with injury",
@@ -205,14 +215,34 @@
           "publishedAt": "2026-11-02T06:13:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dcb/live/b1d511d0-d6bd-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo#3",
+          "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
+          "description": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
+          "author": "",
+          "publishedAt": "2026-11-01T20:15:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T19:38:55Z",
+      "fetchedAt": "2026-11-02T20:12:58Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Man City latest: Allan eyes City breakthrough after earning first Brazil call-up",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T19:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
         {
           "guid": "",
           "title": "Elanga starts for Newcastle as Branthwaite returns for Everton LIVE!",
