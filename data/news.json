@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T17:43:27Z",
+      "fetchedAt": "2026-11-02T18:22:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#2",
+          "title": "Tenerife player in intensive care with head injury",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+          "description": "Tenerife striker Jesus de Miguel is in a stable condition in intensive care after suffering a serious injury during a Spanish second division match on Monday.",
+          "author": "",
+          "publishedAt": "2026-11-02T18:18:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/d2cdad00-d6e7-11f1-a741-236ee91c2e25.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#0",
           "title": "Key questions as Pocognoli prepares to name Scotland squad",
@@ -217,6 +227,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo#3",
+          "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
+          "description": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-01T23:00:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#5",
           "title": "Warnock hid seizures from Liverpool as a youngster",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&at_campaign=rss",
@@ -241,7 +261,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T17:43:28Z",
+      "fetchedAt": "2026-11-02T18:22:57Z",
       "articles": [
         {
           "guid": "",
