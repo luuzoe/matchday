@@ -1,0 +1,36 @@
+name: Restore Matchday website
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/refresh-football-data.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Restore verified public website source
+        run: |
+          curl --fail --location --retry 3 'https://8911-i4tt294sr5wbr3yoqk1o5-f8f02e22.us2.manus.computer/matchday-source.tar.gz' -o "$RUNNER_TEMP/matchday-source.tar.gz"
+          echo "7f36c4eaf9bdcfdc8124510eb2325c0e48656dfcd3a4527e2586303139290865  $RUNNER_TEMP/matchday-source.tar.gz" | sha256sum --check -
+          tar -xzf "$RUNNER_TEMP/matchday-source.tar.gz" -C "$GITHUB_WORKSPACE"
+      - name: Validate restored website
+        run: |
+          node --test *.test.cjs
+          python3 refresh_espn.test.py
+          python3 update_scores.test.py
+          python3 refresh_news.test.py
+      - name: Publish restored source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Restore verified Matchday website"
+            git push origin HEAD:main
+          fi
