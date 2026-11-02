@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f6f7">
+<meta name="description" content="Matchday football scores, real football news, league tables and fixtures. Install Matchday for quick access.">
+<meta name="application-name" content="Matchday">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Matchday">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="mobile-web-app-capable" content="yes">
+<title>Matchday · Football scores</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="preconnect" href="https://site.api.espn.com" crossorigin>
+<link rel="preconnect" href="https://a.espncdn.com" crossorigin>
+<link rel="preconnect" href="https://matchday-espn-live.mongla-drive.workers.dev" crossorigin>
+<link rel="icon" type="image/png" sizes="192x192" href="./icons/matchday-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./icons/matchday-180.png">
+<link rel="stylesheet" href="./styles.css?v=20261102-fullscreen1">
+<script defer src="./clock.js"></script>
+<script defer src="./i18n.js?v=20261102-bilingual1"></script>
+<script defer src="./news.js?v=20261102-news-burmese1"></script>
+<script defer src="./league.js?v=20261102-leagues1"></script>
+<script defer src="./pwa.js?v=20261102-bootrun2"></script>
+<script defer src="./app.js?v=20261102-backlang1"></script>
+</head>
+<body>
+<div class="app" id="app" data-theme="light">
+  <section class="boot-splash" id="boot-splash" role="status" aria-live="polite" aria-label="Loading Matchday">
+    <div class="boot-splash-card">
+      <div class="boot-brand-orb" aria-hidden="true"><img src="./icons/option-b-ball-m.svg" alt=""></div>
+      <span class="boot-splash-kicker">MATCHDAY</span>
+      <h1 class="boot-splash-title">Ready for kickoff?</h1>
+      <p class="boot-splash-copy">Getting your scores and stories ready.</p>
+      <svg class="boot-run-scene" viewBox="0 0 220 130" role="img" aria-label="Footballer striking a ball">
+        <path class="boot-ground" d="M18 117H202"/>
+        <path class="boot-ground-mark" d="M18 117h28m128 0h28"/>
+        <g class="boot-run" id="boot-run">
+          <g class="boot-player">
+            <path class="boot-player-limb boot-player-arm-back" d="M73 45c-7 1-12 7-16 13l-10 2-5-5c-3-3-6 0-4 4l4 7c3 4 8 5 13 3l14-6 10-10z"/>
+            <path class="boot-player-limb boot-player-leg-back" d="M77 91c-5 5-11 10-16 14-4 3-8 3-12 1l-6-6-6 2c-3 3 0 7 4 10 6 4 13 3 19 0l18-10z"/>
+            <path class="boot-player-boot boot-player-boot-back" d="M46 103c-4-4-8-4-11-1-3 3-2 6 2 8l12 2 6-5z"/>
+            <path class="boot-player-limb boot-player-leg-front" d="M98 93c6 1 12 5 16 10l12 4 10-1 3 7-15 4c-9-2-17-7-24-11l-9-5z"/>
+            <path class="boot-player-sock" d="m125 104 16 2 7 10-5 5-14-3-9-6z"/>
+            <path class="boot-player-boot" d="M142 113c7-2 13 0 18 5l-2 5-16 1-7-5z"/>
+            <path class="boot-player-neck" d="m89 34 16 1 1 10-13 4-6-7z"/>
+            <path class="boot-player-shirt" d="M76 40c5-4 12-5 19-3l10 1c7 2 11 8 11 15l-3 28c-8 9-21 12-34 7L68 81l2-28c0-6 2-10 6-13z"/>
+            <path class="boot-player-shirt-panel" d="m78 45 9-4 9 3-8 8 8 24-12 10-8-5 5-22z"/>
+            <path class="boot-player-sleeve" d="M73 42c-6 2-9 7-10 14l12 6 8-11-2-8z"/>
+            <path class="boot-player-limb boot-player-arm-front" d="M108 45c7 1 12 5 17 10l10-1 4-7c2-4 6-2 5 2l-3 9c-2 5-7 6-12 4l-15-4-9-7z"/>
+            <path class="boot-player-shorts" d="M70 79c10 6 23 8 39 2l5 18c-4 5-9 7-15 7l-9-9-10 9-13-5z"/>
+            <g class="boot-player-head">
+              <path class="boot-player-face" d="M84 25c0-9 6-15 15-15 9 0 15 7 14 16-1 7-5 12-11 15l-1 6-12-2 1-6c-4-3-6-8-6-14z"/>
+              <path class="boot-player-hair" d="M83 27c-3-9 2-19 11-22 9-3 18 1 21 9-5-2-8-2-12-4-3 5-10 5-14 11l-2 8z"/>
+              <path class="boot-player-face-detail" d="m104 25 5 1-4 2m-7 7 5 1"/>
+            </g>
+          </g>
+          <g class="boot-ball">
+            <circle cx="174" cy="112" r="11"/>
+            <path d="m174 105 4 3-2 5h-5l-2-5zm-8 6-3 1m20 0 3 1m-13 8-2 2m9-2 2 2"/>
+          </g>
+        </g>
+      </svg>
+      <div class="boot-progress" role="progressbar" aria-label="Loading Matchday"><span></span></div>
+      <p class="boot-splash-note">LIVE SCORES <i>·</i> NEWS <i>·</i> LEAGUES</p>
+    </div>
+  </section>
+  <header class="appbar">
+    <div class="brandmark" aria-hidden="true"><img src="./icons/option-b-ball-m.svg" alt=""></div>
+    <div class="brand">Matchday<small>Football, grounded</small></div>
+    <div class="header-actions">
+      <button class="icon-btn install-cta" id="install-cta" type="button" aria-label="Install Matchday" title="Install Matchday" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v11m0 0 4-4m-4 4-4-4M5 17v3h14v-3"/></svg></button>
+      <button class="icon-btn" aria-label="Search teams and competitions" data-action="open-search"><svg viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="6.6"/><path d="m16 16 4.5 4.5"/></svg></button>
+      <button class="icon-btn" aria-label="Refresh published data" data-action="refresh"><svg viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M6.1 9A7 7 0 0 1 18 6.4L20 12M4 12l2 5.6A7 7 0 0 0 17.9 15"/></svg></button>
+    </div>
+  </header>
+  <main id="content" aria-live="polite"></main>
+  <div class="pwa-install-banner" id="pwa-install-banner" role="region" aria-label="Install Matchday" aria-live="polite" hidden>
+    <div class="pwa-install-copy"><strong id="pwa-install-title">Install Matchday</strong><span id="pwa-install-subtitle">Keep football scores and news one tap away.</span></div>
+    <div class="pwa-install-actions"><button type="button" class="pwa-install-action" id="pwa-install-action">Install</button><button type="button" class="pwa-install-dismiss" id="pwa-install-dismiss" aria-label="Dismiss install message">×</button></div>
+  </div>
+  <div class="pwa-install-banner pwa-update-banner" id="pwa-update-banner" role="region" aria-label="Matchday update available" aria-live="polite" hidden>
+    <div class="pwa-install-copy"><strong>New update available</strong><span>A new Matchday version is ready. Update now to load the latest version.</span></div>
+    <div class="pwa-install-actions"><button type="button" class="pwa-install-action" id="pwa-update-action">Update now</button><button type="button" class="pwa-install-dismiss" id="pwa-update-dismiss" aria-label="Dismiss update message">×</button></div>
+  </div>
+  <div class="pwa-help-backdrop" id="pwa-install-help" hidden>
+    <section class="pwa-help-sheet" role="dialog" aria-modal="true" aria-labelledby="pwa-help-title">
+      <button type="button" class="pwa-help-close" id="pwa-help-close" aria-label="Close install instructions">×</button>
+      <div class="pwa-help-mark" aria-hidden="true">↥</div>
+      <h2 id="pwa-help-title">Add Matchday to your Home Screen</h2>
+      <p id="pwa-help-copy">In Safari, tap Share, then choose Add to Home Screen.</p>
+      <ol id="pwa-help-steps"><li>Tap the Share button.</li><li>Choose <strong>Add to Home Screen</strong>.</li><li>Tap <strong>Add</strong> to finish.</li></ol>
+      <p class="pwa-help-note">Once added, open Matchday from its new icon like an app.</p>
+    </section>
+  </div>
+  <nav class="bottomnav" aria-label="Main navigation" id="bottomnav">
+    <button type="button" class="navitem active" data-action="nav" data-page="Matches" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5h16M4 12h16M4 18.5h16"/><circle cx="7" cy="5.5" r="1" fill="currentColor"/><circle cx="7" cy="12" r="1" fill="currentColor"/><circle cx="7" cy="18.5" r="1" fill="currentColor"/></svg><span>Matches</span></button>
+    <button type="button" class="navitem" data-action="nav" data-page="News" aria-current="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4.5h14a1 1 0 0 1 1 1v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-12a1 1 0 0 1 1-1Z"/><path d="M8 8h8M8 11.5h8M8 15h5"/></svg><span>News</span></button>
+    <button type="button" class="navitem" data-action="nav" data-page="Leagues" aria-current="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3.5 9h17M5 16h14M12 3c2.3 2.5 3.3 5.5 3.3 9S14.3 18.5 12 21M12 3C9.7 5.5 8.7 8.5 8.7 12s1 6.5 3.3 9"/></svg><span>Leagues</span></button>
+    <button type="button" class="navitem" data-action="nav" data-page="Following" aria-current="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 2.7 5.5 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1-4.4-4.3 6.1-.9L12 3Z"/></svg><span>Following</span></button>
+    <button type="button" class="navitem" data-action="nav" data-page="More" aria-current="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1" fill="currentColor"/><circle cx="12" cy="12" r="1" fill="currentColor"/><circle cx="19" cy="12" r="1" fill="currentColor"/></svg><span>More</span></button>
+  </nav>
+  <div id="overlay-root"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
+</body>
+</html>
