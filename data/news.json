@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-02T12:33:19Z",
+      "fetchedAt": "2026-11-02T12:42:37Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#0",
@@ -225,13 +225,23 @@
           "publishedAt": "2026-11-01T20:16:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o#5",
+          "title": "Spence 'very proud' to break WSL appearance record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham midfielder Drew Spence says it is a \"very proud moment\" to become the Women's Super League's all-time appearance record holder.",
+          "author": "",
+          "publishedAt": "2026-11-01T15:18:43Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ef/live/b83d8390-d203-11f1-b3b6-c1e79e957e40.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-02T12:33:20Z",
+      "fetchedAt": "2026-11-02T12:42:37Z",
       "articles": [
         {
           "guid": "",
@@ -262,6 +272,16 @@
           "publishedAt": "2026-11-02T11:23:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-ref-watch_7394754.jpg?20261102113143"
+        },
+        {
+          "guid": "",
+          "title": "Merse: Man Utd will be in relegation zone in a month",
+          "url": "https://www.skysports.com/football/news/11095/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
+          "description": "Paul Merson is back with his latest <em>Sky Sports</em> column with a damning condemnation of Manchester United's recent form and a grim prediction for their upcoming prospects.",
+          "author": "",
+          "publishedAt": "2026-11-02T11:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-michael-carrick_7394780.jpg?20261102115507"
         },
         {
           "guid": "",
