@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T16:02:54Z",
+      "fetchedAt": "2026-11-03T16:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#0",
+          "title": "How sporting events are being impacted by Middle East conflict",
+          "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+          "author": "",
+          "publishedAt": "2026-11-03T16:01:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#0",
           "title": "Lionesses to face France and Portugal in Nations League",
@@ -471,7 +481,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T16:02:54Z",
+      "fetchedAt": "2026-11-03T16:12:53Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
