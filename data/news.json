@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T19:23:46Z",
+      "fetchedAt": "2026-11-03T21:23:15Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#0",
+          "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:20:43Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwkg5delydy7o#5",
           "title": "Parkinson eyes Wrexham response after honest talks",
@@ -531,7 +541,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T19:23:46Z",
+      "fetchedAt": "2026-11-03T21:23:15Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/live/560661",
