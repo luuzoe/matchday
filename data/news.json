@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T09:02:51Z",
+      "fetchedAt": "2026-11-03T09:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo#0",
+          "title": "Boy arrested following Bradley Lowery taunt",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
+          "description": "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
+          "author": "",
+          "publishedAt": "2026-11-03T09:21:56Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#0",
           "title": "West Ham sack head coach Nuno Espirito Santo",
@@ -421,7 +431,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T09:02:51Z",
+      "fetchedAt": "2026-11-03T09:32:52Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
