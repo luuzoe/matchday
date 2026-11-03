@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T13:12:53Z",
+      "fetchedAt": "2026-11-03T13:52:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno#16",
@@ -307,6 +307,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0",
+          "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+          "description": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
+          "author": "",
+          "publishedAt": "2026-11-02T16:00:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#3",
           "title": "To dive or not to dive? Football's big dilemma",
           "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
@@ -411,7 +421,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T13:12:53Z",
+      "fetchedAt": "2026-11-03T13:52:52Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
