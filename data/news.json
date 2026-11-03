@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T22:32:53Z",
+      "fetchedAt": "2026-11-03T22:42:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
+          "title": "'We don't need to save anyone's job,' says Man Utd captain Fernandes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+          "description": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma.",
+          "author": "",
+          "publishedAt": "2026-11-03T22:37:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#3",
           "title": "Newcastle and Palace progress in EFL Trophy",
@@ -311,7 +321,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T22:32:53Z",
+      "fetchedAt": "2026-11-03T22:42:51Z",
       "articles": [
         {
           "guid": "",
