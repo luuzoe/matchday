@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T08:32:51Z",
+      "fetchedAt": "2026-11-03T08:52:51Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#0",
@@ -401,7 +401,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T08:32:51Z",
+      "fetchedAt": "2026-11-03T08:52:51Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
@@ -612,6 +612,16 @@
           "publishedAt": "2026-11-01T19:18:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+          "title": "West Ham latest: Nuno sacked",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-13T10:41:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
         }
       ]
     }
