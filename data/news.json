@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T16:32:52Z",
+      "fetchedAt": "2026-11-03T17:02:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#16",
+          "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+          "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+          "author": "",
+          "publishedAt": "2026-11-03T16:54:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#0",
           "title": "How sporting events are being impacted by Middle East conflict",
@@ -491,7 +501,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T16:32:52Z",
+      "fetchedAt": "2026-11-03T17:02:56Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
