@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T22:02:53Z",
+      "fetchedAt": "2026-11-03T22:12:56Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#3",
@@ -237,6 +237,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#6",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-03T06:12:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo#5",
           "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
@@ -301,7 +311,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T22:02:53Z",
+      "fetchedAt": "2026-11-03T22:12:56Z",
       "articles": [
         {
           "guid": "",
@@ -312,6 +322,16 @@
           "publishedAt": "2026-11-03T21:50:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+        },
+        {
+          "guid": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
+          "title": "Raphinha double sees Barca power past Villa",
+          "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
+          "description": "Raphinha's second-half double inspired Barcelona to a 3-0 victory against Aston Villa at the Camp Nou as Unai Emery's side saw their three-game winning run in the Champions League come to an end.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7396177.jpg?20261103212704"
         },
         {
           "guid": "",
@@ -362,6 +382,16 @@
           "publishedAt": "2026-11-03T19:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "https://www.skysports.com/football/live-blog/11095/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
+          "title": "Birmingham go second as struggling Derby, Preston lose again - Championship highlights",
+          "url": "https://www.skysports.com/football/live-blog/11095/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T19:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-birmingham-city_7396233.jpg?20261103215836"
         },
         {
           "guid": "",
