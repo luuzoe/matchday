@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T13:52:52Z",
+      "fetchedAt": "2026-11-03T15:03:19Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#0",
+          "title": "Palace launch Mateta red card appeal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
+          "description": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+          "author": "",
+          "publishedAt": "2026-11-03T14:54:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c845/live/60770320-d794-11f1-801d-cf196dc7232c.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno#16",
           "title": "Scotland draw Germany, Netherlands & Sweden in Nations League",
@@ -357,6 +367,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#5",
+          "title": "Villa drop legal action threat against Carragher ",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa will not move forward with any legal action towards Jamie Carragher. ",
+          "author": "",
+          "publishedAt": "2026-11-02T11:49:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#5",
           "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
@@ -421,7 +441,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T13:52:52Z",
+      "fetchedAt": "2026-11-03T15:03:19Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
