@@ -371,7 +371,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T12:32:54Z",
+      "fetchedAt": "2026-11-03T12:43:14Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
@@ -552,6 +552,16 @@
           "publishedAt": "2026-11-02T13:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
+        {
+          "guid": "link:https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+          "title": "Pitch to Pod: Champions mentality, taking chances and chrome legs?!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-02T12:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-wsl-pitch-to-pod_7010192.jpg?20250903143940"
         },
         {
           "guid": "",
