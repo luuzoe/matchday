@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T22:22:55Z",
+      "fetchedAt": "2026-11-03T22:32:53Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#3",
@@ -311,7 +311,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T22:22:55Z",
+      "fetchedAt": "2026-11-03T22:32:53Z",
       "articles": [
         {
           "guid": "",
@@ -372,6 +372,46 @@
           "publishedAt": "2026-11-03T21:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bolton-wanderers_7396243.jpg?20261103220155"
+        },
+        {
+          "guid": "https://www.skysports.com/football/watford-vs-lincoln-city/report/560660",
+          "title": "Mavididi fires Watford past Lincoln",
+          "url": "https://www.skysports.com/football/watford-vs-lincoln-city/report/560660",
+          "description": "Stephy Mavididi's first goal for Watford earned head coach Alessio Dionisi crucial breathing space with a gritty 1-0 win over toothless Lincoln at Vicarage Road.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-watford-lincoln_7396237.jpg?20261103220103"
+        },
+        {
+          "guid": "https://www.skysports.com/football/portsmouth-vs-swansea-city/report/560657",
+          "title": "Devlin scores twice as Portsmouth beat Swansea",
+          "url": "https://www.skysports.com/football/portsmouth-vs-swansea-city/report/560657",
+          "description": "Terry Devlin's double denied Swansea the chance to take top spot in the Championship as in-form Portsmouth won 3-1 at Fratton Park.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-portsmouth-terry-devlin_7396232.jpg?20261103215821"
+        },
+        {
+          "guid": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
+          "title": "Stoke battle to victory at Blackburn",
+          "url": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
+          "description": "Jack McGlynn scored an audacious free-kick as Stoke held off a late Blackburn comeback to win 2-1 in the Championship.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-jack-mglynn-stoke_7396244.jpg?20261103220208"
+        },
+        {
+          "guid": "https://www.skysports.com/football/birmingham-city-vs-millwall/report/560654",
+          "title": "Birmingham cruise past Millwall",
+          "url": "https://www.skysports.com/football/birmingham-city-vs-millwall/report/560654",
+          "description": "Alex Cochrane scored inside a minute as Birmingham buried Millwall with a first-half goal rush to earn a 3-0 win in the Championship at St. Andrew's.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-birmingham-city_7396255.jpg?20261103220851"
         },
         {
           "guid": "",
