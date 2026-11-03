@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T22:42:51Z",
+      "fetchedAt": "2026-11-03T23:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#0",
+          "title": "Man Utd beat Roma - the other great Champions League comebacks",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
+          "author": "",
+          "publishedAt": "2026-11-03T23:25:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
           "title": "'We don't need to save anyone's job,' says Man Utd captain Fernandes",
@@ -321,8 +331,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T22:42:51Z",
+      "fetchedAt": "2026-11-03T23:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
+          "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
+          "url": "https://www.skysports.com/football/news/11095/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
+          "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-03T23:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
         {
           "guid": "",
           "title": "Aston Villa latest: William and Prince George support Villa in Barcelona",
