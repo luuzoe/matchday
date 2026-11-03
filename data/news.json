@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T08:52:51Z",
+      "fetchedAt": "2026-11-03T09:02:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#0",
+          "title": "West Ham sack head coach Nuno Espirito Santo",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham United sack head coach Nuno Espirito Santo after their disappointing start to the Championship season.",
+          "author": "",
+          "publishedAt": "2026-11-03T08:55:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#0",
           "title": "How Arteta is getting the best from Rice",
@@ -327,6 +337,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#7",
+          "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by. ",
+          "author": "",
+          "publishedAt": "2026-11-02T00:00:03Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#5",
           "title": "I'll tell my players to dive in future - Iraola",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
@@ -401,7 +421,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T08:52:51Z",
+      "fetchedAt": "2026-11-03T09:02:51Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
@@ -602,6 +622,16 @@
           "publishedAt": "2026-11-02T10:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ref-watch-liverpool_7394771.jpg?20261102114110"
+        },
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
+          "title": "Nuno sacked by West Ham",
+          "url": "https://www.skysports.com/football/news/11095/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
+          "description": "West Ham have sacked Nuno Espirito Santo after back-to-back defeats left them eighth in the Championship.",
+          "author": "",
+          "publishedAt": "2026-11-02T10:04:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-nuno-espirito-santo_7394668.jpg?20261102101113"
         },
         {
           "guid": "",
