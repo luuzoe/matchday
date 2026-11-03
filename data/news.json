@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T22:12:56Z",
+      "fetchedAt": "2026-11-03T22:22:55Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#3",
@@ -311,7 +311,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T22:12:56Z",
+      "fetchedAt": "2026-11-03T22:22:55Z",
       "articles": [
         {
           "guid": "",
@@ -332,6 +332,46 @@
           "publishedAt": "2026-11-03T21:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7396177.jpg?20261103212704"
+        },
+        {
+          "guid": "https://www.skysports.com/football/preston-north-end-vs-sheffield-united/report/560658",
+          "title": "Peck hat-trick steers Sheff Utd past Preston",
+          "url": "https://www.skysports.com/football/preston-north-end-vs-sheffield-united/report/560658",
+          "description": "Sydie Peck bagged a first-half hat-trick as Sheffield United edged past Preston 3-2 at Deepdale.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-sydie-peck-sheffield-united_7396238.jpg?20261103220123"
+        },
+        {
+          "guid": "https://www.skysports.com/football/queens-park-rangers-vs-burnley/report/560659",
+          "title": "QPR battle back to hold Burnley",
+          "url": "https://www.skysports.com/football/queens-park-rangers-vs-burnley/report/560659",
+          "description": "Jonathan Varane denied Burnley a first win under new boss Fabio Celestini as QPR fought back for a 1-1 draw.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-qpr-burnley_7396231.jpg?20261103215758"
+        },
+        {
+          "guid": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/report/560661",
+          "title": "Southampton hit back to hold West Brom",
+          "url": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/report/560661",
+          "description": "Samuel Edozie's second-half equaliser ensured Southampton and West Brom shared the points from a 1-1 draw at The Hawthorns.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-west-brom-southampton_7396098.jpg?20261103201704"
+        },
+        {
+          "guid": "https://www.skysports.com/football/charlton-athletic-vs-bolton-wanderers/report/560664",
+          "title": "Bolton earn narrow win at struggling Charlton",
+          "url": "https://www.skysports.com/football/charlton-athletic-vs-bolton-wanderers/report/560664",
+          "description": "Sam Dalby's sixth goal of the season earned Bolton a 1-0 victory at misfiring Charlton.",
+          "author": "",
+          "publishedAt": "2026-11-03T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bolton-wanderers_7396243.jpg?20261103220155"
         },
         {
           "guid": "",
@@ -492,6 +532,16 @@
           "publishedAt": "2026-11-02T22:35:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-matthias-jaissle_7395383.jpg?20261102224537"
+        },
+        {
+          "guid": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
+          "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
+          "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
+          "description": "Manchester United produced an extraordinary comeback from two down to beat Roma 3-2 at Old Trafford and pick up their first win in 10 games.",
+          "author": "",
+          "publishedAt": "2026-11-02T16:59:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-cunha-roma-goal_7396247.jpg?20261103220341"
         },
         {
           "guid": "",
