@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T12:32:54Z",
+      "fetchedAt": "2026-11-03T12:52:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo#2",
+          "title": "Green backs 'proven' Parker for Hammers job",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo?at_medium=RSS&at_campaign=rss",
+          "description": "Rob Green says Scott Parker's \"proven record\" of getting teams promoted makes him a perfect fit as the club's next boss.",
+          "author": "",
+          "publishedAt": "2026-11-03T12:32:53Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/9b83ca80-d77f-11f1-a391-ad4d37bef273.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#0",
           "title": "Shaw among big names to miss out on FifPro World XI",
@@ -317,6 +327,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#5",
+          "title": "Bottom club Sunderland to stick with manager Le Bris",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
+          "description": "Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season.",
+          "author": "",
+          "publishedAt": "2026-11-02T12:04:09Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#5",
           "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
@@ -325,6 +345,16 @@
           "publishedAt": "2026-11-02T11:39:41Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#6",
+          "title": "Falkirk brick wall Bain boosts Scotland chances",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&at_campaign=rss",
+          "description": "Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.",
+          "author": "",
+          "publishedAt": "2026-11-02T08:22:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#6",
@@ -371,7 +401,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T12:43:14Z",
+      "fetchedAt": "2026-11-03T12:52:52Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
