@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T17:22:57Z",
+      "fetchedAt": "2026-11-03T18:03:04Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#16",
@@ -511,8 +511,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T17:22:57Z",
+      "fetchedAt": "2026-11-03T18:03:04Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
+          "title": "Liverpool's unwanted record highlights creativity issue",
+          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
+          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
+          "author": "",
+          "publishedAt": "2026-11-03T12:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
+        },
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
           "title": "GET INVOLVED! Pick your FIFPRO World XI",
