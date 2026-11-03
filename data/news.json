@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T18:33:08Z",
+      "fetchedAt": "2026-11-03T18:43:06Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkg5delydy7o#5",
+          "title": "Parkinson eyes Wrexham response after honest talks",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwkg5delydy7o?at_medium=RSS&at_campaign=rss",
+          "description": "Wrexham manager Phil Parkinson has held \"honest\" discussions with his players they look to respond to defeat at Sheffield United.",
+          "author": "",
+          "publishedAt": "2026-11-03T18:28:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/474f/live/0723ae20-d7b4-11f1-9092-abeae3cab3b1.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#2",
+          "title": "Kenny's background 'not that important' to O'Neill",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro?at_medium=RSS&at_campaign=rss",
+          "description": "Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him into the senior squad for this month's Nations League fixtures against Ukraine and Hungary. ",
+          "author": "",
+          "publishedAt": "2026-11-03T18:26:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b0/live/f8037c40-d78b-11f1-9440-953b82c8f55a.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#16",
           "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
@@ -511,7 +531,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T18:33:08Z",
+      "fetchedAt": "2026-11-03T18:43:06Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
@@ -522,6 +542,16 @@
           "publishedAt": "2026-11-03T18:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-premier-league_7392564.jpg?20261031124455"
+        },
+        {
+          "guid": "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652",
+          "title": "Barcelona vs Aston Villa team news LIVE!",
+          "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-raphinha-barcelona_7387249.jpg?20261025214339"
         },
         {
           "guid": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
