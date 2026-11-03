@@ -431,8 +431,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T09:32:52Z",
+      "fetchedAt": "2026-11-03T10:23:12Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
+          "title": "Tenerife striker dies following collision during match",
+          "url": "https://www.skysports.com/football/news/11095/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
+          "description": "Tenerife striker Jesus de Miguel died &#8204;on Tuesday at the age of 30, a &#8204;day after suffering a cardiac arrest following &#8203;a collision during a match.",
+          "author": "",
+          "publishedAt": "2026-11-03T09:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-tenerife-jesus-de-miguel_7395603.jpg?20261103101208"
+        },
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "title": "Transfer Centre LIVE! Kane 'extremely close' to signing new Bayern deal",
