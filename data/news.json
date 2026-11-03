@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T07:52:52Z",
+      "fetchedAt": "2026-11-03T08:12:55Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o#16",
+          "title": "Celtic track teenager Doumbia - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.",
+          "author": "",
+          "publishedAt": "2026-11-03T08:04:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30d/live/3df2ee50-d75c-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o#0",
+          "title": "From teenage limbo and Mangotsfield United to Champions League dream",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o?at_medium=RSS&at_campaign=rss",
+          "description": "In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.",
+          "author": "",
+          "publishedAt": "2026-11-03T08:00:40Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9897/live/3ea54450-d61d-11f1-905f-4bb31135b4e2.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#0",
           "title": "Emery looks to show Villa can compete with elite",
@@ -277,6 +297,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#5",
+          "title": "Falkirk brick wall Bain boosts Scotland chances",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&at_campaign=rss",
+          "description": "Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.",
+          "author": "",
+          "publishedAt": "2026-11-02T08:22:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#5",
           "title": "I'll tell my players to dive in future - Iraola",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
@@ -341,7 +371,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T07:52:52Z",
+      "fetchedAt": "2026-11-03T08:12:55Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
