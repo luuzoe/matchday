@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T16:12:53Z",
+      "fetchedAt": "2026-11-03T16:32:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#0",
@@ -25,6 +25,16 @@
           "publishedAt": "2026-11-03T15:39:21Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo#2",
+          "title": "Wrexham suffer 'significant' Smith injury blow",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
+          "description": "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
+          "author": "",
+          "publishedAt": "2026-11-03T15:20:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e14/live/90c22740-d798-11f1-801d-cf196dc7232c.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#0",
@@ -481,7 +491,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T16:12:53Z",
+      "fetchedAt": "2026-11-03T16:32:52Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
