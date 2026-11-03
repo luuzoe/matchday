@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T10:42:52Z",
+      "fetchedAt": "2026-11-03T11:32:58Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#16",
+          "title": "McTominay returns as Penrice earns first Scotland call",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
+          "description": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
+          "author": "",
+          "publishedAt": "2026-11-03T11:29:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#0",
           "title": "West Ham sack head coach Nuno Espirito Santo",
@@ -301,7 +311,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T10:42:52Z",
+      "fetchedAt": "2026-11-03T11:32:58Z",
       "articles": [
         {
           "guid": "",
@@ -482,6 +492,16 @@
           "publishedAt": "2026-11-02T11:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-michael-carrick_7394780.jpg?20261102115507"
+        },
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607109/scotland-james-penrice-included-in-sebastien-pocognolis-squad-with-scott-mctominay-back-for-nations-league-double-header",
+          "title": "Penrice handed first Scotland call up as McTominay returns",
+          "url": "https://www.skysports.com/football/news/11095/13607109/scotland-james-penrice-included-in-sebastien-pocognolis-squad-with-scott-mctominay-back-for-nations-league-double-header",
+          "description": "James Penrice has been handed his first Scotland call-up with Scott McTominay returning for their crucial Nations League double-header against North Macedonia and Switzerland. ",
+          "author": "",
+          "publishedAt": "2026-11-02T11:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-scotland_7395646.jpg?20261103104521"
         },
         {
           "guid": "",
