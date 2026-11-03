@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T08:12:55Z",
+      "fetchedAt": "2026-11-03T08:22:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#0",
+          "title": "How Arteta is getting the best from Rice",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po?at_medium=RSS&at_campaign=rss",
+          "description": "Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?",
+          "author": "",
+          "publishedAt": "2026-11-03T08:18:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3b/live/6ea98870-d6f2-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmjwexlyn611o#16",
           "title": "Celtic track teenager Doumbia - gossip",
@@ -337,6 +347,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#6",
+          "title": "Defeat for London City - but is Europe a real possibility?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+          "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+          "author": "",
+          "publishedAt": "2026-11-01T15:49:47Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#10",
           "title": "Are Manchester United really at risk of a relegation scrap?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
@@ -371,7 +391,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T08:12:55Z",
+      "fetchedAt": "2026-11-03T08:22:51Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
