@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T06:23:06Z",
+      "fetchedAt": "2026-11-03T06:53:01Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#0",
+          "title": "The referee who became a role model after bouncing back from Diaz error",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ",
+          "author": "",
+          "publishedAt": "2026-11-03T06:41:31Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#0",
           "title": "Who am I? Plus today's other quizzes",
@@ -291,7 +301,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T06:23:06Z",
+      "fetchedAt": "2026-11-03T06:53:01Z",
       "articles": [
         {
           "guid": "",
