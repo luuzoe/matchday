@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T12:52:52Z",
+      "fetchedAt": "2026-11-03T13:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno#16",
+          "title": "Scotland draw Germany, Netherlands & Sweden in Nations League",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno?at_medium=RSS&at_campaign=rss",
+          "description": "Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
+          "author": "",
+          "publishedAt": "2026-11-03T13:10:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/6cec1e90-d782-11f1-a391-ad4d37bef273.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo#2",
           "title": "Green backs 'proven' Parker for Hammers job",
@@ -401,7 +411,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T12:52:52Z",
+      "fetchedAt": "2026-11-03T13:12:53Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607186/fifpro-world-xi-pick-your-best-team-from-shortlist-of-planets-best-players-after-2025-26-finalists-revealed",
