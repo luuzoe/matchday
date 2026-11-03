@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T09:32:52Z",
+      "fetchedAt": "2026-11-03T10:23:34Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#0",
+          "title": "West Ham sack head coach Nuno Espirito Santo",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+          "author": "",
+          "publishedAt": "2026-11-03T10:10:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e63/live/690aaf60-d766-11f1-a956-ff083523ef77.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo#0",
           "title": "Boy arrested following Bradley Lowery taunt",
@@ -17,14 +27,14 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#0",
-          "title": "West Ham sack head coach Nuno Espirito Santo",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-          "description": "West Ham United sack head coach Nuno Espirito Santo after their disappointing start to the Championship season.",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#0",
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+          "description": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
           "author": "",
-          "publishedAt": "2026-11-03T08:55:55Z",
+          "publishedAt": "2026-11-03T09:09:18Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/95eedac0-d76a-11f1-a956-ff083523ef77.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#0",
@@ -90,14 +100,14 @@
           "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#0",
           "title": "The referee who became a role model after bouncing back from Diaz error",
           "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ",
+          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
           "author": "",
           "publishedAt": "2026-11-03T06:41:31Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#2",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -110,7 +120,7 @@
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo#0",
           "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-          "description": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle after his side were booed off the pitch by their own fans following another defeat.",
+          "description": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
           "author": "",
           "publishedAt": "2026-11-02T23:53:46Z",
           "publisher": "BBC Sport",
@@ -124,10 +134,10 @@
           "author": "",
           "publishedAt": "2026-11-02T23:28:17Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/8799e290-d70a-11f1-81b9-c76bd127a61a.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d41/live/6a2a24f0-d76d-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#2",
           "title": "Grealish can still have Everton future - Moyes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
           "description": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
@@ -167,17 +177,17 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efed/live/79f70870-d70f-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#1",
           "title": "Everton hold off Newcastle to move into seventh",
           "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
           "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
           "author": "",
           "publishedAt": "2026-11-02T22:44:30Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711d/live/e346fbb0-d70e-11f1-b441-2b33b063138f.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff55/live/2bdf6810-d76b-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o#2",
           "title": "Arsenal want Kroupi in January - Tuesday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
@@ -187,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/5575bbe0-d70a-11f1-81b9-c76bd127a61a.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo#3",
           "title": "Who produced the kind of performance Moyes loves? - player ratings",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United and Everton's players rated following their Premier League match.",
@@ -197,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/ade2a8b0-d70f-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o#2",
           "title": "Kane would swap Ballon d'Or for Champions League victory",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o?at_medium=RSS&at_campaign=rss",
           "description": "Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal.",
@@ -207,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2230/live/193b93b0-d701-11f1-91df-b96ca3dbd380.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pkyhnx#2",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pkyhnx#5",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pkyhnx?at_medium=RSS&at_campaign=rss",
           "description": "Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?",
@@ -237,17 +247,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6508/live/64421d80-d6e7-11f1-a741-236ee91c2e25.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#3",
-          "title": "Tenerife player in intensive care with injury",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-          "description": "Tenerife striker Jesus de Miguel is in a stable condition in intensive care after suffering a serious injury during a Spanish second division match on Monday.",
-          "author": "",
-          "publishedAt": "2026-11-02T18:18:55Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/d2cdad00-d6e7-11f1-a741-236ee91c2e25.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pkxggd#3",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pkxggd#5",
           "title": "BBC Women's Football Weekly",
           "url": "https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&at_campaign=rss",
           "description": "Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?",
@@ -255,186 +255,26 @@
           "publishedAt": "2026-11-02T18:10:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo#2",
-          "title": "Key questions as Pocognoli prepares to name Scotland squad",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&at_campaign=rss",
-          "description": "Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.",
-          "author": "",
-          "publishedAt": "2026-11-02T17:35:14Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do#0",
-          "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
-          "description": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
-          "author": "",
-          "publishedAt": "2026-11-02T16:00:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#0",
-          "title": "To dive or not to dive? Football's big dilemma",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
-          "description": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?",
-          "author": "",
-          "publishedAt": "2026-11-02T14:06:47Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#3",
-          "title": "Worst in the EFL - the team with a penalty problem",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&at_campaign=rss",
-          "description": "Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?",
-          "author": "",
-          "publishedAt": "2026-11-02T13:56:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/b312df70-d6b1-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#2",
-          "title": "Hellberg unsure of 'brilliant' Lankshear's England chances",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
-          "description": "Head coach Kim Hellberg hails Will Lankshear a \"brilliant lad\" as the goals keep coming, raising questions of a possible England call-up.",
-          "author": "",
-          "publishedAt": "2026-11-02T13:36:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo#2",
-          "title": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
-          "description": "A non-league game abandoned after one team was reduced to six players while trailing 8-0 is labelled \"a complete farce\".",
-          "author": "",
-          "publishedAt": "2026-11-02T13:32:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5c/live/03c10590-d6cc-11f1-ac20-7783925c811f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o#2",
-          "title": "Bottom club Sunderland to stick with manager Le Bris",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
-          "description": "Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season.",
-          "author": "",
-          "publishedAt": "2026-11-02T12:04:09Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo#0",
-          "title": "Villa drop legal action threat against Carragher",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa will not move forward with any legal action towards Jamie Carragher.",
-          "author": "",
-          "publishedAt": "2026-11-02T11:49:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o#5",
-          "title": "Falkirk brick wall Bain boosts Scotland chances",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&at_campaign=rss",
-          "description": "Scott Bain proved unbeatable as he helped Falkirk defeat his former club, Celtic, just in time for the goalkeeper to push his case for inclusion in the latest Scotland squad.",
-          "author": "",
-          "publishedAt": "2026-11-02T08:22:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926b/live/2c541140-d60a-11f1-a790-6f04ef4f8c74.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#7",
-          "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by. ",
-          "author": "",
-          "publishedAt": "2026-11-02T00:00:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#5",
-          "title": "I'll tell my players to dive in future - Iraola",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
-          "description": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
-          "author": "",
-          "publishedAt": "2026-11-01T21:00:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo#6",
-          "title": "Warnock hid seizures from Liverpool as a youngster",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.",
-          "author": "",
-          "publishedAt": "2026-11-01T20:32:44Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#5",
-          "title": "Are Celtic club in regression amid run of six defeats in 10?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-          "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-          "author": "",
-          "publishedAt": "2026-11-01T17:34:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#6",
-          "title": "Defeat for London City - but is Europe a real possibility?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-          "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-          "author": "",
-          "publishedAt": "2026-11-01T15:49:47Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo#10",
-          "title": "Are Manchester United really at risk of a relegation scrap?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-          "author": "",
-          "publishedAt": "2026-10-31T23:52:28Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#10",
-          "title": "Are De Zerbi's Spurs finding elusive consistency?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
-          "description": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
-          "author": "",
-          "publishedAt": "2026-10-31T21:16:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#3",
-          "title": "How to follow the Champions League on the BBC",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
-          "description": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
-          "author": "",
-          "publishedAt": "2026-10-19T15:39:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T10:23:12Z",
+      "fetchedAt": "2026-11-03T10:23:35Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
+          "guid": "",
+          "title": "Liverpool latest: Gravenberch out of Fenerbahce trip",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T10:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
           "title": "Tenerife striker dies following collision during match",
           "url": "https://www.skysports.com/football/news/11095/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
           "description": "Tenerife striker Jesus de Miguel died &#8204;on Tuesday at the age of 30, a &#8204;day after suffering a cardiac arrest following &#8203;a collision during a match.",
@@ -444,7 +284,17 @@
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-tenerife-jesus-de-miguel_7395603.jpg?20261103101208"
         },
         {
-          "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "guid": "",
+          "title": "West Ham latest: Have your say as Parker lined up as Nuno replacement",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T08:50:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
+        },
+        {
+          "guid": "",
           "title": "Transfer Centre LIVE! Kane 'extremely close' to signing new Bayern deal",
           "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "description": "",
@@ -452,6 +302,16 @@
           "publishedAt": "2026-11-03T07:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern-munich_7350866.jpg?20260913204044"
+        },
+        {
+          "guid": "",
+          "title": "Gordon thriving under different pressure at Barca - but best is yet to come",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T07:25:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326"
         },
         {
           "guid": "",
@@ -487,7 +347,7 @@
           "guid": "",
           "title": "Carragher: Boring Newcastle face a tough season ahead",
           "url": "https://www.skysports.com/football/news/11095/13607320/newcastle-are-flat-and-boring-8211-jamie-carragher-warns-magpies-face-tough-premier-league-season-after-everton-defeat",
-          "description": "Jamie Carragher described Newcastle as flat and boring following their defeat to Everton on <em>Monday Night Football</em> and reckons Matthias Jaissle's side faces a difficult season.",
+          "description": "Jamie Carragher described Newcastle as 'flat and boring' following their defeat to Everton on <em>Monday Night Football</em> and reckons Matthias Jaissle's side face a difficult season.",
           "author": "",
           "publishedAt": "2026-11-02T22:35:00Z",
           "publisher": "Sky Sports",
@@ -495,7 +355,7 @@
         },
         {
           "guid": "",
-          "title": "Barry goal sees Everton ease past meagre Newcastle",
+          "title": "Barry goal sees Everton ease past dreadful Newcastle",
           "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights",
           "description": "Highlights of the Premier League match between Newcastle and Everton.",
           "author": "",
@@ -512,46 +372,6 @@
           "publishedAt": "2026-11-02T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-everton-thierno-barry_7395311.jpg?20261102211356"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: McGinn keen to make Nou Camp visit a regular occurrence",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T20:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "Euro latest: Kane 'extremely close' to signing new Bayern deal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T19:31:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern-munich_7350866.jpg?20260913204044"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: Allan eyes City breakthrough after earning first Brazil call-up",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T19:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "",
-          "title": "Tottenham latest: Carra highlights where Spurs can improve further",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T18:17:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
         },
         {
           "guid": "",
@@ -625,16 +445,6 @@
         },
         {
           "guid": "",
-          "title": "Sunderland latest: Le Bris has full support of board",
-          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-02T11:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
-        },
-        {
-          "guid": "",
           "title": "Ref Watch: Isak denied 'nailed on' penalty, Mac Allister slammed for theatrics",
           "url": "https://www.skysports.com/football/live-blog/11095/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
           "description": "",
@@ -644,34 +454,14 @@
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ref-watch-liverpool_7394771.jpg?20261102114110"
         },
         {
-          "guid": "https://www.skysports.com/football/news/11095/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
-          "title": "Nuno sacked by West Ham",
+          "guid": "",
+          "title": "West Ham close to appointing Parker as replacement for sacked Nuno",
           "url": "https://www.skysports.com/football/news/11095/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
-          "description": "West Ham have sacked Nuno Espirito Santo after back-to-back defeats left them eighth in the Championship.",
+          "description": "Scott Parker is close to being appointed West Ham boss after the club sacked\nNuno Espirito Santo.",
           "author": "",
           "publishedAt": "2026-11-02T10:04:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-nuno-espirito-santo_7394668.jpg?20261102101113"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool latest: A £400m attack but second-bottom for big chances created",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-01T19:18:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
-          "title": "West Ham latest: Nuno sacked",
-          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-13T10:41:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-efl-championship_7395597.jpg?20261103094245"
         }
       ]
     }
