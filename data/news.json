@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T07:42:51Z",
+      "fetchedAt": "2026-11-03T07:52:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo#0",
@@ -325,13 +325,23 @@
           "publishedAt": "2026-10-31T21:16:11Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#3",
+          "title": "How to follow the Champions League on the BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
+          "description": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+          "author": "",
+          "publishedAt": "2026-10-19T15:39:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T07:42:51Z",
+      "fetchedAt": "2026-11-03T07:52:52Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
