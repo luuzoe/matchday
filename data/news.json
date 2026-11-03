@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T11:32:58Z",
+      "fetchedAt": "2026-11-03T12:02:54Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#16",
@@ -287,6 +287,26 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#6",
+          "title": "Worst in the EFL - the team with a penalty problem",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&at_campaign=rss",
+          "description": "Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?",
+          "author": "",
+          "publishedAt": "2026-11-02T13:56:37Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/b312df70-d6b1-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo#5",
+          "title": "Hellberg unsure of 'brilliant' Lankshear's England chances",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
+          "description": "Head coach Kim Hellberg hails Will Lankshear a \"brilliant lad\" as the goals keep coming, raising questions of a possible England call-up.",
+          "author": "",
+          "publishedAt": "2026-11-02T13:36:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo#5",
           "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
@@ -295,6 +315,16 @@
           "publishedAt": "2026-11-02T11:39:41Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o#6",
+          "title": "Why Scottish football is struggling to produce young talent",
+          "url": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&at_campaign=rss",
+          "description": "Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.",
+          "author": "",
+          "publishedAt": "2026-11-02T06:05:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo#6",
@@ -311,7 +341,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T11:32:58Z",
+      "fetchedAt": "2026-11-03T12:02:54Z",
       "articles": [
         {
           "guid": "",
