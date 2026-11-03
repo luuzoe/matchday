@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T18:03:04Z",
+      "fetchedAt": "2026-11-03T18:33:08Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#16",
@@ -511,8 +511,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T18:03:04Z",
+      "fetchedAt": "2026-11-03T18:33:08Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
+          "title": "Man Utd vs Roma team news as Carrick aims to avoid 10-match winless run LIVE!",
+          "url": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-premier-league_7392564.jpg?20261031124455"
+        },
         {
           "guid": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
           "title": "Liverpool's unwanted record highlights creativity issue",
