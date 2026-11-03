@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-03T23:32:52Z",
+      "fetchedAt": "2026-11-03T23:42:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo#0",
+          "title": "Football world mourns Tenerife striker De Miguel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+          "description": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
+          "author": "",
+          "publishedAt": "2026-11-03T23:37:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ad/live/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#0",
           "title": "Man Utd beat Roma - the other great Champions League comebacks",
@@ -331,7 +341,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-03T23:32:52Z",
+      "fetchedAt": "2026-11-03T23:42:51Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/news/11095/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
@@ -342,6 +352,16 @@
           "publishedAt": "2026-11-03T23:10:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
+          "title": "Fernandes claims players don't need to save Carrick's job, but did they?",
+          "url": "https://www.skysports.com/football/news/11095/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
+          "description": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but re-iterated that the players didn't need to save his job in their 3-2 comeback win against Roma.",
+          "author": "",
+          "publishedAt": "2026-11-03T22:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-michael-carrick_7396332.jpg?20261103233648"
         },
         {
           "guid": "",
