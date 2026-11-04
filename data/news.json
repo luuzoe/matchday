@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T10:33:39Z",
+      "fetchedAt": "2026-11-04T10:52:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#0",
@@ -231,10 +231,20 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T10:43:20Z",
+      "fetchedAt": "2026-11-04T10:52:52Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607854/wales-craig-bellamy-announces-26-man-squad-for-uefa-nations-league-matches-against-norway-and-portugal",
+          "guid": "",
+          "title": "Crystal Palace latest: Sage safe for now as Mateta red card appeal fails",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T10:37:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+        },
+        {
+          "guid": "",
           "title": "Wilson, Rodon recalled to Wales squad for Nations League clashes",
           "url": "https://www.skysports.com/football/news/11095/13607854/wales-craig-bellamy-announces-26-man-squad-for-uefa-nations-league-matches-against-norway-and-portugal",
           "description": "Wales boss Craig Bellamy has recalled several players, including Harry Wilson and Joe Rodon, for November's Nations League fixtures.",
@@ -345,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Peck hat-trick steers Sheff Utd past Preston",
-          "url": "https://www.skysports.com/football/preston-north-end-vs-sheffield-united/report/560658",
-          "description": "Sydie Peck bagged a first-half hat-trick as Sheffield United edged past Preston 3-2 at Deepdale.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-sydie-peck-sheffield-united_7396238.jpg?20261103220123"
-        },
-        {
-          "guid": "",
           "title": "Arteta dismisses Isak penalty furore: I have massive library we can talk about!",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -392,16 +392,6 @@
           "publishedAt": "2026-11-03T19:05:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
-          "title": "Crystal Palace latest: Appeal against Mateta red card rejected",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T16:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
         },
         {
           "guid": "",
