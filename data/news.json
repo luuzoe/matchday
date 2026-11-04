@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T17:03:39Z",
+      "fetchedAt": "2026-11-04T17:13:59Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#16",
@@ -227,6 +227,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l33pjgn6o#16",
+          "title": "Swansea defender Welsh in Scotland injury scare",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l33pjgn6o?at_medium=RSS&at_campaign=rss",
+          "description": "Swansea City are waiting to discover the extent of Stephen Welsh's knee injury after the centre-back is helped off during their painful defeat at Portsmouth.",
+          "author": "",
+          "publishedAt": "2026-11-03T23:20:32Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a0/live/ea9872d0-d7c3-11f1-a719-bf3dc3a3d5b5.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#3",
           "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
@@ -241,8 +251,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T17:03:40Z",
+      "fetchedAt": "2026-11-04T17:13:59Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Is Hemp the best winger in the game right now?",
+          "url": "https://www.skysports.com/football/news/11095/13608016/wsl-lauren-hemp-did-not-make-the-ballon-dor-top-30-but-her-form-for-manchester-city-this-season-deserves-attention",
+          "description": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.</em>",
+          "author": "",
+          "publishedAt": "2026-11-04T16:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
+        },
         {
           "guid": "",
           "title": "Isak, Wirtz benched for Liverpool vs Fenerbahce LIVE!",
