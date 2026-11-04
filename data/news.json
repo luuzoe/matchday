@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T17:03:15Z",
+      "fetchedAt": "2026-11-04T17:03:39Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#16",
@@ -15,6 +15,16 @@
           "publishedAt": "2026-11-04T17:00:49Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ddd/live/81fb7340-d871-11f1-85ab-b3cc3b5498c6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#0",
+          "title": "'Most difficult days of my life' for Owono after De Miguel death",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+          "author": "",
+          "publishedAt": "2026-11-04T16:40:38Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#2",
@@ -87,16 +97,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#0",
-          "title": "Keeper Owono 'would never intentionally hurt anyone'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-          "description": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:40:57Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#0",
           "title": "Wilson returns as Wales call up uncapped Duncan",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
@@ -107,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e1/live/ea0b03a0-d836-11f1-87c3-29e1cdce63c6.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#2",
           "title": "Palace lose appeal against Mateta red card",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
           "description": "Crystal Palace lose their appeal against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
@@ -147,16 +147,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/cf211500-d6c1-11f1-ac20-7783925c811f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo#16",
-          "title": "Recovering Murray hopes to earn Dundee deal - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo?at_medium=RSS&at_campaign=rss",
-          "description": "Veteran Scottish Premiership striker targets new contract on long road back to fitness as former Celtic player has advice on how to get the best out of record signing...",
-          "author": "",
-          "publishedAt": "2026-11-04T08:14:53Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a572/live/438686d0-d827-11f1-a701-fddedf244c16.png"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pl78bz#16",
           "title": "Scottish Football Podcast",
           "url": "https://www.bbc.co.uk/sounds/play/p0pl78bz?at_medium=RSS&at_campaign=rss",
@@ -187,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#2",
           "title": "Fernandes critical of media 'lies' about Carrick relationship",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
           "description": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
@@ -237,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#3",
           "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
@@ -245,57 +235,17 @@
           "publishedAt": "2026-11-03T22:55:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#5",
-          "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
-          "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
-          "author": "",
-          "publishedAt": "2026-11-03T16:54:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#5",
-          "title": "How sporting events are being affected by Middle East conflict",
-          "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
-          "author": "",
-          "publishedAt": "2026-11-03T16:01:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#5",
-          "title": "Lionesses to face France and Portugal in Nations League",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
-          "description": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
-          "author": "",
-          "publishedAt": "2026-11-03T15:39:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#6",
-          "title": "McTominay returns as Penrice earns first Scotland call",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
-          "description": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
-          "author": "",
-          "publishedAt": "2026-11-03T11:29:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T16:43:04Z",
+      "fetchedAt": "2026-11-04T17:03:40Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
-          "title": "Fenerbahce vs Liverpool LIVE!",
+          "guid": "",
+          "title": "Isak, Wirtz benched for Liverpool vs Fenerbahce LIVE!",
           "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
           "description": "",
           "author": "",
@@ -304,14 +254,24 @@
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-liverpool-chelsea_7390278.jpg?20261028205303"
         },
         {
-          "guid": "https://www.skysports.com/football/news/11095/13608001/jesus-de-miguel-goalkeeper-jesus-owono-defended-by-fc-andorra-team-mate-after-tenerife-forwards-death",
+          "guid": "",
+          "title": "Everton latest: Dewsbury-Hall dreaming of England call this week",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T16:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
+        },
+        {
+          "guid": "",
           "title": "Keeper defended after De Miguel's death - 'He would never intend to hurt anyone'",
           "url": "https://www.skysports.com/football/news/11095/13608001/jesus-de-miguel-goalkeeper-jesus-owono-defended-by-fc-andorra-team-mate-after-tenerife-forwards-death",
           "description": "Jesus Owono's team-mate has insisted the FC Andorra goalkeeper would never intend to hurt a fellow player following the death of Jesus de Miguel.",
           "author": "",
           "publishedAt": "2026-11-04T15:35:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104154812"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145"
         },
         {
           "guid": "",
@@ -452,36 +412,6 @@
           "publishedAt": "2026-11-03T20:47:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: Foden - I'm getting back to my best and targeting England recall",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T19:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Martinez back in training after missing three matches with injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T19:05:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
-          "title": "Why Infantino could now be made to answer questions on Trump links",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T13:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-donald-trump-gianni-infantino_7291301.jpg?20260706154956"
         },
         {
           "guid": "",
