@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T17:43:36Z",
+      "fetchedAt": "2026-11-04T17:49:15Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#0",
@@ -235,6 +235,15 @@
           "publishedAt": "2026-11-03T23:25:20Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#6",
+          "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+          "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+          "author": "",
+          "publishedAt": "2026-11-03T16:54:35Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
