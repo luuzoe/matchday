@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T22:43:26Z",
+      "fetchedAt": "2026-11-04T22:53:07Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo#1",
+          "title": "Como score nine to make Champions League history",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+          "description": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
+          "author": "",
+          "publishedAt": "2026-11-04T22:45:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#0",
+          "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+          "author": "",
+          "publishedAt": "2026-11-04T22:38:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo#3",
           "title": "Dortmund take narrow win over Real Betis",
@@ -241,7 +261,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T22:43:26Z",
+      "fetchedAt": "2026-11-04T22:53:07Z",
       "articles": [
         {
           "guid": "",
