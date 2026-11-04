@@ -4,17 +4,25 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T23:23:19Z",
+      "fetchedAt": "2026-11-04T23:33:02Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#16",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
+          "title": "World record 51 red cards shown in Brazilian youth game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+          "description": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+          "author": "",
+          "publishedAt": "2026-11-04T23:22:27Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#4",
           "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
           "description": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
           "author": "",
           "publishedAt": "2026-11-04T23:18:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo#1",
@@ -241,7 +249,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T23:23:19Z",
+      "fetchedAt": "2026-11-04T23:33:02Z",
       "articles": [
         {
           "guid": "",
@@ -422,6 +430,16 @@
           "publishedAt": "2026-11-04T07:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-man-utd_7396356.jpg?20261103234713"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Arteta using NASA to help fix Arsenal's injury woes",
+          "url": "https://www.skysports.com/football/news/11095/13608204/mikel-arteta-is-using-nasa-to-help-fix-arsenals-injury-woes-with-google-and-apple-helping-too-paper-talk",
+          "description": "The top stories and transfer rumours from Thursday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-03T23:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         },
         {
           "guid": "",
