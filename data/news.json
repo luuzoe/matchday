@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T16:23:09Z",
+      "fetchedAt": "2026-11-04T16:32:59Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#2",
+          "title": "72+: The EFL Podcast",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pl9kk6?at_medium=RSS&at_campaign=rss",
+          "description": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
+          "author": "",
+          "publishedAt": "2026-11-04T16:15:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#0",
           "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
@@ -261,7 +271,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T16:23:09Z",
+      "fetchedAt": "2026-11-04T16:32:59Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
