@@ -251,8 +251,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T17:13:59Z",
+      "fetchedAt": "2026-11-04T17:23:01Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Goalkeeper Owono posts of 'most difficult days' after De Miguel's death from collision",
+          "url": "https://www.skysports.com/football/news/11095/13608038/jesus-de-miguel-goalkeeper-jesus-owono-experiencing-most-difficult-days-of-my-life-after-tenerife-forwards-death-following-collision",
+          "description": "Jesus Owono says he is going through the most difficult ‌days of his life in a statement released by his club FC Andorra on Wednesday, following the death of ‌Tenerife forward Jesus De Miguel.",
+          "author": "",
+          "publishedAt": "2026-11-04T16:57:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145"
+        },
         {
           "guid": "",
           "title": "Is Hemp the best winger in the game right now?",
