@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T10:03:03Z",
+      "fetchedAt": "2026-11-04T10:33:39Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#0",
+          "title": "Palace lose appeal against Mateta red card",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
+          "description": "Crystal Palace lose their appeal against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+          "author": "",
+          "publishedAt": "2026-11-04T10:23:14Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c845/live/60770320-d794-11f1-801d-cf196dc7232c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#0",
+          "title": "West Ham confirm Parker as boss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
+          "author": "",
+          "publishedAt": "2026-11-04T10:03:25Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#0",
           "title": "How Carpenter has become Chelsea's surprise star",
@@ -15,16 +35,6 @@
           "publishedAt": "2026-11-04T09:55:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e5/live/84926a10-d82a-11f1-be97-417dbcdedd32.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#0",
-          "title": "West Ham confirm Parker as boss",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
-          "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
-          "author": "",
-          "publishedAt": "2026-11-04T09:38:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#0",
@@ -67,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl78cc.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#2",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -117,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de38/live/9ad09e20-d7e2-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo#2",
           "title": "Football world mourns Tenerife striker De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
           "description": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
@@ -137,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#2",
           "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
@@ -147,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#6",
           "title": "Kenny's background 'not that important' to O'Neill",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro?at_medium=RSS&at_campaign=rss",
           "description": "Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him into the senior squad for this month's Nations League fixtures against Ukraine and Hungary.",
@@ -207,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#2",
           "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
           "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
@@ -215,66 +225,16 @@
           "publishedAt": "2026-11-03T15:07:49Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#5",
-          "title": "Palace launch Mateta red card appeal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
-          "description": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
-          "author": "",
-          "publishedAt": "2026-11-03T14:54:55Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c845/live/60770320-d794-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno#16",
-          "title": "Scotland draw Germany, Netherlands & Sweden in Nations League",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno?at_medium=RSS&at_campaign=rss",
-          "description": "Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
-          "author": "",
-          "publishedAt": "2026-11-03T13:10:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/6cec1e90-d782-11f1-a391-ad4d37bef273.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#2",
-          "title": "West Ham approach Parker after sacking boss Nuno",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-          "description": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-          "author": "",
-          "publishedAt": "2026-11-03T12:42:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005e/live/4825efe0-d774-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#6",
-          "title": "Shaw among big names to miss out on FifPro World XI",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss",
-          "description": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
-          "author": "",
-          "publishedAt": "2026-11-03T12:28:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#6",
-          "title": "Tenerife striker De Miguel dies after on-field collision ",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-          "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-          "author": "",
-          "publishedAt": "2026-11-03T09:09:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T10:03:03Z",
+      "fetchedAt": "2026-11-04T10:33:39Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607503/scott-parker-to-west-ham-can-former-hammers-player-roll-back-years-and-win-premier-league-promotion-yet-again",
+          "guid": "",
           "title": "Can Parker roll back the years and be a success at West Ham?",
           "url": "https://www.skysports.com/football/news/11095/13607503/scott-parker-to-west-ham-can-former-hammers-player-roll-back-years-and-win-premier-league-promotion-yet-again",
           "description": "As soon as news of Nuno Espirito Santo's departure was announced, only one name seemed to make sense for West Ham.",
@@ -284,7 +244,7 @@
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-parker-west-ham_7395895.jpg?20261103152611"
         },
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607834/west-ham-scott-parker-returns-to-east-london-after-15-years-to-succeed-nuno-espirito-santo-as-hammers-manager",
+          "guid": "",
           "title": "Parker appointed West Ham head coach",
           "url": "https://www.skysports.com/football/news/11095/13607834/west-ham-scott-parker-returns-to-east-london-after-15-years-to-succeed-nuno-espirito-santo-as-hammers-manager",
           "description": "West Ham have appointed Scott Parker as their new head coach.",
@@ -292,6 +252,16 @@
           "publishedAt": "2026-11-04T09:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker-west-ham_7396642.jpg?20261104092427"
+        },
+        {
+          "guid": "",
+          "title": "West Ham latest: VOTE - Is Parker the right man for the Hammers?",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T09:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
         },
         {
           "guid": "",
@@ -305,7 +275,7 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Is win over Roma a turning point? Have your say!",
+          "title": "Man Utd latest: Is win over Roma a turning point? Your views!",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -375,46 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Mavididi fires Watford past Lincoln",
-          "url": "https://www.skysports.com/football/watford-vs-lincoln-city/report/560660",
-          "description": "Stephy Mavididi's first goal for Watford earned head coach Alessio Dionisi crucial breathing space with a gritty 1-0 win over toothless Lincoln at Vicarage Road.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-watford-lincoln_7396237.jpg?20261103220103"
-        },
-        {
-          "guid": "",
-          "title": "Devlin scores twice as Portsmouth beat Swansea",
-          "url": "https://www.skysports.com/football/portsmouth-vs-swansea-city/report/560657",
-          "description": "Terry Devlin's double denied Swansea the chance to take top spot in the Championship as in-form Portsmouth won 3-1 at Fratton Park.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-portsmouth-terry-devlin_7396232.jpg?20261103215821"
-        },
-        {
-          "guid": "",
-          "title": "Stoke battle to victory at Blackburn",
-          "url": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
-          "description": "Jack McGlynn scored an audacious free-kick as Stoke held off a late Blackburn comeback to win 2-1 in the Championship.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-jack-mglynn-stoke_7396244.jpg?20261103220208"
-        },
-        {
-          "guid": "",
-          "title": "Southampton hit back to hold West Brom",
-          "url": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/report/560661",
-          "description": "Samuel Edozie's second-half equaliser ensured Southampton and West Brom shared the points from a 1-1 draw at The Hawthorns.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-west-brom-southampton_7396098.jpg?20261103201704"
-        },
-        {
-          "guid": "",
           "title": "Arteta dismisses Isak penalty furore: I have massive library we can talk about!",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -422,6 +352,16 @@
           "publishedAt": "2026-11-03T20:47:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Man City latest: Foden - I'm getting back to my best and targeting England recall",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T19:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
         },
         {
           "guid": "",
@@ -435,7 +375,17 @@
         },
         {
           "guid": "",
-          "title": "Crystal Palace latest: 'Tuchel's England No 2 frontrunner to replace Sage'",
+          "title": "Chelsea latest: Martinez receives Argentina call up as injury return ramps up",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T19:05:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Crystal Palace latest: Appeal against Mateta red card rejected",
           "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
           "author": "",
@@ -482,16 +432,6 @@
           "publishedAt": "2026-11-02T10:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/SKYSPORTS_5acd404f0efc3093240c6c0e21ab369855df54510c2e200ee61be1c7f123424a_7394693.jpg?20261102104226"
-        },
-        {
-          "guid": "",
-          "title": "West Ham close to appointing Parker as replacement for sacked Nuno",
-          "url": "https://www.skysports.com/football/news/11095/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
-          "description": "Scott Parker is close to being appointed West Ham boss after the club sacked\nNuno Espirito Santo.",
-          "author": "",
-          "publishedAt": "2026-11-02T10:04:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-efl-championship_7395597.jpg?20261103094245"
         }
       ]
     }
