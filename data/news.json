@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T16:32:59Z",
+      "fetchedAt": "2026-11-04T16:43:04Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#16",
+          "title": "Upward path for Penrice has McInnes eager for Rangers deal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
+          "description": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
+          "author": "",
+          "publishedAt": "2026-11-04T16:38:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#2",
           "title": "72+: The EFL Podcast",
@@ -271,7 +281,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T16:32:59Z",
+      "fetchedAt": "2026-11-04T16:43:04Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
