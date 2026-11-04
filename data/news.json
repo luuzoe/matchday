@@ -241,8 +241,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T09:23:28Z",
+      "fetchedAt": "2026-11-04T09:33:06Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607834/west-ham-scott-parker-returns-to-east-london-after-15-years-to-succeed-nuno-espirito-santo-as-hammers-manager",
+          "title": "Parker appointed West Ham head coach",
+          "url": "https://www.skysports.com/football/news/11095/13607834/west-ham-scott-parker-returns-to-east-london-after-15-years-to-succeed-nuno-espirito-santo-as-hammers-manager",
+          "description": "West Ham have appointed Scott Parker as their new head coach.",
+          "author": "",
+          "publishedAt": "2026-11-04T09:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker-west-ham_7396642.jpg?20261104092427"
+        },
         {
           "guid": "",
           "title": "Fernandes hits back at 'lies' and claims players don't need to save Carrick's job",
