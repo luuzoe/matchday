@@ -1,4 +1,3 @@
-# Matchday - https://luuzoe.github.io/matchday/
 User-agent: *
 Allow: /
 Sitemap: https://luuzoe.github.io/matchday/sitemap.xml
