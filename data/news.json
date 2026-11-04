@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T19:53:22Z",
+      "fetchedAt": "2026-11-04T20:02:59Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#2",
@@ -225,14 +225,33 @@
           "publishedAt": "2026-11-04T00:45:33Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#6",
+          "title": "Man Utd beat Roma - the other great Champions League comebacks",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
+          "author": "",
+          "publishedAt": "2026-11-03T23:25:20Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T19:53:23Z",
+      "fetchedAt": "2026-11-04T20:02:59Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Liverpool suffer first CL defeat of season after stunning Fenerbahce comeback",
+          "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/report/577663",
+          "description": "Liverpool's perfect start to their Champions League campaign came to a sudden halt as they lost two leads in a 3-2 defeat to Fenerbahce in Istanbul.",
+          "author": "",
+          "publishedAt": "2026-11-04T19:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-liverpool-fenerbahce_7397293.jpg?20261104195615"
+        },
         {
           "guid": "",
           "title": "Aston Villa latest: Club hold 'positive discussions' over Emery contract extension",
