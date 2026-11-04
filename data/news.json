@@ -259,8 +259,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T17:53:17Z",
+      "fetchedAt": "2026-11-04T18:02:56Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Slavia Prague vs Arsenal build-up LIVE!",
+          "url": "https://www.skysports.com/football/slavia-prague-vs-arsenal/live/577667",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T18:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-eberechi-eze-arsenal_7383146.jpg?20261021203310"
+        },
         {
           "guid": "",
           "title": "Goalkeeper Owono posts of 'most difficult days' after De Miguel's death from collision",
