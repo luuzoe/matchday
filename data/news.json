@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T23:22:59Z",
+      "fetchedAt": "2026-11-04T23:23:19Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#16",
@@ -13,7 +13,8 @@
           "description": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
           "author": "",
           "publishedAt": "2026-11-04T23:18:03Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo#1",
@@ -116,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po#3",
           "title": "Bayern continue unbeaten CL start with win at Atletico",
           "url": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
           "description": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.",
@@ -136,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#2",
           "title": "Emery in line for new Villa deal - Thursday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
           "description": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
@@ -216,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#6",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#7",
           "title": "72+: The EFL Podcast",
           "url": "https://www.bbc.co.uk/sounds/play/p0pl9kk6?at_medium=RSS&at_campaign=rss",
           "description": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
@@ -234,49 +235,29 @@
           "publishedAt": "2026-11-04T16:12:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#6",
-          "title": "What are rules on loan players in Champions League?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
-          "author": "",
-          "publishedAt": "2026-11-04T16:02:08Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#6",
-          "title": "Nadal set to join Real Madrid board of directors",
-          "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-          "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-          "author": "",
-          "publishedAt": "2026-11-04T13:21:01Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#2",
-          "title": "Real Madrid reach verbal agreement to sign Gabriel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:49:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T22:53:07Z",
+      "fetchedAt": "2026-11-04T23:23:19Z",
       "articles": [
         {
           "guid": "",
-          "title": "Arsenal survive second-half scare to beat Slavia Prague",
+          "title": "Como score NINE at Lens as Real Madrid win late again",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T22:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-real-madrid_7397497.jpg?20261104224942"
+        },
+        {
+          "guid": "",
+          "title": "'Sloppy' Arsenal survive second-half scare to beat Slavia Prague",
           "url": "https://www.skysports.com/football/slavia-prague-vs-arsenal/report/577667",
-          "description": "Arsenal held off a second-half fightback from Slavia Prague to win 2-1 at the Fortuna Arena and continue their unbeaten start to the season in the Champions League.",
+          "description": "Arsenal survived a second-half fightback from Slavia Prague to win 2-1 at the Fortuna Arena and continue their unbeaten start to the season in the Champions League.",
           "author": "",
           "publishedAt": "2026-11-04T22:00:00Z",
           "publisher": "Sky Sports",
@@ -324,7 +305,7 @@
         },
         {
           "guid": "",
-          "title": "Man City latest: 'We need to step up' - Skipper Haaland demands more",
+          "title": "Man City latest: Maresca backs Donnarumma after 'silly goals'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -381,16 +362,6 @@
           "publishedAt": "2026-11-04T16:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
-        },
-        {
-          "guid": "",
-          "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
-          "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
-          "description": "Sky Sports' Kaveh Solhekol looks at whether JJ Gabriel should leave Manchester United for Real Madrid.",
-          "author": "",
-          "publishedAt": "2026-11-04T15:22:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-real-madrid-jj-gabriel_7397049.jpg?20261104154518"
         },
         {
           "guid": "",
@@ -454,6 +425,16 @@
         },
         {
           "guid": "",
+          "title": "'Our standards must be higher' - Arteta fumes at second half performance",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T20:47:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
           "title": "EFL latest: Lankshear misses Wrexham game due to injury",
           "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
           "description": "",
@@ -461,16 +442,6 @@
           "publishedAt": "2026-11-03T20:07:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7334598.jpg?20260829141836"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool's unwanted record highlights creativity issue",
-          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
-          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
-          "author": "",
-          "publishedAt": "2026-11-03T12:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
         }
       ]
     }
