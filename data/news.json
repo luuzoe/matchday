@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T00:32:50Z",
+      "fetchedAt": "2026-11-04T00:33:15Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#0",
@@ -18,7 +18,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#0",
-          "title": "Emery takes positives - but Villa 'have work to do' to reach Barca level",
+          "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
           "author": "",
@@ -48,16 +48,26 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
-          "title": "'We don't need to save anyone's job,' says Man Utd captain Fernandes",
+          "title": "We don't need to save anyone's job, says Man Utd captain Fernandes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
           "description": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma.",
           "author": "",
-          "publishedAt": "2026-11-03T22:37:49Z",
+          "publishedAt": "2026-11-03T23:25:13Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#0",
+          "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-03T22:55:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#6",
           "title": "Newcastle and Palace progress in EFL Trophy",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United and Crystal Palace's under-21 sides secured passage to the knockout stages of the Jersey Mike's Trophy.",
@@ -67,27 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a87/live/9ab6f310-d7cb-11f1-a5a1-17763069f89b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#0",
-          "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:20:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkg5delydy7o#6",
-          "title": "Parkinson eyes Wrexham response after honest talks",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwkg5delydy7o?at_medium=RSS&at_campaign=rss",
-          "description": "Wrexham manager Phil Parkinson has held \"honest\" discussions with his players they look to respond to defeat at Sheffield United.",
-          "author": "",
-          "publishedAt": "2026-11-03T18:28:41Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/474f/live/0723ae20-d7b4-11f1-9092-abeae3cab3b1.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#5",
           "title": "Kenny's background 'not that important' to O'Neill",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro?at_medium=RSS&at_campaign=rss",
           "description": "Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him into the senior squad for this month's Nations League fixtures against Ukraine and Hungary.",
@@ -97,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b0/live/f8037c40-d78b-11f1-9440-953b82c8f55a.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#2",
           "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
           "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
           "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
@@ -107,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#6",
           "title": "How to follow the Champions League on the BBC",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
           "description": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
@@ -127,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#3",
           "title": "Lionesses to face France and Portugal in Nations League",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
           "description": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
@@ -137,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo#6",
           "title": "Wrexham suffer 'significant' Smith injury blow",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
           "description": "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
@@ -167,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#3",
           "title": "Palace launch Mateta red card appeal",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
           "description": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
@@ -197,17 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005e/live/4825efe0-d774-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo#5",
-          "title": "Green backs 'proven' Parker for Hammers job",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo?at_medium=RSS&at_campaign=rss",
-          "description": "Rob Green says Scott Parker's \"proven record\" of getting teams promoted makes him a perfect fit as the club's next boss.",
-          "author": "",
-          "publishedAt": "2026-11-03T12:32:53Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/9b83ca80-d77f-11f1-a391-ad4d37bef273.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#5",
           "title": "Shaw among big names to miss out on FifPro World XI",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss",
           "description": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
@@ -217,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#5",
           "title": "McTominay returns as Penrice earns first Scotland call",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
           "description": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
@@ -227,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o#6",
           "title": "Mee and Kenny handed first Northern Ireland call-ups",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary.",
@@ -235,136 +215,26 @@
           "publishedAt": "2026-11-03T10:07:54Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fe/live/2b3da270-d76e-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo#3",
-          "title": "Boy arrested following Bradley Lowery taunt",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
-          "description": "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
-          "author": "",
-          "publishedAt": "2026-11-03T09:21:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#0",
-          "title": "Tenerife striker De Miguel dies after on-field collision",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-          "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-          "author": "",
-          "publishedAt": "2026-11-03T09:09:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po#3",
-          "title": "How Arteta is getting the best from Rice",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po?at_medium=RSS&at_campaign=rss",
-          "description": "Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?",
-          "author": "",
-          "publishedAt": "2026-11-03T08:18:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3b/live/6ea98870-d6f2-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o#6",
-          "title": "From teenage limbo and Mangotsfield United to Champions League dream",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o?at_medium=RSS&at_campaign=rss",
-          "description": "In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.",
-          "author": "",
-          "publishedAt": "2026-11-03T08:00:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9897/live/3ea54450-d61d-11f1-905f-4bb31135b4e2.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#3",
-          "title": "The referee who became a role model after bouncing back from Diaz error",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ",
-          "author": "",
-          "publishedAt": "2026-11-03T06:41:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo#6",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-03T06:12:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo#5",
-          "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-          "description": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat. ",
-          "author": "",
-          "publishedAt": "2026-11-02T23:53:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/53db6f00-d719-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo#5",
-          "title": "From nightmare debut season to Everton hero - Barry's revival",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
-          "description": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-          "author": "",
-          "publishedAt": "2026-11-02T23:28:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d41/live/6a2a24f0-d76d-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o#5",
-          "title": "Grealish can still have Everton future - Moyes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
-          "description": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
-          "author": "",
-          "publishedAt": "2026-11-02T23:14:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o#10",
-          "title": "Who has made Troy's Premier League team of the week?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&at_campaign=rss",
-          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-          "author": "",
-          "publishedAt": "2026-11-02T23:09:36Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/e05ef5c0-d6f4-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o#6",
-          "title": "Fifa to share 'key documents' over World Cup sell-off plan",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss",
-          "description": "Council members will need to travel to Fifa's headquarters in Zurich to see the documents, and will be subject to \"strict review protocols\".",
-          "author": "",
-          "publishedAt": "2026-11-02T20:23:55Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o#6",
-          "title": "To dive or not to dive? Football's big dilemma",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
-          "description": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it? ",
-          "author": "",
-          "publishedAt": "2026-11-02T14:06:47Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T00:02:54Z",
+      "fetchedAt": "2026-11-04T00:33:15Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
+          "guid": "",
+          "title": "Man Utd latest: Carrick refusing to get carried away after 'important' win",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T23:33:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
+        {
+          "guid": "",
           "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
           "url": "https://www.skysports.com/football/news/11095/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
           "description": "The top stories and transfer rumours from Wednesday's newspapers...",
@@ -374,27 +244,47 @@
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         },
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
-          "title": "Fernandes claims players don't need to save Carrick's job, but did they?",
-          "url": "https://www.skysports.com/football/news/11095/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
-          "description": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but re-iterated that the players didn't need to save his job in their 3-2 comeback win against Roma.",
-          "author": "",
-          "publishedAt": "2026-11-03T22:28:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-michael-carrick_7396332.jpg?20261103233648"
-        },
-        {
           "guid": "",
-          "title": "Aston Villa latest: William and Prince George support Villa in Barcelona",
+          "title": "Aston Villa latest: 'Be ruthless and avoid mistakes,' says Emery after Barca",
           "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-03T21:50:00Z",
+          "publishedAt": "2026-11-03T22:54:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
         },
         {
-          "guid": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
+          "guid": "",
+          "title": "Fernandes claims players don't need to save Carrick's job, but did they?",
+          "url": "https://www.skysports.com/football/news/11095/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
+          "description": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but reiterated that the players didn't need to save his job in their 3-2 comeback win against Roma.",
+          "author": "",
+          "publishedAt": "2026-11-03T22:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-man-utd_7396356.jpg?20261103234713"
+        },
+        {
+          "guid": "",
+          "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
+          "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
+          "description": "Manchester United produced an extraordinary comeback from two down to beat Roma 3-2 at Old Trafford and pick up their first win in 10 games.",
+          "author": "",
+          "publishedAt": "2026-11-03T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-matheus-cunha-man-utd_7396297.jpg?20261103224600"
+        },
+        {
+          "guid": "",
+          "title": "PSG hit Villarreal for six as Kane misses out on equalling record",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-psg-champions-league_7396318.jpg?20261103225529"
+        },
+        {
+          "guid": "",
           "title": "Raphinha double sees Barca power past Villa",
           "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
           "description": "Raphinha's second-half double inspired Barcelona to a 3-0 victory against Aston Villa at the Camp Nou as Unai Emery's side saw their three-game winning run in the Champions League come to an end.",
@@ -404,7 +294,7 @@
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7396177.jpg?20261103212704"
         },
         {
-          "guid": "https://www.skysports.com/football/preston-north-end-vs-sheffield-united/report/560658",
+          "guid": "",
           "title": "Peck hat-trick steers Sheff Utd past Preston",
           "url": "https://www.skysports.com/football/preston-north-end-vs-sheffield-united/report/560658",
           "description": "Sydie Peck bagged a first-half hat-trick as Sheffield United edged past Preston 3-2 at Deepdale.",
@@ -414,37 +304,7 @@
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-sydie-peck-sheffield-united_7396238.jpg?20261103220123"
         },
         {
-          "guid": "https://www.skysports.com/football/queens-park-rangers-vs-burnley/report/560659",
-          "title": "QPR battle back to hold Burnley",
-          "url": "https://www.skysports.com/football/queens-park-rangers-vs-burnley/report/560659",
-          "description": "Jonathan Varane denied Burnley a first win under new boss Fabio Celestini as QPR fought back for a 1-1 draw.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-qpr-burnley_7396231.jpg?20261103215758"
-        },
-        {
-          "guid": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/report/560661",
-          "title": "Southampton hit back to hold West Brom",
-          "url": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/report/560661",
-          "description": "Samuel Edozie's second-half equaliser ensured Southampton and West Brom shared the points from a 1-1 draw at The Hawthorns.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-west-brom-southampton_7396098.jpg?20261103201704"
-        },
-        {
-          "guid": "https://www.skysports.com/football/charlton-athletic-vs-bolton-wanderers/report/560664",
-          "title": "Bolton earn narrow win at struggling Charlton",
-          "url": "https://www.skysports.com/football/charlton-athletic-vs-bolton-wanderers/report/560664",
-          "description": "Sam Dalby's sixth goal of the season earned Bolton a 1-0 victory at misfiring Charlton.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bolton-wanderers_7396243.jpg?20261103220155"
-        },
-        {
-          "guid": "https://www.skysports.com/football/watford-vs-lincoln-city/report/560660",
+          "guid": "",
           "title": "Mavididi fires Watford past Lincoln",
           "url": "https://www.skysports.com/football/watford-vs-lincoln-city/report/560660",
           "description": "Stephy Mavididi's first goal for Watford earned head coach Alessio Dionisi crucial breathing space with a gritty 1-0 win over toothless Lincoln at Vicarage Road.",
@@ -454,7 +314,7 @@
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-watford-lincoln_7396237.jpg?20261103220103"
         },
         {
-          "guid": "https://www.skysports.com/football/portsmouth-vs-swansea-city/report/560657",
+          "guid": "",
           "title": "Devlin scores twice as Portsmouth beat Swansea",
           "url": "https://www.skysports.com/football/portsmouth-vs-swansea-city/report/560657",
           "description": "Terry Devlin's double denied Swansea the chance to take top spot in the Championship as in-form Portsmouth won 3-1 at Fratton Park.",
@@ -464,7 +324,7 @@
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-portsmouth-terry-devlin_7396232.jpg?20261103215821"
         },
         {
-          "guid": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
+          "guid": "",
           "title": "Stoke battle to victory at Blackburn",
           "url": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
           "description": "Jack McGlynn scored an audacious free-kick as Stoke held off a late Blackburn comeback to win 2-1 in the Championship.",
@@ -474,24 +334,14 @@
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-jack-mglynn-stoke_7396244.jpg?20261103220208"
         },
         {
-          "guid": "https://www.skysports.com/football/birmingham-city-vs-millwall/report/560654",
-          "title": "Birmingham cruise past Millwall",
-          "url": "https://www.skysports.com/football/birmingham-city-vs-millwall/report/560654",
-          "description": "Alex Cochrane scored inside a minute as Birmingham buried Millwall with a first-half goal rush to earn a 3-0 win in the Championship at St. Andrew's.",
+          "guid": "",
+          "title": "Southampton hit back to hold West Brom",
+          "url": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/report/560661",
+          "description": "Samuel Edozie's second-half equaliser ensured Southampton and West Brom shared the points from a 1-1 draw at The Hawthorns.",
           "author": "",
           "publishedAt": "2026-11-03T21:15:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-birmingham-city_7396255.jpg?20261103220851"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Fans protest at Old Trafford with tennis balls",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T20:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-old-trafford-man-utd_7396184.jpg?20261103212952"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-west-brom-southampton_7396098.jpg?20261103201704"
         },
         {
           "guid": "",
@@ -505,36 +355,6 @@
         },
         {
           "guid": "",
-          "title": "EFL latest: Robinson set for Bromley job - with Defoe and Short to assist",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T20:07:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/23/01/1920x1080/skysports-karl-robinson-oxford_6019146.jpg?20230109222111"
-        },
-        {
-          "guid": "",
-          "title": "Southampton hit back to hold West Brom LIVE!",
-          "url": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/live/560661",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T19:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-west-brom-southampton_7396098.jpg?20261103201704"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: Foden - I'm getting back to my best and targeting England recall",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T19:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "https://www.skysports.com/football/live-blog/11095/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
           "title": "Birmingham go second as struggling Derby, Preston lose again - Championship highlights",
           "url": "https://www.skysports.com/football/live-blog/11095/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
           "description": "",
@@ -542,46 +362,6 @@
           "publishedAt": "2026-11-03T19:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-birmingham-city_7396233.jpg?20261103215836"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Martinez receives Argentina call up as injury return ramps up",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T19:05:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
-          "title": "Esteve hoping for Champions League debut – and Haaland reunion",
-          "url": "https://www.skysports.com/football/news/11095/13605575/maxime-esteve-interview-rb-leipzig-defender-on-his-erling-haaland-reunion-after-two-own-goals-against-man-city",
-          "description": "A reunion with Manchester City brings bad memories for the RB Leipzig defender Maxime Esteve. He scored two own goals at the Etihad Stadium last year. Not that he has advertised this to his new teammates. \"Maybe they don't even know,\" he jokes.",
-          "author": "",
-          "publishedAt": "2026-11-03T19:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-maxime-esteve-rb-leipzig_7391409.jpg?20261029205201"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd come from two behind to beat Roma LIVE!",
-          "url": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T18:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-matheus-cunha_7396225.jpg?20261103215649"
-        },
-        {
-          "guid": "",
-          "title": "Raphinha double sees Barca beat Villa LIVE!",
-          "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T18:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7396177.jpg?20261103212704"
         },
         {
           "guid": "",
@@ -622,56 +402,6 @@
           "publishedAt": "2026-11-03T09:55:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-tenerife-jesus-de-miguel_7395603.jpg?20261103101208"
-        },
-        {
-          "guid": "",
-          "title": "West Ham latest: Your views as Parker lined up to replace Nuno",
-          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T08:50:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
-        },
-        {
-          "guid": "",
-          "title": "Carragher: Boring Newcastle face a tough season ahead",
-          "url": "https://www.skysports.com/football/news/11095/13607320/newcastle-are-flat-and-boring-8211-jamie-carragher-warns-magpies-face-tough-premier-league-season-after-everton-defeat",
-          "description": "Jamie Carragher described Newcastle as 'flat and boring' following their defeat to Everton on <em>Monday Night Football</em> and reckons Matthias Jaissle's side face a difficult season.",
-          "author": "",
-          "publishedAt": "2026-11-02T22:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-matthias-jaissle_7395383.jpg?20261102224537"
-        },
-        {
-          "guid": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
-          "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
-          "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
-          "description": "Manchester United produced an extraordinary comeback from two down to beat Roma 3-2 at Old Trafford and pick up their first win in 10 games.",
-          "author": "",
-          "publishedAt": "2026-11-02T16:59:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-cunha-roma-goal_7396247.jpg?20261103220341"
-        },
-        {
-          "guid": "",
-          "title": "Merse: Arsenal showed mark of champions at Anfield",
-          "url": "https://www.skysports.com/football/news/11095/13607147/paul-merson-arsenal-showed-mark-of-champions-against-liverpool-in-defensive-masterclass-victory-at-anfield",
-          "description": "After Arsenal moved three points clear at the top of the Premier League with a 1-0 win at Liverpool on Super Sunday, <em>Sky Sports</em> pundit Paul Merson says the Gunners' victory showed the sign of champions at Anfield.",
-          "author": "",
-          "publishedAt": "2026-11-02T15:06:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-arsenal_7395038.jpg?20261102154642"
-        },
-        {
-          "guid": "",
-          "title": "Merse: Man Utd will be in relegation zone in a month",
-          "url": "https://www.skysports.com/football/news/11095/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
-          "description": "Paul Merson is back with his latest <em>Sky Sports</em> column with a damning condemnation of Manchester United's recent form and a grim prediction for their upcoming prospects.",
-          "author": "",
-          "publishedAt": "2026-11-02T11:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-michael-carrick_7394780.jpg?20261102115507"
         },
         {
           "guid": "",
