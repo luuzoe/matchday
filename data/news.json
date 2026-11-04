@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T11:13:03Z",
+      "fetchedAt": "2026-11-04T11:13:45Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#0",
@@ -144,7 +144,7 @@
           "author": "",
           "publishedAt": "2026-11-03T23:37:12Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ad/live/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#0",
@@ -207,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#5",
           "title": "Lionesses to face France and Portugal in Nations League",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
           "description": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
@@ -225,34 +225,24 @@
           "publishedAt": "2026-11-03T15:10:54Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#2",
-          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
-          "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
-          "author": "",
-          "publishedAt": "2026-11-03T15:07:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#6",
-          "title": "The referee who became a role model after bouncing back from Diaz error",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ",
-          "author": "",
-          "publishedAt": "2026-11-03T06:41:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T10:52:52Z",
+      "fetchedAt": "2026-11-04T11:13:45Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "'They're not good enough!' - O'Hara's brutal assessment of Man Utd despite Roma win",
+          "url": "https://www.skysports.com/watch/video/13607870/jamie-oharas-brutal-assessment-of-man-utd-despite-roma-win-theyre-not-good-enough",
+          "description": "Jamie O'Hara believes that Manchester United have not hit a turning point despite the impressive 3-2 comeback against Roma in the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-04T10:41:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jamie-ohara-manchester-united_7396717.jpg?20261104105753"
+        },
         {
           "guid": "",
           "title": "Crystal Palace latest: Sage safe for now as Mateta red card appeal fails",
@@ -292,16 +282,6 @@
           "publishedAt": "2026-11-04T09:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker-west-ham_7396642.jpg?20261104092427"
-        },
-        {
-          "guid": "",
-          "title": "West Ham latest: VOTE - Is Parker the right man for the Hammers?",
-          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T09:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
         },
         {
           "guid": "",
@@ -415,13 +395,13 @@
         },
         {
           "guid": "",
-          "title": "Liverpool's unwanted record highlights creativity issue",
-          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
-          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
+          "title": "Why Infantino could now be made to answer questions on Trump links",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-03T12:55:00Z",
+          "publishedAt": "2026-11-03T13:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
+          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-donald-trump-gianni-infantino_7291301.jpg?20260706154956"
         },
         {
           "guid": "",
