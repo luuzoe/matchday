@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T00:33:15Z",
+      "fetchedAt": "2026-11-04T02:14:12Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
+          "title": "Fernandes critical of media 'lies' about Carrick relationship",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+          "description": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
+          "author": "",
+          "publishedAt": "2026-11-04T00:45:33Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#0",
           "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
@@ -45,16 +55,6 @@
           "publishedAt": "2026-11-03T23:25:20Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
-          "title": "We don't need to save anyone's job, says Man Utd captain Fernandes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-          "description": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma.",
-          "author": "",
-          "publishedAt": "2026-11-03T23:25:13Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#0",
@@ -221,7 +221,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T00:33:15Z",
+      "fetchedAt": "2026-11-04T02:14:13Z",
       "articles": [
         {
           "guid": "",
