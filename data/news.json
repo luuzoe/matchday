@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T12:43:06Z",
+      "fetchedAt": "2026-11-04T13:33:03Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#0",
+          "title": "Nadal set to join Real Madrid board of directors",
+          "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+          "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-04T13:21:01Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#2",
           "title": "Real reach verbal agreement to sign Man Utd's Gabriel",
@@ -235,6 +245,16 @@
           "publishedAt": "2026-11-03T15:10:54Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#3",
+          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+          "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache. ",
+          "author": "",
+          "publishedAt": "2026-11-03T15:07:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
         }
       ]
     },
