@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T19:03:11Z",
+      "fetchedAt": "2026-11-04T19:33:04Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#16",
@@ -255,6 +255,16 @@
           "publishedAt": "2026-11-03T23:37:12Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#5",
+          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+          "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache. ",
+          "author": "",
+          "publishedAt": "2026-11-03T15:07:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
         }
       ]
     },
