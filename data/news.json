@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T16:04:03Z",
+      "fetchedAt": "2026-11-04T16:13:28Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#2",
@@ -235,13 +235,23 @@
           "publishedAt": "2026-11-03T15:39:21Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#6",
+          "title": "McTominay returns as Penrice earns first Scotland call",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
+          "description": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
+          "author": "",
+          "publishedAt": "2026-11-03T11:29:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T16:04:04Z",
+      "fetchedAt": "2026-11-04T16:13:28Z",
       "articles": [
         {
           "guid": "",
