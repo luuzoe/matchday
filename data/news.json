@@ -240,7 +240,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T11:13:45Z",
+      "fetchedAt": "2026-11-04T11:32:57Z",
       "articles": [
         {
           "guid": "",
@@ -291,6 +291,16 @@
           "publishedAt": "2026-11-04T09:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker-west-ham_7396642.jpg?20261104092427"
+        },
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
+          "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
+          "url": "https://www.skysports.com/football/news/11095/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
+          "description": "Real Madrid have reached a verbal agreement with 16-year-old JJ Gabriel over a potential move to the Santiago Bernabeu.",
+          "author": "",
+          "publishedAt": "2026-11-04T09:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-jj-gabriel-man-utd_7369112.jpg?20261005182930"
         },
         {
           "guid": "",
