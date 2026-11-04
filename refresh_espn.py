@@ -219,6 +219,37 @@ def main():
         if news:
             write(news_path, {'provider': 'ESPN', 'fetchedAt': stamp(), 'competitions': news})
         print(f'League news snapshots cached: {len(news)}', flush=True)
+    stats_path = ROOT / 'player-stats.json'
+    previous_stats = read(stats_path)
+    if not previous_stats or age(previous_stats) > 600:
+        stats = dict((previous_stats or {}).get('competitions', {}))
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            jobs = {}
+            for code in LEAGUES:
+                year = int((previous_competitions.get(code) or {}).get('currentSeasonYear') or 0)
+                if year:
+                    jobs[pool.submit(get, f'{code}/statistics?season={year}')] = (code, year)
+            for job in as_completed(jobs):
+                code, year = jobs[job]
+                try:
+                    payload = job.result()
+                    groups = [group for group in (payload.get('stats') or []) if isinstance(group, dict) and group.get('leaders')]
+                    if int((payload.get('season') or {}).get('year') or year) != year or not groups:
+                        raise ValueError('ESPN did not return player leader categories')
+                    trimmed = []
+                    for group in groups:
+                        leaders = []
+                        for leader in group.get('leaders', [])[:20]:
+                            athlete = leader.get('athlete') or {}
+                            team = leader.get('team') or {}
+                            leaders.append({'athlete': {'displayName': athlete.get('displayName') or athlete.get('fullName') or '', 'team': {'displayName': ((athlete.get('team') or {}).get('displayName') or '')}}, 'team': {'displayName': team.get('displayName') or team.get('name') or ''}, 'value': leader.get('value'), 'displayValue': leader.get('displayValue')})
+                        trimmed.append({'name': group.get('name'), 'displayName': group.get('displayName'), 'leaders': leaders})
+                    stats[code] = {'fetchedAt': stamp(), 'seasonYear': year, 'stats': trimmed, 'season': payload.get('season')}
+                except Exception as exc:
+                    print(f'League player stats {code}: preserving previous response ({type(exc).__name__})', flush=True)
+        if stats:
+            write(stats_path, {'provider': 'ESPN', 'fetchedAt': stamp(), 'competitions': stats})
+        print(f'League player stats snapshots cached: {len(stats)}', flush=True)
     dates = [(now + timedelta(days=offset)).strftime('%Y%m%d') for offset in range(-3, 8)]
     scoreboards = {day: {'provider': 'ESPN', 'fetchedAt': stamp(), 'leagues': {}} for day in dates}
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:

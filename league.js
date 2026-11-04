@@ -319,6 +319,15 @@
     return { ...data, fetchedAt: data.fetchedAt || snapshot.fetchedAt || '', provider: 'ESPN snapshot' };
   }
 
+  async function cachedPlayerStats(id, year) {
+    const snapshot = await fetchJSON(`./data/espn/player-stats.json?v=${Math.floor(Date.now() / 600000)}`);
+    const data = snapshot.competitions?.[id];
+    if (!data || Number(data.seasonYear) !== Number(year)) throw new Error(`No same-season ESPN player stats cache for ${id}`);
+    const groups = (Array.isArray(data.stats) ? data.stats : []).filter(group => Array.isArray(group.leaders) && group.leaders.length);
+    if (!groups.length) throw new Error(`No ESPN player stats cache for ${id}`);
+    return { season: data.season || { year: Number(year) }, stats: data.stats };
+  }
+
   function seasonFor(model) {
     return model.seasons.find(item => Number(item.year) === Number(model.selectedYear)) || {
       year: Number(model.selectedYear), leagueName: String(model.selectedYear), provider: 'ESPN'
@@ -570,9 +579,14 @@
         if (Number(payload.season?.year) !== year || !groups.length) throw new Error('ESPN returned no player leader categories');
         model.statsSource = 'ESPN';
       } catch (liveError) {
-        payload = openLigaPlayerStats(model, year);
-        if (!payload) throw liveError;
-        model.statsSource = 'OpenLigaDB (ODbL 1.0)';
+        try {
+          payload = await cachedPlayerStats(model.id, year);
+          model.statsSource = 'ESPN snapshot';
+        } catch (cacheError) {
+          payload = openLigaPlayerStats(model, year);
+          if (!payload) throw liveError;
+          model.statsSource = 'OpenLigaDB (ODbL 1.0)';
+        }
       }
       if (Number(model.selectedYear) !== year) return;
       model.stats = payload;
