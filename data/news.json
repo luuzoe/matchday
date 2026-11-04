@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T19:52:55Z",
+      "fetchedAt": "2026-11-04T19:53:22Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#2",
@@ -67,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#2",
           "title": "Rangers' McInnes eager for Penrice deal",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
           "description": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
@@ -225,33 +225,13 @@
           "publishedAt": "2026-11-04T00:45:33Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#3",
-          "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-          "description": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-          "author": "",
-          "publishedAt": "2026-11-04T00:27:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo#5",
-          "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero Hincapie, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-03T22:55:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T19:33:26Z",
+      "fetchedAt": "2026-11-04T19:53:23Z",
       "articles": [
         {
           "guid": "",
@@ -265,7 +245,7 @@
         },
         {
           "guid": "",
-          "title": "Parker takes charge of West Ham for first time at Cardiff LIVE!",
+          "title": "Cardiff vs West Ham as Parker takes charge LIVE!",
           "url": "https://www.skysports.com/football/cardiff-city-vs-west-ham-united/live/560663",
           "description": "",
           "author": "",
@@ -305,7 +285,7 @@
         },
         {
           "guid": "",
-          "title": "Liverpool stunned as Fenerbahce come from behind to lead LIVE!",
+          "title": "Fenerbahce complete remarkable comeback to beat Liverpool LIVE!",
           "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
           "description": "",
           "author": "",
