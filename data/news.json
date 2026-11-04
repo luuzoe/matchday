@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T22:23:31Z",
+      "fetchedAt": "2026-11-04T22:43:07Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo#3",
+          "title": "Dortmund take narrow win over Real Betis",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
+          "description": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-04T22:31:57Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o#8",
           "title": "Emphatic Porto thrash Napoli in second-half romp",
@@ -539,15 +548,6 @@
           "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
           "author": "",
           "publishedAt": "2026-10-29T13:19:52Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o#14",
-          "title": "Which game will Chelsea's Palmer miss after red card?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United.",
-          "author": "",
-          "publishedAt": "2026-10-26T14:12:43Z",
           "publisher": "BBC Sport"
         }
       ]
