@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T18:33:28Z",
+      "fetchedAt": "2026-11-04T18:53:25Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#0",
@@ -241,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T18:52:58Z",
+      "fetchedAt": "2026-11-04T18:53:26Z",
       "articles": [
         {
           "guid": "",
@@ -255,7 +255,7 @@
         },
         {
           "guid": "",
-          "title": "Slavia Prague vs Arsenal build-up LIVE!",
+          "title": "Arsenal make SIX changes for Slavia Prague game LIVE!",
           "url": "https://www.skysports.com/football/slavia-prague-vs-arsenal/live/577667",
           "description": "",
           "author": "",
@@ -285,7 +285,7 @@
         },
         {
           "guid": "",
-          "title": "Fenerbahce respond immediately after Nyoni gives Liverpool lead LIVE!",
+          "title": "Fenerbahce level and putting Liverpool under pressure LIVE!",
           "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
           "description": "",
           "author": "",
@@ -375,7 +375,7 @@
         },
         {
           "guid": "",
-          "title": "RB Leipzig vs Man City team news LIVE!",
+          "title": "Cherki and Foden start for Man City at RB Leipzig LIVE!",
           "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/live/577666",
           "description": "",
           "author": "",
@@ -395,6 +395,16 @@
         },
         {
           "guid": "",
+          "title": "Aston Villa latest: Club hold 'positive discussions' over Emery contract extension",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T22:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+        },
+        {
+          "guid": "",
           "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
           "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
           "description": "Manchester United produced an extraordinary comeback from two down to beat Roma 3-2 at Old Trafford and pick up their first win in 10 games.",
@@ -402,16 +412,6 @@
           "publishedAt": "2026-11-03T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-matheus-cunha-man-utd_7396297.jpg?20261103224600"
-        },
-        {
-          "guid": "",
-          "title": "Raphinha double sees Barca power past Villa",
-          "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
-          "description": "Raphinha's second-half double inspired Barcelona to a 3-0 victory against Aston Villa at the Camp Nou as Unai Emery's side saw their three-game winning run in the Champions League come to an end.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7396177.jpg?20261103212704"
         },
         {
           "guid": "",
@@ -442,16 +442,6 @@
           "publishedAt": "2026-11-02T10:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/SKYSPORTS_5acd404f0efc3093240c6c0e21ab369855df54510c2e200ee61be1c7f123424a_7394693.jpg?20261102104226"
-        },
-        {
-          "guid": "",
-          "title": "Leeds latest: Bellamy backing Wilson and Rodon to impress for Wales",
-          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-31T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
         }
       ]
     }
