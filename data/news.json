@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T07:13:02Z",
+      "fetchedAt": "2026-11-04T07:13:30Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#0",
@@ -137,16 +137,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo#6",
-          "title": "Wrexham suffer 'significant' Smith injury blow",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
-          "description": "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
-          "author": "",
-          "publishedAt": "2026-11-03T15:20:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e14/live/90c22740-d798-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/news/articles/c9vgrvjj0162o#16",
           "title": "Former Rangers player Kyle Hutton to stand trial over road death",
           "url": "https://www.bbc.co.uk/news/articles/c9vgrvjj0162o?at_medium=RSS&at_campaign=rss",
@@ -231,7 +221,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T02:14:13Z",
+      "fetchedAt": "2026-11-04T07:13:30Z",
       "articles": [
         {
           "guid": "",
@@ -365,7 +355,7 @@
         },
         {
           "guid": "",
-          "title": "Birmingham go second as struggling Derby, Preston lose again - Championship highlights",
+          "title": "Birmingham go second as struggling Derby, Preston lose - Championship highlights",
           "url": "https://www.skysports.com/football/live-blog/11095/13607564/west-brom-vs-southampton-live-championship-match-updates-score-stream-and-free-highlights",
           "description": "",
           "author": "",
