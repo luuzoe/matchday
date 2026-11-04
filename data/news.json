@@ -231,8 +231,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T14:53:50Z",
+      "fetchedAt": "2026-11-04T16:03:32Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
+          "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
+          "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
+          "description": "Sky Sports' Kaveh Solhekol looks at whether JJ Gabriel should leave Manchester United for Real Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-04T15:22:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-real-madrid-jj-gabriel_7397049.jpg?20261104154518"
+        },
         {
           "guid": "",
           "title": "Crystal Palace latest: Henderson backing 'brilliant' Sage to come good",
