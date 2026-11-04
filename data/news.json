@@ -4,16 +4,34 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T22:13:42Z",
+      "fetchedAt": "2026-11-04T22:23:31Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o#8",
+          "title": "Emphatic Porto thrash Napoli in second-half romp",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
+          "description": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
+          "author": "",
+          "publishedAt": "2026-11-04T22:17:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo#4",
+          "title": "Haaland scores winner as Man City beat Leipzig",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+          "description": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
+          "author": "",
+          "publishedAt": "2026-11-04T22:15:31Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro#4",
           "title": "Arsenal survive late Slavia scare for hard-fought win",
           "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
           "author": "",
           "publishedAt": "2026-11-04T22:10:07Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmx23lxy5nq1o#1",
@@ -22,25 +40,25 @@
           "description": "Sporting get their Champions League campaign back on track as they claim a 1-0 win over Shakhtar Donetsk - just one day after sacking their head coach.",
           "author": "",
           "publishedAt": "2026-11-04T22:04:29Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o#4",
           "title": "Liverpool crumble at Kuyt's Fenerbahce",
           "url": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
           "description": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.",
           "author": "",
           "publishedAt": "2026-11-04T22:04:16Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o#4",
           "title": "Valverde stunner earns Real Madrid late win at AEK Athens",
           "url": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
           "description": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row.",
           "author": "",
           "publishedAt": "2026-11-04T22:04:13Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ckwy4g1d5dpjo#1",
@@ -49,25 +67,25 @@
           "description": "Norway's Bodo/Glimt play out a goalless draw at home against French side Lille in the Champions League, leaving both sides in the bottom half of the league phase following an uninspiring affair.",
           "author": "",
           "publishedAt": "2026-11-04T22:04:11Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno#4",
           "title": "Manchester United beat Roma in epic second-half comeback",
           "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford.",
           "author": "",
           "publishedAt": "2026-11-04T22:04:05Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko#8",
           "title": "Raphinha scores twice as Barcelona beat Aston Villa",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
           "description": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp.",
           "author": "",
           "publishedAt": "2026-11-04T22:04:02Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po#8",
@@ -76,7 +94,7 @@
           "description": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.",
           "author": "",
           "publishedAt": "2026-11-04T22:03:54Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o#8",
@@ -85,7 +103,7 @@
           "description": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
           "author": "",
           "publishedAt": "2026-11-04T22:03:51Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cwkg5lj9xl1zo#1",
@@ -94,7 +112,7 @@
           "description": "Galatasaray boost their hopes of reaching the knockout stage of the Champions League with victory at home to Stuttgart.",
           "author": "",
           "publishedAt": "2026-11-04T22:03:49Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6x29z0m0pd9o#1",
@@ -103,7 +121,7 @@
           "description": "Austrian champions LASK secure back-to-back Champions League wins with a dominant 4-0 victory over bottom side Slovan Bratislava, who remain without a point after four games.",
           "author": "",
           "publishedAt": "2026-11-04T22:03:47Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#0",
@@ -121,7 +139,7 @@
           "description": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
           "author": "",
           "publishedAt": "2026-11-04T19:00:49Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#0",
@@ -150,7 +168,7 @@
           "description": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
           "author": "",
           "publishedAt": "2026-11-04T17:28:52Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#17",
@@ -159,7 +177,7 @@
           "description": "Heart of Midlothian record a loss of £2.4m for the year ending 30 June, despite a turnover of more than £23m the first 12 months of Brighton owner Tony Bloom's involvement.",
           "author": "",
           "publishedAt": "2026-11-04T17:00:49Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#2",
@@ -168,16 +186,16 @@
           "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
           "author": "",
           "publishedAt": "2026-11-04T16:40:38Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#17",
-          "title": "Upward path for Penrice has McInnes eager for Rangers deal",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#3",
+          "title": "Rangers' McInnes eager for Penrice deal",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
           "description": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
           "author": "",
           "publishedAt": "2026-11-04T16:38:41Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#6",
@@ -186,7 +204,7 @@
           "description": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
           "author": "",
           "publishedAt": "2026-11-04T16:15:00Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#0",
@@ -205,17 +223,16 @@
           "description": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
           "author": "",
           "publishedAt": "2026-11-04T16:02:08Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#0",
+          "guid": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#3",
           "title": "Nadal set to join Real Madrid board of directors",
           "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
           "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
           "author": "",
           "publishedAt": "2026-11-04T13:21:01Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#4",
@@ -224,7 +241,7 @@
           "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
           "author": "",
           "publishedAt": "2026-11-04T11:54:59Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#0",
@@ -243,7 +260,7 @@
           "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
           "author": "",
           "publishedAt": "2026-11-04T10:30:19Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#6",
@@ -252,7 +269,7 @@
           "description": "Crystal Palace lose their appeal against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
           "author": "",
           "publishedAt": "2026-11-04T10:23:14Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#18",
@@ -261,16 +278,16 @@
           "description": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
           "author": "",
           "publishedAt": "2026-11-04T09:55:26Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#3",
           "title": "From Derby to Champions League - Brown's journey to face Reds",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
           "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
           "author": "",
           "publishedAt": "2026-11-04T08:58:24Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo#2",
@@ -279,7 +296,7 @@
           "description": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
           "author": "",
           "publishedAt": "2026-11-04T08:27:25Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pl78bz#17",
@@ -288,7 +305,7 @@
           "description": "Leaky defences, the enigma of Kasper Høgh and can Pogcognoli get his system to work?",
           "author": "",
           "publishedAt": "2026-11-04T08:00:00Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#6",
@@ -297,7 +314,7 @@
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "author": "",
           "publishedAt": "2026-11-04T07:06:19Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo#17",
@@ -306,7 +323,7 @@
           "description": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
           "author": "",
           "publishedAt": "2026-11-04T07:03:05Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#6",
@@ -315,7 +332,7 @@
           "description": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
           "author": "",
           "publishedAt": "2026-11-04T00:45:33Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#4",
@@ -324,7 +341,7 @@
           "description": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
           "author": "",
           "publishedAt": "2026-11-04T00:27:37Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#6",
@@ -333,7 +350,7 @@
           "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
           "author": "",
           "publishedAt": "2026-11-03T23:58:22Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#7",
@@ -342,7 +359,7 @@
           "description": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
           "author": "",
           "publishedAt": "2026-11-03T23:25:20Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#7",
@@ -351,7 +368,7 @@
           "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
           "author": "",
           "publishedAt": "2026-11-03T16:54:35Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo#18",
@@ -360,7 +377,7 @@
           "description": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
           "author": "",
           "publishedAt": "2026-11-03T15:39:21Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#18",
@@ -369,7 +386,7 @@
           "description": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
           "author": "",
           "publishedAt": "2026-11-03T12:28:26Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o#11",
@@ -378,7 +395,7 @@
           "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
           "author": "",
           "publishedAt": "2026-11-02T23:09:36Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo#8",
@@ -387,7 +404,7 @@
           "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
           "author": "",
           "publishedAt": "2026-11-02T23:01:13Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o#8",
@@ -396,7 +413,7 @@
           "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
           "author": "",
           "publishedAt": "2026-11-02T22:54:52Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#8",
@@ -405,7 +422,7 @@
           "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
           "author": "",
           "publishedAt": "2026-11-02T22:44:30Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pkxggd#18",
@@ -414,7 +431,7 @@
           "description": "Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?",
           "author": "",
           "publishedAt": "2026-11-02T18:10:00Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o#11",
@@ -423,7 +440,7 @@
           "description": "Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?",
           "author": "",
           "publishedAt": "2026-11-02T13:56:37Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo#8",
@@ -432,7 +449,7 @@
           "description": "Watch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action.",
           "author": "",
           "publishedAt": "2026-11-02T11:42:40Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#14",
@@ -441,7 +458,7 @@
           "description": "Hull City's Matt Crooks and Aston Villa's Matty Cash are the first players to receive a one-match ban for accumulating five yellow cards in the 2025-26 Premier League season.",
           "author": "",
           "publishedAt": "2026-11-02T09:58:42Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o#8",
@@ -450,7 +467,7 @@
           "description": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
           "author": "",
           "publishedAt": "2026-11-02T00:00:21Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o#8",
@@ -459,7 +476,7 @@
           "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
           "author": "",
           "publishedAt": "2026-11-02T00:00:03Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#8",
@@ -468,7 +485,7 @@
           "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
           "author": "",
           "publishedAt": "2026-11-01T20:00:18Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o#18",
@@ -477,7 +494,7 @@
           "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
           "author": "",
           "publishedAt": "2026-11-01T15:49:47Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo#11",
@@ -486,7 +503,7 @@
           "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
           "author": "",
           "publishedAt": "2026-11-01T11:11:40Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o#11",
@@ -495,7 +512,7 @@
           "description": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
           "author": "",
           "publishedAt": "2026-10-31T21:16:11Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo#11",
@@ -504,7 +521,7 @@
           "description": "Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.",
           "author": "",
           "publishedAt": "2026-10-31T15:21:24Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o#11",
@@ -513,7 +530,7 @@
           "description": "BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be",
           "author": "",
           "publishedAt": "2026-10-31T11:18:53Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o#11",
@@ -522,7 +539,7 @@
           "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
           "author": "",
           "publishedAt": "2026-10-29T13:19:52Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o#14",
@@ -531,32 +548,14 @@
           "description": "BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United.",
           "author": "",
           "publishedAt": "2026-10-26T14:12:43Z",
-          "publisher": "Sky Sports"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o#14",
-          "title": "Who is close to a yellow card suspension in Champions League?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
-          "author": "",
-          "publishedAt": "2026-10-22T08:54:13Z",
-          "publisher": "Sky Sports"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo#1",
-          "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
-          "url": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&at_campaign=rss",
-          "description": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
-          "author": "",
-          "publishedAt": "2026-10-21T22:41:53Z",
-          "publisher": "Sky Sports"
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T22:13:42Z",
+      "fetchedAt": "2026-11-04T22:23:31Z",
       "articles": [
         {
           "guid": "",
@@ -567,6 +566,16 @@
           "publishedAt": "2026-11-04T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arsenal-slavia_7397339.jpg?20261104204759"
+        },
+        {
+          "guid": "",
+          "title": "Haaland nets Man City winner to haunt RB Leipzig again",
+          "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666",
+          "description": "Erling Haaland haunted RB Leipzig again to earn Manchester City a thrilling 3-2 victory in the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-04T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-erling-haaland-man-city_7397445.jpg?20261104221134"
         },
         {
           "guid": "",
@@ -587,6 +596,16 @@
           "publishedAt": "2026-11-04T21:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-cardiff_7397415.jpg?20261104214334"
+        },
+        {
+          "guid": "",
+          "title": "Wolves hit back to beat Bristol City after late Neave double",
+          "url": "https://www.skysports.com/football/bristol-city-vs-wolverhampton-wanderers/report/560662",
+          "description": "Substitute Sean Neave scored a late brace as Wolves came from behind to secure a 2-1 Sky Bet Championship win over Bristol City at Ashton Gate.",
+          "author": "",
+          "publishedAt": "2026-11-04T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-sean-neave-wolves_7397432.jpg?20261104215544"
         },
         {
           "guid": "",
