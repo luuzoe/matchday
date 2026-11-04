@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T07:13:30Z",
+      "fetchedAt": "2026-11-04T07:22:51Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#0",
@@ -15,6 +15,16 @@
           "publishedAt": "2026-11-04T07:06:19Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo#16",
+          "title": "New strategy launched to transform Scottish women's football over 10 years",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&at_campaign=rss",
+          "description": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
+          "author": "",
+          "publishedAt": "2026-11-04T07:03:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
