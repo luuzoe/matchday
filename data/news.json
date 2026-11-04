@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T09:23:28Z",
+      "fetchedAt": "2026-11-04T09:43:00Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#0",
+          "title": "West Ham confirm Parker as boss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
+          "author": "",
+          "publishedAt": "2026-11-04T09:38:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#0",
           "title": "Real Madrid confident of signing Man Utd's Gabriel",
@@ -235,6 +245,16 @@
           "publishedAt": "2026-11-03T12:28:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo#6",
+          "title": "Tenerife striker De Miguel dies after on-field collision ",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+          "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+          "author": "",
+          "publishedAt": "2026-11-03T09:09:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
         }
       ]
     },
