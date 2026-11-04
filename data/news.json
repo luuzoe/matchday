@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T10:52:52Z",
+      "fetchedAt": "2026-11-04T11:13:03Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#0",
+          "title": "Wilson returns as Wales call up uncapped Duncan",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
+          "author": "",
+          "publishedAt": "2026-11-04T10:30:19Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e1/live/ea0b03a0-d836-11f1-87c3-29e1cdce63c6.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#0",
           "title": "Palace lose appeal against Mateta red card",
@@ -225,6 +235,16 @@
           "publishedAt": "2026-11-03T15:07:49Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#6",
+          "title": "The referee who became a role model after bouncing back from Diaz error",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ",
+          "author": "",
+          "publishedAt": "2026-11-03T06:41:31Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
         }
       ]
     },
