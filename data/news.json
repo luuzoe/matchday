@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T02:14:12Z",
+      "fetchedAt": "2026-11-04T07:13:02Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-04T07:06:19Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#0",
           "title": "Fernandes critical of media 'lies' about Carrick relationship",
