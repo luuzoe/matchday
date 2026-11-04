@@ -4,10 +4,10 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T19:33:04Z",
+      "fetchedAt": "2026-11-04T19:33:25Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#16",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#2",
           "title": "Hearts lose Miller for two months as injuries mount",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
           "description": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
@@ -17,7 +17,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#0",
           "title": "An island in mourning: Tenerife processes death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
           "description": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
@@ -147,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e1/live/ea0b03a0-d836-11f1-87c3-29e1cdce63c6.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#3",
           "title": "Palace lose appeal against Mateta red card",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
           "description": "Crystal Palace lose their appeal against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
@@ -157,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c845/live/60770320-d794-11f1-801d-cf196dc7232c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#2",
           "title": "How Carpenter has become Chelsea's surprise star",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
           "description": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
@@ -170,7 +170,7 @@
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#2",
           "title": "From Derby to Champions League - Brown's journey to face Reds",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening. ",
+          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
           "author": "",
           "publishedAt": "2026-11-04T08:58:24Z",
           "publisher": "BBC Sport",
@@ -225,54 +225,24 @@
           "publishedAt": "2026-11-04T00:45:33Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#2",
-          "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-          "description": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-          "author": "",
-          "publishedAt": "2026-11-04T00:27:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#3",
-          "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
-          "author": "",
-          "publishedAt": "2026-11-03T23:58:22Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de38/live/9ad09e20-d7e2-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo#3",
-          "title": "Football world mourns Tenerife striker De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-          "description": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-          "author": "",
-          "publishedAt": "2026-11-03T23:37:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#5",
-          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
-          "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache. ",
-          "author": "",
-          "publishedAt": "2026-11-03T15:07:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T18:53:26Z",
+      "fetchedAt": "2026-11-04T19:33:26Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Aston Villa latest: Club hold 'positive discussions' over Emery contract extension",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T19:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+        },
         {
           "guid": "",
           "title": "Parker takes charge of West Ham for first time at Cardiff LIVE!",
@@ -315,13 +285,13 @@
         },
         {
           "guid": "",
-          "title": "Fenerbahce level and putting Liverpool under pressure LIVE!",
+          "title": "Liverpool stunned as Fenerbahce come from behind to lead LIVE!",
           "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-04T16:15:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-fenerbahce-liverpool_7397221.jpg?20261104182607"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-trey-nyoni_7397270.jpg?20261104192420"
         },
         {
           "guid": "",
@@ -411,7 +381,7 @@
           "author": "",
           "publishedAt": "2026-11-04T09:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-rico-lewis_7382177.jpg?20261020210204"
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-man-city_7382171.jpg?20261020205622"
         },
         {
           "guid": "",
@@ -422,16 +392,6 @@
           "publishedAt": "2026-11-04T07:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-man-utd_7396356.jpg?20261103234713"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: Club hold 'positive discussions' over Emery contract extension",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T22:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
         },
         {
           "guid": "",
@@ -465,13 +425,13 @@
         },
         {
           "guid": "",
-          "title": "Barcola: People are starting to understand me better - but I'm not Mo Salah",
-          "url": "https://www.skysports.com/football/news/11095/13607009/bradley-barcola-interview-liverpool-winger-discusses-leaving-psg-settling-in-at-anfield-overcoming-the-price-tag-and-mohamed-salah-pressure",
-          "description": "Big money signings can take time to get going at their new club. There are plenty at Liverpool who can testify to that.",
+          "title": "Leeds latest: Bellamy backing Wilson and Rodon to impress for Wales",
+          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-02T10:40:00Z",
+          "publishedAt": "2026-10-31T17:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/SKYSPORTS_5acd404f0efc3093240c6c0e21ab369855df54510c2e200ee61be1c7f123424a_7394693.jpg?20261102104226"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
         }
       ]
     }
