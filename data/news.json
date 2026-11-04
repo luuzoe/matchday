@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T18:53:25Z",
+      "fetchedAt": "2026-11-04T19:03:11Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#16",
+          "title": "Hearts lose Miller for two months as injuries mount",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
+          "description": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
+          "author": "",
+          "publishedAt": "2026-11-04T19:00:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#2",
+          "title": "An island in mourning: Tenerife processes death of De Miguel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+          "description": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+          "author": "",
+          "publishedAt": "2026-11-04T18:51:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6896/live/80cda3d0-d880-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#0",
           "title": "How landmark Everton compensation prevented Burnley record loss",
@@ -147,10 +167,10 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e5/live/84926a10-d82a-11f1-be97-417dbcdedd32.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#2",
           "title": "From Derby to Champions League - Brown's journey to face Reds",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
+          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening. ",
           "author": "",
           "publishedAt": "2026-11-04T08:58:24Z",
           "publisher": "BBC Sport",
@@ -217,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#3",
           "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
