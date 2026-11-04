@@ -4,13 +4,13 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T09:03:08Z",
+      "fetchedAt": "2026-11-04T09:03:28Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#0",
           "title": "From Derby to Champions League - Brown's journey to face Reds",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening. ",
+          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
           "author": "",
           "publishedAt": "2026-11-04T08:58:24Z",
           "publisher": "BBC Sport",
@@ -137,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b0/live/f8037c40-d78b-11f1-9440-953b82c8f55a.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#3",
           "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
           "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
           "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
@@ -217,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/6cec1e90-d782-11f1-a391-ad4d37bef273.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#2",
           "title": "West Ham approach Parker after sacking boss Nuno",
           "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
           "description": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
@@ -227,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005e/live/4825efe0-d774-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo#6",
           "title": "Shaw among big names to miss out on FifPro World XI",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss",
           "description": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
@@ -235,23 +235,13 @@
           "publishedAt": "2026-11-03T12:28:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687e/live/cbd9c2e0-d769-11f1-a956-ff083523ef77.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do#5",
-          "title": "McTominay returns as Penrice earns first Scotland call",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
-          "description": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
-          "author": "",
-          "publishedAt": "2026-11-03T11:29:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T08:23:17Z",
+      "fetchedAt": "2026-11-04T09:03:29Z",
       "articles": [
         {
           "guid": "",
@@ -265,7 +255,7 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Carrick refusing to get carried away after 'important' win",
+          "title": "Man Utd latest: Is win over Roma a turning point? Have your say!",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
