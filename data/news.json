@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T17:13:59Z",
+      "fetchedAt": "2026-11-04T17:43:10Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#0",
+          "title": "Ex-Burnley striker Rodriguez announces retirement",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
+          "description": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
+          "author": "",
+          "publishedAt": "2026-11-04T17:28:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#16",
           "title": "Hearts record £2.4m loss in Bloom's first year",
@@ -27,7 +37,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o#0",
           "title": "Rangers' McInnes eager for Penrice deal",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
           "description": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
@@ -177,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o#3",
           "title": "Fernandes critical of media 'lies' about Carrick relationship",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
           "description": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
@@ -187,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#2",
           "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
           "description": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
@@ -197,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#2",
           "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
@@ -217,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#5",
           "title": "Man Utd beat Roma - the other great Champions League comebacks",
           "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
@@ -245,6 +255,16 @@
           "publishedAt": "2026-11-03T22:55:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#6",
+          "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+          "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+          "author": "",
+          "publishedAt": "2026-11-03T16:54:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"
         }
       ]
     },
