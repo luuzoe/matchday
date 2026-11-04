@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T16:13:28Z",
+      "fetchedAt": "2026-11-04T16:23:09Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#0",
+          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+          "author": "",
+          "publishedAt": "2026-11-04T16:12:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#2",
           "title": "What are rules on loan players in Champions League?",
@@ -251,8 +261,28 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T16:13:28Z",
+      "fetchedAt": "2026-11-04T16:23:09Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
+          "title": "Fenerbahce vs Liverpool LIVE!",
+          "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T16:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-liverpool-chelsea_7390278.jpg?20261028205303"
+        },
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13608001/jesus-de-miguel-goalkeeper-jesus-owono-defended-by-fc-andorra-team-mate-after-tenerife-forwards-death",
+          "title": "Keeper defended after De Miguel's death - 'He would never intend to hurt anyone'",
+          "url": "https://www.skysports.com/football/news/11095/13608001/jesus-de-miguel-goalkeeper-jesus-owono-defended-by-fc-andorra-team-mate-after-tenerife-forwards-death",
+          "description": "Jesus Owono's team-mate has insisted the FC Andorra goalkeeper would never intend to hurt a fellow player following the death of Jesus de Miguel.",
+          "author": "",
+          "publishedAt": "2026-11-04T15:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104154812"
+        },
         {
           "guid": "",
           "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
