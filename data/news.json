@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T20:02:59Z",
+      "fetchedAt": "2026-11-04T21:53:20Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#0",
+          "title": "Emery in line for new Villa deal - Thursday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
+          "description": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-04T21:41:04Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#2",
           "title": "Hearts lose Miller for two months as injuries mount",
@@ -227,6 +236,15 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko#5",
+          "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
+          "author": "",
+          "publishedAt": "2026-11-03T23:58:22Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#6",
           "title": "Man Utd beat Roma - the other great Champions League comebacks",
           "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
@@ -240,8 +258,28 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T20:02:59Z",
+      "fetchedAt": "2026-11-04T21:53:20Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Boro struggle without Lankshear as Wrexham beat Championship leaders",
+          "url": "https://www.skysports.com/football/wrexham-vs-middlesbrough/report/560665",
+          "description": "Championship leaders Middlesbrough suffered only their second league defeat of the season as Wrexham eased the pressure on Phil Parkinson with a much-needed 2-0 win.",
+          "author": "",
+          "publishedAt": "2026-11-04T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wrexham-fc_7397418.jpg?20261104214358"
+        },
+        {
+          "guid": "",
+          "title": "West Ham fight back for point at Cardiff in Parker's first game",
+          "url": "https://www.skysports.com/football/cardiff-city-vs-west-ham-united/report/560663",
+          "description": "Scott Parker saw his West Ham side recover from three goals down to draw 3-3 at Cardiff in a thrilling first game in charge.",
+          "author": "",
+          "publishedAt": "2026-11-04T21:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-cardiff_7397415.jpg?20261104214334"
+        },
         {
           "guid": "",
           "title": "Liverpool suffer first CL defeat of season after stunning Fenerbahce comeback",
