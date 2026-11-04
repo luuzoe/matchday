@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T13:33:03Z",
+      "fetchedAt": "2026-11-04T13:33:21Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo#0",
@@ -17,8 +17,18 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#2",
-          "title": "Real reach verbal agreement to sign Man Utd's Gabriel",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#0",
+          "title": "West Ham confirm Parker as boss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
+          "author": "",
+          "publishedAt": "2026-11-04T11:54:59Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#0",
+          "title": "Real Madrid reach verbal agreement to sign Gabriel",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
           "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
           "author": "",
@@ -55,16 +65,6 @@
           "publishedAt": "2026-11-04T10:23:14Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c845/live/60770320-d794-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo#0",
-          "title": "West Ham confirm Parker as boss",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
-          "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
-          "author": "",
-          "publishedAt": "2026-11-04T10:03:25Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#0",
@@ -177,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#3",
           "title": "Man Utd beat Roma - the other great Champions League comebacks",
           "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
@@ -197,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#5",
           "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
           "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
           "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
@@ -205,16 +205,6 @@
           "publishedAt": "2026-11-03T16:54:35Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo#6",
-          "title": "How to follow the Champions League on the BBC",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
-          "description": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
-          "author": "",
-          "publishedAt": "2026-11-03T16:11:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo#5",
@@ -235,36 +225,26 @@
           "publishedAt": "2026-11-03T15:39:21Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/c9vgrvjj0162o#16",
-          "title": "Former Rangers player Kyle Hutton to stand trial over road death",
-          "url": "https://www.bbc.co.uk/news/articles/c9vgrvjj0162o?at_medium=RSS&at_campaign=rss",
-          "description": "Victoria Cairns died four days after the crash in Rutherglen in November 2024.",
-          "author": "",
-          "publishedAt": "2026-11-03T15:10:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o#3",
-          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
-          "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache. ",
-          "author": "",
-          "publishedAt": "2026-11-03T15:07:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T12:43:06Z",
+      "fetchedAt": "2026-11-04T13:33:22Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/tennis/news/11095/13607900/real-madrid-rafael-nadal-appointed-to-laliga-clubs-board-of-directors",
+          "guid": "",
+          "title": "Liverpool latest: Riise's thunderbolt revisited 25 years on",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T12:38:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
           "title": "Nadal appointed to Real Madrid board",
           "url": "https://www.skysports.com/tennis/news/11095/13607900/real-madrid-rafael-nadal-appointed-to-laliga-clubs-board-of-directors",
           "description": "Real Madrid have appointed Rafael Nadal to the club's board of directors.",
@@ -272,6 +252,16 @@
           "publishedAt": "2026-11-04T12:06:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-rafael-nadal_7396792.jpg?20261104121218"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Baleba injured, Lacey in? Pick your team to face Aston Villa",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T11:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
         },
         {
           "guid": "",
@@ -345,26 +335,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Is win over Roma a turning point? Your views!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T23:33:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-        },
-        {
-          "guid": "",
-          "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
-          "url": "https://www.skysports.com/football/news/11095/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
-          "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-03T23:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
           "title": "Aston Villa latest: 'Be ruthless and avoid mistakes,' says Emery after Barca",
           "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -382,16 +352,6 @@
           "publishedAt": "2026-11-03T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-matheus-cunha-man-utd_7396297.jpg?20261103224600"
-        },
-        {
-          "guid": "",
-          "title": "PSG hit Villarreal for six as Kane misses out on equalling record",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-psg-champions-league_7396318.jpg?20261103225529"
         },
         {
           "guid": "",
@@ -435,7 +395,7 @@
         },
         {
           "guid": "",
-          "title": "Chelsea latest: Martinez receives Argentina call up as injury return ramps up",
+          "title": "Chelsea latest: Martinez back in training after missing three matches with injury",
           "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -455,13 +415,13 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Iraola trusts Nyoni in Gravenberch's absence",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
+          "title": "Liverpool's unwanted record highlights creativity issue",
+          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
+          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
           "author": "",
-          "publishedAt": "2026-11-03T10:15:00Z",
+          "publishedAt": "2026-11-03T12:55:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
         },
         {
           "guid": "",
