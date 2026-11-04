@@ -241,8 +241,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T18:33:29Z",
+      "fetchedAt": "2026-11-04T18:52:58Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Parker takes charge of West Ham for first time at Cardiff LIVE!",
+          "url": "https://www.skysports.com/football/cardiff-city-vs-west-ham-united/live/560663",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T18:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-cardiff-west-ham_7394994.jpg?20261102150534"
+        },
         {
           "guid": "",
           "title": "Slavia Prague vs Arsenal build-up LIVE!",
