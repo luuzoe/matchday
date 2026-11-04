@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T11:36:27Z",
+      "fetchedAt": "2026-11-04T11:53:00Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#0",
+          "title": "Keeper Owono 'would never intentionally hurt anyone'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "description": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
+          "author": "",
+          "publishedAt": "2026-11-04T11:40:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#0",
           "title": "Wilson returns as Wales call up uncapped Duncan",
