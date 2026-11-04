@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T17:53:17Z",
+      "fetchedAt": "2026-11-04T18:33:28Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#0",
@@ -13,10 +13,11 @@
           "description": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
           "author": "",
           "publishedAt": "2026-11-04T17:48:19Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#2",
           "title": "Ex-Burnley striker Rodriguez announces retirement",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
           "description": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
@@ -56,7 +57,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#2",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#3",
           "title": "72+: The EFL Podcast",
           "url": "https://www.bbc.co.uk/sounds/play/p0pl9kk6?at_medium=RSS&at_campaign=rss",
           "description": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
@@ -116,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#2",
           "title": "Wilson returns as Wales call up uncapped Duncan",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
           "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
@@ -176,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl78cc.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#3",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -234,32 +235,13 @@
           "publishedAt": "2026-11-03T23:37:12Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko#5",
-          "title": "Man Utd beat Roma - the other great Champions League comebacks",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
-          "author": "",
-          "publishedAt": "2026-11-03T23:25:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po#6",
-          "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
-          "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
-          "author": "",
-          "publishedAt": "2026-11-03T16:54:35Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T18:32:56Z",
+      "fetchedAt": "2026-11-04T18:33:29Z",
       "articles": [
         {
           "guid": "",
@@ -293,13 +275,13 @@
         },
         {
           "guid": "",
-          "title": "Fenerbahce vs Liverpool LIVE!",
+          "title": "Fenerbahce respond immediately after Nyoni gives Liverpool lead LIVE!",
           "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-04T16:15:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-liverpool-chelsea_7390278.jpg?20261028205303"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-fenerbahce-liverpool_7397221.jpg?20261104182607"
         },
         {
           "guid": "",
@@ -333,16 +315,6 @@
         },
         {
           "guid": "",
-          "title": "Crystal Palace latest: Henderson backing 'brilliant' Sage to come good",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T14:48:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-        },
-        {
-          "guid": "",
           "title": "Liverpool latest: Riise's thunderbolt revisited 25 years on",
           "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -350,16 +322,6 @@
           "publishedAt": "2026-11-04T12:38:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "",
-          "title": "Nadal appointed to Real Madrid board",
-          "url": "https://www.skysports.com/tennis/news/11095/13607900/real-madrid-rafael-nadal-appointed-to-laliga-clubs-board-of-directors",
-          "description": "Real Madrid have appointed Rafael Nadal to the club's board of directors.",
-          "author": "",
-          "publishedAt": "2026-11-04T12:06:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-rafael-nadal_7396792.jpg?20261104121218"
         },
         {
           "guid": "",
@@ -420,16 +382,6 @@
           "publishedAt": "2026-11-04T07:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-man-utd_7396356.jpg?20261103234713"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: 'Be ruthless and avoid mistakes,' says Emery after Barca",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T22:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
         },
         {
           "guid": "",
