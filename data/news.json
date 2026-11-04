@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T08:23:16Z",
+      "fetchedAt": "2026-11-04T08:32:50Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo#16",
@@ -15,6 +15,16 @@
           "publishedAt": "2026-11-04T08:14:53Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a572/live/438686d0-d827-11f1-a701-fddedf244c16.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pl78bz#16",
+          "title": "Scottish Football Podcast",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pl78bz?at_medium=RSS&at_campaign=rss",
+          "description": "Leaky defences, the enigma of Kasper Høgh and can Pogcognoli get his system to work?",
+          "author": "",
+          "publishedAt": "2026-11-04T08:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl78cc.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo#0",
