@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T11:13:45Z",
+      "fetchedAt": "2026-11-04T11:18:58Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#0",
@@ -225,6 +225,15 @@
           "publishedAt": "2026-11-03T15:10:54Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo#6",
+          "title": "The referee who became a role model after bouncing back from Diaz error",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-03T06:41:31Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
