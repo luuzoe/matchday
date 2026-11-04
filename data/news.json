@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T09:23:06Z",
+      "fetchedAt": "2026-11-04T09:23:28Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#0",
@@ -13,7 +13,8 @@
           "description": "Real Madrid head the list of clubs trying to sign 16-year-old Manchester United forward JJ Gabriel.",
           "author": "",
           "publishedAt": "2026-11-04T09:15:15Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro#0",
@@ -126,16 +127,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o#6",
-          "title": "Newcastle and Palace progress in EFL Trophy",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United and Crystal Palace's under-21 sides secured passage to the knockout stages of the Jersey Mike's Trophy.",
-          "author": "",
-          "publishedAt": "2026-11-03T21:34:28Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a87/live/9ab6f310-d7cb-11f1-a5a1-17763069f89b.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro#5",
           "title": "Kenny's background 'not that important' to O'Neill",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro?at_medium=RSS&at_campaign=rss",
@@ -206,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o#5",
           "title": "Palace launch Mateta red card appeal",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
           "description": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
@@ -250,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T09:03:29Z",
+      "fetchedAt": "2026-11-04T09:23:28Z",
       "articles": [
         {
           "guid": "",
