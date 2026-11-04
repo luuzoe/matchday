@@ -259,7 +259,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T18:02:56Z",
+      "fetchedAt": "2026-11-04T18:32:56Z",
       "articles": [
         {
           "guid": "",
@@ -400,6 +400,16 @@
           "publishedAt": "2026-11-04T09:28:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-jj-gabriel-man-utd_7369112.jpg?20261005182930"
+        },
+        {
+          "guid": "",
+          "title": "RB Leipzig vs Man City team news LIVE!",
+          "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/live/577666",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T09:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-rico-lewis_7382177.jpg?20261020210204"
         },
         {
           "guid": "",
