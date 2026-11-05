@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T12:23:16Z",
+      "fetchedAt": "2026-11-05T12:42:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#17",
+          "title": "English female coach Kaminski reaping rewards in Norway",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
+          "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
+          "author": "",
+          "publishedAt": "2026-11-05T12:38:34Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#2",
           "title": "How to follow the Premier League on the BBC this weekend",
