@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T12:22:54Z",
+      "fetchedAt": "2026-11-05T12:23:16Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#2",
@@ -13,7 +13,18 @@
           "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
           "author": "",
           "publishedAt": "2026-11-05T12:14:33Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
+          "title": "Ronaldo retires from Portugal duty",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+          "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:56:02Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#0",
@@ -22,7 +33,8 @@
           "description": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
           "author": "",
           "publishedAt": "2026-11-05T11:38:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/1c9560f0-d90d-11f1-94c6-3f8050561bf5.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#0",
@@ -43,16 +55,6 @@
           "publishedAt": "2026-11-05T11:18:39Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e9/live/aa4ff000-d907-11f1-b72c-d16cdc75f35f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
-          "title": "Ronaldo retires from Portugal duty",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-          "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
-          "author": "",
-          "publishedAt": "2026-11-05T11:17:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o#13",
@@ -125,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#2",
           "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
           "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
           "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
@@ -135,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#4",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -155,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#7",
           "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
           "description": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
@@ -233,60 +235,13 @@
           "publishedAt": "2026-11-04T22:04:13Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d7/live/94a0f1c0-d88d-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno#1",
-          "title": "Manchester United beat Roma in epic second-half comeback",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:04:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f345/live/60f9ebf0-d7da-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko#3",
-          "title": "Raphinha scores twice as Barcelona beat Aston Villa",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
-          "description": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:04:02Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#7",
-          "title": "How Carpenter has become Chelsea's surprise star",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
-          "description": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
-          "author": "",
-          "publishedAt": "2026-11-04T09:55:26Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo#6",
-          "title": "Why is it going so wrong for Le Bris at Sunderland?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
-          "description": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
-          "author": "",
-          "publishedAt": "2026-11-04T08:27:25Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#2",
-          "title": "A rivalry that changed football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
-          "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
-          "author": "",
-          "publishedAt": "2026-06-05T05:28:32Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T11:52:53Z",
+      "fetchedAt": "2026-11-05T12:23:16Z",
       "articles": [
         {
           "guid": "",
@@ -326,7 +281,7 @@
           "author": "",
           "publishedAt": "2026-11-05T10:40:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7281706.jpg?20260624132829"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-portugal_7397864.jpg?20261105114541"
         },
         {
           "guid": "",
@@ -420,26 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Boro struggle without Lankshear as Wrexham beat Championship leaders",
-          "url": "https://www.skysports.com/football/wrexham-vs-middlesbrough/report/560665",
-          "description": "Championship leaders Middlesbrough suffered only their second league defeat of the season as Wrexham eased the pressure on Phil Parkinson with a much-needed 2-0 win.",
-          "author": "",
-          "publishedAt": "2026-11-04T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wrexham-fc_7397418.jpg?20261104214358"
-        },
-        {
-          "guid": "",
-          "title": "Wolves hit back to beat Bristol City after late Neave double",
-          "url": "https://www.skysports.com/football/bristol-city-vs-wolverhampton-wanderers/report/560662",
-          "description": "Substitute Sean Neave scored a late brace as Wolves came from behind to secure a 2-1 Sky Bet Championship win over Bristol City at Ashton Gate.",
-          "author": "",
-          "publishedAt": "2026-11-04T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-sean-neave-wolves_7397432.jpg?20261104215544"
-        },
-        {
-          "guid": "",
           "title": "Man City latest: Maresca backs Donnarumma after 'silly goals'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -470,16 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-          "url": "https://www.skysports.com/football/news/11095/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-          "description": "Real Madrid have reached a verbal agreement with 16-year-old JJ Gabriel over a potential move to the Santiago Bernabeu.",
-          "author": "",
-          "publishedAt": "2026-11-04T09:28:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-jj-gabriel-man-utd_7369112.jpg?20261005182930"
-        },
-        {
-          "guid": "",
           "title": "Papers: Arteta using NASA to help fix Arsenal's injury woes",
           "url": "https://www.skysports.com/football/news/11095/13608204/mikel-arteta-is-using-nasa-to-help-fix-arsenals-injury-woes-with-google-and-apple-helping-too-paper-talk",
           "description": "The top stories and transfer rumours from Thursday's newspapers...",
@@ -497,6 +422,16 @@
           "publishedAt": "2026-11-03T20:47:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "EFL latest: Robinson appointed new Bromley manager",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-03T20:07:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/23/01/1920x1080/skysports-karl-robinson-oxford_6019146.jpg?20230109222111"
         },
         {
           "guid": "",
