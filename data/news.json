@@ -259,8 +259,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T13:23:11Z",
+      "fetchedAt": "2026-11-05T14:03:01Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Trophies, tears, records and rows - Ronaldo's Portugal career will divide opinion",
+          "url": "https://www.skysports.com/football/news/11095/13608374/cristiano-ronaldo-portugal-captains-retirement-ends-extraordinary-record-breaking-international-career-which-will-be-debated-for-years-to-come",
+          "description": "Trophies, tears, records and rows, Cristiano Ronaldo's international career had it all.",
+          "author": "",
+          "publishedAt": "2026-11-05T12:53:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/25/06/1920x1080/skysports-ronaldo-cristiano_6937091.jpg?20250608231811"
+        },
         {
           "guid": "",
           "title": "Man Utd latest: Name your choice for permanent manager should Carrick be sacked",
