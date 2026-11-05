@@ -4,8 +4,35 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T22:33:14Z",
+      "fetchedAt": "2026-11-05T22:42:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#0",
+          "title": "Forest need balance between Woodstock and military - Glasner",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+          "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:30:07Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#0",
+          "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:26:23Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#2",
+          "title": "Euro Leagues",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
+          "description": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:18:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
           "title": "Friday's gossip: Man Utd contact Deschamps",
@@ -235,6 +262,15 @@
           "publishedAt": "2026-11-05T08:24:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#6",
+          "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+          "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+          "author": "",
+          "publishedAt": "2026-11-05T07:17:20Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
