@@ -250,8 +250,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T17:32:52Z",
+      "fetchedAt": "2026-11-05T18:02:54Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+          "title": "PL Predictions: Forest ready to turn promise into points vs Man City",
+          "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+          "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
+          "author": "",
+          "publishedAt": "2026-11-05T17:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
+        },
         {
           "guid": "",
           "title": "Europa League LIVE! Timber returns for Palace as Bournemouth change eight",
