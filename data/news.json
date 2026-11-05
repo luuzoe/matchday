@@ -268,8 +268,28 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T20:02:52Z",
+      "fetchedAt": "2026-11-05T20:22:52Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/report/577801",
+          "title": "Kamada earns Palace injury-time Hoffenheim draw and offers Sage respite",
+          "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/report/577801",
+          "description": "Pierre Sage was handed a much-needed lifeline as Crystal Palace snatched a dramatic late 1-1 draw against Hoffenheim in the Europa League, despite playing the final stages with 10 men following Adam Wharton's dismissal.",
+          "author": "",
+          "publishedAt": "2026-11-05T20:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-kamada-crystal-palace_7398468.jpg?20261105200252"
+        },
+        {
+          "guid": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+          "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
+          "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+          "description": "Tyler Adams, Evanilson, and Rayan came off the bench to rescue Bournemouth in the Europa League with a 3-1 turnaround victory over 10-man Sparta Prague, extending their winning run to seven matches.",
+          "author": "",
+          "publishedAt": "2026-11-05T19:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-evanilson-alvaro-rodriguez_7398470.jpg?20261105200539"
+        },
         {
           "guid": "",
           "title": "Family, friends and Tenerife players gather for De Miguel's funeral",
