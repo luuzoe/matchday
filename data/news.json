@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-04T23:33:02Z",
+      "fetchedAt": "2026-11-05T00:03:02Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
@@ -243,6 +243,15 @@
           "publishedAt": "2026-11-04T16:12:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#7",
+          "title": "What are rules on loan players in Champions League?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs ",
+          "author": "",
+          "publishedAt": "2026-11-04T16:02:08Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
