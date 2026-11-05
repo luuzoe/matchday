@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T21:53:31Z",
+      "fetchedAt": "2026-11-05T22:02:57Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
@@ -235,6 +235,33 @@
           "publishedAt": "2026-11-05T08:24:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#4",
+          "title": "World record 53 red cards shown in Brazilian youth game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+          "author": "",
+          "publishedAt": "2026-11-05T07:23:08Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#6",
+          "title": "Meet the people set for key role in deciding Man City fate",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+          "author": "",
+          "publishedAt": "2026-11-05T06:26:11Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#7",
+          "title": "Real Madrid reach verbal agreement to sign Gabriel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+          "author": "",
+          "publishedAt": "2026-11-04T11:49:23Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
