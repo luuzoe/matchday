@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T15:42:51Z",
+      "fetchedAt": "2026-11-05T15:52:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#0",
+          "title": "Emery close to agreeing new Aston Villa contract",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
+          "author": "",
+          "publishedAt": "2026-11-05T15:45:22Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#0",
           "title": "Everton's Grealish unavailable again after 'breach of discipline'",
@@ -250,7 +259,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T15:42:51Z",
+      "fetchedAt": "2026-11-05T15:52:52Z",
       "articles": [
         {
           "guid": "",
@@ -271,6 +280,16 @@
           "publishedAt": "2026-11-05T15:13:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
+        },
+        {
+          "guid": "",
+          "title": "Infantino faces fight for FIFA presidency as first challenger emerges",
+          "url": "https://www.skysports.com/football/news/11095/13608441/gianni-infantino-fifa-president-faces-challenge-from-japan-fa-chief-kohzo-tashima-in-2027-election",
+          "description": "Gianni Infantino is facing his first serious challenger for the FIFA presidency after Japanese football chief Kohzo Tashima announced his intention to stand in March's election.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:57:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kohzo-tashima-gianni-infantino_7398127.jpg?20261105151346"
         },
         {
           "guid": "",
