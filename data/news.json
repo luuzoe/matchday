@@ -268,8 +268,28 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T21:53:31Z",
+      "fetchedAt": "2026-11-05T22:12:55Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
+          "title": "Yalcouye header secures narrow win for Brighton at Getafe",
+          "url": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
+          "description": "Malick Yalcouye's second-half header secured a narrow 1-0 win for Brighton at Getafe as Fabian Hurzeler's side moved into the top eight of the Conference League.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124"
+        },
+        {
+          "guid": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
+          "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
+          "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
+          "description": "The pressure ramped up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
+          "author": "",
+          "publishedAt": "2026-11-05T21:56:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261105213242"
+        },
         {
           "guid": "",
           "title": "Palace latest: Sage refuses to explain Disasi absence amid questions over control",
