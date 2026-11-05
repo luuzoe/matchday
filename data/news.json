@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T15:52:52Z",
+      "fetchedAt": "2026-11-05T16:12:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx29zzrl17no#16",
+          "title": "Scotland's Welsh avoids serious knee injury",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx29zzrl17no?at_medium=RSS&at_campaign=rss",
+          "description": "Swansea City receive major fitness boost as influential centre-back Stephen Welsh is cleared of serious injury.",
+          "author": "",
+          "publishedAt": "2026-11-05T16:00:44Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#0",
           "title": "Emery close to agreeing new Aston Villa contract",
