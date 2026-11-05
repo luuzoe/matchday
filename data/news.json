@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T20:12:52Z",
+      "fetchedAt": "2026-11-05T20:43:15Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
+          "title": "England check on Palmer - what are Tuchel's other big choices?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+          "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+          "author": "",
+          "publishedAt": "2026-11-05T19:00:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#2",
           "title": "'Clock is ticking' - Gateshead fans fear for future",
@@ -27,7 +37,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#2",
           "title": "Good to feel club are committed to me - Jaissle",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
@@ -37,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#2",
+          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#4",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
           "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
@@ -67,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/6caedc70-d90c-11f1-94c6-3f8050561bf5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#2",
           "title": "Emery close to agreeing new Aston Villa contract",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
@@ -107,16 +117,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
-          "title": "Who could be the next England debutant and who are the potential recalls?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
-          "description": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
-          "author": "",
-          "publishedAt": "2026-11-05T13:13:41Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#4",
           "title": "Coleman in 'hybrid role' with Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
@@ -127,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#2",
           "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
           "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
@@ -207,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#4",
           "title": "FA and WSL launch major study into ACL injuries in women's football",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
           "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
@@ -217,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#6",
           "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
           "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
@@ -227,51 +227,24 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pld9qb#16",
-          "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pld9qb?at_medium=RSS&at_campaign=rss",
-          "description": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16",
+          "title": "Ferguson harbours Rangers ambition - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
+          "description": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
           "author": "",
-          "publishedAt": "2026-11-05T08:00:00Z",
+          "publishedAt": "2026-11-05T07:27:38Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pld9qx.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#4",
-          "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-          "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:17:20Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#7",
-          "title": "How landmark Everton compensation prevented Burnley record loss",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
-          "description": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
-          "author": "",
-          "publishedAt": "2026-11-04T17:48:19Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#6",
-          "title": "A rivalry that changed football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
-          "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
-          "author": "",
-          "publishedAt": "2026-06-05T05:28:32Z",
-          "publisher": "BBC Sport"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc93/live/73d27590-d8ec-11f1-93e1-3b657b665bcf.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T20:42:52Z",
+      "fetchedAt": "2026-11-05T20:43:15Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "guid": "",
           "title": "Bournemouth latest: 'We turned a page after Chelsea defeat' - Adams",
           "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
@@ -281,7 +254,7 @@
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020"
         },
         {
-          "guid": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/report/577801",
+          "guid": "",
           "title": "Kamada earns Palace injury-time Hoffenheim draw and offers Sage respite",
           "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/report/577801",
           "description": "Pierre Sage was handed a much-needed lifeline as Crystal Palace snatched a dramatic late 1-1 draw against Hoffenheim in the Europa League, despite playing the final stages with 10 men following Adam Wharton's dismissal.",
@@ -291,12 +264,12 @@
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-kamada-crystal-palace_7398468.jpg?20261105200252"
         },
         {
-          "guid": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+          "guid": "",
           "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
           "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-          "description": "Tyler Adams, Evanilson, and Rayan came off the bench to rescue Bournemouth in the Europa League with a 3-1 turnaround victory over 10-man Sparta Prague, extending their winning run to seven matches.",
+          "description": "Tyler Adams, Evanilson and Rayan came off the bench to rescue Bournemouth in the Europa League with a 3-1 turnaround victory over 10-man Sparta Prague, extending their winning run to seven matches.",
           "author": "",
-          "publishedAt": "2026-11-05T19:45:00Z",
+          "publishedAt": "2026-11-05T20:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-evanilson-alvaro-rodriguez_7398470.jpg?20261105200539"
         },
@@ -352,29 +325,19 @@
         },
         {
           "guid": "",
-          "title": "Europa League LIVE! Palace and Bournemouth both behind",
-          "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/live/577801",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T16:25:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-prass-hoffenheim_7398353.jpg?20261105180427"
-        },
-        {
-          "guid": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
-          "title": "Europa League LIVE! Sunderland, Brighton and Celtic in action",
+          "title": "Europa League LIVE! Sunderland losing, with Brighton and Celtic in action",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-05T16:25:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-football-europa-league_7333304.jpg?20260828073946"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-celtic-besiktas_7398486.jpg?20261105201812"
         },
         {
           "guid": "",
           "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
           "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
-          "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England&#8217;s final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
+          "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England's final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
           "author": "",
           "publishedAt": "2026-11-05T16:00:00Z",
           "publisher": "Sky Sports",
@@ -399,16 +362,6 @@
           "publishedAt": "2026-11-05T14:57:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kohzo-tashima-gianni-infantino_7398127.jpg?20261105151346"
-        },
-        {
-          "guid": "",
-          "title": "Everton latest: Grealish remains unavailable, says Moyes",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T13:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
         },
         {
           "guid": "",
@@ -489,26 +442,6 @@
           "publishedAt": "2026-11-05T08:13:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-bundesliga_7397657.jpg?20261105084605"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Arteta defends Rice decision - should he have started?",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T20:47:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Newcastle latest: Jaissle feels commitment from hierarchy",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T18:14:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
         }
       ]
     }
