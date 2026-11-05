@@ -268,7 +268,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T22:12:55Z",
+      "fetchedAt": "2026-11-05T22:32:53Z",
       "articles": [
         {
           "guid": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
@@ -279,6 +279,16 @@
           "publishedAt": "2026-11-05T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124"
+        },
+        {
+          "guid": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
+          "title": "Celtic claim dramatic Europa League win against Besiktas",
+          "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
+          "description": "Martin O'Neill's inspired substitutions saw Celtic come from behind to breathe life into their Europa League campaign with a much-needed 3-2 home victory over Besiktas.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-celtic-camilo-duran_7398627.jpg?20261105222544"
         },
         {
           "guid": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
