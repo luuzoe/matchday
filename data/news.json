@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T23:24:27Z",
+      "fetchedAt": "2026-11-05T23:43:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
+          "title": "Deschamps not interested in Man Utd job - Friday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+          "description": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:49:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#0",
           "title": "Forest need balance between Woodstock and military - Glasner",
@@ -13,7 +23,8 @@
           "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
           "author": "",
           "publishedAt": "2026-11-05T22:30:07Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#0",
@@ -22,26 +33,18 @@
           "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
           "author": "",
           "publishedAt": "2026-11-05T22:26:23Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#2",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#1",
           "title": "Euro Leagues",
           "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
           "description": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
           "author": "",
           "publishedAt": "2026-11-05T22:18:00Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
-          "title": "Friday's gossip: Man Utd contact Deschamps",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-05T21:41:38Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/61bc6ac0-d95d-11f1-a701-fddedf244c16.png"
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
@@ -54,7 +57,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#1",
           "title": "'Clock is ticking' - Gateshead fans fear for future",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
           "description": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
@@ -74,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#5",
           "title": "Good to feel club are committed to me - Jaissle",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
@@ -84,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#4",
+          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#3",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
           "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
@@ -94,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#1",
           "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
           "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
@@ -114,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/6caedc70-d90c-11f1-94c6-3f8050561bf5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#3",
           "title": "Emery close to agreeing new Aston Villa contract",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
@@ -124,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#1",
           "title": "Everton's Grealish unavailable again after 'breach of discipline'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
           "description": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
@@ -134,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#1",
           "title": "What new Kane deal means for England and the Premier League record",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
           "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
@@ -160,10 +163,11 @@
           "description": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
           "author": "",
           "publishedAt": "2026-11-05T13:15:21Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#5",
           "title": "Coleman in 'hybrid role' with Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
@@ -173,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#3",
           "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
           "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
@@ -183,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#3",
           "title": "English female coach Kaminski reaping rewards in Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
           "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
@@ -194,7 +198,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#6",
-          "title": "Ronaldo retires from Portugal duty",
+          "title": "Portugal great Ronaldo retires from international duty",
           "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
           "author": "",
@@ -203,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#7",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#6",
           "title": "How to follow the Premier League on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
@@ -213,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#5",
           "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
           "description": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
@@ -223,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/1c9560f0-d90d-11f1-94c6-3f8050561bf5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#1",
           "title": "Ronaldo's most iconic moments as he retires from international football",
           "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
@@ -233,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#7",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#6",
           "title": "Owono left out of Eq Guinea squad after death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
           "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
@@ -241,145 +245,16 @@
           "publishedAt": "2026-11-05T11:18:39Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e9/live/aa4ff000-d907-11f1-b72c-d16cdc75f35f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o#13",
-          "title": "Who is close to a yellow card suspension in Champions League?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
-          "author": "",
-          "publishedAt": "2026-11-05T10:54:52Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#4",
-          "title": "FA and WSL launch major study into ACL injuries in women's football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
-          "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
-          "author": "",
-          "publishedAt": "2026-11-05T10:24:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#6",
-          "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-          "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
-          "author": "",
-          "publishedAt": "2026-11-05T08:24:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#3",
-          "title": "World record 53 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:23:08Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#6",
-          "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-          "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:17:20Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#3",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:30:52Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#5",
-          "title": "Meet the people set for key role in deciding Man City fate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
-          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:26:11Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo#2",
-          "title": "Fans pay respects to Tenerife's De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo?at_medium=RSS&at_campaign=rss",
-          "description": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:05:16Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo#2",
-          "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-02T23:01:13Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o#2",
-          "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-          "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
-          "author": "",
-          "publishedAt": "2026-11-02T22:54:52Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#2",
-          "title": "Everton hold off Newcastle to move into seventh",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-          "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-02T22:44:30Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo#7",
-          "title": "Every goal from the Women's Super League - matchweek eight",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&at_campaign=rss",
-          "description": "Watch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action.",
-          "author": "",
-          "publishedAt": "2026-11-02T11:42:40Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o#7",
-          "title": "Arsenal move clear at the top with a rare win at Liverpool",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
-          "author": "",
-          "publishedAt": "2026-11-01T20:00:18Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#5",
-          "title": "A rivalry that changed football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
-          "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
-          "author": "",
-          "publishedAt": "2026-06-05T05:28:32Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T23:24:27Z",
+      "fetchedAt": "2026-11-05T23:43:52Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
+          "guid": "",
           "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
           "url": "https://www.skysports.com/football/news/11095/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
           "description": "The top stories and transfer rumours from Friday's newspapers...",
@@ -387,6 +262,36 @@
           "publishedAt": "2026-11-05T23:05:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Amorim fumes at his Milan team after home Europa League loss to Ferencvaros",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T22:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-ruben-amorim-ac-milan_7384075.jpg?20261022200500"
+        },
+        {
+          "guid": "",
+          "title": "Sunderland latest: Le Bris - I prioritised Chelsea game over this one",
+          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T22:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
+        },
+        {
+          "guid": "",
+          "title": "Brighton latest: 'Lazy but deserved,' says Hurzeler on Getafe win",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T22:31:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
         },
         {
           "guid": "",
@@ -412,31 +317,11 @@
           "guid": "",
           "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
-          "description": "The pressure ramped up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
+          "description": "Pressure is ramping up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
           "author": "",
           "publishedAt": "2026-11-05T21:56:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261105213242"
-        },
-        {
-          "guid": "",
-          "title": "Palace latest: Sage refuses to explain Disasi absence amid questions over control",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T21:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-        },
-        {
-          "guid": "",
-          "title": "Bournemouth latest: 'We turned a page after Chelsea defeat' - Adams",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T20:34:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020"
         },
         {
           "guid": "",
@@ -477,26 +362,6 @@
           "publishedAt": "2026-11-05T17:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Tottenham latest: 'Xavi return to training date set' after ACL injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T17:37:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
-        },
-        {
-          "guid": "",
-          "title": "Transfer Centre LIVE! Spurs still have matching rights clause for Kane",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T17:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/23/05/1920x1080/skysports-harry-kane-spurs_6161434.jpg?20230520144036"
         },
         {
           "guid": "",
