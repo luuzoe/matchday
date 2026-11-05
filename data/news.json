@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T11:43:04Z",
+      "fetchedAt": "2026-11-05T12:22:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#2",
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-05T12:14:33Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#0",
           "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
@@ -246,12 +255,30 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o#7",
+          "title": "How Carpenter has become Chelsea's surprise star",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
+          "description": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
+          "author": "",
+          "publishedAt": "2026-11-04T09:55:26Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo#6",
           "title": "Why is it going so wrong for Le Bris at Sunderland?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
           "description": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
           "author": "",
           "publishedAt": "2026-11-04T08:27:25Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#2",
+          "title": "A rivalry that changed football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+          "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
+          "author": "",
+          "publishedAt": "2026-06-05T05:28:32Z",
           "publisher": "BBC Sport"
         }
       ]
