@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T00:03:02Z",
+      "fetchedAt": "2026-11-05T00:03:32Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
@@ -13,7 +13,8 @@
           "description": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
           "author": "",
           "publishedAt": "2026-11-04T23:22:27Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#4",
@@ -22,7 +23,8 @@
           "description": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
           "author": "",
           "publishedAt": "2026-11-04T23:18:03Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo#1",
@@ -145,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#0",
           "title": "Emery in line for new Villa deal - Thursday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
           "description": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
@@ -165,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#2",
           "title": "An island in mourning: Tenerife processes death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
           "description": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
@@ -223,42 +225,13 @@
           "publishedAt": "2026-11-04T16:38:41Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pl9kk6#7",
-          "title": "72+: The EFL Podcast",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pl9kk6?at_medium=RSS&at_campaign=rss",
-          "description": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
-          "author": "",
-          "publishedAt": "2026-11-04T16:15:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#2",
-          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-          "author": "",
-          "publishedAt": "2026-11-04T16:12:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo#7",
-          "title": "What are rules on loan players in Champions League?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs ",
-          "author": "",
-          "publishedAt": "2026-11-04T16:02:08Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-04T23:33:02Z",
+      "fetchedAt": "2026-11-05T00:03:32Z",
       "articles": [
         {
           "guid": "",
@@ -409,16 +382,6 @@
           "publishedAt": "2026-11-04T09:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-parker-west-ham_7395895.jpg?20261103152611"
-        },
-        {
-          "guid": "",
-          "title": "Parker appointed West Ham head coach",
-          "url": "https://www.skysports.com/football/news/11095/13607834/west-ham-scott-parker-returns-to-east-london-after-15-years-to-succeed-nuno-espirito-santo-as-hammers-manager",
-          "description": "West Ham have appointed Scott Parker as their new head coach.",
-          "author": "",
-          "publishedAt": "2026-11-04T09:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker-west-ham_7396642.jpg?20261104092427"
         },
         {
           "guid": "",
