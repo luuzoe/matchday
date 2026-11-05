@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T07:23:14Z",
+      "fetchedAt": "2026-11-05T07:33:23Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16",
+          "title": "Ferguson harbours Rangers ambition - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
+          "description": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
+          "author": "",
+          "publishedAt": "2026-11-05T07:27:38Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#0",
           "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
