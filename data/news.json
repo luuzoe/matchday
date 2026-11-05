@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T07:33:23Z",
+      "fetchedAt": "2026-11-05T08:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pld9qb#16",
+          "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pld9qb?at_medium=RSS&at_campaign=rss",
+          "description": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?",
+          "author": "",
+          "publishedAt": "2026-11-05T08:00:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16",
           "title": "Ferguson harbours Rangers ambition - gossip",
