@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T17:13:18Z",
+      "fetchedAt": "2026-11-05T17:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#0",
+          "title": "Good to feel club are committed to me - Jaissle",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
+          "author": "",
+          "publishedAt": "2026-11-05T17:25:41Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/m003434x#2",
           "title": "Football Daily",
@@ -241,7 +250,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T17:13:18Z",
+      "fetchedAt": "2026-11-05T17:32:52Z",
       "articles": [
         {
           "guid": "",
@@ -252,6 +261,16 @@
           "publishedAt": "2026-11-05T16:25:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-football-europa-league_7333304.jpg?20260828073946"
+        },
+        {
+          "guid": "",
+          "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
+          "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
+          "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England’s final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
+          "author": "",
+          "publishedAt": "2026-11-05T16:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-england_7398142.jpg?20261105152017"
         },
         {
           "guid": "",
