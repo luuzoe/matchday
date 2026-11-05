@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T16:56:36Z",
+      "fetchedAt": "2026-11-05T17:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#2",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
+          "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
+          "author": "",
+          "publishedAt": "2026-11-05T16:31:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#0",
           "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-05T06:30:52Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#6",
+          "title": "How landmark Everton compensation prevented Burnley record loss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+          "description": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+          "author": "",
+          "publishedAt": "2026-11-04T17:48:19Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#4",
