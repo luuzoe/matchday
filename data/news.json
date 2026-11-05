@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T14:52:52Z",
+      "fetchedAt": "2026-11-05T15:23:12Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#0",
@@ -13,7 +13,8 @@
           "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
           "author": "",
           "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#0",
@@ -22,7 +23,8 @@
           "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
           "author": "",
           "publishedAt": "2026-11-05T14:36:32Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/503c/live/c9e2baa0-d926-11f1-ad94-e17fee4cd332.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#0",
@@ -115,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#4",
           "title": "Owono left out of Eq Guinea squad after death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
           "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
@@ -145,17 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#0",
-          "title": "Kane signs new Bayern contract",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
-          "description": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
-          "author": "",
-          "publishedAt": "2026-11-05T08:39:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca43/live/85f91730-d8f4-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#2",
           "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
           "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
@@ -243,41 +235,13 @@
           "publishedAt": "2026-11-04T22:45:45Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo#3",
-          "title": "Dortmund take narrow win over Real Betis",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
-          "description": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:31:57Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#10",
-          "title": "'Most difficult days of my life' for Owono after De Miguel death",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-          "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-          "author": "",
-          "publishedAt": "2026-11-04T16:40:38Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#7",
-          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-          "author": "",
-          "publishedAt": "2026-11-04T16:12:46Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T15:22:52Z",
+      "fetchedAt": "2026-11-05T15:23:13Z",
       "articles": [
         {
           "guid": "",
@@ -288,6 +252,16 @@
           "publishedAt": "2026-11-05T15:13:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
+        },
+        {
+          "guid": "",
+          "title": "Forest latest: Glasner - Performances aren't disastrous, but bits are missing",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T14:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
         },
         {
           "guid": "",
@@ -421,16 +395,6 @@
         },
         {
           "guid": "",
-          "title": "'Sloppy' Arsenal survive second-half scare to beat Slavia Prague",
-          "url": "https://www.skysports.com/football/slavia-prague-vs-arsenal/report/577667",
-          "description": "Arsenal survived a second-half fightback from Slavia Prague to win 2-1 at the Fortuna Arena and continue their unbeaten start to the season in the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arsenal-slavia_7397339.jpg?20261104204759"
-        },
-        {
-          "guid": "",
           "title": "Man City latest: Maresca backs Donnarumma after 'silly goals'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -438,16 +402,6 @@
           "publishedAt": "2026-11-04T21:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool suffer first CL defeat of season as Kuyt savours 'miracle' in Istanbul",
-          "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/report/577663",
-          "description": "Liverpool's perfect start to their Champions League campaign came to a sudden halt as they lost two leads in a 3-2 defeat to Fenerbahce in Istanbul.",
-          "author": "",
-          "publishedAt": "2026-11-04T19:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-liverpool-fenerbahce_7397293.jpg?20261104195615"
         },
         {
           "guid": "",
