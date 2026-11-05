@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T13:23:11Z",
+      "fetchedAt": "2026-11-05T13:33:03Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
@@ -15,6 +15,15 @@
           "publishedAt": "2026-11-05T13:13:41Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#2",
+          "title": "Coleman in 'hybrid role' with Republic of Ireland",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
+          "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
+          "author": "",
+          "publishedAt": "2026-11-05T13:03:43Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#0",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-04T22:15:31Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#6",
+          "title": "Real Madrid reach verbal agreement to sign Gabriel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+          "author": "",
+          "publishedAt": "2026-11-04T11:49:23Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
