@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T22:02:57Z",
+      "fetchedAt": "2026-11-05T22:33:14Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
@@ -47,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#6",
           "title": "Good to feel club are committed to me - Jaissle",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
@@ -147,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#4",
           "title": "English female coach Kaminski reaping rewards in Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
           "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
@@ -157,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#6",
           "title": "Ronaldo retires from Portugal duty",
           "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
@@ -197,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#7",
           "title": "Owono left out of Eq Guinea squad after death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
           "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
@@ -235,43 +235,16 @@
           "publishedAt": "2026-11-05T08:24:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#4",
-          "title": "World record 53 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:23:08Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#6",
-          "title": "Meet the people set for key role in deciding Man City fate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
-          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:26:11Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#7",
-          "title": "Real Madrid reach verbal agreement to sign Gabriel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:49:23Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T22:32:53Z",
+      "fetchedAt": "2026-11-05T22:33:15Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
+          "guid": "",
           "title": "Yalcouye header secures narrow win for Brighton at Getafe",
           "url": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
           "description": "Malick Yalcouye's second-half header secured a narrow 1-0 win for Brighton at Getafe as Fabian Hurzeler's side moved into the top eight of the Conference League.",
@@ -281,7 +254,7 @@
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124"
         },
         {
-          "guid": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
+          "guid": "",
           "title": "Celtic claim dramatic Europa League win against Besiktas",
           "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
           "description": "Martin O'Neill's inspired substitutions saw Celtic come from behind to breathe life into their Europa League campaign with a much-needed 3-2 home victory over Besiktas.",
@@ -291,7 +264,7 @@
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-celtic-camilo-duran_7398627.jpg?20261105222544"
         },
         {
-          "guid": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
+          "guid": "",
           "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
           "description": "The pressure ramped up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
@@ -382,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Europa League LIVE! Celtic and Brighton in front, Sunderland trailing",
-          "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T16:25:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-camilo-duran-celtic_7398587.jpg?20261105214325"
-        },
-        {
-          "guid": "",
           "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
           "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
           "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England's final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
@@ -399,16 +362,6 @@
           "publishedAt": "2026-11-05T16:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-england_7398142.jpg?20261105152017"
-        },
-        {
-          "guid": "",
-          "title": "Glasner wanted to 'shake things up' with outburst",
-          "url": "https://www.skysports.com/football/news/11095/13608424/oliver-glasner-nottingham-forest-head-coach-says-post-brentford-outburst-was-meant-positively",
-          "description": "Oliver Glasner says he meant for his post-Brentford outburst to be positive and a catalyst for change at Nottingham Forest.",
-          "author": "",
-          "publishedAt": "2026-11-05T15:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-oliver-glasner-nottingham-forest_7398122.jpg?20261105151101"
         },
         {
           "guid": "",
@@ -479,16 +432,6 @@
           "publishedAt": "2026-11-05T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7397757.jpg?20261105101844"
-        },
-        {
-          "guid": "",
-          "title": "Carra: Young guns starring shows Liverpool haven't spent money well enough",
-          "url": "https://www.skysports.com/football/news/11095/13608280/liverpool-trey-nyoni-and-rio-ngumoha-starring-shows-reds-havent-spent-money-well-enough-says-jamie-carragher",
-          "description": "Jamie Carragher called Liverpool's recruitment into question after their 3-2 defeat to Fenerbahce in the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-05T09:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-trey-nyoni-liverpool_7397217.jpg?20261104181936"
         },
         {
           "guid": "",
