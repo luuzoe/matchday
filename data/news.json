@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T10:32:52Z",
+      "fetchedAt": "2026-11-05T10:52:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
+          "title": "Ronaldo retires from Portugal duty",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+          "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T10:43:58Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#17",
           "title": "FA and WSL launch major study into ACL injuries in women's football",
@@ -76,14 +85,13 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#2",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "author": "",
           "publishedAt": "2026-11-05T06:30:52Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#0",
@@ -258,8 +266,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T10:32:40Z",
+      "fetchedAt": "2026-11-05T10:52:52Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Ronaldo retires from international football",
+          "url": "https://www.skysports.com/football/news/11095/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years",
+          "description": "Cristiano Ronaldo has retired from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T10:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7281706.jpg?20260624132829"
+        },
         {
           "guid": "",
           "title": "Man Utd unlikely to appoint interim should they sack Carrick",
@@ -459,6 +477,16 @@
           "publishedAt": "2026-11-03T20:47:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "England latest: Tuchel to announce squad to face Croatia, Spain on Friday",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-27T14:26:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
         }
       ]
     }
