@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T11:32:56Z",
+      "fetchedAt": "2026-11-05T11:33:16Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#0",
@@ -13,7 +13,8 @@
           "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
           "author": "",
           "publishedAt": "2026-11-05T11:22:59Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#2",
@@ -22,7 +23,8 @@
           "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
           "author": "",
           "publishedAt": "2026-11-05T11:18:39Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e9/live/aa4ff000-d907-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
@@ -30,21 +32,33 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
           "author": "",
-          "publishedAt": "2026-11-05T10:43:58Z",
-          "publisher": "BBC Sport"
+          "publishedAt": "2026-11-05T11:17:03Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#17",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o#13",
+          "title": "Who is close to a yellow card suspension in Champions League?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
+          "author": "",
+          "publishedAt": "2026-11-05T10:54:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#0",
           "title": "FA and WSL launch major study into ACL injuries in women's football",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
           "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
           "author": "",
           "publishedAt": "2026-11-05T10:24:06Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#0",
-          "title": "England captain Kane signs new Bayern contract",
+          "title": "Kane signs new Bayern contract",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
           "description": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
           "author": "",
@@ -109,10 +123,11 @@
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "author": "",
           "publishedAt": "2026-11-05T06:30:52Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#2",
           "title": "Meet the people set for key role in deciding Man City fate",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
           "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
@@ -122,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#6",
           "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
           "description": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
@@ -182,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o#1",
           "title": "Liverpool crumble at Kuyt's Fenerbahce",
           "url": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
           "description": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.",
@@ -212,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f345/live/60f9ebf0-d7da-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko#3",
           "title": "Raphinha scores twice as Barcelona beat Aston Villa",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
           "description": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp.",
@@ -220,81 +235,24 @@
           "publishedAt": "2026-11-04T22:04:02Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po#3",
-          "title": "Bayern continue unbeaten CL start with win at Atletico",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
-          "description": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:03:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b194/live/26e1d1b0-d7d7-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o#3",
-          "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
-          "description": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:03:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o#2",
-          "title": "Emery in line for new Villa deal - Thursday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
-          "description": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-04T21:41:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#16",
-          "title": "Hearts lose Miller for two months as injuries mount",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
-          "description": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
-          "author": "",
-          "publishedAt": "2026-11-04T19:00:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no#4",
-          "title": "An island in mourning: Tenerife processes death of De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
-          "description": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
-          "author": "",
-          "publishedAt": "2026-11-04T18:51:21Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#7",
-          "title": "'Most difficult days of my life' for Owono after De Miguel death",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-          "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-          "author": "",
-          "publishedAt": "2026-11-04T16:40:38Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#6",
-          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-          "author": "",
-          "publishedAt": "2026-11-04T16:12:46Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T10:52:52Z",
+      "fetchedAt": "2026-11-05T11:33:16Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "'Until we meet again' - Ronaldo's Portugal retirement statement in full",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T11:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372969.jpg?20261010141017"
+        },
         {
           "guid": "",
           "title": "Ronaldo retires from international football",
@@ -447,26 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Is Hemp the best winger in the game right now?",
-          "url": "https://www.skysports.com/football/news/11095/13608016/wsl-lauren-hemp-did-not-make-the-ballon-dor-top-30-but-her-form-for-manchester-city-this-season-deserves-attention",
-          "description": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.</em>",
-          "author": "",
-          "publishedAt": "2026-11-04T16:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Baleba injured, Lacey in? Pick your team to face Aston Villa",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T11:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-        },
-        {
-          "guid": "",
           "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
           "url": "https://www.skysports.com/football/news/11095/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
           "description": "Real Madrid have reached a verbal agreement with 16-year-old JJ Gabriel over a potential move to the Santiago Bernabeu.",
@@ -474,16 +412,6 @@
           "publishedAt": "2026-11-04T09:28:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-jj-gabriel-man-utd_7369112.jpg?20261005182930"
-        },
-        {
-          "guid": "",
-          "title": "Fernandes hits back at 'lies' and claims players don't need to save Carrick's job",
-          "url": "https://www.skysports.com/football/news/11095/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
-          "description": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but reiterated that the players didn't need to save his job in their 3-2 comeback win against Roma.",
-          "author": "",
-          "publishedAt": "2026-11-04T07:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-man-utd_7396356.jpg?20261103234713"
         },
         {
           "guid": "",
