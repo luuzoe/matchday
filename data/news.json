@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T17:12:53Z",
+      "fetchedAt": "2026-11-05T17:13:18Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/m003434x#2",
@@ -13,7 +13,8 @@
           "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
           "author": "",
           "publishedAt": "2026-11-05T16:31:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#0",
@@ -106,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#2",
           "title": "English female coach Kaminski reaping rewards in Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
           "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
@@ -146,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/1c9560f0-d90d-11f1-94c6-3f8050561bf5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#2",
           "title": "Ronaldo's most iconic moments as he retires from international football",
           "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
@@ -234,41 +235,13 @@
           "publishedAt": "2026-11-05T07:17:20Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#2",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:30:52Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#6",
-          "title": "How landmark Everton compensation prevented Burnley record loss",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
-          "description": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
-          "author": "",
-          "publishedAt": "2026-11-04T17:48:19Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#4",
-          "title": "A rivalry that changed football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
-          "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
-          "author": "",
-          "publishedAt": "2026-06-05T05:28:32Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T16:56:00Z",
+      "fetchedAt": "2026-11-05T17:13:18Z",
       "articles": [
         {
           "guid": "",
