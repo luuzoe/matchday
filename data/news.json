@@ -259,8 +259,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T18:03:17Z",
+      "fetchedAt": "2026-11-05T18:22:51Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13608535/jesus-de-miguel-funeral-family-friends-and-tenerife-players-gather-to-remember-striker-who-died-following-on-field-collision",
+          "title": "Family, friends and Tenerife players gather for De Miguel's funeral",
+          "url": "https://www.skysports.com/football/news/11095/13608535/jesus-de-miguel-funeral-family-friends-and-tenerife-players-gather-to-remember-striker-who-died-following-on-field-collision",
+          "description": "The funeral of Tenerife striker Jesus de Miguel has taken place after the footballer died following an on-field ‌collision.",
+          "author": "",
+          "publishedAt": "2026-11-05T17:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-jesus-de-miguel_7398356.jpg?20261105180620"
+        },
         {
           "guid": "",
           "title": "PL Predictions: Forest ready to turn promise into points vs Man City",
