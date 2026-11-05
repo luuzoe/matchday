@@ -4,16 +4,27 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T08:22:56Z",
+      "fetchedAt": "2026-11-05T08:53:19Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#0",
-          "title": "England captain Kane signs new Bayern deal",
+          "title": "England captain Kane signs new Bayern contract",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
           "description": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
           "author": "",
-          "publishedAt": "2026-11-05T08:12:31Z",
-          "publisher": "BBC Sport"
+          "publishedAt": "2026-11-05T08:39:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca43/live/85f91730-d8f4-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#0",
+          "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+          "author": "",
+          "publishedAt": "2026-11-05T08:24:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pld9qb#16",
@@ -94,16 +105,6 @@
           "publishedAt": "2026-11-04T22:45:45Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o#0",
-          "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-          "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:38:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo#3",
@@ -216,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#7",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o#16",
           "title": "Hearts lose Miller for two months as injuries mount",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
           "description": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
@@ -244,32 +245,33 @@
           "publishedAt": "2026-11-04T17:48:19Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#7",
-          "title": "Wilson returns as Wales call up uncapped Duncan",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-          "author": "",
-          "publishedAt": "2026-11-04T10:30:19Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T08:52:52Z",
+      "fetchedAt": "2026-11-05T08:53:19Z",
       "articles": [
         {
           "guid": "",
           "title": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
           "url": "https://www.skysports.com/football/news/11095/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
-          "description": "From forgettable EFL loan spells to being crowned the best player in the world, it is no wonder Harry Kane’s former boss thinks of his Ballon d'Or win as a fairy tale.",
+          "description": "From forgettable EFL loan spells to being crowned the best player in the world, it is no wonder Harry Kane&#8217;s former boss thinks of his Ballon d'Or win as a fairy tale.",
           "author": "",
           "publishedAt": "2026-11-05T08:23:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-ballon-dor-bayern-munich_7382872.jpg?20261021135151"
+        },
+        {
+          "guid": "",
+          "title": "Transfer Centre LIVE! Kane signs 'most lucrative deal in Bayern history'",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T08:16:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-bundesliga-ballon-dor_7393102.jpg?20261031180531"
         },
         {
           "guid": "",
@@ -279,7 +281,7 @@
           "author": "",
           "publishedAt": "2026-11-05T08:13:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-bayern-munich_7390749.jpg?20261029104939"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-bundesliga_7397657.jpg?20261105084605"
         },
         {
           "guid": "",
@@ -383,16 +385,6 @@
         },
         {
           "guid": "",
-          "title": "Goalkeeper Owono posts of 'most difficult days' after De Miguel's death from collision",
-          "url": "https://www.skysports.com/football/news/11095/13608038/jesus-de-miguel-goalkeeper-jesus-owono-experiencing-most-difficult-days-of-my-life-after-tenerife-forwards-death-following-collision",
-          "description": "Jesus Owono says he is going through the most difficult &#8204;days of his life in a statement released by his club FC Andorra on Wednesday, following the death of &#8204;Tenerife forward Jesus De Miguel.",
-          "author": "",
-          "publishedAt": "2026-11-04T16:57:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145"
-        },
-        {
-          "guid": "",
           "title": "Is Hemp the best winger in the game right now?",
           "url": "https://www.skysports.com/football/news/11095/13608016/wsl-lauren-hemp-did-not-make-the-ballon-dor-top-30-but-her-form-for-manchester-city-this-season-deserves-attention",
           "description": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.</em>",
@@ -420,16 +412,6 @@
           "publishedAt": "2026-11-04T11:55:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-        },
-        {
-          "guid": "",
-          "title": "Can Parker roll back the years and be a success at West Ham?",
-          "url": "https://www.skysports.com/football/news/11095/13607503/scott-parker-to-west-ham-can-former-hammers-player-roll-back-years-and-win-premier-league-promotion-yet-again",
-          "description": "As soon as news of Nuno Espirito Santo's departure was announced, only one name seemed to make sense for West Ham.",
-          "author": "",
-          "publishedAt": "2026-11-04T09:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-parker-west-ham_7395895.jpg?20261103152611"
         },
         {
           "guid": "",
@@ -470,16 +452,6 @@
           "publishedAt": "2026-11-03T20:47:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "EFL latest: Lankshear misses Wrexham game due to injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T20:07:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7334598.jpg?20260829141836"
         }
       ]
     }
