@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T11:33:16Z",
+      "fetchedAt": "2026-11-05T11:43:04Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#0",
+          "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
+          "description": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:38:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#0",
           "title": "Ronaldo's most iconic moments as he retires from international football",
@@ -235,14 +244,33 @@
           "publishedAt": "2026-11-04T22:04:02Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo#6",
+          "title": "Why is it going so wrong for Le Bris at Sunderland?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
+          "description": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
+          "author": "",
+          "publishedAt": "2026-11-04T08:27:25Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T11:33:16Z",
+      "fetchedAt": "2026-11-05T11:43:04Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Ronaldo announces international retirement on Instagram!",
+          "url": "https://www.skysports.com/watch/video/13608338/cristiano-ronaldo-announces-international-retirement-on-instagram",
+          "description": "Cristiano Ronaldo took to social media to announce his retirement from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:33:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/edaad10ea909d14f3c5e1fe4ad86fdc8fdad4c95b4e1121d0dcf961772d344af_7397842.jpg?20261105113505"
+        },
         {
           "guid": "",
           "title": "'Until we meet again' - Ronaldo's Portugal retirement statement in full",
