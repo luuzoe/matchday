@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T20:43:15Z",
+      "fetchedAt": "2026-11-05T21:53:07Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
+          "title": "Friday's gossip: Man Utd contact Deschamps",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-05T21:41:38Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
           "title": "England check on Palmer - what are Tuchel's other big choices?",
