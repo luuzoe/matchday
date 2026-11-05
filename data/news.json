@@ -259,7 +259,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T15:52:52Z",
+      "fetchedAt": "2026-11-05T16:02:52Z",
       "articles": [
         {
           "guid": "",
@@ -310,6 +310,16 @@
           "publishedAt": "2026-11-05T13:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
+        },
+        {
+          "guid": "",
+          "title": "Is Estevao ready to explode?",
+          "url": "https://www.skysports.com/football/news/11095/13608399/estevao-ready-for-move-chelsea-minutes-under-xabi-alonso-after-reminder-of-his-threat-against-man-utd-the-radar",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T13:42:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-estevao-chelsea_7398086.png?20261105144503"
         },
         {
           "guid": "",
