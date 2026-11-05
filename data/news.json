@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T06:33:14Z",
+      "fetchedAt": "2026-11-05T06:33:38Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#0",
@@ -13,7 +13,8 @@
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "author": "",
           "publishedAt": "2026-11-05T06:30:52Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
@@ -186,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6896/live/80cda3d0-d880-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#4",
           "title": "How landmark Everton compensation prevented Burnley record loss",
           "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
           "description": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
@@ -194,16 +195,6 @@
           "publishedAt": "2026-11-04T17:48:19Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o#7",
-          "title": "Ex-Burnley striker Rodriguez announces retirement",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
-          "description": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
-          "author": "",
-          "publishedAt": "2026-11-04T17:28:52Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#16",
@@ -232,32 +223,15 @@
           "description": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
           "author": "",
           "publishedAt": "2026-11-04T16:38:41Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#4",
-          "title": "Real Madrid reach verbal agreement to sign Gabriel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:49:23Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o#7",
-          "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-          "description": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-          "author": "",
-          "publishedAt": "2026-11-04T00:27:37Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T02:55:25Z",
+      "fetchedAt": "2026-11-05T06:33:39Z",
       "articles": [
         {
           "guid": "",
