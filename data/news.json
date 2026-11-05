@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T13:33:03Z",
+      "fetchedAt": "2026-11-05T14:03:25Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
@@ -23,7 +23,8 @@
           "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
           "author": "",
           "publishedAt": "2026-11-05T13:03:43Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#0",
@@ -234,32 +235,13 @@
           "publishedAt": "2026-11-04T22:17:34Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo#1",
-          "title": "Haaland scores winner as Man City beat Leipzig",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
-          "description": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:15:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o#6",
-          "title": "Real Madrid reach verbal agreement to sign Gabriel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:49:23Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T14:03:01Z",
+      "fetchedAt": "2026-11-05T14:03:26Z",
       "articles": [
         {
           "guid": "",
@@ -270,6 +252,16 @@
           "publishedAt": "2026-11-05T12:53:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/25/06/1920x1080/skysports-ronaldo-cristiano_6937091.jpg?20250608231811"
+        },
+        {
+          "guid": "",
+          "title": "Barca captain Raphinha agrees new contract",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T12:39:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7397927.jpg?20261105123921"
         },
         {
           "guid": "",
@@ -293,17 +285,7 @@
         },
         {
           "guid": "",
-          "title": "Ronaldo announces international retirement on Instagram!",
-          "url": "https://www.skysports.com/watch/video/13608338/cristiano-ronaldo-announces-international-retirement-on-instagram",
-          "description": "Cristiano Ronaldo took to social media to announce his retirement from international football.",
-          "author": "",
-          "publishedAt": "2026-11-05T11:33:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/edaad10ea909d14f3c5e1fe4ad86fdc8fdad4c95b4e1121d0dcf961772d344af_7397842.jpg?20261105113505"
-        },
-        {
-          "guid": "",
-          "title": "'Until we meet again' - Ronaldo's statement in full",
+          "title": "Ronaldo's Portugal statement in full",
           "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
           "description": "",
           "author": "",
@@ -393,16 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Haaland calls on Man City to 'step up' despite late winner at RB Leipzig",
-          "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666",
-          "description": "Erling Haaland called on his side to \"step up\" after he haunted RB Leipzig again to earn Manchester City a thrilling 3-2 victory in the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-erling-haaland-man-city_7397445.jpg?20261104221134"
-        },
-        {
-          "guid": "",
           "title": "Man City latest: Maresca backs Donnarumma after 'silly goals'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -433,13 +405,13 @@
         },
         {
           "guid": "",
-          "title": "Papers: Arteta using NASA to help fix Arsenal's injury woes",
-          "url": "https://www.skysports.com/football/news/11095/13608204/mikel-arteta-is-using-nasa-to-help-fix-arsenals-injury-woes-with-google-and-apple-helping-too-paper-talk",
-          "description": "The top stories and transfer rumours from Thursday's newspapers...",
+          "title": "Everton latest: Dewsbury-Hall dreaming of England call this week",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-03T23:10:00Z",
+          "publishedAt": "2026-11-04T16:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
         },
         {
           "guid": "",
