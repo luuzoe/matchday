@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T18:43:14Z",
+      "fetchedAt": "2026-11-05T20:02:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#2",
@@ -235,13 +235,22 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pld9qx.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#4",
+          "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+          "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+          "author": "",
+          "publishedAt": "2026-11-05T07:17:20Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T18:43:14Z",
+      "fetchedAt": "2026-11-05T20:02:52Z",
       "articles": [
         {
           "guid": "",
@@ -302,6 +311,16 @@
           "publishedAt": "2026-11-05T16:25:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-prass-hoffenheim_7398353.jpg?20261105180427"
+        },
+        {
+          "guid": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
+          "title": "Europa League LIVE! Sunderland, Brighton and Celtic in action",
+          "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T16:25:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-football-europa-league_7333304.jpg?20260828073946"
         },
         {
           "guid": "",
