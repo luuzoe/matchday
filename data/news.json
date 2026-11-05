@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T18:12:51Z",
+      "fetchedAt": "2026-11-05T18:42:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#2",
+          "title": "'Clock is ticking' - Gateshead fans fear for future",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
+          "description": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
+          "author": "",
+          "publishedAt": "2026-11-05T18:33:33Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#0",
           "title": "Sutton's predictions v Football Manager, the game",
