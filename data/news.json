@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T08:53:19Z",
+      "fetchedAt": "2026-11-05T10:03:36Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#0",
@@ -251,8 +251,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T10:03:06Z",
+      "fetchedAt": "2026-11-05T10:03:37Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Liverpool latest: Iraola bemoans 'cheap' and 'messy' goals in Fenerbahce defeat",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T09:48:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
         {
           "guid": "",
           "title": "Carra: Young guns starring shows Liverpool haven't spent money well enough",
@@ -262,16 +272,6 @@
           "publishedAt": "2026-11-05T09:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-trey-nyoni-liverpool_7397217.jpg?20261104181936"
-        },
-        {
-          "guid": "",
-          "title": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
-          "url": "https://www.skysports.com/football/news/11095/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
-          "description": "From forgettable EFL loan spells to being crowned the best player in the world, it is no wonder Harry Kane&#8217;s former boss thinks of his Ballon d'Or win as a fairy tale.",
-          "author": "",
-          "publishedAt": "2026-11-05T08:23:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-ballon-dor-bayern-munich_7382872.jpg?20261021135151"
         },
         {
           "guid": "",
@@ -292,16 +292,6 @@
           "publishedAt": "2026-11-05T08:13:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-bundesliga_7397657.jpg?20261105084605"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool latest: 'Youngsters starring shows Reds haven't spent well' - Carra",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T07:28:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         },
         {
           "guid": "",
@@ -455,7 +445,7 @@
         },
         {
           "guid": "",
-          "title": "'Our standards must be higher' - Arteta fumes at second half performance",
+          "title": "Arsenal latest: Arteta defends Rice decision - should he have started?",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
