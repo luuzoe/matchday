@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T18:03:17Z",
+      "fetchedAt": "2026-11-05T18:12:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#0",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-05T18:02:15Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#0",
           "title": "Good to feel club are committed to me - Jaissle",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-05T07:23:08Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#4",
+          "title": "Meet the people set for key role in deciding Man City fate",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+          "author": "",
+          "publishedAt": "2026-11-05T06:26:11Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
