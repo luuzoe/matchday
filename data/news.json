@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T13:22:52Z",
+      "fetchedAt": "2026-11-05T13:23:11Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
@@ -13,7 +13,8 @@
           "description": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
           "author": "",
           "publishedAt": "2026-11-05T13:13:41Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#0",
@@ -22,7 +23,8 @@
           "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
           "author": "",
           "publishedAt": "2026-11-05T12:55:13Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#0",
@@ -45,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#4",
           "title": "How to follow the Premier League on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
@@ -185,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#7",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#16",
           "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
           "description": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
@@ -215,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o#3",
           "title": "Emphatic Porto thrash Napoli in second-half romp",
           "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
           "description": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
@@ -225,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo#1",
           "title": "Haaland scores winner as Man City beat Leipzig",
           "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
           "description": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
@@ -233,24 +235,24 @@
           "publishedAt": "2026-11-04T22:15:31Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro#0",
-          "title": "Arsenal survive late Slavia scare for hard-fought win",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:10:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T13:02:52Z",
+      "fetchedAt": "2026-11-05T13:23:11Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd latest: Name your choice for permanent manager should Carrick be sacked",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T11:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
         {
           "guid": "",
           "title": "'Carrick needs Bruno – but Villa could expose United'",
@@ -273,7 +275,7 @@
         },
         {
           "guid": "",
-          "title": "'Until we meet again' - Ronaldo's Portugal retirement statement in full",
+          "title": "'Until we meet again' - Ronaldo's statement in full",
           "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
           "description": "",
           "author": "",
@@ -353,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Como score NINE at Lens as Real Madrid win late again",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T22:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-real-madrid_7397497.jpg?20261104224942"
-        },
-        {
-          "guid": "",
           "title": "'Sloppy' Arsenal survive second-half scare to beat Slavia Prague",
           "url": "https://www.skysports.com/football/slavia-prague-vs-arsenal/report/577667",
           "description": "Arsenal survived a second-half fightback from Slavia Prague to win 2-1 at the Fortuna Arena and continue their unbeaten start to the season in the Champions League.",
@@ -380,16 +372,6 @@
           "publishedAt": "2026-11-04T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-erling-haaland-man-city_7397445.jpg?20261104221134"
-        },
-        {
-          "guid": "",
-          "title": "West Ham fight back from 3-0 down at Cardiff in Parker's first game",
-          "url": "https://www.skysports.com/football/cardiff-city-vs-west-ham-united/report/560663",
-          "description": "Scott Parker saw his West Ham side recover from three goals down to draw 3-3 at Cardiff in a thrilling first game in charge.",
-          "author": "",
-          "publishedAt": "2026-11-04T21:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker-jarrod-bowen_7397458.jpg?20261104221919"
         },
         {
           "guid": "",
