@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T12:43:15Z",
+      "fetchedAt": "2026-11-05T13:02:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#0",
+          "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
+          "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
+          "author": "",
+          "publishedAt": "2026-11-05T12:55:13Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#0",
           "title": "English female coach Kaminski reaping rewards in Norway",
@@ -231,7 +240,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T12:43:16Z",
+      "fetchedAt": "2026-11-05T13:02:52Z",
       "articles": [
         {
           "guid": "",
@@ -262,6 +271,16 @@
           "publishedAt": "2026-11-05T11:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372969.jpg?20261010141017"
+        },
+        {
+          "guid": "",
+          "title": "Brighton latest: Hurzeler among names considered as potential Carrick replacement",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T11:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
         },
         {
           "guid": "",
