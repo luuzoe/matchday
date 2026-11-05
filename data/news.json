@@ -251,8 +251,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T08:53:19Z",
+      "fetchedAt": "2026-11-05T10:03:06Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Carra: Young guns starring shows Liverpool haven't spent money well enough",
+          "url": "https://www.skysports.com/football/news/11095/13608280/liverpool-trey-nyoni-and-rio-ngumoha-starring-shows-reds-havent-spent-money-well-enough-says-jamie-carragher",
+          "description": "Jamie Carragher called Liverpool's recruitment into question after their 3-2 defeat to Fenerbahce in the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-05T09:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-trey-nyoni-liverpool_7397217.jpg?20261104181936"
+        },
         {
           "guid": "",
           "title": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
