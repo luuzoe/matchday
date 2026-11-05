@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T21:53:07Z",
+      "fetchedAt": "2026-11-05T21:53:31Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
@@ -13,7 +13,8 @@
           "description": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
           "author": "",
           "publishedAt": "2026-11-05T21:41:38Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/61bc6ac0-d95d-11f1-a701-fddedf244c16.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
@@ -46,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#4",
           "title": "Good to feel club are committed to me - Jaissle",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
@@ -66,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#2",
           "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
           "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
@@ -126,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#6",
           "title": "Coleman in 'hybrid role' with Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
@@ -166,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#7",
           "title": "How to follow the Premier League on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
@@ -234,24 +235,24 @@
           "publishedAt": "2026-11-05T08:24:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16",
-          "title": "Ferguson harbours Rangers ambition - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
-          "description": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:27:38Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc93/live/73d27590-d8ec-11f1-93e1-3b657b665bcf.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T20:43:15Z",
+      "fetchedAt": "2026-11-05T21:53:31Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Palace latest: Sage refuses to explain Disasi absence amid questions over control",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T21:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+        },
         {
           "guid": "",
           "title": "Bournemouth latest: 'We turned a page after Chelsea defeat' - Adams",
@@ -314,16 +315,6 @@
         },
         {
           "guid": "",
-          "title": "Crystal Palace latest: Sage gives cryptic response over Disasi absence vs Hoffenheim",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T17:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-        },
-        {
-          "guid": "",
           "title": "Transfer Centre LIVE! Spurs still have matching rights clause for Kane",
           "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "description": "",
@@ -334,13 +325,13 @@
         },
         {
           "guid": "",
-          "title": "Europa League LIVE! Sunderland losing, with Brighton and Celtic in action",
+          "title": "Europa League LIVE! Celtic and Brighton in front, Sunderland trailing",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/live/577811",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-05T16:25:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-celtic-besiktas_7398486.jpg?20261105201812"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-camilo-duran-celtic_7398587.jpg?20261105214325"
         },
         {
           "guid": "",
