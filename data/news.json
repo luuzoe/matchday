@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T10:52:52Z",
+      "fetchedAt": "2026-11-05T11:32:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#0",
+          "title": "Ronaldo's most iconic moments as he retires from international football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:22:59Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#2",
+          "title": "Owono left out of Eq Guinea squad after death of De Miguel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
+          "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:18:39Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
           "title": "Ronaldo retires from Portugal duty",
@@ -250,6 +268,15 @@
           "description": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
           "author": "",
           "publishedAt": "2026-11-04T18:51:21Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#7",
+          "title": "'Most difficult days of my life' for Owono after De Miguel death",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+          "author": "",
+          "publishedAt": "2026-11-04T16:40:38Z",
           "publisher": "BBC Sport"
         },
         {
