@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T08:13:14Z",
+      "fetchedAt": "2026-11-05T08:22:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#0",
+          "title": "England captain Kane signs new Bayern deal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
+          "description": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
+          "author": "",
+          "publishedAt": "2026-11-05T08:12:31Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pld9qb#16",
           "title": "Podcast: Celtic under pressure & injury-hit Hearts head for Europe",
@@ -235,14 +244,33 @@
           "publishedAt": "2026-11-04T17:48:19Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo#7",
+          "title": "Wilson returns as Wales call up uncapped Duncan",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
+          "author": "",
+          "publishedAt": "2026-11-04T10:30:19Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T08:13:14Z",
+      "fetchedAt": "2026-11-05T08:22:56Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Ballon d'Or winner Kane signs new Bayern deal",
+          "url": "https://www.skysports.com/football/news/11095/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
+          "description": "Harry Kane has signed a new contract with Bayern Munich.",
+          "author": "",
+          "publishedAt": "2026-11-05T08:13:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-bayern-munich_7390749.jpg?20261029104939"
+        },
         {
           "guid": "",
           "title": "Liverpool latest: 'Youngsters starring shows Reds haven't spent well' - Carra",
