@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T18:42:52Z",
+      "fetchedAt": "2026-11-05T18:43:14Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#2",
@@ -13,7 +13,8 @@
           "description": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
           "author": "",
           "publishedAt": "2026-11-05T18:33:33Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9f/live/998f4430-d945-11f1-b2ee-87d22b17ac74.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#0",
@@ -22,7 +23,8 @@
           "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
           "author": "",
           "publishedAt": "2026-11-05T18:02:15Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#0",
@@ -145,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#4",
           "title": "Ronaldo retires from Portugal duty",
           "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
@@ -185,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#6",
           "title": "Owono left out of Eq Guinea squad after death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
           "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
@@ -233,48 +235,19 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pld9qx.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16",
-          "title": "Ferguson harbours Rangers ambition - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
-          "description": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:27:38Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc93/live/73d27590-d8ec-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
-          "title": "World record 53 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:23:08Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#4",
-          "title": "Meet the people set for key role in deciding Man City fate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
-          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:26:11Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T18:22:51Z",
+      "fetchedAt": "2026-11-05T18:43:14Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13608535/jesus-de-miguel-funeral-family-friends-and-tenerife-players-gather-to-remember-striker-who-died-following-on-field-collision",
+          "guid": "",
           "title": "Family, friends and Tenerife players gather for De Miguel's funeral",
           "url": "https://www.skysports.com/football/news/11095/13608535/jesus-de-miguel-funeral-family-friends-and-tenerife-players-gather-to-remember-striker-who-died-following-on-field-collision",
-          "description": "The funeral of Tenerife striker Jesus de Miguel has taken place after the footballer died following an on-field ‌collision.",
+          "description": "The funeral of Tenerife striker Jesus de Miguel has taken place after the footballer died following an on-field &#8204;collision.",
           "author": "",
           "publishedAt": "2026-11-05T17:54:00Z",
           "publisher": "Sky Sports",
@@ -282,7 +255,7 @@
         },
         {
           "guid": "",
-          "title": "PL Predictions: Forest ready to turn promise into points vs Man City",
+          "title": "PL Predictions: How will your team fare this weekend?",
           "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
           "author": "",
@@ -322,13 +295,13 @@
         },
         {
           "guid": "",
-          "title": "Europa League LIVE! Nightmare start for Palace as Hoffenheim strike",
+          "title": "Europa League LIVE! Palace and Bournemouth both behind",
           "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/live/577801",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-05T16:25:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-football-europa-league_7333304.jpg?20260828073946"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-prass-hoffenheim_7398353.jpg?20261105180427"
         },
         {
           "guid": "",
@@ -469,16 +442,6 @@
           "publishedAt": "2026-11-03T18:14:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
-        },
-        {
-          "guid": "",
-          "title": "England latest: Tuchel to announce squad to face Croatia, Spain on Friday",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-27T14:26:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
         }
       ]
     }
