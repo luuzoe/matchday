@@ -259,8 +259,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T11:43:04Z",
+      "fetchedAt": "2026-11-05T11:52:53Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "'Carrick needs Bruno – but Villa could expose United'",
+          "url": "https://www.skysports.com/football/news/11095/13607957/man-utd-paul-merson-says-michael-carrick-needs-bruno-fernandes-on-side-and-matheus-cunha-to-be-consistent",
+          "description": "Paul Merson says Michael Carrick needs Bruno Fernandes in his side and has challenged Matheus Cunha to find greater consistency after Manchester United's dramatic 3-2 comeback win over Roma.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cunha-bruno-fernandes_7396952.jpg?20261104141113"
+        },
         {
           "guid": "",
           "title": "Ronaldo announces international retirement on Instagram!",
