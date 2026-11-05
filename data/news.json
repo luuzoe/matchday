@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T08:12:53Z",
+      "fetchedAt": "2026-11-05T08:13:14Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pld9qb#16",
@@ -13,7 +13,8 @@
           "description": "Can Celtic stop their European slide and can injury-hit Hearts deliver in Switzerland?",
           "author": "",
           "publishedAt": "2026-11-05T08:00:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pld9qx.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o#16",
@@ -22,7 +23,18 @@
           "description": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
           "author": "",
           "publishedAt": "2026-11-05T07:27:38Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc93/live/73d27590-d8ec-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
+          "title": "World record 53 red cards shown in Brazilian youth game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+          "author": "",
+          "publishedAt": "2026-11-05T07:23:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#0",
@@ -53,16 +65,6 @@
           "publishedAt": "2026-11-05T06:26:11Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#0",
-          "title": "World record 51 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-04T23:22:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo#4",
@@ -146,7 +148,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o#1",
-          "title": "Valverde stunner earns Real Madrid late win at AEK Athens",
+          "title": "Bellingham backheel and Valverde rocket earn Real late win at AEK",
           "url": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
           "description": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row.",
           "author": "",
@@ -233,34 +235,24 @@
           "publishedAt": "2026-11-04T17:48:19Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo#16",
-          "title": "Hearts record £2.4m loss in Bloom's first year",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&at_campaign=rss",
-          "description": "Heart of Midlothian record a loss of £2.4m for the year ending 30 June, despite a turnover of more than £23m the first 12 months of Brighton owner Tony Bloom's involvement.",
-          "author": "",
-          "publishedAt": "2026-11-04T17:00:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ddd/live/81fb7340-d871-11f1-85ab-b3cc3b5498c6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#4",
-          "title": "'Most difficult days of my life' for Owono after De Miguel death",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-          "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-          "author": "",
-          "publishedAt": "2026-11-04T16:40:38Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T07:23:15Z",
+      "fetchedAt": "2026-11-05T08:13:14Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Liverpool latest: 'Youngsters starring shows Reds haven't spent well' - Carra",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T07:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
         {
           "guid": "",
           "title": "Como score NINE at Lens as Real Madrid win late again",
@@ -333,17 +325,7 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Iraola bemoans cheap and messy goals in Fenerbahce defeat",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T20:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool suffer first CL defeat of season after stunning Fenerbahce comeback",
+          "title": "Liverpool suffer first CL defeat of season as Kuyt savours 'miracle' in Istanbul",
           "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/report/577663",
           "description": "Liverpool's perfect start to their Champions League campaign came to a sudden halt as they lost two leads in a 3-2 defeat to Fenerbahce in Istanbul.",
           "author": "",
