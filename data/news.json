@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T17:32:52Z",
+      "fetchedAt": "2026-11-05T18:03:17Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#0",
@@ -13,7 +13,8 @@
           "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
           "author": "",
           "publishedAt": "2026-11-05T17:25:41Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/m003434x#2",
@@ -96,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#4",
           "title": "Coleman in 'hybrid role' with Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
@@ -126,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#2",
           "title": "Ronaldo retires from Portugal duty",
           "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
           "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
@@ -146,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#6",
           "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
           "description": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
@@ -234,26 +235,16 @@
           "publishedAt": "2026-11-05T07:23:08Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo#2",
-          "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-          "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:17:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T18:02:54Z",
+      "fetchedAt": "2026-11-05T18:03:17Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+          "guid": "",
           "title": "PL Predictions: Forest ready to turn promise into points vs Man City",
           "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
@@ -264,7 +255,37 @@
         },
         {
           "guid": "",
-          "title": "Europa League LIVE! Timber returns for Palace as Bournemouth change eight",
+          "title": "Tottenham latest: 'Xavi return to training date set' after ACL injury",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T17:37:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Crystal Palace latest: Sage gives cryptic response over Disasi absence vs Hoffenheim",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T17:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+        },
+        {
+          "guid": "",
+          "title": "Transfer Centre LIVE! Spurs still have matching rights clause for Kane",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T17:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/23/05/1920x1080/skysports-harry-kane-spurs_6161434.jpg?20230520144036"
+        },
+        {
+          "guid": "",
+          "title": "Europa League LIVE! Nightmare start for Palace as Hoffenheim strike",
           "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/live/577801",
           "description": "",
           "author": "",
@@ -276,7 +297,7 @@
           "guid": "",
           "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
           "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
-          "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England’s final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
+          "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England&#8217;s final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
           "author": "",
           "publishedAt": "2026-11-05T16:00:00Z",
           "publisher": "Sky Sports",
@@ -334,26 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Barca captain Raphinha agrees new contract",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T12:39:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-raphinha-barcelona_7397927.jpg?20261105123921"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Name your choice for permanent manager should Carrick be sacked",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T11:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-        },
-        {
-          "guid": "",
           "title": "'Carrick needs Bruno – but Villa could expose United'",
           "url": "https://www.skysports.com/football/news/11095/13607957/man-utd-paul-merson-says-michael-carrick-needs-bruno-fernandes-on-side-and-matheus-cunha-to-be-consistent",
           "description": "Paul Merson says Michael Carrick needs Bruno Fernandes in his side and has challenged Matheus Cunha to find greater consistency after Manchester United's dramatic 3-2 comeback win over Roma.",
@@ -371,16 +372,6 @@
           "publishedAt": "2026-11-05T11:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372969.jpg?20261010141017"
-        },
-        {
-          "guid": "",
-          "title": "Brighton latest: Hurzeler among names considered as potential Carrick replacement",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T11:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
         },
         {
           "guid": "",
@@ -414,16 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Transfer Centre LIVE! Kane signs 'most lucrative deal in Bayern history'",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T08:16:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-bundesliga-ballon-dor_7393102.jpg?20261031180531"
-        },
-        {
-          "guid": "",
           "title": "Ballon d'Or winner Kane signs new Bayern deal",
           "url": "https://www.skysports.com/football/news/11095/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
           "description": "Harry Kane has signed a new contract with Bayern Munich.",
@@ -441,16 +422,6 @@
           "publishedAt": "2026-11-03T20:47:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "EFL latest: Robinson appointed new Bromley manager",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-03T20:07:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/23/01/1920x1080/skysports-karl-robinson-oxford_6019146.jpg?20230109222111"
         },
         {
           "guid": "",
