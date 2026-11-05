@@ -277,8 +277,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T14:43:26Z",
+      "fetchedAt": "2026-11-05T15:22:52Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Brentford latest: Dasilva fitness boost as Andrews provides Milambo update",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T15:13:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
+        },
         {
           "guid": "",
           "title": "Everton latest: Grealish remains unavailable, says Moyes",
