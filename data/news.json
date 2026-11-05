@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T20:02:52Z",
+      "fetchedAt": "2026-11-05T20:12:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#2",
@@ -243,6 +243,24 @@
           "description": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
           "author": "",
           "publishedAt": "2026-11-05T07:17:20Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o#7",
+          "title": "How landmark Everton compensation prevented Burnley record loss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+          "description": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+          "author": "",
+          "publishedAt": "2026-11-04T17:48:19Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro#6",
+          "title": "A rivalry that changed football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+          "description": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
+          "author": "",
+          "publishedAt": "2026-06-05T05:28:32Z",
           "publisher": "BBC Sport"
         }
       ]
