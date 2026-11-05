@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T14:42:57Z",
+      "fetchedAt": "2026-11-05T14:43:25Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#0",
@@ -13,7 +13,8 @@
           "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
           "author": "",
           "publishedAt": "2026-11-05T14:29:40Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
@@ -46,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#2",
           "title": "English female coach Kaminski reaping rewards in Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
           "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
@@ -63,10 +64,10 @@
           "author": "",
           "publishedAt": "2026-11-05T12:28:01Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#6",
           "title": "How to follow the Premier League on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
@@ -76,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go#4",
           "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
           "description": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
@@ -234,24 +235,24 @@
           "publishedAt": "2026-11-04T22:31:57Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o#3",
-          "title": "Emphatic Porto thrash Napoli in second-half romp",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
-          "description": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
-          "author": "",
-          "publishedAt": "2026-11-04T22:17:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T14:03:26Z",
+      "fetchedAt": "2026-11-05T14:43:26Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Everton latest: Grealish remains unavailable, says Moyes",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T13:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
+        },
         {
           "guid": "",
           "title": "Trophies, tears, records and rows - Ronaldo's Portugal career will divide opinion",
@@ -411,16 +412,6 @@
           "publishedAt": "2026-11-04T19:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "Everton latest: Dewsbury-Hall dreaming of England call this week",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T16:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
         },
         {
           "guid": "",
