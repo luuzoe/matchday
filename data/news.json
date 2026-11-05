@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T14:43:25Z",
+      "fetchedAt": "2026-11-05T14:52:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#0",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#0",
+          "title": "Family thankful for support as De Miguel funeral held",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
+          "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:36:32Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#0",
           "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
@@ -235,6 +253,24 @@
           "publishedAt": "2026-11-04T22:31:57Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#10",
+          "title": "'Most difficult days of my life' for Owono after De Miguel death",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+          "author": "",
+          "publishedAt": "2026-11-04T16:40:38Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#7",
+          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+          "author": "",
+          "publishedAt": "2026-11-04T16:12:46Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
