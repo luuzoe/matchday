@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T08:03:16Z",
+      "fetchedAt": "2026-11-06T08:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pll0yb#16",
+          "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&at_campaign=rss",
+          "description": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
+          "author": "",
+          "publishedAt": "2026-11-06T08:00:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#1",
           "title": "How much prize money can teams win in FA Cup?",
@@ -263,6 +272,15 @@
           "publishedAt": "2026-11-05T13:03:43Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#6",
+          "title": "English female coach Kaminski reaping rewards in Norway",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
+          "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
+          "author": "",
+          "publishedAt": "2026-11-05T12:38:34Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#5",
