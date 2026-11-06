@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T13:12:52Z",
+      "fetchedAt": "2026-11-06T13:13:17Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -20,7 +20,7 @@
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#0",
           "title": "Palmer misses too many chances to impress - Tuchel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
+          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
           "author": "",
           "publishedAt": "2026-11-06T11:59:37Z",
           "publisher": "BBC Sport",
@@ -53,7 +53,8 @@
           "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
           "author": "",
           "publishedAt": "2026-11-06T08:22:16Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d4e/live/fdb76130-d90a-11f1-b72c-d16cdc75f35f.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
@@ -166,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#3",
           "title": "Deschamps not interested in Man Utd job - Friday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
           "description": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
@@ -176,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#3",
           "title": "Forest need balance between Woodstock and military - Glasner",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
           "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
@@ -186,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#5",
           "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
@@ -206,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#6",
           "title": "'Clock is ticking' - Gateshead fans fear for future",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
           "description": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
@@ -244,41 +245,13 @@
           "publishedAt": "2026-11-05T16:31:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#5",
-          "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
-          "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
-          "author": "",
-          "publishedAt": "2026-11-05T16:12:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#5",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#6",
-          "title": "World record 53 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:23:08Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T12:33:22Z",
+      "fetchedAt": "2026-11-06T13:13:17Z",
       "articles": [
         {
           "guid": "",
@@ -462,7 +435,7 @@
         },
         {
           "guid": "",
-          "title": "In full: Tuchel explains England squad selections LIVE!",
+          "title": "In full: Tuchel explains England squad selections",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
