@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T00:02:55Z",
+      "fetchedAt": "2026-11-06T00:03:24Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
@@ -13,7 +13,8 @@
           "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
           "author": "",
           "publishedAt": "2026-11-05T23:00:10Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
@@ -244,23 +245,13 @@
           "publishedAt": "2026-11-05T11:22:59Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo#6",
-          "title": "Owono left out of Eq Guinea squad after death of De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
-          "description": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
-          "author": "",
-          "publishedAt": "2026-11-05T11:18:39Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e9/live/aa4ff000-d907-11f1-b72c-d16cdc75f35f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-05T23:43:52Z",
+      "fetchedAt": "2026-11-06T00:03:24Z",
       "articles": [
         {
           "guid": "",
