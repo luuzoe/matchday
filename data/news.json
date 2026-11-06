@@ -4,16 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T14:03:36Z",
+      "fetchedAt": "2026-11-06T14:03:58Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#16",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#0",
           "title": "Talking points as Premiership prepares for international break",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
           "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
           "author": "",
           "publishedAt": "2026-11-06T13:44:22Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -166,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#3",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -176,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#1",
           "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
           "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
@@ -196,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#5",
           "title": "Forest need balance between Woodstock and military - Glasner",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
           "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
@@ -224,56 +225,17 @@
           "publishedAt": "2026-11-05T22:18:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#0",
-          "title": "Sutton's predictions v Football Manager, the game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-05T18:02:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#6",
-          "title": "Good to feel club are committed to me - Jaissle",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
-          "author": "",
-          "publishedAt": "2026-11-05T17:25:41Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#6",
-          "title": "Football Daily",
-          "url": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
-          "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
-          "author": "",
-          "publishedAt": "2026-11-05T16:31:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#6",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T13:43:16Z",
+      "fetchedAt": "2026-11-06T14:03:58Z",
       "articles": [
         {
           "guid": "",
-          "title": "Man Utd latest: Carrick faces the media ahead of Villa test LIVE!",
+          "title": "Man Utd latest: Carrick responds to Sir Alex comparisons and confims Baleba injury",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -293,7 +255,7 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Dowman could beat Bellingham record after England U21 call-up",
+          "title": "Arsenal latest: Arteta gives Saka and Konsa injury updates",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -443,7 +405,7 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Iraola speaks ahead of Palace visit",
+          "title": "Liverpool latest: We need to sacrifice control to create more, says Iraola",
           "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
