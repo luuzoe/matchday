@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T13:42:54Z",
+      "fetchedAt": "2026-11-06T13:43:16Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -24,7 +24,7 @@
           "author": "",
           "publishedAt": "2026-11-06T11:59:37Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo#0",
@@ -33,7 +33,8 @@
           "description": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
           "author": "",
           "publishedAt": "2026-11-06T11:29:51Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e5/live/718d44d0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#0",
@@ -216,16 +217,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#6",
-          "title": "'Clock is ticking' - Gateshead fans fear for future",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
-          "description": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
-          "author": "",
-          "publishedAt": "2026-11-05T18:33:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9f/live/998f4430-d945-11f1-b2ee-87d22b17ac74.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#0",
           "title": "Sutton's predictions v Football Manager, the game",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
@@ -254,50 +245,24 @@
           "publishedAt": "2026-11-05T16:31:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#6",
-          "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
-          "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
-          "author": "",
-          "publishedAt": "2026-11-05T16:12:37Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#5",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#1",
-          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:29:40Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#6",
-          "title": "World record 53 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:23:08Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T13:13:17Z",
+      "fetchedAt": "2026-11-06T13:43:16Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd latest: Carrick faces the media ahead of Villa test LIVE!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T13:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
         {
           "guid": "",
           "title": "'It's not personal' - Tuchel explains Palmer exclusion",
@@ -307,16 +272,6 @@
           "publishedAt": "2026-11-06T11:54:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-thomas-tuchel_7398977.jpg?20261106114403"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Tuchel provides explanation for Mainoo's England snub",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T11:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
         },
         {
           "guid": "",
@@ -400,13 +355,13 @@
         },
         {
           "guid": "",
-          "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
-          "url": "https://www.skysports.com/football/news/11095/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
-          "description": "The top stories and transfer rumours from Friday's newspapers...",
+          "title": "O'Neill: Triple change that sparked Celtic fightback always in game plan",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-05T23:05:00Z",
+          "publishedAt": "2026-11-05T23:18:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-celtic-besiktas-oneill_7398635.jpg?20261105223543"
         },
         {
           "guid": "",
@@ -450,16 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Transfer Centre LIVE! Spurs still have matching rights clause for Kane",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T17:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/23/05/1920x1080/skysports-harry-kane-spurs_6161434.jpg?20230520144036"
-        },
-        {
-          "guid": "",
           "title": "Is Estevao ready to explode?",
           "url": "https://www.skysports.com/football/news/11095/13608399/estevao-ready-for-move-chelsea-minutes-under-xabi-alonso-after-reminder-of-his-threat-against-man-utd-the-radar",
           "description": "",
@@ -477,6 +422,16 @@
           "publishedAt": "2026-11-05T11:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cunha-bruno-fernandes_7396952.jpg?20261104141113"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Iraola speaks ahead of Palace visit",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T09:48:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         },
         {
           "guid": "",
