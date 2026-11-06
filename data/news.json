@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T20:13:19Z",
+      "fetchedAt": "2026-11-06T21:03:16Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#3",
@@ -231,7 +231,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T21:02:56Z",
+      "fetchedAt": "2026-11-06T21:03:16Z",
       "articles": [
         {
           "guid": "",
@@ -245,13 +245,13 @@
         },
         {
           "guid": "",
-          "title": "Derby vs Bolton LIVE!",
+          "title": "Bolton take deserved lead at struggling Derby LIVE!",
           "url": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/live/560671",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T19:25:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-derby-county-bolton-wanderers_7394995.jpg?20261102150758"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-derby-bolton_7399459.jpg?20261106201044"
         },
         {
           "guid": "",
@@ -345,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Moyes opens up on Everton trophy target and his longevity ahead of landmark game",
-          "url": "https://www.skysports.com/football/news/11095/13605773/david-moyes-interview-everton-manager-targeting-trophies-as-he-equals-harry-cattericks-record-for-games-managed",
-          "description": "Everton are seventh in the Premier League table with the chance to move above Liverpool into fifth if they can beat Coventry at home. They are also into a Carabao Cup quarter-final against Fleetwood. This has been a promising start for David Moyes.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/04/1920x1080/skysports-david-moyes_7220906.jpg?20260415171844"
-        },
-        {
-          "guid": "",
           "title": "Man City latest: Maresca reacts to O'Reilly and Foden England omissions",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -435,13 +425,13 @@
         },
         {
           "guid": "",
-          "title": "Everton vs Coventry LIVE!",
+          "title": "Tarkowski not penalised for apparent hair pull vs Coventry LIVE!",
           "url": "https://www.skysports.com/football/everton-vs-coventry-city/live/559537",
           "description": "",
           "author": "",
           "publishedAt": "2026-10-06T18:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-everton-coventry-city_7394996.jpg?20261102150942"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399467.jpg?20261106201835"
         }
       ]
     }
