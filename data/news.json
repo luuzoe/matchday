@@ -296,8 +296,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T12:12:59Z",
+      "fetchedAt": "2026-11-06T12:32:53Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/news/11095/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal",
+          "title": "'It's not personal' - Tuchel explains Palmer exclusion",
+          "url": "https://www.skysports.com/football/news/11095/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal",
+          "description": "Thomas Tuchel has insisted Cole Palmer's absence from the England squad isn't \"personal\" - but sent out an emphatic statement with the Chelsea star's exclusion.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-thomas-tuchel_7398977.jpg?20261106114403"
+        },
         {
           "guid": "",
           "title": "Man Utd latest: Tuchel provides explanation for Mainoo's England snub",
