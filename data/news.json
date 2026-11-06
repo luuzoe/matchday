@@ -231,8 +231,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T20:13:20Z",
+      "fetchedAt": "2026-11-06T21:02:56Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Should hair pull have resulted in penalty or red card?",
+          "url": "https://www.skysports.com/watch/video/13609059/block-j-tarkowski-everton-0-0-coventry",
+          "description": "Should Tarkowski have seen red for a hair pull during Everton's Premier League match against Coventry.",
+          "author": "",
+          "publishedAt": "2026-11-06T20:48:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-everton-tark_7399513.jpg?20261106205057"
+        },
         {
           "guid": "",
           "title": "Derby vs Bolton LIVE!",
