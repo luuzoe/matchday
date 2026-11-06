@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T08:22:54Z",
+      "fetchedAt": "2026-11-06T08:23:24Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
@@ -13,7 +13,8 @@
           "description": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
           "author": "",
           "publishedAt": "2026-11-06T08:11:03Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f10/live/07e8baa0-d95b-11f1-a800-d9dce9e5aa21.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pll0yb#16",
@@ -22,16 +23,18 @@
           "description": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
           "author": "",
           "publishedAt": "2026-11-06T08:00:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#1",
+          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#3",
           "title": "How much prize money can teams win in FA Cup?",
           "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
           "author": "",
           "publishedAt": "2026-11-06T07:50:11Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#1",
@@ -40,7 +43,8 @@
           "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
           "author": "",
           "publishedAt": "2026-11-06T07:47:46Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo#16",
@@ -83,8 +87,8 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
-          "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#3",
+          "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
           "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
           "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
           "author": "",
@@ -93,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#1",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -143,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#1",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#3",
           "title": "What legacy does Ronaldo leave on international stage?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
           "description": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
@@ -163,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#5",
           "title": "'Clock is ticking' - Gateshead fans fear for future",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
           "description": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
@@ -183,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo#6",
           "title": "Good to feel club are committed to me - Jaissle",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
@@ -193,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#5",
+          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#6",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
           "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
@@ -223,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/6caedc70-d90c-11f1-94c6-3f8050561bf5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#5",
           "title": "Emery close to agreeing new Aston Villa contract",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
@@ -241,90 +245,23 @@
           "publishedAt": "2026-11-05T15:28:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#1",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#0",
-          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:29:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do#2",
-          "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do?at_medium=RSS&at_campaign=rss",
-          "description": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
-          "author": "",
-          "publishedAt": "2026-11-05T13:15:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#6",
-          "title": "Coleman in 'hybrid role' with Republic of Ireland",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
-          "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
-          "author": "",
-          "publishedAt": "2026-11-05T13:03:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#6",
-          "title": "English female coach Kaminski reaping rewards in Norway",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
-          "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
-          "author": "",
-          "publishedAt": "2026-11-05T12:38:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#5",
-          "title": "FA and WSL launch major study into ACL injuries in women's football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
-          "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
-          "author": "",
-          "publishedAt": "2026-11-05T10:24:06Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#5",
-          "title": "World record 53 red cards shown in Brazilian youth game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-          "author": "",
-          "publishedAt": "2026-11-05T07:23:08Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T08:03:16Z",
+      "fetchedAt": "2026-11-06T08:23:24Z",
       "articles": [
         {
           "guid": "",
-          "title": "What's gone wrong so quickly at Crystal Palace?",
-          "url": "https://www.skysports.com/football/news/11095/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
-          "description": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
+          "title": "O'Neill: Triple change that sparked Celtic fightback always in game plan",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-06T08:00:00Z",
+          "publishedAt": "2026-11-05T23:18:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-celtic-besiktas-oneill_7398635.jpg?20261105223543"
         },
         {
           "guid": "",
@@ -335,16 +272,6 @@
           "publishedAt": "2026-11-05T23:05:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Amorim fumes at his Milan team after home Europa League loss to Ferencvaros",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T22:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-ruben-amorim-ac-milan_7384075.jpg?20261022200500"
         },
         {
           "guid": "",
@@ -368,16 +295,6 @@
         },
         {
           "guid": "",
-          "title": "Yalcouye header secures narrow win for Brighton at Getafe",
-          "url": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
-          "description": "Malick Yalcouye's second-half header secured a narrow 1-0 win for Brighton at Getafe as Fabian Hurzeler's side moved into the top eight of the Conference League.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124"
-        },
-        {
-          "guid": "",
           "title": "Celtic claim dramatic Europa League win against Besiktas",
           "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
           "description": "Martin O'Neill's inspired substitutions saw Celtic come from behind to breathe life into their Europa League campaign with a much-needed 3-2 home victory over Besiktas.",
@@ -388,6 +305,16 @@
         },
         {
           "guid": "",
+          "title": "Yalcouye header secures narrow win for Brighton at Getafe",
+          "url": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
+          "description": "Malick Yalcouye's second-half header secured a narrow 1-0 win for Brighton at Getafe as Fabian Hurzeler's side moved into the top eight of the Conference League.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124"
+        },
+        {
+          "guid": "",
           "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
           "description": "Pressure is ramping up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
@@ -395,6 +322,16 @@
           "publishedAt": "2026-11-05T21:56:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261105213242"
+        },
+        {
+          "guid": "",
+          "title": "Palace latest: Sage refuses to explain Disasi absence amid questions over control",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T21:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
         },
         {
           "guid": "",
@@ -418,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Family, friends and Tenerife players gather for De Miguel's funeral",
-          "url": "https://www.skysports.com/football/news/11095/13608535/jesus-de-miguel-funeral-family-friends-and-tenerife-players-gather-to-remember-striker-who-died-following-on-field-collision",
-          "description": "The funeral of Tenerife striker Jesus de Miguel has taken place after the footballer died following an on-field &#8204;collision.",
-          "author": "",
-          "publishedAt": "2026-11-05T17:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-jesus-de-miguel_7398356.jpg?20261105180620"
-        },
-        {
-          "guid": "",
           "title": "PL Predictions: How will your team fare this weekend?",
           "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
@@ -438,6 +365,26 @@
         },
         {
           "guid": "",
+          "title": "Tottenham latest: 'Xavi return to training date set' after ACL injury",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T17:37:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Transfer Centre LIVE! Spurs still have matching rights clause for Kane",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T17:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/23/05/1920x1080/skysports-harry-kane-spurs_6161434.jpg?20230520144036"
+        },
+        {
+          "guid": "",
           "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
           "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
           "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England's final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
@@ -445,16 +392,6 @@
           "publishedAt": "2026-11-05T16:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-england_7398142.jpg?20261105152017"
-        },
-        {
-          "guid": "",
-          "title": "Infantino faces fight for FIFA presidency as first challenger emerges",
-          "url": "https://www.skysports.com/football/news/11095/13608441/gianni-infantino-fifa-president-faces-challenge-from-japan-fa-chief-kohzo-tashima-in-2027-election",
-          "description": "Gianni Infantino is facing his first serious challenger for the FIFA presidency after Japanese football chief Kohzo Tashima announced his intention to stand in March's election.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:57:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kohzo-tashima-gianni-infantino_7398127.jpg?20261105151346"
         },
         {
           "guid": "",
@@ -488,26 +425,6 @@
         },
         {
           "guid": "",
-          "title": "Ronaldo's Portugal statement in full",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T11:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372969.jpg?20261010141017"
-        },
-        {
-          "guid": "",
-          "title": "Ronaldo retires from international football",
-          "url": "https://www.skysports.com/football/news/11095/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years",
-          "description": "Cristiano Ronaldo has retired from international football.",
-          "author": "",
-          "publishedAt": "2026-11-05T10:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-portugal_7397864.jpg?20261105114541"
-        },
-        {
-          "guid": "",
           "title": "Man Utd unlikely to appoint interim should they sack Carrick",
           "url": "https://www.skysports.com/football/news/11095/13608290/manchester-united-manager-latest-no-interim-planned-should-club-decide-to-sack-michael-carrick",
           "description": "Manchester United are unlikely to appoint another interim head coach, Sky Sports News has been told, if they decide to replace Michael Carrick in the coming weeks.",
@@ -518,13 +435,23 @@
         },
         {
           "guid": "",
-          "title": "Ballon d'Or winner Kane signs new Bayern deal",
-          "url": "https://www.skysports.com/football/news/11095/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
-          "description": "Harry Kane has signed a new contract with Bayern Munich.",
+          "title": "Carra: Young guns starring shows Liverpool haven't spent money well enough",
+          "url": "https://www.skysports.com/football/news/11095/13608280/liverpool-trey-nyoni-and-rio-ngumoha-starring-shows-reds-havent-spent-money-well-enough-says-jamie-carragher",
+          "description": "Jamie Carragher called Liverpool's recruitment into question after their 3-2 defeat to Fenerbahce in the Champions League.",
           "author": "",
-          "publishedAt": "2026-11-05T08:13:00Z",
+          "publishedAt": "2026-11-05T09:45:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-bundesliga_7397657.jpg?20261105084605"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-trey-nyoni-liverpool_7397217.jpg?20261104181936"
+        },
+        {
+          "guid": "",
+          "title": "England latest: Who should be in and out of today's squad - have your say!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-27T14:26:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
         }
       ]
     }
