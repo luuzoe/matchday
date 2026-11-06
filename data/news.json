@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T15:23:25Z",
+      "fetchedAt": "2026-11-06T15:32:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#0",
+          "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
+          "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
+          "author": "",
+          "publishedAt": "2026-11-06T15:21:40Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o#0",
           "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
@@ -231,7 +240,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T15:23:25Z",
+      "fetchedAt": "2026-11-06T15:32:57Z",
       "articles": [
         {
           "guid": "",
@@ -282,6 +291,16 @@
           "publishedAt": "2026-11-06T14:25:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+        },
+        {
+          "guid": "",
+          "title": "Jobe joins brother Jude with England to showcase his own talent",
+          "url": "https://www.skysports.com/football/news/11095/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
+          "description": "\"He's coming on his own merit,\" said Thomas Tuchel, after extolling the strengths of Jobe Bellingham.",
+          "author": "",
+          "publishedAt": "2026-11-06T14:24:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jude-jobe-bellingham_7399118.jpg?20261106143239"
         },
         {
           "guid": "",
