@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T19:32:57Z",
+      "fetchedAt": "2026-11-06T20:12:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#3",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
+          "description": "John, Ian and Ali tell us what makes a good radio football summariser",
+          "author": "",
+          "publishedAt": "2026-11-06T19:52:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#0",
           "title": "James out for minimum of five games - Bompastor",
