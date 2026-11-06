@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T22:33:11Z",
+      "fetchedAt": "2026-11-06T22:52:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo#2",
+          "title": "'Big decisions' affected the game - Lampard",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo?at_medium=RSS&at_campaign=rss",
+          "description": "Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:40:58Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o#2",
+          "title": "Not a good performance, but we got a result - Moyes",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o?at_medium=RSS&at_campaign=rss",
+          "description": "Everton manager David Moyes is pleased with his side's reaction to turn around a one goal deficit to win 3-1 against Coventry, but isn't pleased with their overall performance.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:40:56Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#0",
           "title": "Barry scores twice as Everton fight back to beat Coventry",
@@ -225,14 +243,42 @@
           "publishedAt": "2026-11-06T07:27:05Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o#7",
+          "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+          "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:54:52Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#7",
+          "title": "Everton hold off Newcastle to move into seventh",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+          "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-02T22:44:30Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T22:33:12Z",
+      "fetchedAt": "2026-11-06T22:52:52Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Papers: Man Utd handed boost in pursuit of Barcelona left-back Alejandro Balde",
+          "url": "https://www.skysports.com/football/news/11095/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk",
+          "description": "The top stories and transfer rumours from Saturday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-06T22:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
         {
           "guid": "",
           "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
