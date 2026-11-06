@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T16:22:55Z",
+      "fetchedAt": "2026-11-06T16:23:19Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0plhlmm#3",
@@ -13,7 +13,8 @@
           "description": "HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
           "author": "",
           "publishedAt": "2026-11-06T16:00:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#0",
@@ -66,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo#5",
           "title": "Oxford City can shock Leicester - Foxes fan Pollock",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo?at_medium=RSS&at_campaign=rss",
           "description": "Oxford City midfielder Scott Pollock believes there is \"no reason\" his side cannot pile more pressure on his beloved Leicester City by pulling off an FA Cup upset.",
@@ -234,27 +235,17 @@
           "publishedAt": "2026-11-06T06:13:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#3",
-          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
-          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
-          "author": "",
-          "publishedAt": "2026-11-06T00:10:28Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T16:03:26Z",
+      "fetchedAt": "2026-11-06T16:23:19Z",
       "articles": [
         {
           "guid": "",
-          "title": "Carrick: Not impossible Man Utd can achieve Ferguson success again",
+          "title": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
           "url": "https://www.skysports.com/football/news/11095/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
           "description": "Michael Carrick believes Manchester United can reach the heights achieved under Sir Alex Ferguson but is not expecting the same level of patience.",
           "author": "",
@@ -344,7 +335,7 @@
         },
         {
           "guid": "",
-          "title": "'It's not personal' - Tuchel explains Palmer exclusion",
+          "title": "Tuchel explains Palmer exclusion",
           "url": "https://www.skysports.com/football/news/11095/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal",
           "description": "Thomas Tuchel has insisted Cole Palmer's absence from the England squad isn't \"personal\" - but sent out an emphatic statement with the Chelsea star's exclusion.",
           "author": "",
