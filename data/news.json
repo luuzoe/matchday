@@ -4,16 +4,27 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T22:32:51Z",
+      "fetchedAt": "2026-11-06T22:33:11Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#16",
-          "title": "Watch: Highlights as Raith Rovers go top with Dunfermline draw",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#0",
+          "title": "Barry scores twice as Everton fight back to beat Coventry",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+          "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:30:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#2",
+          "title": "Raith Rovers go top with Dunfermline draw",
           "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
           "description": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
           "author": "",
           "publishedAt": "2026-11-06T22:06:01Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#0",
@@ -22,7 +33,8 @@
           "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
           "author": "",
           "publishedAt": "2026-11-06T21:08:04Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#3",
@@ -213,62 +225,23 @@
           "publishedAt": "2026-11-06T07:27:05Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#1",
-          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:53:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#3",
-          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:22:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#5",
-          "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-          "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:17:13Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo#7",
-          "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-02T23:01:13Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T22:12:54Z",
+      "fetchedAt": "2026-11-06T22:33:12Z",
       "articles": [
         {
           "guid": "",
           "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
           "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights",
-          "description": "FREE TO WATCH: Highlights from Everton’s match against Coventry in the Premier League.",
+          "description": "FREE TO WATCH: Highlights from Everton&#8217;s match against Coventry in the Premier League.",
           "author": "",
           "publishedAt": "2026-11-06T22:02:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/image_7399599.jpg?20261106220250"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-hlts-pl_7399601.jpg?20261106220645"
         },
         {
           "guid": "",
@@ -302,13 +275,13 @@
         },
         {
           "guid": "",
-          "title": "Bolton take deserved lead at struggling Derby LIVE!",
-          "url": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/live/560671",
+          "title": "Everton latest: Dewsbury-Hall 'sad' over England snub",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-06T19:25:00Z",
+          "publishedAt": "2026-11-06T17:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-derby-bolton_7399459.jpg?20261106201044"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
         },
         {
           "guid": "",
@@ -332,26 +305,6 @@
         },
         {
           "guid": "",
-          "title": "Newcastle latest: Bow and arrows seized after Dedic stopped by police",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T14:27:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: Emery confirms further contract talks to be held next week",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T14:25:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
           "title": "Jobe joins brother Jude with England to showcase his own talent",
           "url": "https://www.skysports.com/football/news/11095/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
           "description": "\"He's coming on his own merit,\" said Thomas Tuchel, after extolling the strengths of Jobe Bellingham.",
@@ -359,16 +312,6 @@
           "publishedAt": "2026-11-06T14:24:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jude-jobe-bellingham_7399118.jpg?20261106143239"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Alonso reacts to Palmer's England snub",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T14:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
         },
         {
           "guid": "",
@@ -399,16 +342,6 @@
           "publishedAt": "2026-11-06T11:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: Maresca reacts to O'Reilly and Foden England omissions",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T10:57:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
         },
         {
           "guid": "",
@@ -482,13 +415,23 @@
         },
         {
           "guid": "",
-          "title": "Tarkowski not penalised for apparent hair pull vs Coventry LIVE!",
+          "title": "Barcola: People are starting to understand me better - but I'm not Mo Salah",
+          "url": "https://www.skysports.com/football/news/11095/13607009/bradley-barcola-interview-liverpool-winger-discusses-leaving-psg-settling-in-at-anfield-overcoming-the-price-tag-and-mohamed-salah-pressure",
+          "description": "Big money signings can take time to get going at their new club. There are plenty at Liverpool who can testify to that.",
+          "author": "",
+          "publishedAt": "2026-11-02T10:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/SKYSPORTS_5acd404f0efc3093240c6c0e21ab369855df54510c2e200ee61be1c7f123424a_7394693.jpg?20261102104226"
+        },
+        {
+          "guid": "",
+          "title": "Everton go above Liverpool after VAR-filled win against Coventry LIVE!",
           "url": "https://www.skysports.com/football/everton-vs-coventry-city/live/559537",
           "description": "",
           "author": "",
           "publishedAt": "2026-10-06T18:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399467.jpg?20261106201835"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kiernan-dewsbury-hall_7399583.jpg?20261106214541"
         }
       ]
     }
