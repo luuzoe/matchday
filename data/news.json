@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-05T23:43:52Z",
+      "fetchedAt": "2026-11-06T00:02:55Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
+          "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+          "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+          "author": "",
+          "publishedAt": "2026-11-05T23:00:10Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
           "title": "Deschamps not interested in Man Utd job - Friday's gossip",
