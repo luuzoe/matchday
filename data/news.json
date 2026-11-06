@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T06:52:57Z",
+      "fetchedAt": "2026-11-06T06:53:21Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0",
@@ -13,7 +13,8 @@
           "description": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
           "author": "",
           "publishedAt": "2026-11-06T06:42:07Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d1/live/c26e86a0-d82c-11f1-be97-417dbcdedd32.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#0",
@@ -22,7 +23,8 @@
           "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
           "author": "",
           "publishedAt": "2026-11-06T06:22:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
         },
         {
           "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
@@ -145,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#3",
           "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
           "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
@@ -175,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#5",
           "title": "Everton's Grealish unavailable again after 'breach of discipline'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
           "description": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
@@ -215,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o#6",
           "title": "Coleman in 'hybrid role' with Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
@@ -235,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#5",
           "title": "English female coach Kaminski reaping rewards in Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
           "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
@@ -243,41 +245,13 @@
           "publishedAt": "2026-11-05T12:38:34Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#6",
-          "title": "Portugal great Ronaldo retires from international duty",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-          "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
-          "author": "",
-          "publishedAt": "2026-11-05T12:28:01Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#3",
-          "title": "Ronaldo's most iconic moments as he retires from international football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
-          "author": "",
-          "publishedAt": "2026-11-05T11:22:59Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#10",
-          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-          "author": "",
-          "publishedAt": "2026-11-04T16:12:46Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T06:23:26Z",
+      "fetchedAt": "2026-11-06T06:53:21Z",
       "articles": [
         {
           "guid": "",
