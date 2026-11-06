@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T14:22:57Z",
+      "fetchedAt": "2026-11-06T14:23:21Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#0",
@@ -13,7 +13,8 @@
           "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
           "author": "",
           "publishedAt": "2026-11-06T14:16:34Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o#1",
@@ -22,7 +23,8 @@
           "description": "Non-league Harborough Town have sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
           "author": "",
           "publishedAt": "2026-11-06T13:54:50Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#0",
@@ -41,7 +43,8 @@
           "description": "Oxford City midfielder Scott Pollock believes there is \"no reason\" his side cannot pile more pressure on his beloved Leicester City by pulling off an FA Cup upset.",
           "author": "",
           "publishedAt": "2026-11-06T13:31:34Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f1/live/e3bfef50-d94a-11f1-b2ee-87d22b17ac74.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -124,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#5",
+          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#6",
           "title": "How much prize money can teams win in FA Cup?",
           "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
@@ -134,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#5",
           "title": "How to follow the FA Cup on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
@@ -164,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#1",
           "title": "From playing against Messi and Ronaldo to non-league",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
           "description": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
@@ -214,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#1",
           "title": "Deschamps not interested in Man Utd job - Friday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
           "description": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
@@ -222,60 +225,31 @@
           "publishedAt": "2026-11-05T22:49:23Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#5",
-          "title": "Forest need balance between Woodstock and military - Glasner",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
-          "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:30:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#5",
-          "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:26:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#5",
-          "title": "What legacy does Ronaldo leave on international stage?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
-          "description": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:18:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#3",
-          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:29:40Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T14:03:58Z",
+      "fetchedAt": "2026-11-06T14:23:22Z",
       "articles": [
         {
           "guid": "",
-          "title": "Man Utd latest: Carrick responds to Sir Alex comparisons and confims Baleba injury",
+          "title": "Chelsea latest: Alonso reacts to Palmer's England snub",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T14:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Carrick confirms Baleba facing weeks out with hamstring injury",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-06T13:20:00Z",
+          "publishedAt": "2026-11-06T14:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
         },
@@ -298,16 +272,6 @@
           "publishedAt": "2026-11-06T11:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Palmer left out of England squad despite being fully fit",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T11:17:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
         },
         {
           "guid": "",
@@ -391,6 +355,16 @@
         },
         {
           "guid": "",
+          "title": "Brighton latest: Hurzeler's Verbruggen tribute",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T22:31:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+        },
+        {
+          "guid": "",
           "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
           "description": "Pressure is ramping up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
@@ -408,16 +382,6 @@
           "publishedAt": "2026-11-05T17:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Tottenham latest: 'Xavi return to training date set' after ACL injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T17:37:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
         },
         {
           "guid": "",
