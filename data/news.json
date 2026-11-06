@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T10:33:26Z",
+      "fetchedAt": "2026-11-06T10:53:01Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0",
@@ -245,13 +245,22 @@
           "publishedAt": "2026-11-05T15:45:22Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#3",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T10:33:27Z",
+      "fetchedAt": "2026-11-06T10:53:01Z",
       "articles": [
         {
           "guid": "",
@@ -262,6 +271,16 @@
           "publishedAt": "2026-11-06T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-football_7398886.jpg?20261106101209"
+        },
+        {
+          "guid": "",
+          "title": "O'Neill's Celtic under pressure, Rangers live on Sky as Hibs hope for revival",
+          "url": "https://www.skysports.com/football/news/11095/13608471/scottish-premiership-martin-oneills-celtic-under-pressure-derek-mcinnes-rangers-live-on-sky-as-hibs-hope-for-revival",
+          "description": "The Scottish Premiership guarantees drama - and we're braced for more ahead of the international break.",
+          "author": "",
+          "publishedAt": "2026-11-06T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scottish-premiership_7398787.jpg?20261106075330"
         },
         {
           "guid": "",
@@ -452,6 +471,16 @@
           "publishedAt": "2026-10-27T14:26:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+        },
+        {
+          "guid": "",
+          "title": "Fulham latest: 'King has everything - he can be one of world's best' - Arbeloa",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-10-06T10:38:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
         }
       ]
     }
