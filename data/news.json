@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T13:52:55Z",
+      "fetchedAt": "2026-11-06T14:03:36Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#16",
@@ -254,6 +254,15 @@
           "publishedAt": "2026-11-05T16:31:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#6",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
