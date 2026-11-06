@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T07:32:54Z",
+      "fetchedAt": "2026-11-06T07:33:19Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo#16",
@@ -13,7 +13,8 @@
           "description": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
           "author": "",
           "publishedAt": "2026-11-06T07:27:05Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#0",
@@ -22,7 +23,8 @@
           "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
           "author": "",
           "publishedAt": "2026-11-06T06:53:56Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0",
@@ -243,33 +245,13 @@
           "publishedAt": "2026-11-05T13:03:43Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#3",
-          "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
-          "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
-          "author": "",
-          "publishedAt": "2026-11-05T12:55:13Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/38577680-d916-11f1-a81d-35e942472442.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#5",
-          "title": "English female coach Kaminski reaping rewards in Norway",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
-          "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
-          "author": "",
-          "publishedAt": "2026-11-05T12:38:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T06:53:21Z",
+      "fetchedAt": "2026-11-06T07:33:19Z",
       "articles": [
         {
           "guid": "",
