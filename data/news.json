@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T09:03:22Z",
+      "fetchedAt": "2026-11-06T09:12:53Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
@@ -127,6 +127,15 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#1",
+          "title": "Forest need balance between Woodstock and military - Glasner",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+          "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:30:07Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#1",
           "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
@@ -245,6 +254,15 @@
           "publishedAt": "2026-11-05T14:44:34Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#6",
+          "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
+          "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
+          "author": "",
+          "publishedAt": "2026-11-05T12:55:13Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
