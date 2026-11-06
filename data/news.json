@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T08:12:53Z",
+      "fetchedAt": "2026-11-06T08:22:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
+          "title": "Lampard looks for Coventry progress as belief grows",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
+          "description": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
+          "author": "",
+          "publishedAt": "2026-11-06T08:11:03Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pll0yb#16",
           "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
