@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T09:12:53Z",
+      "fetchedAt": "2026-11-06T09:52:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0",
+          "title": "Championship preview: Contenders, pretenders and strugglers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
+          "author": "",
+          "publishedAt": "2026-11-06T09:22:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
           "title": "Lampard looks for Coventry progress as belief grows",
@@ -262,6 +271,15 @@
           "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
           "author": "",
           "publishedAt": "2026-11-05T12:55:13Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#10",
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-05T12:14:33Z",
           "publisher": "BBC Sport"
         }
       ]
