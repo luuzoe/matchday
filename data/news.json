@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T21:03:16Z",
+      "fetchedAt": "2026-11-06T21:12:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#0",
+          "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-06T21:08:04Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#3",
           "title": "Football Daily",
