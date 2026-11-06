@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T22:12:54Z",
+      "fetchedAt": "2026-11-06T22:32:51Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#16",
@@ -243,6 +243,15 @@
           "publishedAt": "2026-11-06T06:17:13Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo#7",
+          "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-02T23:01:13Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
