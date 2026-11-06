@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T18:13:43Z",
+      "fetchedAt": "2026-11-06T19:32:57Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#0",
@@ -235,14 +235,33 @@
           "publishedAt": "2026-11-06T06:22:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#1",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-05T18:02:15Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T18:13:44Z",
+      "fetchedAt": "2026-11-06T19:32:57Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Derby vs Bolton LIVE!",
+          "url": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/live/560671",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T19:25:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-derby-county-bolton-wanderers_7394995.jpg?20261102150758"
+        },
         {
           "guid": "",
           "title": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
