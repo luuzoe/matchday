@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T12:33:22Z",
+      "fetchedAt": "2026-11-06T13:12:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -45,6 +45,15 @@
           "publishedAt": "2026-11-06T09:22:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/faa1da30-d9c2-11f1-a701-fddedf244c16.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#1",
+          "title": "Diamonds are forever - phoenix club seek FA Cup upset",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
+          "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
+          "author": "",
+          "publishedAt": "2026-11-06T08:22:16Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
@@ -245,6 +254,24 @@
           "publishedAt": "2026-11-05T16:12:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#5",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo#6",
+          "title": "World record 53 red cards shown in Brazilian youth game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+          "author": "",
+          "publishedAt": "2026-11-05T07:23:08Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
