@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T06:23:05Z",
+      "fetchedAt": "2026-11-06T06:23:26Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
+          "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+          "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:17:13Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#0",
           "title": "Who am I? Plus today's other quizzes",
@@ -13,7 +23,8 @@
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "author": "",
           "publishedAt": "2026-11-06T06:13:26Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#0",
@@ -24,16 +35,6 @@
           "publishedAt": "2026-11-06T00:10:28Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
-          "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-          "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-          "author": "",
-          "publishedAt": "2026-11-05T23:00:10Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
@@ -56,7 +57,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#1",
           "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
@@ -67,7 +68,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#1",
-          "title": "Euro Leagues",
+          "title": "What legacy does Ronaldo leave on international stage?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
           "description": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
           "author": "",
@@ -116,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#3",
+          "guid": "https://www.bbc.co.uk/sounds/play/m003434x#5",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
           "description": "Charlie Adam & Nedum Onuoha join Rick to discuss Ronaldo’s international retirement.",
@@ -156,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#3",
           "title": "Everton's Grealish unavailable again after 'breach of discipline'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
           "description": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
@@ -234,23 +235,13 @@
           "publishedAt": "2026-11-05T12:28:01Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#6",
-          "title": "How to follow the Premier League on the BBC this weekend",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
-          "author": "",
-          "publishedAt": "2026-11-05T12:14:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T03:42:38Z",
+      "fetchedAt": "2026-11-06T06:23:26Z",
       "articles": [
         {
           "guid": "",
