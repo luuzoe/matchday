@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T14:03:58Z",
+      "fetchedAt": "2026-11-06T14:12:53Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#0",
@@ -15,6 +15,15 @@
           "publishedAt": "2026-11-06T13:44:22Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo#3",
+          "title": "Oxford City can shock Leicester - Foxes fan Pollock",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo?at_medium=RSS&at_campaign=rss",
+          "description": "Oxford City midfielder Scott Pollock believes there is \"no reason\" his side cannot pile more pressure on his beloved Leicester City by pulling off an FA Cup upset.",
+          "author": "",
+          "publishedAt": "2026-11-06T13:31:34Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
