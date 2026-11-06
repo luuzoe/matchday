@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T12:02:56Z",
+      "fetchedAt": "2026-11-06T12:03:23Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#0",
@@ -13,7 +13,8 @@
           "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
           "author": "",
           "publishedAt": "2026-11-06T11:59:37Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#0",
@@ -22,7 +23,8 @@
           "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
           "author": "",
           "publishedAt": "2026-11-06T11:16:07Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0",
@@ -55,7 +57,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#3",
+          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#5",
           "title": "How much prize money can teams win in FA Cup?",
           "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
@@ -125,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#0",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -183,16 +185,6 @@
           "publishedAt": "2026-11-05T22:18:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#0",
-          "title": "England check on Palmer - what are Tuchel's other big choices?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
-          "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-          "author": "",
-          "publishedAt": "2026-11-05T19:00:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo#5",
@@ -253,42 +245,44 @@
           "publishedAt": "2026-11-05T16:00:44Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/6caedc70-d90c-11f1-94c6-3f8050561bf5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#5",
-          "title": "Emery close to agreeing new Aston Villa contract",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
-          "author": "",
-          "publishedAt": "2026-11-05T15:45:22Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#3",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film#12",
-          "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
-          "description": "Zac Efron stars. True story of the Von Erichs, wrestling legends who changed the sport",
-          "author": "",
-          "publishedAt": "2026-05-10T23:07:07Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T11:22:59Z",
+      "fetchedAt": "2026-11-06T12:03:23Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd latest: Tuchel provides explanation for Mainoo's England snub",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T11:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Tuchel says boos for White a 'closed book' after England recall",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T11:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea latest: Palmer left out of England squad despite being fully fit",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T11:17:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
         {
           "guid": "",
           "title": "Moyes talks trophy as Everton boss reflects on career before landmark game",
@@ -298,6 +292,16 @@
           "publishedAt": "2026-11-06T11:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/04/1920x1080/skysports-david-moyes_7220906.jpg?20260415171844"
+        },
+        {
+          "guid": "",
+          "title": "Man City latest: Maresca reacts to O'Reilly and Foden England omissions",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T10:57:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
         },
         {
           "guid": "",
@@ -361,16 +365,6 @@
         },
         {
           "guid": "",
-          "title": "Brighton latest: 'Lazy but deserved,' says Hurzeler on Getafe win",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T22:31:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-        },
-        {
-          "guid": "",
           "title": "Celtic claim dramatic Europa League win against Besiktas",
           "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
           "description": "Martin O'Neill's inspired substitutions saw Celtic come from behind to breathe life into their Europa League campaign with a much-needed 3-2 home victory over Besiktas.",
@@ -381,16 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Yalcouye header secures narrow win for Brighton at Getafe",
-          "url": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
-          "description": "Malick Yalcouye's second-half header secured a narrow 1-0 win for Brighton at Getafe as Fabian Hurzeler's side moved into the top eight of the Conference League.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124"
-        },
-        {
-          "guid": "",
           "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
           "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
           "description": "Pressure is ramping up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
@@ -398,36 +382,6 @@
           "publishedAt": "2026-11-05T21:56:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261106101120"
-        },
-        {
-          "guid": "",
-          "title": "Palace latest: Sage refuses to explain Disasi absence amid questions over control",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T21:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-        },
-        {
-          "guid": "",
-          "title": "Kamada earns Palace injury-time Hoffenheim draw and offers Sage respite",
-          "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/report/577801",
-          "description": "Pierre Sage was handed a much-needed lifeline as Crystal Palace snatched a dramatic late 1-1 draw against Hoffenheim in the Europa League, despite playing the final stages with 10 men following Adam Wharton's dismissal.",
-          "author": "",
-          "publishedAt": "2026-11-05T20:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-kamada-crystal-palace_7398468.jpg?20261105200252"
-        },
-        {
-          "guid": "",
-          "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
-          "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-          "description": "Tyler Adams, Evanilson and Rayan came off the bench to rescue Bournemouth in the Europa League with a 3-1 turnaround victory over 10-man Sparta Prague, extending their winning run to seven matches.",
-          "author": "",
-          "publishedAt": "2026-11-05T20:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-evanilson-alvaro-rodriguez_7398470.jpg?20261105200539"
         },
         {
           "guid": "",
@@ -461,16 +415,6 @@
         },
         {
           "guid": "",
-          "title": "Chelsea latest: I became a joke with Blues - but I'm not a joke, says Rosenior",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T16:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
           "title": "Is Estevao ready to explode?",
           "url": "https://www.skysports.com/football/news/11095/13608399/estevao-ready-for-move-chelsea-minutes-under-xabi-alonso-after-reminder-of-his-threat-against-man-utd-the-radar",
           "description": "",
@@ -491,17 +435,7 @@
         },
         {
           "guid": "",
-          "title": "Carra: Young guns starring shows Liverpool haven't spent money well enough",
-          "url": "https://www.skysports.com/football/news/11095/13608280/liverpool-trey-nyoni-and-rio-ngumoha-starring-shows-reds-havent-spent-money-well-enough-says-jamie-carragher",
-          "description": "Jamie Carragher called Liverpool's recruitment into question after their 3-2 defeat to Fenerbahce in the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-05T09:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-trey-nyoni-liverpool_7397217.jpg?20261104181936"
-        },
-        {
-          "guid": "",
-          "title": "England squad: Palmer left out, Bellingham brothers included LIVE!",
+          "title": "Tuchel explains England squad selections LIVE!",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
