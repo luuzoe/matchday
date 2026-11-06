@@ -240,8 +240,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T14:23:22Z",
+      "fetchedAt": "2026-11-06T15:23:01Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Iraola: We must sacrifice control for creativity to fix scoring woes",
+          "url": "https://www.skysports.com/football/news/11095/13608882/liverpool-andoni-iraola-demands-creativity-over-control-to-solve-premier-league-scoring-problems",
+          "description": "Liverpool must sacrifice control in games in order to fix their creativity problems, Andoni Iraola has demanded ahead of their weekend trip to Crystal Palace, live on Sky Sports.",
+          "author": "",
+          "publishedAt": "2026-11-06T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7399134.jpg?20261106145228"
+        },
         {
           "guid": "",
           "title": "Chelsea latest: Alonso reacts to Palmer's England snub",
