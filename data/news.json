@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T06:53:21Z",
+      "fetchedAt": "2026-11-06T07:02:58Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#0",
+          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:53:56Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0",
           "title": "From playing against Messi & Ronaldo to non-league",
