@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T09:52:56Z",
+      "fetchedAt": "2026-11-06T09:53:14Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0",
@@ -13,7 +13,8 @@
           "description": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
           "author": "",
           "publishedAt": "2026-11-06T09:22:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/faa1da30-d9c2-11f1-a701-fddedf244c16.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
@@ -46,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#3",
           "title": "How to follow the FA Cup on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
@@ -126,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro#1",
           "title": "Deschamps not interested in Man Utd job - Friday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
           "description": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
@@ -142,10 +143,11 @@
           "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
           "author": "",
           "publishedAt": "2026-11-05T22:30:07Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o#3",
           "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
@@ -215,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#5",
           "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
           "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
@@ -243,51 +245,13 @@
           "publishedAt": "2026-11-05T15:45:22Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo#5",
-          "title": "Everton's Grealish unavailable again after 'breach of discipline'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
-          "description": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
-          "author": "",
-          "publishedAt": "2026-11-05T15:28:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#1",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do#6",
-          "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
-          "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.",
-          "author": "",
-          "publishedAt": "2026-11-05T12:55:13Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#10",
-          "title": "How to follow the Premier League on the BBC this weekend",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
-          "author": "",
-          "publishedAt": "2026-11-05T12:14:33Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T09:03:23Z",
+      "fetchedAt": "2026-11-06T09:53:14Z",
       "articles": [
         {
           "guid": "",
