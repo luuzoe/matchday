@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T16:52:56Z",
+      "fetchedAt": "2026-11-06T18:13:43Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#0",
@@ -13,7 +13,8 @@
           "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
           "author": "",
           "publishedAt": "2026-11-06T16:44:44Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#0",
@@ -22,7 +23,8 @@
           "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
           "author": "",
           "publishedAt": "2026-11-06T16:30:03Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0plhlmm#3",
@@ -85,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo#3",
           "title": "Oxford City can shock Leicester - Foxes fan Pollock",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg7xx94vy4eo?at_medium=RSS&at_campaign=rss",
           "description": "Oxford City midfielder Scott Pollock believes there is \"no reason\" his side cannot pile more pressure on his beloved Leicester City by pulling off an FA Cup upset.",
@@ -105,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#1",
           "title": "Palmer misses too many chances to impress - Tuchel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
           "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
@@ -155,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d4e/live/fdb76130-d90a-11f1-b72c-d16cdc75f35f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#1",
           "title": "Lampard looks for Coventry progress as belief grows",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
           "description": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
@@ -233,42 +235,13 @@
           "publishedAt": "2026-11-06T06:22:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#3",
-          "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-          "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:17:13Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#3",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:13:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#6",
-          "title": "Forest need balance between Woodstock and military - Glasner",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
-          "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:30:07Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T18:13:17Z",
+      "fetchedAt": "2026-11-06T18:13:44Z",
       "articles": [
         {
           "guid": "",
@@ -299,16 +272,6 @@
           "publishedAt": "2026-11-06T15:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7399134.jpg?20261106145228"
-        },
-        {
-          "guid": "",
-          "title": "Sunderland latest: Le Bris admits Black Cats have gone 'soft'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T14:43:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
         },
         {
           "guid": "",
@@ -352,7 +315,7 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Carrick says Baleba facing weeks out with hamstring injury",
+          "title": "Man Utd latest: Baleba facing weeks out with hamstring injury",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -372,7 +335,7 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Arteta gives Saka and Konsa injury updates",
+          "title": "Arsenal latest: Saliba not called up by France for international break",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -392,6 +355,16 @@
         },
         {
           "guid": "",
+          "title": "Man City latest: Maresca reacts to O'Reilly and Foden England omissions",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T10:57:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "",
           "title": "Palmer left out of England squad as Jobe and King called up",
           "url": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
           "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham&#8217;s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
@@ -399,16 +372,6 @@
           "publishedAt": "2026-11-06T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-football_7398886.jpg?20261106101209"
-        },
-        {
-          "guid": "",
-          "title": "Coady announces retirement at 33",
-          "url": "https://www.skysports.com/football/news/11095/13608758/conor-coady-former-wolves-everton-leicester-defender-retires-at-the-age-of-33",
-          "description": "Conor Coady has announced his retirement from professional football at the age of 33.",
-          "author": "",
-          "publishedAt": "2026-11-06T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-conor-coady-wrexham_7398876.jpg?20261106095718"
         },
         {
           "guid": "",
@@ -422,7 +385,7 @@
         },
         {
           "guid": "",
-          "title": "Lacey and Man Utd's next generation can rescue Carrick",
+          "title": "Man Utd's next generation can rescue Carrick",
           "url": "https://www.skysports.com/football/news/11095/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
           "description": "Being at Old Trafford on Tuesday night was quite incredible.",
           "author": "",
@@ -439,16 +402,6 @@
           "publishedAt": "2026-11-05T17:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Is Estevao ready to explode?",
-          "url": "https://www.skysports.com/football/news/11095/13608399/estevao-ready-for-move-chelsea-minutes-under-xabi-alonso-after-reminder-of-his-threat-against-man-utd-the-radar",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T13:42:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-estevao-chelsea_7398086.png?20261105144503"
         },
         {
           "guid": "",
