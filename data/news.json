@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T21:12:52Z",
+      "fetchedAt": "2026-11-06T22:12:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#16",
+          "title": "Watch: Highlights as Raith Rovers go top with Dunfermline draw",
+          "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
+          "description": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:06:01Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#0",
           "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
@@ -240,8 +249,38 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T21:03:16Z",
+      "fetchedAt": "2026-11-06T22:12:54Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
+          "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights",
+          "description": "FREE TO WATCH: Highlights from Everton’s match against Coventry in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:02:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/image_7399599.jpg?20261106220250"
+        },
+        {
+          "guid": "",
+          "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
+          "url": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537",
+          "description": "Thierno Barry continued his fine form as his two goals and an assist fired Everton to a comeback 3-1 win over Coventry - who had three big VAR calls go against them on Merseyside.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399579.jpg?20261106214109"
+        },
+        {
+          "guid": "",
+          "title": "Derby ease pressure on boss Eustace with comeback win over Bolton",
+          "url": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/report/560671",
+          "description": "Derby eased the building pressure on boss John Eustace as they hit back to beat Bolton 2-1 in the Championship.",
+          "author": "",
+          "publishedAt": "2026-11-06T21:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-derby-county_7399551.jpg?20261106211450"
+        },
         {
           "guid": "",
           "title": "Should hair pull have resulted in penalty or red card?",
