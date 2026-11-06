@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T16:32:56Z",
+      "fetchedAt": "2026-11-06T16:52:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#0",
+          "title": "James out for minimum of five games - Bompastor",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
+          "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
+          "author": "",
+          "publishedAt": "2026-11-06T16:44:44Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#0",
           "title": "Is Palmer's England career over under Tuchel?",
