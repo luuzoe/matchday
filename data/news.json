@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T06:23:26Z",
+      "fetchedAt": "2026-11-06T06:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#0",
+          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:22:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
           "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
