@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T03:42:38Z",
+      "fetchedAt": "2026-11-06T06:23:05Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:13:26Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#0",
           "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
