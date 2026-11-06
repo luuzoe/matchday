@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T22:52:52Z",
+      "fetchedAt": "2026-11-06T23:26:50Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo#0",
+          "title": "Lampard feels hair pull should have led to Coventry penalty",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+          "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+          "author": "",
+          "publishedAt": "2026-11-06T23:22:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo#2",
           "title": "'Big decisions' affected the game - Lampard",
@@ -13,7 +23,8 @@
           "description": "Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
           "author": "",
           "publishedAt": "2026-11-06T22:40:58Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d19/live/d3d66860-da32-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o#2",
@@ -22,7 +33,8 @@
           "description": "Everton manager David Moyes is pleased with his side's reaction to turn around a one goal deficit to win 3-1 against Coventry, but isn't pleased with their overall performance.",
           "author": "",
           "publishedAt": "2026-11-06T22:40:56Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7faf/live/cc81d730-da31-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#0",
@@ -95,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#1",
           "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
           "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
@@ -165,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo#3",
           "title": "Wolves legend and ex-England defender Coady retires",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
           "description": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
@@ -213,61 +225,13 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo#6",
-          "title": "How much prize money can teams win in FA Cup?",
-          "url": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
-          "author": "",
-          "publishedAt": "2026-11-06T07:50:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#5",
-          "title": "How to follow the FA Cup on the BBC this weekend",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
-          "author": "",
-          "publishedAt": "2026-11-06T07:47:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo#16",
-          "title": "Goodwin keen but realistic over Cameron move - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
-          "description": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
-          "author": "",
-          "publishedAt": "2026-11-06T07:27:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o#7",
-          "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-          "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
-          "author": "",
-          "publishedAt": "2026-11-02T22:54:52Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o#7",
-          "title": "Everton hold off Newcastle to move into seventh",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-          "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-02T22:44:30Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T23:02:51Z",
+      "fetchedAt": "2026-11-06T23:26:50Z",
       "articles": [
         {
           "guid": "",
@@ -381,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Saliba not called up by France for international break",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T11:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
           "title": "Palmer left out of England squad as Jobe and King called up",
           "url": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
           "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham&#8217;s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
@@ -478,16 +432,6 @@
           "publishedAt": "2026-11-02T10:40:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/SKYSPORTS_5acd404f0efc3093240c6c0e21ab369855df54510c2e200ee61be1c7f123424a_7394693.jpg?20261102104226"
-        },
-        {
-          "guid": "",
-          "title": "Everton go above Liverpool after VAR-filled win against Coventry LIVE!",
-          "url": "https://www.skysports.com/football/everton-vs-coventry-city/live/559537",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-10-06T18:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kiernan-dewsbury-hall_7399583.jpg?20261106214541"
         }
       ]
     }
