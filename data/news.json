@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T13:43:16Z",
+      "fetchedAt": "2026-11-06T13:52:55Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#16",
+          "title": "Talking points as Premiership prepares for international break",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
+          "author": "",
+          "publishedAt": "2026-11-06T13:44:22Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
           "title": "Has Anderson lived up to the hype after Man City move?",
