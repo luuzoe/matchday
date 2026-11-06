@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T16:23:19Z",
+      "fetchedAt": "2026-11-06T16:32:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#0",
+          "title": "Is Palmer's England career over under Tuchel?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
+          "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-06T16:30:03Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0plhlmm#3",
           "title": "Euro Leagues",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-06T06:13:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo#6",
+          "title": "Forest need balance between Woodstock and military - Glasner",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+          "description": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
+          "author": "",
+          "publishedAt": "2026-11-05T22:30:07Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
