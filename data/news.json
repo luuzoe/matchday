@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T11:22:59Z",
+      "fetchedAt": "2026-11-06T12:02:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#0",
+          "title": "Palmer misses too many chances to impress - Tuchel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:59:37Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#0",
           "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
@@ -262,6 +271,15 @@
           "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
           "author": "",
           "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film#12",
+          "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
+          "description": "Zac Efron stars. True story of the Von Erichs, wrestling legends who changed the sport",
+          "author": "",
+          "publishedAt": "2026-05-10T23:07:07Z",
           "publisher": "BBC Sport"
         }
       ]
