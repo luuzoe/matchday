@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T09:53:14Z",
+      "fetchedAt": "2026-11-06T10:33:26Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0",
@@ -78,13 +78,13 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0",
-          "title": "From playing against Messi & Ronaldo to non-league",
+          "title": "From playing against Messi and Ronaldo to non-league",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
           "description": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
           "author": "",
           "publishedAt": "2026-11-06T06:42:07Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d1/live/c26e86a0-d82c-11f1-be97-417dbcdedd32.png"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab3/live/d631fc50-d9c9-11f1-bb8e-efaa31738708.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#0",
@@ -251,13 +251,13 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T10:33:00Z",
+      "fetchedAt": "2026-11-06T10:33:27Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
+          "guid": "",
           "title": "Palmer left out of England squad as Jobe and King called up",
           "url": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-          "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham’s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
+          "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham&#8217;s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
           "author": "",
           "publishedAt": "2026-11-06T10:00:00Z",
           "publisher": "Sky Sports",
@@ -341,7 +341,7 @@
           "author": "",
           "publishedAt": "2026-11-05T21:56:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261105213242"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261106101120"
         },
         {
           "guid": "",
@@ -415,16 +415,6 @@
         },
         {
           "guid": "",
-          "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
-          "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
-          "description": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England's final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
-          "author": "",
-          "publishedAt": "2026-11-05T16:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-england_7398142.jpg?20261105152017"
-        },
-        {
-          "guid": "",
           "title": "Is Estevao ready to explode?",
           "url": "https://www.skysports.com/football/news/11095/13608399/estevao-ready-for-move-chelsea-minutes-under-xabi-alonso-after-reminder-of-his-threat-against-man-utd-the-radar",
           "description": "",
@@ -455,7 +445,7 @@
         },
         {
           "guid": "",
-          "title": "England latest: Who should be in and out as squad named at 10am? Have your say!",
+          "title": "England squad: Palmer left out, Bellingham brothers included LIVE!",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
