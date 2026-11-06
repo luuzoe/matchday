@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T10:53:01Z",
+      "fetchedAt": "2026-11-06T11:22:59Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#0",
+          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:16:07Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#0",
           "title": "Championship preview: Contenders, pretenders and strugglers",
@@ -260,8 +269,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T10:53:01Z",
+      "fetchedAt": "2026-11-06T11:22:59Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Moyes talks trophy as Everton boss reflects on career before landmark game",
+          "url": "https://www.skysports.com/football/news/11095/13605773/david-moyes-interview-everton-manager-targeting-trophies-as-he-equals-harry-cattericks-record-for-games-managed",
+          "description": "Everton are seventh in the Premier League table with the chance to move above Liverpool into fifth if they can beat Coventry at home. They are also into a Carabao Cup quarter-final against Fleetwood. This has been a promising start for David Moyes.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/04/1920x1080/skysports-david-moyes_7220906.jpg?20260415171844"
+        },
         {
           "guid": "",
           "title": "Palmer left out of England squad as Jobe and King called up",
