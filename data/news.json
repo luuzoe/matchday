@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T13:20:17Z",
+      "fetchedAt": "2026-11-06T13:42:54Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -25,6 +25,15 @@
           "publishedAt": "2026-11-06T11:59:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo#0",
+          "title": "Wolves legend and ex-England defender Coady retires",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
+          "description": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:29:51Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#0",
@@ -247,12 +256,30 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo#6",
+          "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
+          "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
+          "author": "",
+          "publishedAt": "2026-11-05T16:12:37Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#5",
           "title": "What new Kane deal means for England and the Premier League record",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
           "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
           "author": "",
           "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#1",
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:29:40Z",
           "publisher": "BBC Sport"
         },
         {
