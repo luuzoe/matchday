@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T12:12:59Z",
+      "fetchedAt": "2026-11-06T12:33:22Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
@@ -13,7 +13,8 @@
           "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
           "author": "",
           "publishedAt": "2026-11-06T12:00:18Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#0",
@@ -136,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo#1",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -186,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#3",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pljnrs#5",
           "title": "What legacy does Ronaldo leave on international stage?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
           "description": "Reaction to Cristiano Ronaldo’s retirement from Portugal.",
@@ -244,62 +245,16 @@
           "publishedAt": "2026-11-05T16:12:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx29zzrl17no#16",
-          "title": "Scotland's Welsh avoids serious knee injury",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx29zzrl17no?at_medium=RSS&at_campaign=rss",
-          "description": "Swansea City receive major fitness boost as influential centre-back Stephen Welsh is cleared of serious injury.",
-          "author": "",
-          "publishedAt": "2026-11-05T16:00:44Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/6caedc70-d90c-11f1-94c6-3f8050561bf5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno#6",
-          "title": "Emery close to agreeing new Aston Villa contract",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
-          "author": "",
-          "publishedAt": "2026-11-05T15:45:22Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#5",
-          "title": "Ronaldo's most iconic moments as he retires from international football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
-          "author": "",
-          "publishedAt": "2026-11-05T11:22:59Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#6",
-          "title": "FA and WSL launch major study into ACL injuries in women's football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
-          "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
-          "author": "",
-          "publishedAt": "2026-11-05T10:24:06Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#10",
-          "title": "Meet the people set for key role in deciding Man City fate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
-          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:26:11Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T12:32:53Z",
+      "fetchedAt": "2026-11-06T12:33:22Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/news/11095/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal",
+          "guid": "",
           "title": "'It's not personal' - Tuchel explains Palmer exclusion",
           "url": "https://www.skysports.com/football/news/11095/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal",
           "description": "Thomas Tuchel has insisted Cole Palmer's absence from the England squad isn't \"personal\" - but sent out an emphatic statement with the Chelsea star's exclusion.",
@@ -320,7 +275,7 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Tuchel says boos for White a 'closed book' after England recall",
+          "title": "Arsenal latest: Dowman could beat Bellingham record after England U21 call-up",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -400,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "O'Neill: Triple change that sparked Celtic fightback always in game plan",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T23:18:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-celtic-besiktas-oneill_7398635.jpg?20261105223543"
-        },
-        {
-          "guid": "",
           "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
           "url": "https://www.skysports.com/football/news/11095/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
           "description": "The top stories and transfer rumours from Friday's newspapers...",
@@ -427,16 +372,6 @@
           "publishedAt": "2026-11-05T22:35:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
-        },
-        {
-          "guid": "",
-          "title": "Celtic claim dramatic Europa League win against Besiktas",
-          "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
-          "description": "Martin O'Neill's inspired substitutions saw Celtic come from behind to breathe life into their Europa League campaign with a much-needed 3-2 home victory over Besiktas.",
-          "author": "",
-          "publishedAt": "2026-11-05T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-celtic-camilo-duran_7398627.jpg?20261105222544"
         },
         {
           "guid": "",
@@ -500,7 +435,7 @@
         },
         {
           "guid": "",
-          "title": "Tuchel explains England squad selections LIVE!",
+          "title": "In full: Tuchel explains England squad selections LIVE!",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
