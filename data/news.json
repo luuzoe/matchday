@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T07:02:58Z",
+      "fetchedAt": "2026-11-06T07:32:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo#16",
+          "title": "Goodwin keen but realistic over Cameron move - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
+          "description": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
+          "author": "",
+          "publishedAt": "2026-11-06T07:27:05Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#0",
           "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
