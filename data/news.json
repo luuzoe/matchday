@@ -240,8 +240,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T15:32:57Z",
+      "fetchedAt": "2026-11-06T16:03:00Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Carrick: Not impossible Man Utd can achieve Ferguson success again",
+          "url": "https://www.skysports.com/football/news/11095/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
+          "description": "Michael Carrick believes Manchester United can reach the heights achieved under Sir Alex Ferguson but is not expecting the same level of patience.",
+          "author": "",
+          "publishedAt": "2026-11-06T15:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7399116.jpg?20261106143020"
+        },
         {
           "guid": "",
           "title": "Spurs latest: De Zerbi says teenager Williams-Barnett ready to start",
