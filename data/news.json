@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T14:23:21Z",
+      "fetchedAt": "2026-11-06T14:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o#0",
+          "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
+          "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
+          "author": "",
+          "publishedAt": "2026-11-06T14:25:41Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#0",
           "title": "'Incredible achievement for the family' as Bellingham brothers called up",
