@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T00:03:24Z",
+      "fetchedAt": "2026-11-06T00:22:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#0",
+          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+          "author": "",
+          "publishedAt": "2026-11-06T00:10:28Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#16",
           "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
@@ -245,6 +254,15 @@
           "publishedAt": "2026-11-05T11:22:59Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo#5",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-05T06:30:52Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
