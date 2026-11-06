@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T23:26:50Z",
+      "fetchedAt": "2026-11-06T23:32:55Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o#2",
+          "title": "Bristol Rovers shock Cambridge United to reach round two",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o?at_medium=RSS&at_campaign=rss",
+          "description": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-06T23:26:39Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo#0",
           "title": "Lampard feels hair pull should have led to Coventry penalty",
@@ -225,6 +234,15 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo#7",
+          "title": "Fans pay respects to Tenerife's De Miguel",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo?at_medium=RSS&at_campaign=rss",
+          "description": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
+          "author": "",
+          "publishedAt": "2026-11-04T11:05:16Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
