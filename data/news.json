@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T06:32:52Z",
+      "fetchedAt": "2026-11-06T06:52:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo#0",
+          "title": "From playing against Messi & Ronaldo to non-league",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
+          "description": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:42:07Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#0",
           "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
@@ -244,6 +253,24 @@
           "publishedAt": "2026-11-05T12:28:01Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/89113660-d925-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#3",
+          "title": "Ronaldo's most iconic moments as he retires from international football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:22:59Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#10",
+          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+          "author": "",
+          "publishedAt": "2026-11-04T16:12:46Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
