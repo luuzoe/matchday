@@ -241,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T13:13:18Z",
+      "fetchedAt": "2026-11-07T13:22:51Z",
       "articles": [
         {
           "guid": "",
@@ -432,6 +432,16 @@
           "publishedAt": "2026-11-04T16:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
+        },
+        {
+          "guid": "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538",
+          "title": "Fulham vs Newcastle LIVE!",
+          "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-09-28T13:53:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/09/1920x1080/skysports-fulham-josh-king_7341951.jpg?20260905153219"
         },
         {
           "guid": "",
