@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T18:22:53Z",
+      "fetchedAt": "2026-11-07T18:32:58Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#1",
+          "title": "Non-league Carlisle upset League Two leaders Salford",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
+          "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:29:20Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo#0",
+          "title": "Title race hots up before Chelsea v Man City showdown",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+          "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:27:46Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo#1",
           "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
