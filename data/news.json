@@ -312,7 +312,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T15:02:53Z",
+      "fetchedAt": "2026-11-07T15:22:50Z",
       "articles": [
         {
           "guid": "",
@@ -343,6 +343,16 @@
           "publishedAt": "2026-11-07T14:10:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-o-brien-wrexham_7399815.jpg?20261107131041"
+        },
+        {
+          "guid": "",
+          "title": "Stoke battle back to win at Portsmouth",
+          "url": "https://www.skysports.com/football/portsmouth-vs-stoke-city/report/560672",
+          "description": "Jack McGlynn and Ben Wilmot scored as Stoke hit back to beat Portsmouth 2-1 and maintain their impressive Championship form.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-jack-mcglynn-stoke-city_7399913.jpg?20261107143006"
         },
         {
           "guid": "",
