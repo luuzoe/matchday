@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T17:33:01Z",
+      "fetchedAt": "2026-11-07T17:42:50Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#2",
+          "title": "Salisbury put six past Sholing to advance to second round",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
+          "description": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:39:21Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o#2",
+          "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o?at_medium=RSS&at_campaign=rss",
+          "description": "League Two side Shrewsbury Town defeat Eastleigh of the National League 2-1 in the first round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:30:36Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#2",
           "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
