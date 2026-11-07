@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T14:03:19Z",
+      "fetchedAt": "2026-11-07T14:12:58Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#16",
@@ -235,6 +235,33 @@
           "publishedAt": "2026-11-06T16:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#1",
+          "title": "'A beautiful story' as Bellingham brothers called up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+          "author": "",
+          "publishedAt": "2026-11-06T14:16:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o#5",
+          "title": "Harborough sign 6ft 9in striker Hudlin before FA Cup tie",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
+          "author": "",
+          "publishedAt": "2026-11-06T13:54:50Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#6",
+          "title": "Diamonds are forever - phoenix club seek FA Cup upset",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
+          "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
+          "author": "",
+          "publishedAt": "2026-11-06T08:22:16Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
