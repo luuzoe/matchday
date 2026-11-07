@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T14:12:58Z",
+      "fetchedAt": "2026-11-07T14:22:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no#1",
+          "title": "How 'calm' Eustace got the result he needed for Derby",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no?at_medium=RSS&at_campaign=rss",
+          "description": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:12:45Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#16",
           "title": "Scotland lose Welsh and call up Porteous",
@@ -255,12 +264,57 @@
           "publisher": "BBC Sport"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#5",
+          "title": "Palmer misses too many chances to impress - Tuchel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:59:37Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#5",
+          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:16:07Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#6",
           "title": "Diamonds are forever - phoenix club seek FA Cup upset",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
           "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
           "author": "",
           "publishedAt": "2026-11-06T08:22:16Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#6",
+          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:53:56Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#3",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-05T18:02:15Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#6",
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:29:40Z",
           "publisher": "BBC Sport"
         }
       ]
