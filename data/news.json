@@ -4,16 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T21:32:54Z",
+      "fetchedAt": "2026-11-07T21:33:17Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2",
           "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
           "url": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
-          "description": "Notts County find a way to get pat National League opposition in the form Altrincham on a foggy night winning 3-2 on penalties.",
+          "description": "Notts County find a way to get pat National League opposition in the form  Altrincham on a foggy night winning 3-2 on penalties.",
           "author": "",
           "publishedAt": "2026-11-07T21:25:19Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cm5yn139zgw0o#6",
@@ -22,7 +23,8 @@
           "description": "Cameron McGeehan scores a hat-trick as League One side Barnsley romp to an emphatic 7-2 win over Aldershot Town of the National League, to progress to the second round of the FA Cup.",
           "author": "",
           "publishedAt": "2026-11-07T21:22:55Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f6/live/f1418a10-daeb-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#1",
@@ -31,7 +33,8 @@
           "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
           "author": "",
           "publishedAt": "2026-11-07T20:54:12Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6",
@@ -101,7 +104,7 @@
           "author": "",
           "publishedAt": "2026-11-07T19:34:32Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo#1",
@@ -124,16 +127,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cc/live/0069cdb0-dad1-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o#2",
-          "title": "Altrincham take shock lead against Notts County",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o?at_medium=RSS&at_campaign=rss",
-          "description": "Lewis Banks scores from close range to put the National League's Altrincham 2-1 up against League One side Notts County in the first round of the FA Cup.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:08:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe96/live/f1922370-dadd-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo#6",
           "title": "Bates double earns Dover upset win over Wealdstone",
           "url": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&at_campaign=rss",
@@ -142,16 +135,6 @@
           "publishedAt": "2026-11-07T18:49:14Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f360/live/c8658c60-dada-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo#6",
-          "title": "Chelsea surrender top spot after home draw with Everton",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo?at_medium=RSS&at_campaign=rss",
-          "description": "A Lucy Bronze own goal gives Everton a hard earned 1-1 draw at Stamford Bridge, as Chelsea drop to second in the WSL table.",
-          "author": "",
-          "publishedAt": "2026-11-07T18:35:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/974c/live/c35cbec0-dabf-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o#2",
@@ -164,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#4",
           "title": "Argentina set to go to Cas after Fifa rejects appeals",
           "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
           "description": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
@@ -254,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#7",
           "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
           "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
@@ -262,23 +245,13 @@
           "publishedAt": "2026-11-07T14:35:23Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#8",
-          "title": "Scotland lose Welsh and call up Porteous",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
-          "description": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
-          "author": "",
-          "publishedAt": "2026-11-07T13:57:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T21:12:51Z",
+      "fetchedAt": "2026-11-07T21:33:17Z",
       "articles": [
         {
           "guid": "",
@@ -288,8 +261,7 @@
           "author": "",
           "publishedAt": "2026-11-07T20:20:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-oli-mcburnie_7400464.jpg?20261107194812",
-          "category": "News Story"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-oli-mcburnie_7400464.jpg?20261107194812"
         },
         {
           "guid": "",
@@ -373,7 +345,7 @@
         },
         {
           "guid": "",
-          "title": "Naderi slots Rangers in front after 'soft' penalty call LIVE!",
+          "title": "Rangers double their lead at St Mirren after 'soft' penalty call LIVE!",
           "url": "https://www.skysports.com/football/st-mirren-vs-rangers/live/558409",
           "description": "",
           "author": "",
@@ -480,16 +452,6 @@
           "publishedAt": "2026-11-06T14:27:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
-        },
-        {
-          "guid": "",
-          "title": "West Ham latest: Parker 'bitterly disappointed' after Blackburn defeat",
-          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T15:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
         }
       ]
     }
