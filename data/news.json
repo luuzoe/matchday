@@ -295,8 +295,30 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T18:52:53Z",
+      "fetchedAt": "2026-11-07T19:02:52Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Hull City latest: Tigers nine without win but Jakirovic sees positives",
+          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T18:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339",
+          "category": "Liveblog"
+        },
+        {
+          "guid": "",
+          "title": "Cherki pulls one back for City with THUNDERBOLT!",
+          "url": "https://www.skysports.com/watch/video/13609511/goal-r-cherki-52-nottm-forest-2-1-manchester-city",
+          "description": "Man City pull one back as Rayan Cherki fires a superb shot past Forest stopper Matz Sels.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:48:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400416.jpg?20261107184741",
+          "category": "Video"
+        },
         {
           "guid": "",
           "title": "Spurs to lodge complaint over Bogle tackle on Tel",
