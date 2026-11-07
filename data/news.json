@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T11:03:41Z",
+      "fetchedAt": "2026-11-07T12:02:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16",
+          "title": "Listen to Off The Ball",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+          "description": "The most petty and ill-informed football show on radio.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:00:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
           "title": "Football Daily",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-06T13:54:50Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o#6",
+          "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+          "description": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:17:13Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
