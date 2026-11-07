@@ -241,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T12:33:17Z",
+      "fetchedAt": "2026-11-07T12:42:51Z",
       "articles": [
         {
           "guid": "",
@@ -312,6 +312,16 @@
           "publishedAt": "2026-11-06T22:02:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-hlts-pl_7399601.jpg?20261106220645"
+        },
+        {
+          "guid": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
+          "title": "WSL LIVE! Unbeaten Chelsea and Man City in action",
+          "url": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T17:03:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7395017.jpg?20261102152326"
         },
         {
           "guid": "",
