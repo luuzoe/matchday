@@ -241,8 +241,30 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T19:43:17Z",
+      "fetchedAt": "2026-11-07T19:52:58Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Delightful Delap stars as Forest shock Man City",
+          "url": "https://www.skysports.com/watch/video/13609523/nottingham-forest-3-1-manchester-city-premier-league-highlights",
+          "description": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Manchester City.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:37:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400455.jpg?20261107193914",
+          "category": "Video"
+        },
+        {
+          "guid": "",
+          "title": "Forest end goal drought to make it three defeats in a row for Man City",
+          "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542",
+          "description": "Liam Delap scored two as Nottingham Forest ended their goal drought in style to beat Manchester City 3-1 at the City Ground.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400446.jpg?20261107191202",
+          "category": "Report"
+        },
         {
           "guid": "",
           "title": "'That one was a BELTER!' - Delap makes it THREE for Forest",
