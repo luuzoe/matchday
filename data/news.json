@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T09:59:59Z",
+      "fetchedAt": "2026-11-07T10:32:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
+          "description": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?",
+          "author": "",
+          "publishedAt": "2026-11-07T10:00:00Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16",
           "title": "Vega plea for Scottish FA backing against Infantino - gossip",
