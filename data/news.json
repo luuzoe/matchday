@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T07:22:53Z",
+      "fetchedAt": "2026-11-07T07:23:22Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#0",
@@ -13,7 +13,8 @@
           "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
           "author": "",
           "publishedAt": "2026-11-07T07:16:37Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#0",
@@ -136,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#3",
           "title": "James out for minimum of five games - Bompastor",
           "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
           "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
@@ -224,32 +225,13 @@
           "publishedAt": "2026-11-06T12:00:18Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#1",
-          "title": "Palmer misses too many chances to impress - Tuchel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:59:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#5",
-          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:53:56Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T07:03:38Z",
+      "fetchedAt": "2026-11-07T07:23:22Z",
       "articles": [
         {
           "guid": "",
