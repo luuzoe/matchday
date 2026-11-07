@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T08:33:23Z",
+      "fetchedAt": "2026-11-07T09:22:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16",
+          "title": "Vega plea for Scottish FA backing against Infantino - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add free agents to Aberdeen's squad.",
+          "author": "",
+          "publishedAt": "2026-11-07T09:11:29Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro#0",
           "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
