@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T21:52:50Z",
+      "fetchedAt": "2026-11-07T21:53:13Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o#1",
+          "title": "Glasner glee and Delap double - win could be lift-off for Forest",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
+          "description": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.",
+          "author": "",
+          "publishedAt": "2026-11-07T21:42:59Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae0/live/7f01e480-daf1-11f1-827e-c7e7ee102257.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2",
           "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
@@ -87,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#7",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#8",
           "title": "Newport cup tie halted by alleged homophobic chants",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
           "description": "Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.",
@@ -235,32 +245,13 @@
           "publishedAt": "2026-11-07T16:35:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#7",
-          "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
-          "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-          "author": "",
-          "publishedAt": "2026-11-07T14:35:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#17",
-          "title": "Watch: Raith Rovers go top with Dunfermline draw",
-          "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
-          "description": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
-          "author": "",
-          "publishedAt": "2026-11-06T22:06:01Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T21:33:17Z",
+      "fetchedAt": "2026-11-07T21:53:13Z",
       "articles": [
         {
           "guid": "",
