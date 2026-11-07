@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-06T23:42:52Z",
+      "fetchedAt": "2026-11-07T00:03:03Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
+          "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+          "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+          "author": "",
+          "publishedAt": "2026-11-06T23:53:06Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo#2",
           "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
@@ -243,6 +252,15 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#5",
+          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+          "author": "",
+          "publishedAt": "2026-11-06T00:10:28Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do#7",
