@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T12:32:52Z",
+      "fetchedAt": "2026-11-07T12:33:17Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16",
@@ -23,7 +23,8 @@
           "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
           "author": "",
           "publishedAt": "2026-11-07T12:25:14Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
@@ -66,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#1",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -92,7 +93,8 @@
           "description": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
           "author": "",
           "publishedAt": "2026-11-07T06:22:41Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c4/live/2e6d6b50-d9ef-11f1-bb10-cdca6001fbcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
@@ -215,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plhlmm#5",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0plhlmm#6",
           "title": "Euro Leagues",
           "url": "https://www.bbc.co.uk/sounds/play/p0plhlmm?at_medium=RSS&at_campaign=rss",
           "description": "HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
@@ -233,105 +235,13 @@
           "publishedAt": "2026-11-06T15:21:40Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/757ba1c0-d9e9-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#0",
-          "title": "'A beautiful story' as Bellingham brothers called up",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-          "author": "",
-          "publishedAt": "2026-11-06T14:16:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o#3",
-          "title": "Harborough sign 6ft 9in striker Hudlin before FA Cup tie",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&at_campaign=rss",
-          "description": "Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
-          "author": "",
-          "publishedAt": "2026-11-06T13:54:50Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#5",
-          "title": "Talking points as Premiership prepares for international break",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
-          "author": "",
-          "publishedAt": "2026-11-06T13:44:22Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#3",
-          "title": "Has Anderson lived up to the hype after Man City move?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-          "author": "",
-          "publishedAt": "2026-11-06T12:00:18Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#3",
-          "title": "Palmer misses too many chances to impress - Tuchel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:59:37Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#3",
-          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:16:07Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#5",
-          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:22:00Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#6",
-          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
-          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
-          "author": "",
-          "publishedAt": "2026-11-06T00:10:28Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#10",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#5",
-          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:29:40Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T12:12:51Z",
+      "fetchedAt": "2026-11-07T12:33:17Z",
       "articles": [
         {
           "guid": "",
@@ -345,13 +255,13 @@
         },
         {
           "guid": "",
-          "title": "Calvert-Lewin fit for Leeds as Porro starts for Tottenham LIVE!",
+          "title": "Leeds vs Tottenham LIVE!",
           "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-07T10:55:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-dominic-calvert-lewin_7379902.jpg?20261018151826"
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-leeds_7392737.jpg?20261031152621"
         },
         {
           "guid": "",
@@ -405,16 +315,6 @@
         },
         {
           "guid": "",
-          "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
-          "url": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537",
-          "description": "Thierno Barry continued his fine form as his two goals and an assist fired Everton to a comeback 3-1 win over Coventry - who had three big VAR calls go against them on Merseyside.",
-          "author": "",
-          "publishedAt": "2026-11-06T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399579.jpg?20261106214109"
-        },
-        {
-          "guid": "",
           "title": "Everton latest: Toffees exceeding expectations after tough window, says Moyes",
           "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
@@ -424,8 +324,8 @@
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
         },
         {
-          "guid": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
-          "title": "Wolves hoping to move top of Championship at Wrexham LIVE!",
+          "guid": "",
+          "title": "Wrexham vs Wolves on Sky LIVE!",
           "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
           "description": "",
           "author": "",
