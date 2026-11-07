@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T18:12:55Z",
+      "fetchedAt": "2026-11-07T18:22:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo#1",
+          "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:11:12Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c62kel01dkdno#1",
+          "title": "Highlights: Burton ease past eighth-tier AFC Rushden & Diamonds",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62kel01dkdno?at_medium=RSS&at_campaign=rss",
+          "description": "League One Burton avoid an FA Cup upset as they beat eighth-tier AFC Rushden & Diamonds to progress to the second round.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:02:39Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o#1",
           "title": "Powell and Phillips star as Bradford put seven past Marine",
