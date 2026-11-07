@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T08:32:51Z",
+      "fetchedAt": "2026-11-07T08:33:23Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro#0",
@@ -13,7 +13,8 @@
           "description": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
           "author": "",
           "publishedAt": "2026-11-07T07:27:40Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2925/live/81cc9190-da12-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#0",
@@ -96,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d19/live/d3d66860-da32-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o#7",
           "title": "Not a good performance, but we got a result - Moyes",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o?at_medium=RSS&at_campaign=rss",
           "description": "Everton manager David Moyes is pleased with his side's reaction to turn around a one goal deficit to win 3-1 against Coventry, but isn't pleased with their overall performance.",
@@ -106,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7faf/live/cc81d730-da31-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo#2",
           "title": "Barry scores twice as Everton fight back to beat Coventry",
           "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
           "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
@@ -224,33 +225,24 @@
           "publishedAt": "2026-11-06T13:44:22Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq8ezzx6pz6yo#16",
-          "title": "Preston sign ex-Charlton captain Docherty",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq8ezzx6pz6yo?at_medium=RSS&at_campaign=rss",
-          "description": "Preston North End sign experienced midfielder Greg Docherty on a deal until the end of the season.",
-          "author": "",
-          "publishedAt": "2026-11-06T12:02:35Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#1",
-          "title": "Has Anderson lived up to the hype after Man City move?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-          "author": "",
-          "publishedAt": "2026-11-06T12:00:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T07:23:22Z",
+      "fetchedAt": "2026-11-07T08:33:23Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Arsenal latest: Tzolis rejects idea Gunners are short in attack",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T07:22:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
         {
           "guid": "",
           "title": "Lampard: VAR didn't do its job",
@@ -340,16 +332,6 @@
           "publishedAt": "2026-11-06T15:02:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
-        },
-        {
-          "guid": "",
-          "title": "Iraola: We must sacrifice control for creativity to fix scoring woes",
-          "url": "https://www.skysports.com/football/news/11095/13608882/liverpool-andoni-iraola-demands-creativity-over-control-to-solve-premier-league-scoring-problems",
-          "description": "Liverpool must sacrifice control in games in order to fix their creativity problems, Andoni Iraola has demanded ahead of their weekend trip to Crystal Palace, live on <em>Sky Sports</em>.",
-          "author": "",
-          "publishedAt": "2026-11-06T15:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7399134.jpg?20261106145228"
         },
         {
           "guid": "",
