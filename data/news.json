@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T20:53:21Z",
+      "fetchedAt": "2026-11-07T21:02:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#1",
+          "title": "Maresca's dream start turns into nightmare as title hopes hit",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+          "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+          "author": "",
+          "publishedAt": "2026-11-07T20:54:12Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6",
           "title": "Maresca looking to understand Man City's 'lack of intensity'",
