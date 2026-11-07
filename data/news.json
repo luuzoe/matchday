@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T20:52:52Z",
+      "fetchedAt": "2026-11-07T20:53:21Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6",
@@ -13,7 +13,8 @@
           "description": "Enzo Maresca feels his side \"lacked intensity\" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground.",
           "author": "",
           "publishedAt": "2026-11-07T20:42:23Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2493/live/ae3a8830-daea-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#0",
@@ -196,16 +197,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e4f/live/fac89500-dad3-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#6",
-          "title": "Salisbury put six past Sholing to advance to second round",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
-          "description": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
-          "author": "",
-          "publishedAt": "2026-11-07T17:39:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#2",
           "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
           "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
@@ -260,7 +251,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T20:13:51Z",
+      "fetchedAt": "2026-11-07T20:53:21Z",
       "articles": [
         {
           "guid": "",
@@ -344,7 +335,7 @@
         },
         {
           "guid": "",
-          "title": "St Mirren vs Rangers LIVE!",
+          "title": "Naderi slots Rangers in front after 'soft' penalty call LIVE!",
           "url": "https://www.skysports.com/football/st-mirren-vs-rangers/live/558409",
           "description": "",
           "author": "",
