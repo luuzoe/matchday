@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T12:33:17Z",
+      "fetchedAt": "2026-11-07T13:13:18Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16",
@@ -241,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T13:12:58Z",
+      "fetchedAt": "2026-11-07T13:13:18Z",
       "articles": [
         {
           "guid": "",
@@ -255,13 +255,13 @@
         },
         {
           "guid": "",
-          "title": "Leeds vs Tottenham LIVE!",
+          "title": "Cagey start as Leeds host Tottenham LIVE!",
           "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-07T10:55:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-leeds_7392737.jpg?20261031152621"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-omar-marmoush-ao-tanaka_7399809.jpg?20261107130207"
         },
         {
           "guid": "",
@@ -285,7 +285,7 @@
         },
         {
           "guid": "",
-          "title": "Lampard: VAR didn't do its job",
+          "title": "Lampard says VAR 'didn't do its job' as Redknapp calls decision 'rubbish'",
           "url": "https://www.skysports.com/football/news/11095/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat",
           "description": "Coventry boss Frank Lampard says VAR 'didn't do its job' in his side's defeat to Everton as three reviews controversially went against his side.",
           "author": "",
@@ -314,14 +314,14 @@
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-hlts-pl_7399601.jpg?20261106220645"
         },
         {
-          "guid": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
-          "title": "WSL LIVE! Unbeaten Chelsea and Man City in action",
+          "guid": "",
+          "title": "WSL LIVE! Everton frustrating Chelsea as Hammers hold Man City",
           "url": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T17:03:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7395017.jpg?20261102152326"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-maz-pacheco-lucy-bronze_7399814.jpg?20261107130835"
         },
         {
           "guid": "",
@@ -335,13 +335,13 @@
         },
         {
           "guid": "",
-          "title": "Wrexham vs Wolves on Sky LIVE!",
+          "title": "Rapid response! Wrexham level against Wolves LIVE!",
           "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wrexham-wolves-championship_7395015.jpg?20261102152251"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-o-brien-wrexham_7399815.jpg?20261107131041"
         },
         {
           "guid": "",
@@ -365,16 +365,6 @@
         },
         {
           "guid": "",
-          "title": "Jobe joins brother Jude with England to showcase his own talent",
-          "url": "https://www.skysports.com/football/news/11095/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
-          "description": "\"He's coming on his own merit,\" said Thomas Tuchel, after extolling the strengths of Jobe Bellingham.",
-          "author": "",
-          "publishedAt": "2026-11-06T14:24:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jude-jobe-bellingham_7399118.jpg?20261106143239"
-        },
-        {
-          "guid": "",
           "title": "Tuchel explains Palmer exclusion",
           "url": "https://www.skysports.com/football/news/11095/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal",
           "description": "Thomas Tuchel has insisted Cole Palmer's absence from the England squad isn't \"personal\" - but sent out an emphatic statement with the Chelsea star's exclusion.",
@@ -392,16 +382,6 @@
           "publishedAt": "2026-11-06T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scottish-premiership_7398787.jpg?20261106075330"
-        },
-        {
-          "guid": "",
-          "title": "Palmer left out of England squad as Jobe and King called up",
-          "url": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-          "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham&#8217;s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
-          "author": "",
-          "publishedAt": "2026-11-06T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-football_7398886.jpg?20261106101209"
         },
         {
           "guid": "",
@@ -454,7 +434,7 @@
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
         },
         {
-          "guid": "https://www.skysports.com/football/arsenal-vs-hull-city/live/559534",
+          "guid": "",
           "title": "Arsenal vs Hull City build-up LIVE!",
           "url": "https://www.skysports.com/football/arsenal-vs-hull-city/live/559534",
           "description": "",
