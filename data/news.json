@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T16:52:51Z",
+      "fetchedAt": "2026-11-07T17:12:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o#0",
+          "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+          "description": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:00:38Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#0",
           "title": "De Zerbi focuses on Spurs' failings - but should Bogle have seen red?",
@@ -268,8 +277,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T16:42:50Z",
+      "fetchedAt": "2026-11-07T17:12:52Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Odegaard clinches Arsenal win over stubborn Hull",
+          "url": "https://www.skysports.com/football/arsenal-vs-hull-city/report/559534",
+          "description": "Martin Odegaard's goal clinched a 1-0 win over Hull to send Arsenal six points clear at the top of the Premier League table.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400167.jpg?20261107164456"
+        },
         {
           "guid": "",
           "title": "Nottingham Forest vs Man City team news LIVE!",
