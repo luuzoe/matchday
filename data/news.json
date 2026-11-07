@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T14:42:50Z",
+      "fetchedAt": "2026-11-07T14:52:55Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
@@ -245,6 +245,24 @@
           "publisher": "BBC Sport"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#3",
+          "title": "'A beautiful story' as Bellingham brothers called up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+          "author": "",
+          "publishedAt": "2026-11-06T14:16:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#6",
+          "title": "Talking points as Premiership prepares for international break",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
+          "author": "",
+          "publishedAt": "2026-11-06T13:44:22Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#5",
           "title": "Has Anderson lived up to the hype after Man City move?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
@@ -261,13 +279,31 @@
           "author": "",
           "publishedAt": "2026-11-06T07:47:46Z",
           "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#6",
+          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:22:00Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#10",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-05T18:02:15Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T14:42:50Z",
+      "fetchedAt": "2026-11-07T14:52:55Z",
       "articles": [
         {
           "guid": "",
@@ -278,6 +314,16 @@
           "publishedAt": "2026-11-07T14:10:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mathias-kvistgaarden_7399917.jpg?20261107143044"
+        },
+        {
+          "guid": "",
+          "title": "Wrexham hit back to hold Wolves",
+          "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/report/560677",
+          "description": "Lewis O'Brien's first goal of the season earned Wrexham a 1-1 draw and prevented Wolves going top of the SkyBet Championship.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-o-brien-wrexham_7399815.jpg?20261107131041"
         },
         {
           "guid": "",
@@ -378,6 +424,16 @@
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-mateus-mane-wolves_7399804.jpg?20261107125837"
+        },
+        {
+          "guid": "",
+          "title": "Blackburn vs West Ham LIVE!",
+          "url": "https://www.skysports.com/football/blackburn-rovers-vs-west-ham-united/live/560667",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T16:06:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-jarrod-bowen-west-ham_7392759.jpg?20261031153910"
         },
         {
           "guid": "",
