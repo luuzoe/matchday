@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T21:02:54Z",
+      "fetchedAt": "2026-11-07T21:32:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2",
+          "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
+          "description": "Notts County find a way to get pat National League opposition in the form Altrincham on a foggy night winning 3-2 on penalties.",
+          "author": "",
+          "publishedAt": "2026-11-07T21:25:19Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm5yn139zgw0o#6",
+          "title": "McGeehan hat-trick powers Barnsley to 7-2 win over Aldershot",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn139zgw0o?at_medium=RSS&at_campaign=rss",
+          "description": "Cameron McGeehan scores a hat-trick as League One side Barnsley romp to an emphatic 7-2 win over Aldershot Town of the National League, to progress to the second round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-07T21:22:55Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#1",
           "title": "Maresca's dream start turns into nightmare as title hopes hit",
