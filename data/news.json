@@ -241,8 +241,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T15:23:10Z",
+      "fetchedAt": "2026-11-07T16:02:53Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Nottingham Forest vs Man City team news LIVE!",
+          "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T15:49:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-nottingham-forest_7398503.jpg?20261105203112"
+        },
         {
           "guid": "",
           "title": "Leeds deservedly beat Spurs after Bogle escapes red card",
