@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T10:32:51Z",
+      "fetchedAt": "2026-11-07T10:33:10Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
@@ -13,7 +13,8 @@
           "description": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?",
           "author": "",
           "publishedAt": "2026-11-07T10:00:00Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pln6jm.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16",
@@ -26,7 +27,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61a/live/efb2d560-da8b-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro#2",
           "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
           "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
           "description": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
@@ -37,7 +38,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#0",
-          "title": "Not playing at Man City 'horrendous' - Trafford",
+          "title": "Not playing was horrendous, I left Man City for mental wellbeing - Trafford",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
           "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
           "author": "",
@@ -136,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#2",
+          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#7",
           "title": "Raith Rovers go top with Dunfermline draw",
           "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
           "description": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
@@ -234,23 +235,13 @@
           "publishedAt": "2026-11-06T13:54:50Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#3",
-          "title": "Talking points as Premiership prepares for international break",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
-          "author": "",
-          "publishedAt": "2026-11-06T13:44:22Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T10:00:00Z",
+      "fetchedAt": "2026-11-07T10:33:10Z",
       "articles": [
         {
           "guid": "",
@@ -344,16 +335,6 @@
         },
         {
           "guid": "",
-          "title": "Iraola: We must sacrifice control for creativity to fix scoring woes",
-          "url": "https://www.skysports.com/football/news/11095/13608882/liverpool-andoni-iraola-demands-creativity-over-control-to-solve-premier-league-scoring-problems",
-          "description": "Liverpool must sacrifice control in games in order to fix their creativity problems, Andoni Iraola has demanded ahead of their weekend trip to Crystal Palace, live on <em>Sky Sports</em>.",
-          "author": "",
-          "publishedAt": "2026-11-06T15:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7399134.jpg?20261106145228"
-        },
-        {
-          "guid": "",
           "title": "Jobe joins brother Jude with England to showcase his own talent",
           "url": "https://www.skysports.com/football/news/11095/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
           "description": "\"He's coming on his own merit,\" said Thomas Tuchel, after extolling the strengths of Jobe Bellingham.",
@@ -374,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Palmer left out of England squad as Jobe and King called up",
-          "url": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-          "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham&#8217;s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
-          "author": "",
-          "publishedAt": "2026-11-06T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-football_7398886.jpg?20261106101209"
-        },
-        {
-          "guid": "",
           "title": "O'Neill's Celtic under pressure, Rangers live on Sky as Hibs hope for revival",
           "url": "https://www.skysports.com/football/news/11095/13608471/scottish-premiership-martin-oneills-celtic-under-pressure-derek-mcinnes-rangers-live-on-sky-as-hibs-hope-for-revival",
           "description": "The Scottish Premiership guarantees drama - and we're braced for more ahead of the international break.",
@@ -391,6 +362,16 @@
           "publishedAt": "2026-11-06T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scottish-premiership_7398787.jpg?20261106075330"
+        },
+        {
+          "guid": "",
+          "title": "Palmer left out of England squad as Jobe and King called up",
+          "url": "https://www.skysports.com/football/news/11095/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
+          "description": "Thomas Tuchel has left Cole Palmer out of the England squad, along with Phil Foden and Kobbie Mainoo, but Jude Bellingham&#8217;s brother Jobe and Fulham midfielder Josh King have earned their first senior call-ups.",
+          "author": "",
+          "publishedAt": "2026-11-06T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-football_7398886.jpg?20261106101209"
         },
         {
           "guid": "",
@@ -434,6 +415,16 @@
         },
         {
           "guid": "",
+          "title": "Glasner wanted to 'shake things up' with outburst",
+          "url": "https://www.skysports.com/football/news/11095/13608424/oliver-glasner-nottingham-forest-head-coach-says-post-brentford-outburst-was-meant-positively",
+          "description": "Oliver Glasner says he meant for his post-Brentford outburst to be positive and a catalyst for change at Nottingham Forest.",
+          "author": "",
+          "publishedAt": "2026-11-05T15:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-oliver-glasner-nottingham-forest_7398122.jpg?20261105151101"
+        },
+        {
+          "guid": "",
           "title": "Coventry latest: Handball or side? What VAR said about Barry's second goal",
           "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
@@ -444,13 +435,13 @@
         },
         {
           "guid": "",
-          "title": "Liverpool's unwanted record highlights creativity issue",
-          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
-          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
+          "title": "Is Hemp the best winger in the game right now?",
+          "url": "https://www.skysports.com/football/news/11095/13608016/wsl-lauren-hemp-did-not-make-the-ballon-dor-top-30-but-her-form-for-manchester-city-this-season-deserves-attention",
+          "description": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.</em>",
           "author": "",
-          "publishedAt": "2026-11-03T12:55:00Z",
+          "publishedAt": "2026-11-04T16:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
         }
       ]
     }
