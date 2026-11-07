@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T20:13:24Z",
+      "fetchedAt": "2026-11-07T20:13:51Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#0",
@@ -13,7 +13,8 @@
           "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
           "author": "",
           "publishedAt": "2026-11-07T20:02:25Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#0",
@@ -22,7 +23,8 @@
           "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
           "author": "",
           "publishedAt": "2026-11-07T19:59:37Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o#0",
@@ -31,7 +33,8 @@
           "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
           "author": "",
           "publishedAt": "2026-11-07T19:59:34Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo#0",
@@ -40,19 +43,21 @@
           "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
           "author": "",
           "publishedAt": "2026-11-07T19:59:31Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#6",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#7",
           "title": "Newport cup tie halted by alleged homophobic chants",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
           "description": "Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.",
           "author": "",
           "publishedAt": "2026-11-07T19:47:03Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171e/live/563c7180-dadf-11f1-88f9-d3c2139f8619.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#1",
           "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
@@ -62,17 +67,17 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo#1",
           "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
           "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
           "author": "",
           "publishedAt": "2026-11-07T19:26:31Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d619/live/dc6f8640-dadd-11f1-88f9-d3c2139f8619.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ec/live/ac5b64c0-dae6-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo#6",
           "title": "Former winners Wigan progress to second round of FA Cup",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo?at_medium=RSS&at_campaign=rss",
           "description": "Wigan live up to their pedigree as FA Cup winners as they sweep aside Boreham Wood with goals from Jon Mellish and Morgan Fox, who strikes twice.",
@@ -82,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cc/live/0069cdb0-dad1-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o#2",
           "title": "Altrincham take shock lead against Notts County",
           "url": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o?at_medium=RSS&at_campaign=rss",
           "description": "Lewis Banks scores from close range to put the National League's Altrincham 2-1 up against League One side Notts County in the first round of the FA Cup.",
@@ -92,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe96/live/f1922370-dadd-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo#6",
           "title": "Bates double earns Dover upset win over Wealdstone",
           "url": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&at_campaign=rss",
           "description": "Jack Bates' first-half brace gives National League South side Dover Athletic a 2-0 win over the National League's Wealdstone in the first round of the FA Cup.",
@@ -102,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f360/live/c8658c60-dada-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo#6",
           "title": "Chelsea surrender top spot after home draw with Everton",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo?at_medium=RSS&at_campaign=rss",
           "description": "A Lucy Bronze own goal gives Everton a hard earned 1-1 draw at Stamford Bridge, as Chelsea drop to second in the WSL table.",
@@ -112,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/974c/live/c35cbec0-dabf-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o#2",
           "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
           "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
           "description": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.",
@@ -122,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#3",
           "title": "Argentina set to go to Cas after Fifa rejects appeals",
           "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
           "description": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
@@ -132,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo#6",
           "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
           "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
           "description": "Jordan Thewlis scores a stoppage-time penalty to give seventh-tier Guiseley a dramatic 1-0 win over Sutton United in their FA Cup first round tie at Nethermoor Park.",
@@ -142,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#2",
           "title": "National League Carlisle upset League Two leaders Salford",
           "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
           "description": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
@@ -152,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo#1",
           "title": "Title race hots up before Chelsea-Man City showdown",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
           "description": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
@@ -162,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo#2",
           "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
           "url": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
           "description": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
@@ -172,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o#6",
           "title": "Powell and Phillips star as Bradford put seven past Marine",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
           "description": "Nick Powell and Adam Phillips both score a brace as Bradford City hammer National League North side Marine 7-0 in the first round of the FA Cup.",
@@ -182,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e4f/live/fac89500-dad3-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#6",
           "title": "Salisbury put six past Sholing to advance to second round",
           "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
           "description": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
@@ -192,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#2",
           "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
           "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
           "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
@@ -202,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o#3",
           "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
           "description": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
@@ -212,8 +217,8 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#0",
-          "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#1",
+          "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
           "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
           "description": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
           "author": "",
@@ -222,17 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do#7",
-          "title": "National League South game abandoned after player collapses in warm-up",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do?at_medium=RSS&at_campaign=rss",
-          "description": "Saturday's National League South match between Folkestone Invicta and Truro City is postponed after a player collapses during the warm-up.",
-          "author": "",
-          "publishedAt": "2026-11-07T15:55:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725a/live/a8b714b0-dac1-11f1-8c3b-f3c0d6bd7c4f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#4",
           "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
           "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
@@ -242,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#7",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#8",
           "title": "Scotland lose Welsh and call up Porteous",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
           "description": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
@@ -250,133 +245,13 @@
           "publishedAt": "2026-11-07T13:57:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#7",
-          "title": "My dream is to win Ballon d'Or - Gabriel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-          "author": "",
-          "publishedAt": "2026-11-07T12:25:14Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16",
-          "title": "Vega plea for Scottish FA backing against Infantino - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add free agents to Aberdeen's squad.",
-          "author": "",
-          "publishedAt": "2026-11-07T09:11:29Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61a/live/efb2d560-da8b-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#6",
-          "title": "I left Man City for my mental wellbeing - Trafford",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
-          "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-          "author": "",
-          "publishedAt": "2026-11-07T07:16:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#7",
-          "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-          "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-06T21:08:04Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#18",
-          "title": "James out for minimum of five games - Bompastor",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
-          "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
-          "author": "",
-          "publishedAt": "2026-11-06T16:44:44Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#8",
-          "title": "How to follow the FA Cup on the BBC this weekend",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
-          "author": "",
-          "publishedAt": "2026-11-06T07:47:46Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#11",
-          "title": "Sutton's predictions v Football Manager, the game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-05T18:02:15Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#11",
-          "title": "What new Kane deal means for England and the Premier League record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:44:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#18",
-          "title": "More than 60 flights in 11 months and away games in the Arctic Circle",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
-          "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
-          "author": "",
-          "publishedAt": "2026-11-05T12:38:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#11",
-          "title": "How to follow the Premier League on the BBC this weekend",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
-          "author": "",
-          "publishedAt": "2026-11-05T12:14:33Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#18",
-          "title": "FA and WSL launch major study into ACL injuries in women's football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
-          "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
-          "author": "",
-          "publishedAt": "2026-11-05T10:24:06Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#11",
-          "title": "Meet the people set for key role in deciding Man City fate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
-          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-05T06:26:11Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#11",
-          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-          "author": "",
-          "publishedAt": "2026-11-04T16:12:46Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T19:52:58Z",
+      "fetchedAt": "2026-11-07T20:13:51Z",
       "articles": [
         {
           "guid": "",
@@ -386,8 +261,7 @@
           "author": "",
           "publishedAt": "2026-11-07T19:37:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400455.jpg?20261107193914",
-          "category": "Video"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400455.jpg?20261107193914"
         },
         {
           "guid": "",
@@ -397,18 +271,7 @@
           "author": "",
           "publishedAt": "2026-11-07T19:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400446.jpg?20261107191202",
-          "category": "Report"
-        },
-        {
-          "guid": "",
-          "title": "'That one was a BELTER!' - Delap makes it THREE for Forest",
-          "url": "https://www.skysports.com/watch/video/13609517/goal-l-delap-73-nottm-forest-2-1-manchester-city",
-          "description": "Liam Delap puts the home side 3-1 up against Manchester City - with Forest boss Oliver Glasner running to join the goalscorer for the celebrations.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400448.jpg?20261107192109"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400474.jpg?20261107195655"
         },
         {
           "guid": "",
@@ -429,16 +292,6 @@
           "publishedAt": "2026-11-07T18:54:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339"
-        },
-        {
-          "guid": "",
-          "title": "Cherki pulls one back for City with THUNDERBOLT!",
-          "url": "https://www.skysports.com/watch/video/13609511/goal-r-cherki-52-nottm-forest-2-1-manchester-city",
-          "description": "Man City pull one back as Rayan Cherki fires a superb shot past Forest stopper Matz Sels.",
-          "author": "",
-          "publishedAt": "2026-11-07T18:48:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400416.jpg?20261107184741"
         },
         {
           "guid": "",
@@ -482,33 +335,13 @@
         },
         {
           "guid": "",
-          "title": "St Mirren vs Rangers team news LIVE!",
+          "title": "St Mirren vs Rangers LIVE!",
           "url": "https://www.skysports.com/football/st-mirren-vs-rangers/live/558409",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-07T18:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-st-mirren-rangers_7395008.jpg?20261102151724"
-        },
-        {
-          "guid": "",
-          "title": "Delap doubles Forest's lead over City with glorious goal",
-          "url": "https://www.skysports.com/watch/video/13609474/goal-l-delap-18-nottm-forest-2-0-manchester-city",
-          "description": "Man City sloppy as Liam Delap doubles Forest's lead",
-          "author": "",
-          "publishedAt": "2026-11-07T17:56:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400332.jpg?20261107175631"
-        },
-        {
-          "guid": "",
-          "title": "'Cool finish' from Cunha gives Forest an early lead vs Man City",
-          "url": "https://www.skysports.com/watch/video/13609457/goal-j-cunha-6-nottm-forest-1-0-manchester-city",
-          "description": "Jair Cunha puts Forest ahead after six minutes as they face Manchester City in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-07T17:43:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-prmier-league_7400307.jpg?20261107174421"
         },
         {
           "guid": "",
@@ -562,16 +395,6 @@
         },
         {
           "guid": "",
-          "title": "Delap double sees Forest stun Man City - reaction LIVE!",
-          "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T15:49:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400446.jpg?20261107191202"
-        },
-        {
-          "guid": "",
           "title": "Leeds latest: Farke says 'butterfly' Bogle is 'softest player' in PL",
           "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -579,6 +402,16 @@
           "publishedAt": "2026-11-07T15:24:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
+        },
+        {
+          "guid": "",
+          "title": "Bronze mistake, Chelsea frustration, Shaw hat-trick - WSL round-up",
+          "url": "https://www.skysports.com/football/news/11095/13608977/man-city-5-0-west-ham-chelsea-1-1-everton-reigning-wsl-champions-make-title-statement-as-bunny-shaw-scores-hat-trick",
+          "description": "Khadija 'Bunny' Shaw struck a perfect hat-trick as Manchester City dispatched West Ham 5-0 to retake top spot in the Women's Super League.",
+          "author": "",
+          "publishedAt": "2026-11-07T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-khadija-shaw-man-city_7399861.jpg?20261107133450"
         },
         {
           "guid": "",
@@ -592,6 +425,16 @@
         },
         {
           "guid": "",
+          "title": "Birmingham top, Cardiff stun Burnley 5-4 & Blackburn beat West Ham - Championship highlights",
+          "url": "https://www.skysports.com/football/live-blog/11095/13608936/wrexham-vs-wolves-live-championship-match-updates-score-stream-and-free-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T16:06:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-blackburn-rovers_7400135.jpg?20261107162444"
+        },
+        {
+          "guid": "",
           "title": "Newcastle latest: Jaissle frustrated at 'soft' disallowed goal",
           "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -599,6 +442,16 @@
           "publishedAt": "2026-11-06T14:27:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
+        },
+        {
+          "guid": "",
+          "title": "West Ham latest: Parker 'bitterly disappointed' after Blackburn defeat",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T15:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
         }
       ]
     }
