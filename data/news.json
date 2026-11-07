@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T14:52:55Z",
+      "fetchedAt": "2026-11-07T15:02:53Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
@@ -272,6 +272,15 @@
           "publisher": "BBC Sport"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#6",
+          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:16:07Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#6",
           "title": "How to follow the FA Cup on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
@@ -303,8 +312,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T14:52:55Z",
+      "fetchedAt": "2026-11-07T15:02:53Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Leeds deservedly beat Spurs after Bogle escapes red card",
+          "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/report/559540",
+          "description": "Substitute Noah Okafor’s late winner gave Leeds a 1-0 home victory over Tottenham after Whites defender Jayden Bogle controversially escaped a first-half red card.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-noah-okafor-leeds-united_7399895.jpg?20261107141948"
+        },
         {
           "guid": "",
           "title": "Norwich thump five past Bristol City as home fans turn on Skubala",
