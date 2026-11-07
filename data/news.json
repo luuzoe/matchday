@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T21:33:17Z",
+      "fetchedAt": "2026-11-07T21:52:50Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2",
@@ -245,6 +245,15 @@
           "publishedAt": "2026-11-07T14:35:23Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno#17",
+          "title": "Watch: Raith Rovers go top with Dunfermline draw",
+          "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
+          "description": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
+          "author": "",
+          "publishedAt": "2026-11-06T22:06:01Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
