@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T12:22:58Z",
+      "fetchedAt": "2026-11-07T12:32:52Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16",
@@ -15,6 +15,15 @@
           "publishedAt": "2026-11-07T14:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#0",
+          "title": "My dream is to win Ballon d'Or - Gabriel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-07T12:25:14Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
@@ -75,6 +84,15 @@
           "publishedAt": "2026-11-07T06:45:56Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo#1",
+          "title": "Can we play you every week? The day Southend toppled Man United",
+          "url": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
+          "description": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
+          "author": "",
+          "publishedAt": "2026-11-07T06:22:41Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
@@ -237,12 +255,39 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#5",
+          "title": "Talking points as Premiership prepares for international break",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
+          "author": "",
+          "publishedAt": "2026-11-06T13:44:22Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#3",
+          "title": "Has Anderson lived up to the hype after Man City move?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
+          "author": "",
+          "publishedAt": "2026-11-06T12:00:18Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#3",
           "title": "Palmer misses too many chances to impress - Tuchel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
           "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
           "author": "",
           "publishedAt": "2026-11-06T11:59:37Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#3",
+          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:16:07Z",
           "publisher": "BBC Sport"
         },
         {
@@ -261,6 +306,15 @@
           "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
           "author": "",
           "publishedAt": "2026-11-06T00:10:28Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#10",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:44:34Z",
           "publisher": "BBC Sport"
         },
         {
