@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T10:33:10Z",
+      "fetchedAt": "2026-11-07T11:03:41Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
@@ -38,7 +38,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#0",
-          "title": "Not playing was horrendous, I left Man City for mental wellbeing - Trafford",
+          "title": "I left Man City for my mental wellbeing - Trafford",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
           "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
           "author": "",
@@ -241,10 +241,10 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T11:02:56Z",
+      "fetchedAt": "2026-11-07T11:03:41Z",
       "articles": [
         {
-          "guid": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
+          "guid": "",
           "title": "Leeds vs Tottenham team news LIVE!",
           "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
           "description": "",
@@ -432,16 +432,6 @@
           "publishedAt": "2026-11-05T15:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-oliver-glasner-nottingham-forest_7398122.jpg?20261105151101"
-        },
-        {
-          "guid": "",
-          "title": "Coventry latest: Handball or side? What VAR said about Barry's second goal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-04T16:46:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
         },
         {
           "guid": "",
