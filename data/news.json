@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T07:03:38Z",
+      "fetchedAt": "2026-11-07T07:22:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#0",
+          "title": "Not playing at Man City 'horrendous' - Trafford",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+          "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
+          "author": "",
+          "publishedAt": "2026-11-07T07:16:37Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#0",
           "title": "Who am I? Plus today's other quizzes",
@@ -225,6 +234,15 @@
           "publishedAt": "2026-11-06T11:59:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#5",
+          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:53:56Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
