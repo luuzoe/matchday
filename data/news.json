@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T19:43:16Z",
+      "fetchedAt": "2026-11-07T20:02:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#6",
+          "title": "Newport cup tie halted by alleged homophobic chants",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
+          "description": "Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:47:03Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#0",
           "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-07T07:16:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#7",
+          "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-06T21:08:04Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
