@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T19:12:52Z",
+      "fetchedAt": "2026-11-07T19:32:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo#0",
+          "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
+          "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:26:31Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo#5",
+          "title": "Former winners Wigan progress to second round of FA Cup",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo?at_medium=RSS&at_campaign=rss",
+          "description": "Wigan live up to their pedigree as FA Cup winners as they sweep aside Boreham Wood with goals from Jon Mellish and Morgan Fox, who strikes twice.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:23:57Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o#1",
           "title": "Altrincham take shock lead against Notts County",
