@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T15:23:10Z",
+      "fetchedAt": "2026-11-07T16:03:20Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
@@ -241,17 +241,17 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T16:02:53Z",
+      "fetchedAt": "2026-11-07T16:03:21Z",
       "articles": [
         {
           "guid": "",
-          "title": "Nottingham Forest vs Man City team news LIVE!",
-          "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542",
+          "title": "Leeds latest: Farke says 'butterfly' Bogle is 'softest player' in PL",
+          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-07T15:49:00Z",
+          "publishedAt": "2026-11-07T15:24:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-nottingham-forest_7398503.jpg?20261105203112"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
         },
         {
           "guid": "",
@@ -265,16 +265,6 @@
         },
         {
           "guid": "",
-          "title": "Norwich thump five past Bristol City as home fans turn on Skubala",
-          "url": "https://www.skysports.com/football/bristol-city-vs-norwich-city/report/560668",
-          "description": "Bristol City fans turned on manager Michael Skubala as Norwich made it nine goals in successive away victories with a 5-0 Sky Bet Championship win at Ashton Gate.",
-          "author": "",
-          "publishedAt": "2026-11-07T14:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mathias-kvistgaarden_7399917.jpg?20261107143044"
-        },
-        {
-          "guid": "",
           "title": "Wrexham hit back to hold Wolves",
           "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/report/560677",
           "description": "Lewis O'Brien's first goal of the season earned Wrexham a 1-1 draw and prevented Wolves going top of the SkyBet Championship.",
@@ -282,6 +272,16 @@
           "publishedAt": "2026-11-07T14:10:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-o-brien-wrexham_7399815.jpg?20261107131041"
+        },
+        {
+          "guid": "",
+          "title": "Norwich thump five past Bristol City as home fans turn on Skubala",
+          "url": "https://www.skysports.com/football/bristol-city-vs-norwich-city/report/560668",
+          "description": "Bristol City fans turned on manager Michael Skubala as Norwich made it nine goals in successive away victories with a 5-0 Sky Bet Championship win at Ashton Gate.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mathias-kvistgaarden_7399917.jpg?20261107143044"
         },
         {
           "guid": "",
@@ -365,13 +365,13 @@
         },
         {
           "guid": "",
-          "title": "Blackburn vs West Ham LIVE!",
+          "title": "West Ham being frustrated at Blackburn LIVE!",
           "url": "https://www.skysports.com/football/blackburn-rovers-vs-west-ham-united/live/560667",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-blackburn_7399989.jpg?20261107151415"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arne-engels-jayden-fevrier_7400012.jpg?20261107153224"
         },
         {
           "guid": "",
@@ -385,7 +385,7 @@
         },
         {
           "guid": "",
-          "title": "Spurs latest: De Zerbi - 'It's great our CEO wants us to win the league'",
+          "title": "Spurs latest: De Zerbi has 'big confidence' in officials despite Bogle call",
           "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -425,33 +425,23 @@
         },
         {
           "guid": "",
-          "title": "Is Hemp the best winger in the game right now?",
-          "url": "https://www.skysports.com/football/news/11095/13608016/wsl-lauren-hemp-did-not-make-the-ballon-dor-top-30-but-her-form-for-manchester-city-this-season-deserves-attention",
-          "description": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.</em>",
-          "author": "",
-          "publishedAt": "2026-11-04T16:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-hemp-wsl-hemp_7397070.jpg?20261104160535"
-        },
-        {
-          "guid": "",
-          "title": "Fulham vs Newcastle LIVE!",
+          "title": "Burn goal chalked off for Newcastle at Fulham LIVE!",
           "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538",
           "description": "",
           "author": "",
           "publishedAt": "2026-09-28T13:53:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-timothy-castagne_7399992.jpg?20261107151906"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-dan-burn-newcastle-united_7400041.jpg?20261107154840"
         },
         {
           "guid": "",
-          "title": "Arsenal vs Hull LIVE! Can champions go six points clear at top?",
+          "title": "Hull frustrating Arsenal LIVE!",
           "url": "https://www.skysports.com/football/arsenal-vs-hull-city/live/559534",
           "description": "",
           "author": "",
           "publishedAt": "2026-09-28T13:44:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-arsenal_7399999.jpg?20261107152047"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-kai-havertz-arsenal_7400047.jpg?20261107155303"
         }
       ]
     }
