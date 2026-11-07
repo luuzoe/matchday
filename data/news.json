@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T17:53:00Z",
+      "fetchedAt": "2026-11-07T18:12:55Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o#1",
+          "title": "Powell and Phillips star as Bradford put seven past Marine",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
+          "description": "Nick Powell and Adam Phillips both score a brace as Bradford City hammer National League North side Marine 7-0 in the first round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:02:03Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#2",
           "title": "Salisbury put six past Sholing to advance to second round",
@@ -331,8 +340,19 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T17:53:00Z",
+      "fetchedAt": "2026-11-07T18:12:55Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Delap doubles Forest's lead over City with glorious goal",
+          "url": "https://www.skysports.com/watch/video/13609474/goal-l-delap-18-nottm-forest-2-0-manchester-city",
+          "description": "Man City sloppy as Liam Delap doubles Forest's lead",
+          "author": "",
+          "publishedAt": "2026-11-07T17:56:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400332.jpg?20261107175631",
+          "category": "Video"
+        },
         {
           "guid": "",
           "title": "'Cool finish' from Cunha gives Forest an early lead vs Man City",
