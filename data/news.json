@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T07:03:17Z",
+      "fetchedAt": "2026-11-07T07:03:38Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#0",
@@ -13,7 +13,8 @@
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "author": "",
           "publishedAt": "2026-11-07T06:53:35Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo#0",
@@ -22,7 +23,8 @@
           "description": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
           "author": "",
           "publishedAt": "2026-11-07T06:45:56Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
@@ -115,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#3",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#5",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
           "description": "John, Ian and Ali tell us what makes a good radio football summariser",
@@ -205,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#1",
           "title": "Has Anderson lived up to the hype after Man City move?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
           "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
@@ -223,60 +225,13 @@
           "publishedAt": "2026-11-06T11:59:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo#3",
-          "title": "Wolves legend and ex-England defender Coady retires",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
-          "description": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:29:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e5/live/718d44d0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#1",
-          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:16:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#3",
-          "title": "Championship preview: Contenders, pretenders and strugglers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
-          "author": "",
-          "publishedAt": "2026-11-06T09:22:00Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#5",
-          "title": "Diamonds are forever - phoenix club seek FA Cup upset",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
-          "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
-          "author": "",
-          "publishedAt": "2026-11-06T08:22:16Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#6",
-          "title": "Ronaldo's most iconic moments as he retires from international football",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
-          "author": "",
-          "publishedAt": "2026-11-05T11:22:59Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T03:06:09Z",
+      "fetchedAt": "2026-11-07T07:03:38Z",
       "articles": [
         {
           "guid": "",
