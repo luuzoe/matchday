@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T16:03:20Z",
+      "fetchedAt": "2026-11-07T16:12:50Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do#1",
+          "title": "National League South game abandoned after player collapses in warm-up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do?at_medium=RSS&at_campaign=rss",
+          "description": "Saturday's National League South match between Folkestone Invicta and Truro City is postponed after a player collapses during the warm-up.",
+          "author": "",
+          "publishedAt": "2026-11-07T15:55:54Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
           "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
@@ -235,6 +244,15 @@
           "publishedAt": "2026-11-06T16:30:03Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#6",
+          "title": "Palmer misses too many chances to impress - Tuchel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:59:37Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
