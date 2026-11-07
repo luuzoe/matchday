@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T16:12:50Z",
+      "fetchedAt": "2026-11-07T16:20:10Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do#1",
@@ -13,7 +13,8 @@
           "description": "Saturday's National League South match between Folkestone Invicta and Truro City is postponed after a player collapses during the warm-up.",
           "author": "",
           "publishedAt": "2026-11-07T15:55:54Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725a/live/a8b714b0-dac1-11f1-8c3b-f3c0d6bd7c4f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
@@ -56,7 +57,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#3",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#5",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
           "description": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?",
@@ -206,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#3",
           "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
           "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
@@ -214,16 +215,6 @@
           "publishedAt": "2026-11-06T21:08:04Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#6",
-          "title": "Football Daily",
-          "url": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
-          "description": "John, Ian and Ali tell us what makes a good radio football summariser",
-          "author": "",
-          "publishedAt": "2026-11-06T19:52:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#17",
@@ -244,23 +235,24 @@
           "publishedAt": "2026-11-06T16:30:03Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#6",
-          "title": "Palmer misses too many chances to impress - Tuchel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:59:37Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T16:03:21Z",
+      "fetchedAt": "2026-11-07T16:20:11Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Nottingham Forest vs Man City team news LIVE!",
+          "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T15:49:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-nottingham-forest_7395000.jpg?20261102151220"
+        },
         {
           "guid": "",
           "title": "Leeds latest: Farke says 'butterfly' Bogle is 'softest player' in PL",
@@ -383,23 +375,13 @@
         },
         {
           "guid": "",
-          "title": "West Ham being frustrated at Blackburn LIVE!",
+          "title": "Gudjohnsen heads Blackburn in front against West Ham LIVE!",
           "url": "https://www.skysports.com/football/blackburn-rovers-vs-west-ham-united/live/560667",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arne-engels-jayden-fevrier_7400012.jpg?20261107153224"
-        },
-        {
-          "guid": "",
-          "title": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
-          "url": "https://www.skysports.com/football/news/11095/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
-          "description": "Michael Carrick believes Manchester United can reach the heights achieved under Sir Alex Ferguson but is not expecting the same level of patience.",
-          "author": "",
-          "publishedAt": "2026-11-06T15:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7399116.jpg?20261106143020"
         },
         {
           "guid": "",
