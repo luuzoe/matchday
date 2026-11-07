@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T16:42:50Z",
+      "fetchedAt": "2026-11-07T16:52:51Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#0",
@@ -244,6 +244,24 @@
           "publishedAt": "2026-11-06T16:30:03Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#5",
+          "title": "'A beautiful story' as Bellingham brothers called up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
+          "author": "",
+          "publishedAt": "2026-11-06T14:16:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#6",
+          "title": "Has Anderson lived up to the hype after Man City move?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
+          "author": "",
+          "publishedAt": "2026-11-06T12:00:18Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
