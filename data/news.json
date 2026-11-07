@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T12:12:51Z",
+      "fetchedAt": "2026-11-07T12:22:58Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16",
@@ -235,6 +235,33 @@
           "publishedAt": "2026-11-06T13:54:50Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#3",
+          "title": "Palmer misses too many chances to impress - Tuchel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-06T11:59:37Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#5",
+          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+          "author": "",
+          "publishedAt": "2026-11-06T06:22:00Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#6",
+          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+          "author": "",
+          "publishedAt": "2026-11-06T00:10:28Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#5",
