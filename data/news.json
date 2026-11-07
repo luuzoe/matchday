@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T09:22:51Z",
+      "fetchedAt": "2026-11-07T09:23:10Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16",
@@ -13,7 +13,8 @@
           "description": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add free agents to Aberdeen's squad.",
           "author": "",
           "publishedAt": "2026-11-07T09:11:29Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61a/live/efb2d560-da8b-11f1-a701-fddedf244c16.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro#0",
@@ -240,7 +241,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T08:33:23Z",
+      "fetchedAt": "2026-11-07T09:23:10Z",
       "articles": [
         {
           "guid": "",
@@ -264,7 +265,7 @@
         },
         {
           "guid": "",
-          "title": "Papers: Man Utd handed boost in pursuit of Barcelona left-back Alejandro Balde",
+          "title": "Papers: Man Utd handed boost in pursuit of Barca left-back Balde",
           "url": "https://www.skysports.com/football/news/11095/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk",
           "description": "The top stories and transfer rumours from Saturday's newspapers...",
           "author": "",
@@ -291,26 +292,6 @@
           "publishedAt": "2026-11-06T22:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399579.jpg?20261106214109"
-        },
-        {
-          "guid": "",
-          "title": "Derby ease pressure on boss Eustace with comeback win over Bolton",
-          "url": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/report/560671",
-          "description": "Derby eased the building pressure on boss John Eustace as they hit back to beat Bolton 2-1 in the Championship.",
-          "author": "",
-          "publishedAt": "2026-11-06T21:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-derby-county_7399551.jpg?20261106211450"
-        },
-        {
-          "guid": "",
-          "title": "Should hair pull have resulted in penalty or red card?",
-          "url": "https://www.skysports.com/watch/video/13609059/block-j-tarkowski-everton-0-0-coventry",
-          "description": "Should Tarkowski have seen red for a hair pull during Everton's Premier League match against Coventry.",
-          "author": "",
-          "publishedAt": "2026-11-06T20:48:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-everton-tark_7399513.jpg?20261106205057"
         },
         {
           "guid": "",
@@ -344,6 +325,16 @@
         },
         {
           "guid": "",
+          "title": "Iraola: We must sacrifice control for creativity to fix scoring woes",
+          "url": "https://www.skysports.com/football/news/11095/13608882/liverpool-andoni-iraola-demands-creativity-over-control-to-solve-premier-league-scoring-problems",
+          "description": "Liverpool must sacrifice control in games in order to fix their creativity problems, Andoni Iraola has demanded ahead of their weekend trip to Crystal Palace, live on <em>Sky Sports</em>.",
+          "author": "",
+          "publishedAt": "2026-11-06T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7399134.jpg?20261106145228"
+        },
+        {
+          "guid": "",
           "title": "Jobe joins brother Jude with England to showcase his own talent",
           "url": "https://www.skysports.com/football/news/11095/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
           "description": "\"He's coming on his own merit,\" said Thomas Tuchel, after extolling the strengths of Jobe Bellingham.",
@@ -351,16 +342,6 @@
           "publishedAt": "2026-11-06T14:24:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jude-jobe-bellingham_7399118.jpg?20261106143239"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Baleba facing weeks out with hamstring injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T14:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
         },
         {
           "guid": "",
@@ -381,6 +362,16 @@
           "publishedAt": "2026-11-06T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-football_7398886.jpg?20261106101209"
+        },
+        {
+          "guid": "",
+          "title": "O'Neill's Celtic under pressure, Rangers live on Sky as Hibs hope for revival",
+          "url": "https://www.skysports.com/football/news/11095/13608471/scottish-premiership-martin-oneills-celtic-under-pressure-derek-mcinnes-rangers-live-on-sky-as-hibs-hope-for-revival",
+          "description": "The Scottish Premiership guarantees drama - and we're braced for more ahead of the international break.",
+          "author": "",
+          "publishedAt": "2026-11-06T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scottish-premiership_7398787.jpg?20261106075330"
         },
         {
           "guid": "",
@@ -424,13 +415,13 @@
         },
         {
           "guid": "",
-          "title": "'Carrick needs Bruno – but Villa could expose United'",
-          "url": "https://www.skysports.com/football/news/11095/13607957/man-utd-paul-merson-says-michael-carrick-needs-bruno-fernandes-on-side-and-matheus-cunha-to-be-consistent",
-          "description": "Paul Merson says Michael Carrick needs Bruno Fernandes in his side and has challenged Matheus Cunha to find greater consistency after Manchester United's dramatic 3-2 comeback win over Roma.",
+          "title": "Liverpool latest: Iraola gives Gravenberch injury update",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-05T11:45:00Z",
+          "publishedAt": "2026-11-05T09:48:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-cunha-bruno-fernandes_7396952.jpg?20261104141113"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         },
         {
           "guid": "",
@@ -441,6 +432,16 @@
           "publishedAt": "2026-11-04T16:46:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool's unwanted record highlights creativity issue",
+          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
+          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
+          "author": "",
+          "publishedAt": "2026-11-03T12:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
         }
       ]
     }
