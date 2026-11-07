@@ -4,8 +4,44 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T18:33:17Z",
+      "fetchedAt": "2026-11-07T18:42:53Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo#5",
+          "title": "Chelsea surrender top spot after home draw with Everton",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo?at_medium=RSS&at_campaign=rss",
+          "description": "A Lucy Bronze own goal gives Everton a hard earned 1-1 draw at Stamford Bridge, as Chelsea drop to second in the WSL table.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:35:49Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o#1",
+          "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
+          "description": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:35:43Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#2",
+          "title": "Argentina set to go to Cas after Fifa rejects appeals",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
+          "description": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:33:18Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo#5",
+          "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
+          "description": "Jordan Thewlis scores a stoppage-time penalty to give seventh-tier Guiseley a dramatic 1-0 win over Sutton United in their FA Cup first round tie at Nethermoor Park.",
+          "author": "",
+          "publishedAt": "2026-11-07T18:32:30Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po#1",
           "title": "Non-league Carlisle upset League Two leaders Salford",
@@ -235,6 +271,15 @@
           "publishedAt": "2026-11-06T22:30:12Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#6",
+          "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-06T21:08:04Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
