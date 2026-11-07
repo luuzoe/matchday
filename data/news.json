@@ -4,8 +4,44 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T20:02:53Z",
+      "fetchedAt": "2026-11-07T20:13:24Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#0",
+          "title": "Delap double inspires Forest to stunning win over Man City",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+          "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+          "author": "",
+          "publishedAt": "2026-11-07T20:02:25Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#0",
+          "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+          "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:59:37Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o#0",
+          "title": "Leeds beat Spurs to end five-game winless run",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+          "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:59:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo#0",
+          "title": "Arsenal beat Hull to extend lead at top of the table",
+          "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:59:31Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#6",
           "title": "Newport cup tie halted by alleged homophobic chants",
@@ -252,6 +288,87 @@
           "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
           "author": "",
           "publishedAt": "2026-11-06T21:08:04Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#18",
+          "title": "James out for minimum of five games - Bompastor",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
+          "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
+          "author": "",
+          "publishedAt": "2026-11-06T16:44:44Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#8",
+          "title": "How to follow the FA Cup on the BBC this weekend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-06T07:47:46Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#11",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+          "author": "",
+          "publishedAt": "2026-11-05T18:02:15Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo#11",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-05T14:44:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o#18",
+          "title": "More than 60 flights in 11 months and away games in the Arctic Circle",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
+          "description": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
+          "author": "",
+          "publishedAt": "2026-11-05T12:38:34Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#11",
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-05T12:14:33Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o#18",
+          "title": "FA and WSL launch major study into ACL injuries in women's football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
+          "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
+          "author": "",
+          "publishedAt": "2026-11-05T10:24:06Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo#11",
+          "title": "Meet the people set for key role in deciding Man City fate",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+          "description": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+          "author": "",
+          "publishedAt": "2026-11-05T06:26:11Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo#11",
+          "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+          "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+          "author": "",
+          "publishedAt": "2026-11-04T16:12:46Z",
           "publisher": "BBC Sport"
         }
       ]
