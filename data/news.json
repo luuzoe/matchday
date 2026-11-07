@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T18:52:53Z",
+      "fetchedAt": "2026-11-07T19:12:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o#1",
+          "title": "Altrincham take shock lead against Notts County",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o?at_medium=RSS&at_campaign=rss",
+          "description": "Lewis Banks scores from close range to put the National League's Altrincham 2-1 up against League One side Notts County in the first round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-07T19:08:23Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo#5",
           "title": "Bates double earns Dover upset win over Wealdstone",
@@ -295,7 +304,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T19:02:52Z",
+      "fetchedAt": "2026-11-07T19:12:52Z",
       "articles": [
         {
           "guid": "",
@@ -339,6 +348,17 @@
           "publishedAt": "2026-11-07T18:09:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "St Mirren vs Rangers team news LIVE!",
+          "url": "https://www.skysports.com/football/st-mirren-vs-rangers/live/558409",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T18:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-st-mirren-rangers_7395008.jpg?20261102151724",
+          "category": "Liveblog"
         },
         {
           "guid": "",
