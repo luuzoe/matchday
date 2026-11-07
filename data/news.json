@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T14:22:52Z",
+      "fetchedAt": "2026-11-07T14:23:15Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no#1",
@@ -13,10 +13,11 @@
           "description": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.",
           "author": "",
           "publishedAt": "2026-11-07T14:12:45Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da4/live/3a89da30-dab3-11f1-8c3b-f3c0d6bd7c4f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#16",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#0",
           "title": "Scotland lose Welsh and call up Porteous",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
           "description": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
@@ -24,16 +25,6 @@
           "publishedAt": "2026-11-07T13:57:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/m00340xt#16",
-          "title": "Listen to Off The Ball",
-          "url": "https://www.bbc.co.uk/sounds/play/m00340xt?at_medium=RSS&at_campaign=rss",
-          "description": "The most petty and ill-informed football show on radio.",
-          "author": "",
-          "publishedAt": "2026-11-07T13:30:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#0",
@@ -196,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo#1",
           "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
           "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
@@ -206,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#5",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0plqn9l#6",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
           "description": "John, Ian and Ali tell us what makes a good radio football summariser",
@@ -216,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#5",
           "title": "James out for minimum of five games - Bompastor",
           "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
           "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
@@ -226,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#1",
           "title": "Is Palmer's England career over under Tuchel?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
           "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
@@ -234,95 +225,13 @@
           "publishedAt": "2026-11-06T16:30:03Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plhlmm#6",
-          "title": "Euro Leagues",
-          "url": "https://www.bbc.co.uk/sounds/play/p0plhlmm?at_medium=RSS&at_campaign=rss",
-          "description": "HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
-          "author": "",
-          "publishedAt": "2026-11-06T16:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#1",
-          "title": "'A beautiful story' as Bellingham brothers called up",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-          "author": "",
-          "publishedAt": "2026-11-06T14:16:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o#5",
-          "title": "Harborough sign 6ft 9in striker Hudlin before FA Cup tie",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&at_campaign=rss",
-          "description": "Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
-          "author": "",
-          "publishedAt": "2026-11-06T13:54:50Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o#5",
-          "title": "Palmer misses too many chances to impress - Tuchel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:59:37Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#5",
-          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:16:07Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#6",
-          "title": "Diamonds are forever - phoenix club seek FA Cup upset",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
-          "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
-          "author": "",
-          "publishedAt": "2026-11-06T08:22:16Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po#6",
-          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:53:56Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#3",
-          "title": "Sutton's predictions v Football Manager, the game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-05T18:02:15Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#6",
-          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-          "author": "",
-          "publishedAt": "2026-11-05T14:29:40Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T14:03:19Z",
+      "fetchedAt": "2026-11-07T14:23:15Z",
       "articles": [
         {
           "guid": "",
@@ -336,13 +245,13 @@
         },
         {
           "guid": "",
-          "title": "Bogle escapes red with Leeds on top vs Spurs LIVE!",
+          "title": "Okafor puts Leeds ahead late on against Spurs LIVE!",
           "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-07T10:55:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-omar-marmoush-ao-tanaka_7399809.jpg?20261107130207"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-noah-okafor-leeds-united_7399895.jpg?20261107141948"
         },
         {
           "guid": "",
@@ -396,7 +305,7 @@
         },
         {
           "guid": "",
-          "title": "WSL LIVE! Everton level at Chelsea as Man City lead West Ham",
+          "title": "WSL LIVE! Everton frustrating Chelsea as Man City hammering West Ham",
           "url": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
           "description": "",
           "author": "",
@@ -416,13 +325,13 @@
         },
         {
           "guid": "",
-          "title": "Wrexham hit back to level against Wolves LIVE!",
+          "title": "Wolves pushing for late winner at Wrexham LIVE!",
           "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-o-brien-wrexham_7399815.jpg?20261107131041"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-mateus-mane-wolves_7399804.jpg?20261107125837"
         },
         {
           "guid": "",
