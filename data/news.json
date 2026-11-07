@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T16:20:10Z",
+      "fetchedAt": "2026-11-07T16:42:50Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o#0",
+          "title": "De Zerbi focuses on Spurs' failings - but should Bogle have seen red?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
+          "description": "It was somewhat surprising to see Roberto de Zerbi take a more peaceful approach when he faced the media at Elland Road after Tottenham's 1-0 defeat by Leeds United on Saturday afternoon.",
+          "author": "",
+          "publishedAt": "2026-11-07T16:35:26Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do#1",
           "title": "National League South game abandoned after player collapses in warm-up",
@@ -241,7 +250,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T16:20:11Z",
+      "fetchedAt": "2026-11-07T16:42:50Z",
       "articles": [
         {
           "guid": "",
@@ -262,6 +271,16 @@
           "publishedAt": "2026-11-07T15:24:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
+        },
+        {
+          "guid": "",
+          "title": "Bronze mistake, Chelsea frustration, Shaw hat-trick - WSL round-up",
+          "url": "https://www.skysports.com/football/news/11095/13608977/man-city-5-0-west-ham-chelsea-1-1-everton-reigning-wsl-champions-make-title-statement-as-bunny-shaw-scores-hat-trick",
+          "description": "Khadija 'Bunny' Shaw struck a perfect hat-trick as Manchester City dispatched West Ham 5-0 to retake top spot in the Women's Super League.",
+          "author": "",
+          "publishedAt": "2026-11-07T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-khadija-shaw-man-city_7399861.jpg?20261107133450"
         },
         {
           "guid": "",
