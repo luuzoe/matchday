@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T19:32:53Z",
+      "fetchedAt": "2026-11-07T19:42:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#0",
+          "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+          "author": "",
+          "publishedAt": "2026-11-07T19:34:32Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo#0",
           "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
