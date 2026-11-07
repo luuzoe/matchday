@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T20:13:51Z",
+      "fetchedAt": "2026-11-07T20:52:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo#6",
+          "title": "Maresca looking to understand Man City's 'lack of intensity'",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
+          "description": "Enzo Maresca feels his side \"lacked intensity\" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground.",
+          "author": "",
+          "publishedAt": "2026-11-07T20:42:23Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#0",
           "title": "Delap double inspires Forest to stunning win over Man City",
