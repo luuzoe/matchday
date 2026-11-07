@@ -277,8 +277,19 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T17:12:52Z",
+      "fetchedAt": "2026-11-07T17:22:51Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Late goals as Fulham draw with Newcastle",
+          "url": "https://www.skysports.com/watch/video/13609384/fulham-1-1-newcastle-premier-league-highlights",
+          "description": "FREE TO WATCH: Highlights from the Premier League match between Fulham and Newcastle United.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400207.jpg?20261107170618",
+          "category": "Video"
+        },
         {
           "guid": "",
           "title": "Odegaard clinches Arsenal win over stubborn Hull",
@@ -288,6 +299,17 @@
           "publishedAt": "2026-11-07T17:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400167.jpg?20261107164456"
+        },
+        {
+          "guid": "",
+          "title": "Fulham deny Newcastle boss Jaissle of pressure-relieving victory",
+          "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/report/559538",
+          "description": "Rodrigo Muniz's unorthodox equaliser denied Matthias Jaissle a pressure-relieving victory but his Newcastle side were still much improved in a deserved 1-1 draw at Fulham.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-jacob-murphy-premier-league_7400172.jpg?20261107164614",
+          "category": "Report"
         },
         {
           "guid": "",
@@ -438,6 +460,17 @@
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arne-engels-jayden-fevrier_7400012.jpg?20261107153224"
+        },
+        {
+          "guid": "",
+          "title": "Birmingham top, Cardiff stun Burnley 5-4 & Blackburn beat West Ham - Championship highlights",
+          "url": "https://www.skysports.com/football/live-blog/11095/13608936/wrexham-vs-wolves-live-championship-match-updates-score-stream-and-free-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T16:06:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-blackburn-rovers_7400135.jpg?20261107162444",
+          "category": "Liveblog"
         },
         {
           "guid": "",
