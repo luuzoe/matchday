@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T00:03:03Z",
+      "fetchedAt": "2026-11-07T00:03:30Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
@@ -13,7 +13,8 @@
           "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
           "author": "",
           "publishedAt": "2026-11-06T23:53:06Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo#2",
@@ -22,7 +23,8 @@
           "description": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
           "author": "",
           "publishedAt": "2026-11-06T23:37:23Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38fa/live/ceecfd10-da2c-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o#2",
@@ -31,7 +33,8 @@
           "description": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
           "author": "",
           "publishedAt": "2026-11-06T23:26:39Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7858/live/c81678b0-da2f-11f1-a701-fddedf244c16.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo#0",
@@ -174,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9186/live/247ffd40-d9e2-11f1-bbe5-797ee05bee69.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#3",
           "title": "Talking points as Premiership prepares for international break",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
           "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
@@ -214,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e5/live/718d44d0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#1",
           "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
           "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
@@ -222,70 +225,13 @@
           "publishedAt": "2026-11-06T11:16:07Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#1",
-          "title": "Championship preview: Contenders, pretenders and strugglers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
-          "author": "",
-          "publishedAt": "2026-11-06T09:22:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/faa1da30-d9c2-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#3",
-          "title": "Diamonds are forever - phoenix club seek FA Cup upset",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
-          "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
-          "author": "",
-          "publishedAt": "2026-11-06T08:22:16Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d4e/live/fdb76130-d90a-11f1-b72c-d16cdc75f35f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pll0yb#16",
-          "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&at_campaign=rss",
-          "description": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
-          "author": "",
-          "publishedAt": "2026-11-06T08:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#5",
-          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
-          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
-          "author": "",
-          "publishedAt": "2026-11-06T00:10:28Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do#7",
-          "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do?at_medium=RSS&at_campaign=rss",
-          "description": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
-          "author": "",
-          "publishedAt": "2026-11-05T13:15:21Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo#7",
-          "title": "Fans pay respects to Tenerife's De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo?at_medium=RSS&at_campaign=rss",
-          "description": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
-          "author": "",
-          "publishedAt": "2026-11-04T11:05:16Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-06T23:42:52Z",
+      "fetchedAt": "2026-11-07T00:03:31Z",
       "articles": [
         {
           "guid": "",
@@ -369,6 +315,16 @@
         },
         {
           "guid": "",
+          "title": "Spurs latest: De Zerbi - 'It's great our CEO wants us to win the league'",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-06T15:02:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
           "title": "Iraola: We must sacrifice control for creativity to fix scoring woes",
           "url": "https://www.skysports.com/football/news/11095/13608882/liverpool-andoni-iraola-demands-creativity-over-control-to-solve-premier-league-scoring-problems",
           "description": "Liverpool must sacrifice control in games in order to fix their creativity problems, Andoni Iraola has demanded ahead of their weekend trip to Crystal Palace, live on <em>Sky Sports</em>.",
@@ -449,6 +405,16 @@
         },
         {
           "guid": "",
+          "title": "Transfer Centre LIVE! Moyes discusses Grealish situation after Coventry win",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-05T17:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-jack-grealish-everton_7391253.jpg?20261029185811"
+        },
+        {
+          "guid": "",
           "title": "'Carrick needs Bruno – but Villa could expose United'",
           "url": "https://www.skysports.com/football/news/11095/13607957/man-utd-paul-merson-says-michael-carrick-needs-bruno-fernandes-on-side-and-matheus-cunha-to-be-consistent",
           "description": "Paul Merson says Michael Carrick needs Bruno Fernandes in his side and has challenged Matheus Cunha to find greater consistency after Manchester United's dramatic 3-2 comeback win over Roma.",
@@ -459,16 +425,6 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Iraola gives Gravenberch injury update",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T09:48:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "",
           "title": "Coventry latest: Handball or side? What VAR said about Barry's second goal",
           "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
@@ -476,26 +432,6 @@
           "publishedAt": "2026-11-04T16:46:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool's unwanted record highlights creativity issue",
-          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
-          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
-          "author": "",
-          "publishedAt": "2026-11-03T12:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
-        },
-        {
-          "guid": "",
-          "title": "Barcola: People are starting to understand me better - but I'm not Mo Salah",
-          "url": "https://www.skysports.com/football/news/11095/13607009/bradley-barcola-interview-liverpool-winger-discusses-leaving-psg-settling-in-at-anfield-overcoming-the-price-tag-and-mohamed-salah-pressure",
-          "description": "Big money signings can take time to get going at their new club. There are plenty at Liverpool who can testify to that.",
-          "author": "",
-          "publishedAt": "2026-11-02T10:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/SKYSPORTS_5acd404f0efc3093240c6c0e21ab369855df54510c2e200ee61be1c7f123424a_7394693.jpg?20261102104226"
         }
       ]
     }
