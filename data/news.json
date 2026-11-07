@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T09:23:10Z",
+      "fetchedAt": "2026-11-07T09:59:59Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo#16",
@@ -241,8 +241,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T09:23:10Z",
+      "fetchedAt": "2026-11-07T10:00:00Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Liverpool latest: 'We're too honest' - Iraola on refereeing decisions",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T09:07:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
         {
           "guid": "",
           "title": "Arsenal latest: Tzolis rejects idea Gunners are short in attack",
@@ -412,16 +422,6 @@
           "publishedAt": "2026-11-05T17:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-jack-grealish-everton_7391253.jpg?20261029185811"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool latest: Iraola gives Gravenberch injury update",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-05T09:48:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         },
         {
           "guid": "",
