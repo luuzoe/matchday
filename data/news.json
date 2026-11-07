@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T14:32:51Z",
+      "fetchedAt": "2026-11-07T14:42:50Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
+          "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+          "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:35:23Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no#1",
           "title": "How 'calm' Eustace got the result he needed for Derby",
@@ -236,6 +245,15 @@
           "publisher": "BBC Sport"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#5",
+          "title": "Has Anderson lived up to the hype after Man City move?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
+          "author": "",
+          "publishedAt": "2026-11-06T12:00:18Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#6",
           "title": "How to follow the FA Cup on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
@@ -249,8 +267,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T14:23:15Z",
+      "fetchedAt": "2026-11-07T14:42:50Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Norwich thump five past Bristol City as home fans turn on Skubala",
+          "url": "https://www.skysports.com/football/bristol-city-vs-norwich-city/report/560668",
+          "description": "Bristol City fans turned on manager Michael Skubala as Norwich made it nine goals in successive away victories with a 5-0 Sky Bet Championship win at Ashton Gate.",
+          "author": "",
+          "publishedAt": "2026-11-07T14:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mathias-kvistgaarden_7399917.jpg?20261107143044"
+        },
         {
           "guid": "",
           "title": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
