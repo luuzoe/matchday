@@ -4,8 +4,26 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T03:06:08Z",
+      "fetchedAt": "2026-11-07T07:03:17Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-07T06:53:35Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo#0",
+          "title": "Non-league's greatest giant-killers eye another scalp",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
+          "author": "",
+          "publishedAt": "2026-11-07T06:45:56Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
           "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
@@ -225,6 +243,33 @@
           "publishedAt": "2026-11-06T11:16:07Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo#3",
+          "title": "Championship preview: Contenders, pretenders and strugglers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
+          "author": "",
+          "publishedAt": "2026-11-06T09:22:00Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o#5",
+          "title": "Diamonds are forever - phoenix club seek FA Cup upset",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
+          "description": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
+          "author": "",
+          "publishedAt": "2026-11-06T08:22:16Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o#6",
+          "title": "Ronaldo's most iconic moments as he retires from international football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
+          "author": "",
+          "publishedAt": "2026-11-05T11:22:59Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
