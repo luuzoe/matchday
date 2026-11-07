@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T17:42:50Z",
+      "fetchedAt": "2026-11-07T17:53:00Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o#2",
@@ -307,14 +307,43 @@
           "author": "",
           "publishedAt": "2026-11-06T12:00:18Z",
           "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#7",
+          "title": "How to follow the FA Cup on the BBC this weekend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-06T07:47:46Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do#5",
+          "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do?at_medium=RSS&at_campaign=rss",
+          "description": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
+          "author": "",
+          "publishedAt": "2026-11-05T13:15:21Z",
+          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T17:33:01Z",
+      "fetchedAt": "2026-11-07T17:53:00Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "'Cool finish' from Cunha gives Forest an early lead vs Man City",
+          "url": "https://www.skysports.com/watch/video/13609457/goal-j-cunha-6-nottm-forest-1-0-manchester-city",
+          "description": "Jair Cunha puts Forest ahead after six minutes as they face Manchester City in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:43:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-prmier-league_7400307.jpg?20261107174421",
+          "category": "Video"
+        },
         {
           "guid": "",
           "title": "Odegaard earns Arsenal narrow win over Hull to extend gap at the top",
