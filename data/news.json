@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T17:12:52Z",
+      "fetchedAt": "2026-11-07T17:33:01Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o#2",
+          "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+          "description": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:23:20Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o#0",
           "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
@@ -255,6 +264,15 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#6",
+          "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
+          "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
+          "author": "",
+          "publishedAt": "2026-11-06T15:21:40Z",
+          "publisher": "BBC Sport"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#5",
           "title": "'A beautiful story' as Bellingham brothers called up",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
@@ -277,8 +295,30 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T17:22:51Z",
+      "fetchedAt": "2026-11-07T17:33:01Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Odegaard earns Arsenal narrow win over Hull to extend gap at the top",
+          "url": "https://www.skysports.com/watch/video/13609399/arsenal-1-0-hull-premier-league-highlights",
+          "description": "FREE TO WATCH: Highlights from Arsenal’s match against Hull in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:16:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-hull_7400216.jpg?20261107170854",
+          "category": "Video"
+        },
+        {
+          "guid": "",
+          "title": "Leeds end Spurs’ winning run in VAR controversy filled match",
+          "url": "https://www.skysports.com/watch/video/13609257/leeds-1-0-tottenham-hotspur-premier-league-highlights",
+          "description": "FREE TO WATCH: Highlights from Leeds’s match against Tottenham Hotspur in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-07T17:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-leeds-spurs_7399976.jpg?20261107150751",
+          "category": "Video"
+        },
         {
           "guid": "",
           "title": "Late goals as Fulham draw with Newcastle",
