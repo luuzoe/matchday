@@ -241,8 +241,18 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T10:33:10Z",
+      "fetchedAt": "2026-11-07T11:02:56Z",
       "articles": [
+        {
+          "guid": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
+          "title": "Leeds vs Tottenham team news LIVE!",
+          "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-07T10:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-dominic-calvert-lewin_7379902.jpg?20261018151826"
+        },
         {
           "guid": "",
           "title": "Liverpool latest: 'We're too honest' - Iraola on refereeing decisions",
