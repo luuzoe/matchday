@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T13:13:18Z",
+      "fetchedAt": "2026-11-07T14:02:56Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#16",
@@ -15,6 +15,24 @@
           "publishedAt": "2026-11-07T14:00:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#16",
+          "title": "Scotland lose Welsh and call up Porteous",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
+          "description": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
+          "author": "",
+          "publishedAt": "2026-11-07T13:57:46Z",
+          "publisher": "BBC Sport"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/m00340xt#16",
+          "title": "Listen to Off The Ball",
+          "url": "https://www.bbc.co.uk/sounds/play/m00340xt?at_medium=RSS&at_campaign=rss",
+          "description": "The most petty and ill-informed football show on radio.",
+          "author": "",
+          "publishedAt": "2026-11-07T13:30:00Z",
+          "publisher": "BBC Sport"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o#0",
