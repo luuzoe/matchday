@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T15:02:53Z",
+      "fetchedAt": "2026-11-07T15:23:10Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo#0",
@@ -13,10 +13,11 @@
           "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
           "author": "",
           "publishedAt": "2026-11-07T14:35:23Z",
-          "publisher": "BBC Sport"
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no#3",
           "title": "How 'calm' Eustace got the result he needed for Derby",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no?at_medium=RSS&at_campaign=rss",
           "description": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.",
@@ -26,7 +27,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da4/live/3a89da30-dab3-11f1-8c3b-f3c0d6bd7c4f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro#1",
           "title": "Scotland lose Welsh and call up Porteous",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
           "description": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
@@ -46,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#1",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pln6dk#3",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
           "description": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?",
@@ -86,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o#3",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -96,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo#1",
           "title": "Non-league's greatest giant-killers eye another scalp",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
           "description": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
@@ -106,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo#1",
+          "guid": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo#3",
           "title": "Can we play you every week? The day Southend toppled Man United",
           "url": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
           "description": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
@@ -116,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c4/live/2e6d6b50-d9ef-11f1-bb10-cdca6001fbcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go#1",
           "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
           "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
@@ -146,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7858/live/c81678b0-da2f-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo#3",
           "title": "Lampard feels hair pull should have led to Coventry penalty",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
           "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
@@ -216,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo#17",
           "title": "James out for minimum of five games - Bompastor",
           "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
           "description": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
@@ -226,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o#3",
           "title": "Is Palmer's England career over under Tuchel?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
           "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
@@ -234,91 +235,19 @@
           "publishedAt": "2026-11-06T16:30:03Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno#5",
-          "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-          "description": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-          "author": "",
-          "publishedAt": "2026-11-06T15:21:40Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo#3",
-          "title": "'A beautiful story' as Bellingham brothers called up",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-          "author": "",
-          "publishedAt": "2026-11-06T14:16:34Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o#6",
-          "title": "Talking points as Premiership prepares for international break",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
-          "author": "",
-          "publishedAt": "2026-11-06T13:44:22Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o#5",
-          "title": "Has Anderson lived up to the hype after Man City move?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-          "author": "",
-          "publishedAt": "2026-11-06T12:00:18Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo#6",
-          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
-          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
-          "author": "",
-          "publishedAt": "2026-11-06T11:16:07Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o#6",
-          "title": "How to follow the FA Cup on the BBC this weekend",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
-          "author": "",
-          "publishedAt": "2026-11-06T07:47:46Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#6",
-          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
-          "author": "",
-          "publishedAt": "2026-11-06T06:22:00Z",
-          "publisher": "BBC Sport"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o#10",
-          "title": "Sutton's predictions v Football Manager, the game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-05T18:02:15Z",
-          "publisher": "BBC Sport"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-07T15:22:50Z",
+      "fetchedAt": "2026-11-07T15:23:10Z",
       "articles": [
         {
           "guid": "",
           "title": "Leeds deservedly beat Spurs after Bogle escapes red card",
           "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/report/559540",
-          "description": "Substitute Noah Okafor’s late winner gave Leeds a 1-0 home victory over Tottenham after Whites defender Jayden Bogle controversially escaped a first-half red card.",
+          "description": "Substitute Noah Okafor&#8217;s late winner gave Leeds a 1-0 home victory over Tottenham after Whites defender Jayden Bogle controversially escaped a first-half red card.",
           "author": "",
           "publishedAt": "2026-11-07T14:30:00Z",
           "publisher": "Sky Sports",
@@ -366,16 +295,6 @@
         },
         {
           "guid": "",
-          "title": "Okafor puts Leeds ahead late on against Spurs LIVE!",
-          "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T10:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-noah-okafor-leeds-united_7399895.jpg?20261107141948"
-        },
-        {
-          "guid": "",
           "title": "Liverpool latest: 'We're too honest' - Iraola on refereeing decisions",
           "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -386,7 +305,7 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Tzolis rejects idea Gunners are short in attack",
+          "title": "Arsenal latest:Saliba to play for U21s against Aston Villa",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -426,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "WSL LIVE! Everton frustrating Chelsea as Man City hammering West Ham",
-          "url": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T17:03:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-khadija-shaw-man-city_7399861.jpg?20261107133450"
-        },
-        {
-          "guid": "",
           "title": "Everton latest: Toffees exceeding expectations after tough window, says Moyes",
           "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
@@ -446,23 +355,13 @@
         },
         {
           "guid": "",
-          "title": "Wolves pushing for late winner at Wrexham LIVE!",
-          "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-06T16:06:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-mateus-mane-wolves_7399804.jpg?20261107125837"
-        },
-        {
-          "guid": "",
           "title": "Blackburn vs West Ham LIVE!",
           "url": "https://www.skysports.com/football/blackburn-rovers-vs-west-ham-united/live/560667",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-06T16:06:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-jarrod-bowen-west-ham_7392759.jpg?20261031153910"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-blackburn_7399989.jpg?20261107151415"
         },
         {
           "guid": "",
@@ -496,26 +395,6 @@
         },
         {
           "guid": "",
-          "title": "England squad talking points as Tuchel makes Palmer statement",
-          "url": "https://www.skysports.com/football/news/11095/13608738/cole-palmer-omission-a-statement-by-thomas-tuchel-as-ben-white-recalled-despite-boos-england-squad-talking-points",
-          "description": "England face their final two Nations League games this month, knowing a point against Croatia will seal a place in the competition's quarter-finals.",
-          "author": "",
-          "publishedAt": "2026-11-06T09:12:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-cole-palmer-thomas-tuchel_7398972.jpg?20261106114109"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd's next generation can rescue Carrick",
-          "url": "https://www.skysports.com/football/news/11095/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
-          "description": "Being at Old Trafford on Tuesday night was quite incredible.",
-          "author": "",
-          "publishedAt": "2026-11-06T09:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-reporter-notebook_7398217.jpg?20261105160829"
-        },
-        {
-          "guid": "",
           "title": "PL Predictions: How will your team fare this weekend?",
           "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
@@ -546,23 +425,23 @@
         },
         {
           "guid": "",
-          "title": "Steur makes rare start as Newcastle change four at Fulham LIVE!",
+          "title": "Fulham vs Newcastle LIVE!",
           "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538",
           "description": "",
           "author": "",
           "publishedAt": "2026-09-28T13:53:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/09/1920x1080/skysports-steur-newcastle_7356107.jpg?20260919142758"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-timothy-castagne_7399992.jpg?20261107151906"
         },
         {
           "guid": "",
-          "title": "Havertz back in for Arsenal, Belloumi out for Hull  LIVE!",
+          "title": "Arsenal vs Hull LIVE! Can champions go six points clear at top?",
           "url": "https://www.skysports.com/football/arsenal-vs-hull-city/live/559534",
           "description": "",
           "author": "",
           "publishedAt": "2026-09-28T13:44:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-ezri-konsa-arsenal_7385667.jpg?20261024151637"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-arsenal_7399999.jpg?20261107152047"
         }
       ]
     }
