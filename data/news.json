@@ -4,8 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-07T07:23:22Z",
+      "fetchedAt": "2026-11-07T07:32:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro#0",
+          "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
+          "description": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
+          "author": "",
+          "publishedAt": "2026-11-07T07:27:40Z",
+          "publisher": "BBC Sport"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo#0",
           "title": "Not playing at Man City 'horrendous' - Trafford",
