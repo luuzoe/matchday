@@ -62,9 +62,9 @@
 <!-- Adsterra placeholders: Adsterra dashboard → Websites → add https://luuzoe.github.io/matchday/ → create a 300×250 Banner unit + Social Bar unit → paste the keys below. Do NOT reuse another site's Adsterra codes (they serve on that site only). No ad script loads while the keys are empty. No popunder is used on Matchday.
      Adsterra ကြော်ငြာထည့်ရန်: Adsterra dashboard → Websites → Add website → luuzoe.github.io/matchday → 300×250 Banner နှင့် Social Bar unit များဖန်တီးပြီး ရလာသော key များကို ADSTERRA တွင် ထည့်ပါ။ အခြား site ၏ key များကို မသုံးပါနှင့်။ key မထည့်ထားသရွေ့ ကြော်ငြာ script ဘာတစ်ခုမှ load မလုပ်ပါ။ -->
 <script>
-  const ADSTERRA = { bannerKey: "f7c8de1053113d3d3c02081a1dd8286c", nativeKey: "", socialBarKey: "" };
+  const ADSTERRA = { bannerKey: "f7c8de1053113d3d3c02081a1dd8286c", nativeKey: "b4eb7873caa5db0c42fd50b7edbcf265", socialBarKey: "d8e7af227e87ad49a97c0a13c34d9068", popunderKey: "e5e7730abebd8e9e3fc6a9350d6d349f" };
   function loadAdsterra() {
-    if (!ADSTERRA.bannerKey && !ADSTERRA.nativeKey && !ADSTERRA.socialBarKey) return;
+    if (!ADSTERRA.bannerKey && !ADSTERRA.nativeKey && !ADSTERRA.socialBarKey && !ADSTERRA.popunderKey) return;
     if (ADSTERRA.bannerKey) {
       const slot = document.getElementById('ad-banner-slot');
       if (slot) {
@@ -91,6 +91,12 @@
       socialScript.setAttribute('data-cfasync', 'false');
       socialScript.src = 'https://czernik.org/14/' + encodeURIComponent(ADSTERRA.socialBarKey);
       document.body.appendChild(socialScript);
+    }
+    if (ADSTERRA.popunderKey) {
+      const popunderScript = document.createElement('script');
+      popunderScript.setAttribute('data-cfasync', 'false');
+      popunderScript.src = 'https://capitalhospitals.org/1/' + encodeURIComponent(ADSTERRA.popunderKey);
+      document.body.appendChild(popunderScript);
     }
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', loadAdsterra);
