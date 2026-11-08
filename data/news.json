@@ -4,8 +4,68 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-08T09:36:12Z",
+      "fetchedAt": "2026-11-08T13:04:21Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#17",
+          "title": "Listen to Off The Ball",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+          "description": "The most petty and ill-informed football show on radio.",
+          "author": "",
+          "publishedAt": "2026-11-08T14:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo#0",
+          "title": "Last season difficult with injury and miscarriage - Muniz",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+          "description": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+          "author": "",
+          "publishedAt": "2026-11-08T11:56:01Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno#2",
+          "title": "Watch: Saturday's Scottish Premiership highlights",
+          "url": "https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno?at_medium=RSS&at_campaign=rss",
+          "description": "Watch Saturday's Scottish Premiership highlights on Sportscene as Rangers beat St Mirren, Hibernian thump Aberdeen, St Johnstone edge Dundee, while Dundee United and Motherwell share the points.",
+          "author": "",
+          "publishedAt": "2026-11-08T10:29:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe2/live/46f4f230-db5f-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno#0",
+          "title": "Is there something missing despite Rangers' impressive form?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&at_campaign=rss",
+          "description": "Rangers made it 12 games without defeat in all competitions with a 2-0 win at St Mirren on Saturday, but Ibrox legend Kris Boyd believes there is \"something missing\".",
+          "author": "",
+          "publishedAt": "2026-11-08T10:10:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp8g0z49qd8o#17",
+          "title": "Swiss boss defends Xhaka and Embolo recalls to face Scotland - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckp8g0z49qd8o?at_medium=RSS&at_campaign=rss",
+          "description": "Switzerland head coach Murat Yakin never had any doubts about reinstating captain Granit Xhaka and striker Breel Embolo to face Scotland as Raith Rovers face disciplinary action over a social media post aimed at Dunfermline Athletic's Neil Lennon.",
+          "author": "",
+          "publishedAt": "2026-11-08T10:00:36Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/14898620-db5b-11f1-a701-fddedf244c16.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o#3",
+          "title": "Raya, Pickford and Wales' search for a new keeper",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss",
+          "description": "New Wales call-up Joe Duncan might be unknown to many, but some of the world's best goalkeepers have benefitted from non-league loans.",
+          "author": "",
+          "publishedAt": "2026-11-08T09:57:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/973f4f90-d9db-11f1-b4ca-fd31344b71b9.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#0",
           "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
@@ -17,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o#3",
           "title": "Messi makes history with MLS Golden Boot",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
           "description": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
@@ -37,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o#4",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -108,7 +168,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o#17",
-          "title": "'Curtains for Robinson' or can foundering Aberdeen boss survive?",
+          "title": "'Curtains for Robinson', or can foundering Aberdeen boss survive?",
           "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
           "description": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
           "author": "",
@@ -127,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#6",
           "title": "Forest win over Man City 'a turning point' - Murphy",
           "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
           "description": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
@@ -157,26 +217,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plvx32#17",
-          "title": "Listen: Premiership reaction as pressure mounts on Robinson",
-          "url": "https://www.bbc.co.uk/sounds/play/p0plvx32?at_medium=RSS&at_campaign=rss",
-          "description": "Big wins for Rangers, St Johnstone and Hibs as Robinson's Aberdeen ship 4 goals at home.",
-          "author": "",
-          "publishedAt": "2026-11-07T23:15:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o#6",
-          "title": "Highlights: Exeter shock League One leaders Huddersfield",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&at_campaign=rss",
-          "description": "League Two Exeter City pull off an upset 2-1 win away to League One leaders Huddersfield Town to progress into the second round of the FA Cup.",
-          "author": "",
-          "publishedAt": "2026-11-07T23:08:32Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c4/live/f37426e0-dafe-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o#6",
           "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
           "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
@@ -195,83 +235,73 @@
           "publishedAt": "2026-11-07T22:44:20Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c211/live/bb3320f0-dad7-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o#0",
-          "title": "Liverpool considering Verbruggen move - Sunday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
-          "description": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-07T22:05:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o#3",
-          "title": "Glasner glee and Delap double - win could be lift-off for Forest",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
-          "description": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.",
-          "author": "",
-          "publishedAt": "2026-11-07T21:42:59Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02e/live/2eec51e0-daf8-11f1-b9a2-091c4f802785.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro#2",
-          "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
-          "description": "Notts County find a way to get past National League Altrincham in incredible conditions.",
-          "author": "",
-          "publishedAt": "2026-11-07T21:25:19Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#0",
-          "title": "Maresca's dream start turns into nightmare as title hopes hit",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-          "description": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
-          "author": "",
-          "publishedAt": "2026-11-07T20:54:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#1",
-          "title": "Delap double inspires Forest to stunning win over Man City",
-          "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
-          "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-          "author": "",
-          "publishedAt": "2026-11-07T20:02:25Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#1",
-          "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
-          "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:59:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-08T09:36:13Z",
+      "fetchedAt": "2026-11-08T13:04:22Z",
       "articles": [
         {
           "guid": "",
-          "title": "Man City latest:  Maresca hopeful international break can help ailing City",
+          "title": "Henderson returns for Chelsea to face former side Sunderland LIVE!",
+          "url": "https://www.skysports.com/football/sunderland-vs-chelsea/live/559543",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-08T12:33:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-sunderland-chelsea_7395009.jpg?20261102151741"
+        },
+        {
+          "guid": "",
+          "title": "Isak, Wirtz and Gakpo start for Liverpool as Disasi returns for Palace LIVE!",
+          "url": "https://www.skysports.com/football/crystal-palace-vs-liverpool/live/559536",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-08T12:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-crystal-palace-liverpool_7394990.jpg?20261102150403"
+        },
+        {
+          "guid": "",
+          "title": "Hurzeler sticks with same Brighton XI that beat Man City LIVE!",
+          "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/live/559535",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-08T12:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-charalampos-kostoulas_7379885.jpg?20261018151316"
+        },
+        {
+          "guid": "",
+          "title": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-08T09:07:00Z",
+          "publishedAt": "2026-11-08T10:55:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Carrick given no assurances over future beyond Villa match",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-08T10:24:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+        },
+        {
+          "guid": "",
+          "title": "Scott returns from injury as sub for Bournemouth at Ipswich LIVE!",
+          "url": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/live/559539",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-08T09:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-ipswich-town-bournemouth_7394998.jpg?20261102151052"
         },
         {
           "guid": "",
@@ -282,16 +312,6 @@
           "publishedAt": "2026-11-08T08:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Rangers end winless away run with comfortable victory at St Mirren",
-          "url": "https://www.skysports.com/football/st-mirren-vs-rangers/report/558409",
-          "description": "Rangers moved one point behind Scottish Premiership leaders Celtic thanks to goals from Ryan Naderi and Dan Neil in a 2-0 win over St Mirren.",
-          "author": "",
-          "publishedAt": "2026-11-07T21:50:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-naderi-scottish-premiership_7400583.jpg?20261107220209"
         },
         {
           "guid": "",
@@ -325,26 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Forest end goal drought to make it three defeats in a row for Man City",
-          "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542",
-          "description": "Liam Delap scored two as Nottingham Forest ended their goal drought in style to beat Manchester City 3-1 at the City Ground.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400474.jpg?20261107195655"
-        },
-        {
-          "guid": "",
-          "title": "Kane makes Bundesliga assist history as Bayern beat Mainz",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T18:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-harry-kane-bayern-munich_7400413.jpg?20261107184217"
-        },
-        {
-          "guid": "",
           "title": "Arsenal latest: Why Gunners should have had a penalty vs Hull",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -362,16 +362,6 @@
           "publishedAt": "2026-11-07T18:18:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mathys-tel-spurs_7399858.jpg?20261107133330"
-        },
-        {
-          "guid": "",
-          "title": "Spurs latest: De Zerbi to serve touchline ban",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T18:09:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
         },
         {
           "guid": "",
@@ -395,26 +385,6 @@
         },
         {
           "guid": "",
-          "title": "Late goals as Fulham draw with Newcastle",
-          "url": "https://www.skysports.com/watch/video/13609384/fulham-1-1-newcastle-premier-league-highlights",
-          "description": "FREE TO WATCH: Highlights from the Premier League match between Fulham and Newcastle United.",
-          "author": "",
-          "publishedAt": "2026-11-07T17:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400207.jpg?20261107170618"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal go six points clear with Hull win amid VAR drama",
-          "url": "https://www.skysports.com/football/arsenal-vs-hull-city/report/559534",
-          "description": "Martin Odegaard's goal clinched a 1-0 win over Hull to send Arsenal six points clear at the top of the Premier League table.",
-          "author": "",
-          "publishedAt": "2026-11-07T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400167.jpg?20261107164456"
-        },
-        {
-          "guid": "",
           "title": "What's gone so wrong so quickly at Crystal Palace?",
           "url": "https://www.skysports.com/football/news/11095/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
           "description": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
@@ -425,13 +395,13 @@
         },
         {
           "guid": "",
-          "title": "Forest latest: Glasner hails incredible energy against Man City",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "title": "WSL LIVE! Russo double puts Arsenal ahead; Man Utd pushing for Villa breakthrough",
+          "url": "https://www.skysports.com/football/live-blog/11095/13608974/wsl-live-arsenal-man-utd-and-london-city-lionesses-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-06T09:56:00Z",
+          "publishedAt": "2026-11-06T17:14:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alessia-russo-arsenal_7400827.jpg?20261108125248"
         },
         {
           "guid": "",
@@ -445,7 +415,7 @@
         },
         {
           "guid": "",
-          "title": "PL Predictions: How will your team fare this weekend?",
+          "title": "PL Predictions: Emery's Villa to inflict more misery on Carrick and Man Utd",
           "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
           "author": "",
@@ -462,6 +432,16 @@
           "publishedAt": "2026-11-03T12:55:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
+        },
+        {
+          "guid": "",
+          "title": "Live PL table - Man Utd could be bottom before kick-off vs Villa",
+          "url": "https://www.skysports.com/football/news/11095/13565655/live-premier-league-table-2026-27-season-standings",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-07-21T14:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/06/1920x1080/skysports-premier-league-badges_7270622.jpg?20261019161317"
         }
       ]
     }
