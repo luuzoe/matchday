@@ -59,10 +59,9 @@
     document.head.appendChild(gaScript);
   }
 </script>
-<!-- Adsterra placeholders: Adsterra dashboard → Websites → add https://luuzoe.github.io/matchday/ → create a 300×250 Banner unit + Social Bar unit → paste the keys below. Do NOT reuse another site's Adsterra codes (they serve on that site only). No ad script loads while the keys are empty. No popunder is used on Matchday.
-     Adsterra ကြော်ငြာထည့်ရန်: Adsterra dashboard → Websites → Add website → luuzoe.github.io/matchday → 300×250 Banner နှင့် Social Bar unit များဖန်တီးပြီး ရလာသော key များကို ADSTERRA တွင် ထည့်ပါ။ အခြား site ၏ key များကို မသုံးပါနှင့်။ key မထည့်ထားသရွေ့ ကြော်ငြာ script ဘာတစ်ခုမှ load မလုပ်ပါ။ -->
+<!-- Adsterra: banner 300×250 (new unit) + Social Bar + Popunder active. Native REMOVED 2026-11-08 — its cards were full-width and filled the whole phone screen (Zaw's screenshot). Native key was b4eb7873caa5db0c42fd50b7edbcf265 (same as KZZ's) — restore by putting it back in nativeKey if ever wanted. Social/popunder keys are KZZ's (same luuzoe.github.io domain, Zaw's choice). Ads load only after the matches content renders (or after 10s), so on slow connections scores come first. -->
 <script>
-  const ADSTERRA = { bannerKey: "f7c8de1053113d3d3c02081a1dd8286c", nativeKey: "b4eb7873caa5db0c42fd50b7edbcf265", socialBarKey: "d8e7af227e87ad49a97c0a13c34d9068", popunderKey: "e5e7730abebd8e9e3fc6a9350d6d349f" };
+  const ADSTERRA = { bannerKey: "f7c8de1053113d3d3c02081a1dd8286c", nativeKey: "", socialBarKey: "d8e7af227e87ad49a97c0a13c34d9068", popunderKey: "e5e7730abebd8e9e3fc6a9350d6d349f" };
   function loadAdsterra() {
     if (!ADSTERRA.bannerKey && !ADSTERRA.nativeKey && !ADSTERRA.socialBarKey && !ADSTERRA.popunderKey) return;
     if (ADSTERRA.bannerKey) {
@@ -99,8 +98,22 @@
       document.body.appendChild(popunderScript);
     }
   }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', loadAdsterra);
-  else loadAdsterra();
+  // Ads load only after the matches content has rendered (or after 10s),
+  // so on slow connections the scores come first and ads never fill the first screen.
+  function loadAdsterraWhenReady() {
+    let done = false;
+    const run = () => { if (!done) { done = true; loadAdsterra(); } };
+    const content = document.getElementById('content');
+    const contentReady = () => content && (content.querySelector('.match-row, .league, .feed-notice.error') || content.textContent.indexOf('No matches for this date') !== -1);
+    if (content) {
+      if (contentReady()) { run(); return; }
+      const observer = new MutationObserver(() => { if (contentReady()) { observer.disconnect(); run(); } });
+      observer.observe(content, { childList: true, subtree: true });
+    }
+    setTimeout(run, 10000);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', loadAdsterraWhenReady);
+  else loadAdsterraWhenReady();
 </script>
 </head>
 <body>
