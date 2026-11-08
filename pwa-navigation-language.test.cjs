@@ -50,7 +50,7 @@ test('keeps native Android system UI visible with a neutral theme and caches loc
   assert.match(html, /name="theme-color" content="#f5f6f7"/);
   assert.doesNotMatch(html, /name="mobile-web-app-capable"/);
   assert.doesNotMatch(html, /class="statusbar"/);
-  assert.match(serviceWorker, /matchday-root-shell-v4/);
+  assert.match(serviceWorker, /matchday-root-shell-v5/);
   assert.match(serviceWorker, /'\.\/i18n\.js'/);
   assert.match(app, /themeColor\.content=state\.theme==='dark'\?'#101214':'#f5f6f7'/);
 });

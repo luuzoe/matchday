@@ -5,6 +5,19 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#f5f6f7">
 <meta name="description" content="Matchday football scores, real football news, league tables and fixtures. Install Matchday for quick access.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Matchday">
+<meta property="og:title" content="Matchday · Football scores">
+<meta property="og:description" content="Matchday football scores, real football news, league tables and fixtures. Install Matchday for quick access.">
+<meta property="og:url" content="https://luuzoe.github.io/matchday/">
+<meta property="og:image" content="https://luuzoe.github.io/matchday/icons/matchday-512.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Matchday · Football scores">
+<meta name="twitter:description" content="Matchday football scores, real football news, league tables and fixtures. Install Matchday for quick access.">
+<meta name="twitter:image" content="https://luuzoe.github.io/matchday/icons/matchday-512.png">
 <meta name="application-name" content="Matchday">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Matchday">
@@ -16,13 +29,73 @@
 <link rel="preconnect" href="https://matchday-espn-live.mongla-drive.workers.dev" crossorigin>
 <link rel="icon" type="image/png" sizes="192x192" href="./icons/matchday-192.png">
 <link rel="apple-touch-icon" sizes="180x180" href="./icons/matchday-180.png">
-<link rel="stylesheet" href="./styles.css?v=20261102-splash-logo2">
+<link rel="stylesheet" href="./styles.css?v=20261108-totw1">
 <script defer src="./clock.js"></script>
-<script defer src="./i18n.js?v=20261102-bilingual1"></script>
+<script defer src="./i18n.js?v=20261108-totw1"></script>
 <script defer src="./news.js?v=20261102-news-burmese1"></script>
-<script defer src="./league.js?v=20261102-leagues1"></script>
+<script defer src="./league.js?v=20261108-totw1"></script>
 <script defer src="./pwa.js?v=20261102-splash-min5s1"></script>
-<script defer src="./app.js?v=20261102-backlang1"></script>
+<script defer src="./app.js?v=20261108-totw1"></script>
+<!-- Google Analytics 4: create a NEW GA4 Web stream for https://luuzoe.github.io/matchday/ and paste its G- ID below. Do NOT reuse another site's GA ID (each site needs its own stream).
+     GA4 အသစ်ဖွင့်ရန်: Google Analytics → Admin → Create Property → Data Streams → Web → URL: https://luuzoe.github.io/matchday/ → ရလာသော G- ID ကို GA_MEASUREMENT_ID တွင် ထည့်ပါ။ အခြား site ၏ ID ကို လုံးဝမသုံးပါနှင့်။ ID မထည့်ထားသရွေ့ analytics script ဘာတစ်ခုမှ load မလုပ်ပါ။ -->
+<script>
+  const GA_MEASUREMENT_ID = "";
+  window.MatchdayAnalytics = {
+    configured: Boolean(GA_MEASUREMENT_ID),
+    trackEvent(name, params) {
+      try {
+        if (typeof window.gtag === 'function' && GA_MEASUREMENT_ID) window.gtag('event', name, params || {});
+      } catch (_) { /* Analytics must never break the app. */ }
+    }
+  };
+  if (GA_MEASUREMENT_ID && /^G-[A-Z0-9]+$/.test(GA_MEASUREMENT_ID)) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+    window.gtag('js', new Date());
+    window.gtag('config', GA_MEASUREMENT_ID);
+    const gaScript = document.createElement('script');
+    gaScript.async = true;
+    gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_MEASUREMENT_ID);
+    document.head.appendChild(gaScript);
+  }
+</script>
+<!-- Adsterra placeholders: Adsterra dashboard → Websites → add https://luuzoe.github.io/matchday/ → create a 300×250 Banner unit + Social Bar unit → paste the keys below. Do NOT reuse another site's Adsterra codes (they serve on that site only). No ad script loads while the keys are empty. No popunder is used on Matchday.
+     Adsterra ကြော်ငြာထည့်ရန်: Adsterra dashboard → Websites → Add website → luuzoe.github.io/matchday → 300×250 Banner နှင့် Social Bar unit များဖန်တီးပြီး ရလာသော key များကို ADSTERRA တွင် ထည့်ပါ။ အခြား site ၏ key များကို မသုံးပါနှင့်။ key မထည့်ထားသရွေ့ ကြော်ငြာ script ဘာတစ်ခုမှ load မလုပ်ပါ။ -->
+<script>
+  const ADSTERRA = { bannerKey: "", nativeKey: "", socialBarKey: "" };
+  function loadAdsterra() {
+    if (!ADSTERRA.bannerKey && !ADSTERRA.nativeKey && !ADSTERRA.socialBarKey) return;
+    if (ADSTERRA.bannerKey) {
+      const slot = document.getElementById('ad-banner-slot');
+      if (slot) {
+        window.atOptions = { key: ADSTERRA.bannerKey, format: 'iframe', height: 250, width: 300, params: {} };
+        const bannerScript = document.createElement('script');
+        bannerScript.src = 'https://czernik.org/22/' + encodeURIComponent(ADSTERRA.bannerKey);
+        slot.appendChild(bannerScript);
+      }
+    }
+    if (ADSTERRA.nativeKey) {
+      const container = document.createElement('div');
+      container.className = 'ad-slot';
+      container.id = 'container-' + ADSTERRA.nativeKey;
+      const main = document.querySelector('main');
+      if (main && main.parentNode) main.parentNode.insertBefore(container, main.nextSibling);
+      const nativeScript = document.createElement('script');
+      nativeScript.async = true;
+      nativeScript.setAttribute('data-cfasync', 'false');
+      nativeScript.src = 'https://czernik.org/21/' + encodeURIComponent(ADSTERRA.nativeKey);
+      container.appendChild(nativeScript);
+    }
+    if (ADSTERRA.socialBarKey) {
+      const socialScript = document.createElement('script');
+      socialScript.setAttribute('data-cfasync', 'false');
+      socialScript.src = 'https://czernik.org/14/' + encodeURIComponent(ADSTERRA.socialBarKey);
+      document.body.appendChild(socialScript);
+    }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', loadAdsterra);
+  else loadAdsterra();
+</script>
 </head>
 <body>
 <div class="app" id="app" data-theme="light">
@@ -77,6 +150,7 @@
     </div>
   </header>
   <main id="content" aria-live="polite"></main>
+  <div class="ad-slot" id="ad-banner-slot"></div>
   <div class="pwa-install-banner" id="pwa-install-banner" role="region" aria-label="Install Matchday" aria-live="polite" hidden>
     <div class="pwa-install-copy"><strong id="pwa-install-title">Install Matchday</strong><span id="pwa-install-subtitle">Keep football scores and news one tap away.</span></div>
     <div class="pwa-install-actions"><button type="button" class="pwa-install-action" id="pwa-install-action">Install</button><button type="button" class="pwa-install-dismiss" id="pwa-install-dismiss" aria-label="Dismiss install message">×</button></div>

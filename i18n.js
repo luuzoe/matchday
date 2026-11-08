@@ -134,7 +134,12 @@
     'Standings snapshot · OpenLigaDB': 'အမှတ်ဇယား snapshot · OpenLigaDB',
     'No fixture on this date': 'ဤရက်စွဲတွင် ပွဲမရှိပါ',
     'Match no longer present': 'ဤပွဲစဉ်ကို ရှာမတွေ့တော့ပါ',
-    'It was not returned by the current score feed.': 'လက်ရှိရလဒ်ဒေတာတွင် ဤပွဲစဉ် မပါဝင်ပါ။'
+    'It was not returned by the current score feed.': 'လက်ရှိရလဒ်ဒေတာတွင် ဤပွဲစဉ် မပါဝင်ပါ။',
+    'Team of the Week': 'အပတ်အကောင်းဆုံးအသင်း',
+    'Selected from completed matches in the last 7 days': 'ပြီးခဲ့သော ၇ ရက်အတွင်း ပြီးဆုံးခဲ့သော ပွဲများမှ ရွေးချယ်ထားသည်',
+    'Team of the Week unavailable': 'အပတ်အကောင်းဆုံးအသင်း မရရှိနိုင်ပါ',
+    'Team of the Week is unavailable — no completed-match data for this week yet.': 'အပတ်အကောင်းဆုံးအသင်း မရရှိနိုင်သေးပါ — ဤအပတ်အတွက် ပြီးဆုံးခဲ့သော ပွဲဒေတာ မရှိသေးပါ။',
+    'Selected from completed matches in the last 7 days: most goal involvements by position; defenders ranked by clean sheets, then goal involvements. Own goals excluded.': 'ပြီးခဲ့သော ၇ ရက်အတွင်း ပြီးဆုံးခဲ့သော ပွဲများမှ ရွေးချယ်ထားသည် — နေရာအလိုက် ဂိုးပါဝင်မှု အများဆုံးကစားသမားများ၊ နောက်တန်းကစားသမားများကို ဂိုးမပေးရသောပွဲ အရေအတွက်ဖြင့် အဆင့်သတ်မှတ်သည်။ ကိုယ့်ဂိုးကိုယ်သွင်းမှုများကို မရေတွက်ပါ။'
   };
   const EN_BY_MY = new Map(Object.entries(MY).map(([english, burmese]) => [burmese, english]));
   const PREFIX_MY = new Map([

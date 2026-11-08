@@ -160,6 +160,167 @@ def merge_league_refresh(competitions, code, payload):
     return True
 
 
+TOTW_SCORING_TYPES = {'Goal', 'Penalty - Scored', 'Goal - Header', 'Goal - Volley', 'Goal - Free-kick'}
+TOTW_POSITION_LINES = {
+    'G': 'GK',
+    'CD': 'DF', 'CD-L': 'DF', 'CD-R': 'DF', 'LB': 'DF', 'RB': 'DF', 'D': 'DF', 'SW': 'DF',
+    'CM': 'MF', 'CM-L': 'MF', 'CM-R': 'MF', 'LM': 'MF', 'RM': 'MF', 'AM': 'MF',
+    'AM-L': 'MF', 'AM-R': 'MF', 'DM': 'MF', 'M': 'MF',
+    'F': 'FW', 'CF-L': 'FW', 'CF-R': 'FW', 'LF': 'FW', 'RF': 'FW', 'RCF': 'FW',
+}
+TOTW_FORMATION = {'GK': 1, 'DF': 4, 'MF': 3, 'FW': 3}
+TOTW_METHOD = 'Selected from completed matches in the last 7 days: most goal involvements by position; defenders ranked by clean sheets, then goal involvements. Own goals excluded.'
+
+
+def _totw_event_completed(event):
+    status = (event.get('status') or {}).get('type') or {}
+    return status.get('state') == 'post' or bool(status.get('completed'))
+
+
+def _totw_event_date(event):
+    try:
+        parsed = datetime.fromisoformat(str(event.get('date', '')).replace('Z', '+00:00'))
+    except (TypeError, ValueError):
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed
+
+
+def _totw_competitor_scores(event):
+    scores = {}
+    try:
+        competitors = (event.get('competitions') or [{}])[0].get('competitors') or []
+        for competitor in competitors:
+            side = competitor.get('homeAway')
+            if side:
+                scores[side] = int(competitor.get('score') or 0)
+    except (TypeError, ValueError):
+        return {}
+    return scores
+
+
+def build_team_of_the_week(events, now, summaries_dir=None):
+    """Build the Team of the Week from completed matches in the last 7 days.
+
+    events is {event_id: (league_code, event)} from cached scoreboards.
+    Only data actually returned by ESPN is used: goals and assists from
+    match summaries, positions from starting lineups, clean sheets from
+    final scores. Substitutes are never used (their position is SUB).
+    Returns None when no completed match qualifies, so the caller can
+    preserve the previous file instead of publishing an empty team.
+    """
+    summaries_dir = summaries_dir or (ROOT / 'summaries')
+    window_start = now - timedelta(days=7)
+    players = {}
+    matches_considered = 0
+
+    def record(athlete_id, name, team, league, line):
+        key = (str(athlete_id) if athlete_id is not None else '', name, team)
+        entry = players.get(key)
+        if entry is None:
+            entry = {
+                'athleteId': str(athlete_id) if athlete_id is not None else None,
+                'name': name, 'team': team, 'league': league, 'line': line,
+                'goals': 0, 'assists': 0, 'cleanSheets': 0, 'conceded': 0,
+            }
+            players[key] = entry
+        return entry
+
+    for event_id, (code, event) in events.items():
+        if not _totw_event_completed(event):
+            continue
+        event_date = _totw_event_date(event)
+        if event_date is None or event_date < window_start or event_date > now:
+            continue
+        summary = read(summaries_dir / f'{event_id}.json')
+        data = (summary or {}).get('data') or {}
+        if not data:
+            continue
+        matches_considered += 1
+        scores = _totw_competitor_scores(event)
+        starters_by_name = {}
+        for side in data.get('rosters') or []:
+            team_name = ((side.get('team') or {}).get('displayName') or '')
+            home_away = side.get('homeAway')
+            conceded = scores.get('away' if home_away == 'home' else 'home')
+            for entry in side.get('roster') or []:
+                if entry.get('starter') is not True:
+                    continue
+                athlete = entry.get('athlete') or {}
+                name = athlete.get('displayName') or athlete.get('fullName') or ''
+                line = TOTW_POSITION_LINES.get((entry.get('position') or {}).get('abbreviation'))
+                if not name or line is None:
+                    continue
+                player = record(athlete.get('id'), name, team_name, code, line)
+                starters_by_name.setdefault(name, player)
+                if conceded is not None:
+                    if conceded == 0:
+                        player['cleanSheets'] += 1
+                    if line == 'GK':
+                        player['conceded'] += conceded
+        for key_event in data.get('keyEvents') or []:
+            if not key_event.get('scoringPlay'):
+                continue
+            event_type = ((key_event.get('type') or {}).get('text') or '')
+            # 'Own Goal' is not a scoring type and is excluded entirely.
+            if event_type not in TOTW_SCORING_TYPES:
+                continue
+            participants = key_event.get('participants') or []
+            if not participants:
+                continue
+            scorer = (participants[0].get('athlete') or {}).get('displayName') or ''
+            if scorer in starters_by_name:
+                starters_by_name[scorer]['goals'] += 1
+            if len(participants) > 1:
+                assister = (participants[1].get('athlete') or {}).get('displayName') or ''
+                if assister in starters_by_name:
+                    starters_by_name[assister]['assists'] += 1
+    if not matches_considered:
+        return None
+
+    def involvement(entry):
+        return entry['goals'] * 2 + entry['assists']
+
+    ranked = {}
+    for line in ('GK', 'DF', 'MF', 'FW'):
+        line_players = [entry for entry in players.values() if entry['line'] == line]
+        if line == 'GK':
+            line_players.sort(key=lambda entry: (-entry['cleanSheets'], entry['conceded'], entry['name']))
+        elif line == 'DF':
+            line_players.sort(key=lambda entry: (-(entry['cleanSheets'] * 3 + involvement(entry)), -entry['cleanSheets'], -entry['goals'], entry['name']))
+        else:
+            line_players.sort(key=lambda entry: (-involvement(entry), -entry['goals'], -entry['assists'], entry['name']))
+        ranked[line] = line_players
+
+    selected = []
+    missing_slots = []
+    for line in ('GK', 'DF', 'MF', 'FW'):
+        count = TOTW_FORMATION[line]
+        picked = ranked[line][:count]
+        for index, entry in enumerate(picked, start=1):
+            selected.append({
+                'slot': 'GK' if line == 'GK' else f'{line}{index}',
+                'athleteId': entry['athleteId'], 'name': entry['name'],
+                'team': entry['team'], 'league': entry['league'],
+                'goals': entry['goals'], 'assists': entry['assists'],
+                'cleanSheets': entry['cleanSheets'],
+            })
+        if len(picked) < count:
+            missing_slots.append(f'{line}: {len(picked)} of {count} filled')
+    return {
+        'provider': 'ESPN',
+        'fetchedAt': stamp(),
+        'windowStart': window_start.isoformat(timespec='seconds').replace('+00:00', 'Z'),
+        'windowEnd': now.isoformat(timespec='seconds').replace('+00:00', 'Z'),
+        'matchesConsidered': matches_considered,
+        'formation': '4-3-3',
+        'method': TOTW_METHOD,
+        'missingSlots': missing_slots,
+        'players': selected,
+    }
+
+
 def main():
     now = datetime.now(timezone.utc)
     team_file = ROOT / 'teams.json'
@@ -250,7 +411,7 @@ def main():
         if stats:
             write(stats_path, {'provider': 'ESPN', 'fetchedAt': stamp(), 'competitions': stats})
         print(f'League player stats snapshots cached: {len(stats)}', flush=True)
-    dates = [(now + timedelta(days=offset)).strftime('%Y%m%d') for offset in range(-3, 8)]
+    dates = [(now + timedelta(days=offset)).strftime('%Y%m%d') for offset in range(-7, 8)]
     scoreboards = {day: {'provider': 'ESPN', 'fetchedAt': stamp(), 'leagues': {}} for day in dates}
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
         jobs = {pool.submit(get, f'{code}/scoreboard?dates={day}'): (day, code) for day in dates for code in LEAGUES}
@@ -319,6 +480,15 @@ def main():
             except Exception as exc:
                 print(f'Summary {event_id}: preserving previous response ({type(exc).__name__})', flush=True)
     print(f'ESPN same-origin fallback ready: {completed} summaries refreshed.', flush=True)
+    try:
+        totw = build_team_of_the_week(events, now)
+        if totw:
+            write(ROOT / 'team-of-the-week.json', totw)
+            print(f"Team of the Week cached: {len(totw['players'])} players from {totw['matchesConsidered']} completed matches.", flush=True)
+        else:
+            print('Team of the Week: no completed matches qualified; preserving previous file.', flush=True)
+    except Exception as exc:
+        print(f'Team of the Week: preserving previous file ({type(exc).__name__})', flush=True)
     if not team_file.exists() or not any((ROOT / 'scoreboards').glob('*.json')):
         raise RuntimeError('No usable ESPN fallback responses were obtained')
     stale_leagues = [code for code in LEAGUES if league_data_needs_refresh(previous_competitions.get(code))]

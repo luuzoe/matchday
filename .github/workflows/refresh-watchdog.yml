@@ -1,0 +1,39 @@
+name: Refresh watchdog
+# GitHub scheduled (cron) runs are unreliable on their own: the refresh
+# workflow fired only ~4 schedule events in 15 hours on 2026-11-07/08, so
+# published data went ~3 hours stale. This watchdog runs every 15 minutes,
+# checks the age of the last commit that touched the published ESPN feed,
+# and re-triggers the refresh workflow when the feed is older than 15 minutes.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  actions: write
+  contents: read
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check feed freshness and re-trigger the refresh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          last_commit=$(gh api "repos/$GITHUB_REPOSITORY/commits?path=data/espn/league-data.json&per_page=1" --jq '.[0].commit.committer.date')
+          if [ -z "$last_commit" ] || [ "$last_commit" = "null" ]; then
+            echo "::warning::Could not read the last feed commit; triggering a refresh to be safe."
+            gh workflow run refresh-football-data.yml --ref main
+            exit 0
+          fi
+          last_epoch=$(date -u -d "$last_commit" +%s)
+          now_epoch=$(date -u +%s)
+          age=$((now_epoch - last_epoch))
+          echo "Last feed commit: $last_commit ($age seconds ago)"
+          if [ "$age" -gt 900 ]; then
+            echo "Feed is stale (older than 15 minutes); triggering refresh-football-data."
+            gh workflow run refresh-football-data.yml --ref main
+          else
+            echo "Feed is fresh; nothing to do."
+          fi

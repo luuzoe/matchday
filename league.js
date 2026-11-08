@@ -328,6 +328,78 @@
     return { season: data.season || { year: Number(year) }, stats: data.stats };
   }
 
+  const TOTW_STALE_MS = 8 * 24 * 60 * 60 * 1000;
+  let totwCache = null;
+  let totwLoading = null;
+
+  async function loadTeamOfTheWeek() {
+    if (totwCache) return totwCache;
+    if (totwLoading) return totwLoading;
+    totwLoading = (async () => {
+      try {
+        const payload = await fetchJSON(`./data/espn/team-of-the-week.json?v=${Math.floor(Date.now() / 600000)}`);
+        if (!payload || !Array.isArray(payload.players)) throw new Error('Invalid Team of the Week snapshot');
+        totwCache = payload;
+      } catch (error) {
+        totwCache = { error: true };
+      }
+      return totwCache;
+    })();
+    return totwLoading;
+  }
+
+  function totwPlayerStat(player) {
+    const parts = [];
+    if (Number(player.goals) > 0) parts.push(`${player.goals}G`);
+    if (Number(player.assists) > 0) parts.push(`${player.assists}A`);
+    if (Number(player.cleanSheets) > 0) parts.push(`${player.cleanSheets} CS`);
+    return parts.join(' · ') || '—';
+  }
+
+  function teamOfTheWeekCard(payload) {
+    const heading = '<div class="league-card-heading"><div><h2>Team of the Week</h2><p>Selected from completed matches in the last 7 days</p></div><span class="league-source-chip">ESPN</span></div>';
+    const stale = (() => {
+      try { return !payload?.fetchedAt || Date.now() - new Date(payload.fetchedAt).getTime() > TOTW_STALE_MS; } catch (_) { return true; }
+    })();
+    if (!payload || payload.error || !Array.isArray(payload.players) || !payload.players.length || stale) {
+      return `<section class="league-data-card totw-card">${heading}${unavailable('Team of the Week unavailable', 'Team of the Week is unavailable — no completed-match data for this week yet.')}</section>`;
+    }
+    const rows = ['GK', 'DF', 'MF', 'FW'].map(line => {
+      const players = payload.players.filter(player => String(player.slot || '').startsWith(line));
+      if (!players.length) return '';
+      return `<div class="totw-row"><span class="totw-line">${esc(line)}</span><div class="totw-players">${players.map(player => {
+        const leagueName = COMPETITIONS[player.league]?.name || player.league || '';
+        return `<div class="totw-player"><strong>${esc(player.name || 'Player name unavailable')}</strong><small>${esc(player.team || '')}${leagueName ? ` · ${esc(leagueName)}` : ''}</small><span>${esc(totwPlayerStat(player))}</span></div>`;
+      }).join('')}</div></div>`;
+    }).join('');
+    const updated = (() => {
+      try { return new Date(payload.fetchedAt).toLocaleDateString(undefined, { month: 'short', day: 'numeric' }); } catch (_) { return ''; }
+    })();
+    const missing = Array.isArray(payload.missingSlots) && payload.missingSlots.length
+      ? `<p class="totw-note">Incomplete XI — missing slots: ${esc(payload.missingSlots.join(', '))}.</p>`
+      : '';
+    const method = payload.method || 'Selected from completed matches in the last 7 days: most goal involvements by position; defenders ranked by clean sheets, then goal involvements. Own goals excluded.';
+    return `<section class="league-data-card totw-card">${heading}<div class="totw-formation">${rows}</div><p class="totw-method">${esc(method)}</p>${missing}<p class="league-data-note">ESPN · ${esc(payload.matchesConsidered ?? '')} completed matches considered${updated ? ` · Updated ${esc(updated)}` : ''}</p></section>`;
+  }
+
+  function fillTeamOfTheWeek() {
+    if (typeof document === 'undefined') return;
+    const slot = document.getElementById('totw-slot');
+    if (!slot) return;
+    if (totwCache) {
+      slot.innerHTML = teamOfTheWeekCard(totwCache);
+      if (window.MatchdayI18n) window.MatchdayI18n.translate(slot);
+      return;
+    }
+    slot.innerHTML = `<section class="league-data-card totw-card"><div class="league-card-heading"><div><h2>Team of the Week</h2><p>Selected from completed matches in the last 7 days</p></div><span class="league-source-chip">ESPN</span></div>${loadingCard('Checking…')}</section>`;
+    loadTeamOfTheWeek().then(payload => {
+      const current = document.getElementById('totw-slot');
+      if (!current) return;
+      current.innerHTML = teamOfTheWeekCard(payload);
+      if (window.MatchdayI18n) window.MatchdayI18n.translate(current);
+    });
+  }
+
   function seasonFor(model) {
     return model.seasons.find(item => Number(item.year) === Number(model.selectedYear)) || {
       year: Number(model.selectedYear), leagueName: String(model.selectedYear), provider: 'ESPN'
@@ -1116,6 +1188,9 @@
     normalizeStandings,
     normalizeESPNFixture,
     scheduleDateCodes,
+    loadTeamOfTheWeek,
+    teamOfTheWeekCard,
+    fillTeamOfTheWeek,
     competitions: Object.keys(COMPETITIONS),
     tabs: TABS.map(([key]) => key)
   };
