@@ -4,10 +4,70 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-08T02:46:31Z",
+      "fetchedAt": "2026-11-08T09:36:12Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo#0",
+          "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+          "author": "",
+          "publishedAt": "2026-11-08T07:30:01Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o#0",
+          "title": "Messi makes history with MLS Golden Boot",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+          "description": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
+          "author": "",
+          "publishedAt": "2026-11-08T07:23:50Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/47a9f080-db42-11f1-96fa-a5a773d1f96a.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o#18",
+          "title": "Who am I? Guess WSL star No 11",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o?at_medium=RSS&at_campaign=rss",
+          "description": "Work out the identity of today's player in as few attempts as possible.",
+          "author": "",
+          "publishedAt": "2026-11-08T06:51:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o#3",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-08T06:47:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po#0",
+          "title": "Why unique Brighton defence is so tricky to unpick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+          "description": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+          "author": "",
+          "publishedAt": "2026-11-08T06:41:37Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o#0",
+          "title": "The oldest club in London making FA Cup history",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+          "description": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+          "author": "",
+          "publishedAt": "2026-11-08T06:28:56Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#0",
           "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
@@ -17,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o#0",
           "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
           "description": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
@@ -48,7 +108,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o#17",
-          "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
+          "title": "'Curtains for Robinson' or can foundering Aberdeen boss survive?",
           "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
           "description": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
           "author": "",
@@ -67,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#6",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o#2",
           "title": "Forest win over Man City 'a turning point' - Murphy",
           "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
           "description": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
@@ -127,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/d5470b20-dafd-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo#3",
           "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\".",
@@ -137,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c211/live/bb3320f0-dad7-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o#0",
           "title": "Liverpool considering Verbruggen move - Sunday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
           "description": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.",
@@ -147,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o#3",
           "title": "Glasner glee and Delap double - win could be lift-off for Forest",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
           "description": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.",
@@ -167,17 +227,17 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#0",
           "title": "Maresca's dream start turns into nightmare as title hopes hit",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-          "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+          "description": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
           "author": "",
           "publishedAt": "2026-11-07T20:54:12Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo#1",
           "title": "Delap double inspires Forest to stunning win over Man City",
           "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
           "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
@@ -187,7 +247,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o#1",
           "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
           "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
           "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
@@ -195,83 +255,33 @@
           "publishedAt": "2026-11-07T19:59:37Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o#0",
-          "title": "Leeds beat Spurs to end five-game winless run",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-          "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:59:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo#0",
-          "title": "Arsenal beat Hull to extend lead at top of the table",
-          "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:59:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo#8",
-          "title": "Newport cup tie halted by alleged homophobic chants",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
-          "description": "Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:47:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171e/live/563c7180-dadf-11f1-88f9-d3c2139f8619.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#1",
-          "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-          "author": "",
-          "publishedAt": "2026-11-07T19:34:32Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo#1",
-          "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-          "description": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-          "author": "",
-          "publishedAt": "2026-11-07T19:26:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ec/live/ac5b64c0-dae6-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#4",
-          "title": "Argentina set to go to Cas after Fifa rejects appeals",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
-          "description": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
-          "author": "",
-          "publishedAt": "2026-11-07T18:33:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-08T02:46:31Z",
+      "fetchedAt": "2026-11-08T09:36:13Z",
       "articles": [
         {
           "guid": "",
-          "title": "FA Cup: Charlie Savage nets against dad Robbie as Reading thrash Peterborough",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "title": "Man City latest:  Maresca hopeful international break can help ailing City",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-07T22:16:00Z",
+          "publishedAt": "2026-11-08T09:07:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-charlie-savage-robbie-savage_7400592.jpg?20261107221548"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Carrick's future uncertain as Man Utd ponder international break change",
+          "url": "https://www.skysports.com/football/news/11095/13609640/michael-carricks-man-utd-future-uncertain-as-club-ponder-international-break-change-paper-talk",
+          "description": "The top stories and transfer rumours from Sunday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-08T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         },
         {
           "guid": "",
@@ -295,7 +305,7 @@
         },
         {
           "guid": "",
-          "title": "Hits and misses: Could Konsa hold off Saliba's return?",
+          "title": "Hits and misses: Could Konsa hold off Saliba?",
           "url": "https://www.skysports.com/football/news/11095/13609127/could-arsenals-ezri-konsa-hold-off-william-saliba-from-reuniting-partnership-with-gabriel-premier-league-hits-and-misses",
           "description": "",
           "author": "",
@@ -322,26 +332,6 @@
           "publishedAt": "2026-11-07T19:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400474.jpg?20261107195655"
-        },
-        {
-          "guid": "",
-          "title": "Fulham latest: Arbeloa hails Muniz after breaking seven-month scoring duck",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T19:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
-        },
-        {
-          "guid": "",
-          "title": "Hull City latest: Tigers nine without win but Jakirovic sees positives",
-          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T18:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339"
         },
         {
           "guid": "",
@@ -425,43 +415,53 @@
         },
         {
           "guid": "",
-          "title": "Fulham deny Newcastle boss Jaissle of pressure-relieving victory",
-          "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/report/559538",
-          "description": "Rodrigo Muniz's unorthodox equaliser denied Matthias Jaissle a pressure-relieving victory but his Newcastle side were still much improved in a deserved 1-1 draw at Fulham.",
+          "title": "What's gone so wrong so quickly at Crystal Palace?",
+          "url": "https://www.skysports.com/football/news/11095/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
+          "description": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
           "author": "",
-          "publishedAt": "2026-11-07T17:00:00Z",
+          "publishedAt": "2026-11-07T08:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-jacob-murphy-premier-league_7400172.jpg?20261107164614"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515"
         },
         {
           "guid": "",
-          "title": "Leeds latest: Farke says 'butterfly' Bogle is 'softest player' in PL",
-          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Forest latest: Glasner hails incredible energy against Man City",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-07T15:24:00Z",
+          "publishedAt": "2026-11-06T09:56:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
         },
         {
           "guid": "",
-          "title": "Leeds deservedly beat Spurs after Bogle escapes red card",
-          "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/report/559540",
-          "description": "Substitute Noah Okafor&#8217;s late winner gave Leeds a 1-0 home victory over Tottenham after Whites defender Jayden Bogle controversially escaped a first-half red card.",
+          "title": "Man Utd's next generation can rescue Carrick",
+          "url": "https://www.skysports.com/football/news/11095/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
+          "description": "Being at Old Trafford on Tuesday night was quite incredible.",
           "author": "",
-          "publishedAt": "2026-11-07T14:30:00Z",
+          "publishedAt": "2026-11-06T09:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-noah-okafor-leeds-united_7399895.jpg?20261107141948"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-reporter-notebook_7398217.jpg?20261105160829"
         },
         {
           "guid": "",
-          "title": "Newcastle latest: Jaissle frustrated at 'soft' disallowed goal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
+          "title": "PL Predictions: How will your team fare this weekend?",
+          "url": "https://www.skysports.com/football/news/11095/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+          "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
           "author": "",
-          "publishedAt": "2026-11-06T14:27:00Z",
+          "publishedAt": "2026-11-05T17:40:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool's unwanted record highlights creativity issue",
+          "url": "https://www.skysports.com/football/news/11095/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
+          "description": "<a href='https://www.skysports.com/football/liverpool-vs-arsenal/report/559530'>Liverpool set an unwanted record against Arsenal</a> as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
+          "author": "",
+          "publishedAt": "2026-11-03T12:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
         }
       ]
     }
