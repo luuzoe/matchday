@@ -4,10 +4,50 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-08T22:16:59Z",
+      "fetchedAt": "2026-11-09T01:46:02Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo#17",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo#1",
+          "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+          "description": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
+          "author": "",
+          "publishedAt": "2026-11-08T23:53:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo#3",
+          "title": "Why defenders hate playing against brilliant Brobbey",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
+          "author": "",
+          "publishedAt": "2026-11-08T23:53:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467d/live/c9a93670-dbcb-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o#3",
+          "title": "'A horrible place to be' - What's gone wrong for Palace?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
+          "author": "",
+          "publishedAt": "2026-11-08T23:53:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o#3",
+          "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+          "description": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+          "author": "",
+          "publishedAt": "2026-11-08T23:41:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo#1",
           "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
           "url": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
           "description": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership.",
@@ -28,23 +68,13 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo#1",
-          "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+          "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
           "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-          "description": "It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+          "description": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
           "author": "",
           "publishedAt": "2026-11-08T21:50:05Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/iplayer/episode/l00591pp#2",
-          "title": "Bundesliga",
-          "url": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
-          "description": "Watch highlights from matchday nine in the Bundesliga.",
-          "author": "",
-          "publishedAt": "2026-11-08T21:45:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o#1",
@@ -97,6 +127,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg"
         },
         {
+          "guid": "https://www.bbc.co.uk/iplayer/episode/m003468d#17",
+          "title": "Watch: Sunday's Scottish Premiership highlights",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m003468d?at_medium=RSS&at_campaign=rss",
+          "description": "With Kilmarnock v Celtic and Hearts welcoming the season's surprise package Falkirk",
+          "author": "",
+          "publishedAt": "2026-11-08T20:00:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0ply9jw.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po#0",
           "title": "Brighton breeze past 10-man Brentford to move up to second",
           "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
@@ -147,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo#7",
           "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
           "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw.",
@@ -167,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo#7",
           "title": "Man Utd making it 'hard on ourselves' - Carrick",
           "url": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
@@ -205,63 +245,13 @@
           "publishedAt": "2026-11-08T18:46:45Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0plyj8g#17",
-          "title": "Reaction as Falkirk hammer Hearts & Celtic beat Kilmarnock",
-          "url": "https://www.bbc.co.uk/sounds/play/p0plyj8g?at_medium=RSS&at_campaign=rss",
-          "description": "Richard Gordon and the team review Hearts 2-5 Falkirk and Celtic 1-0 Kilmarnock",
-          "author": "",
-          "publishedAt": "2026-11-08T18:35:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo#1",
-          "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
-          "description": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
-          "author": "",
-          "publishedAt": "2026-11-08T18:20:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo#7",
-          "title": "Russo double gives Arsenal win over Liverpool at Anfield",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
-          "description": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
-          "author": "",
-          "publishedAt": "2026-11-08T17:45:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o#7",
-          "title": "10-man Stockport come from behind to survive huge scare at Cray",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
-          "description": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
-          "author": "",
-          "publishedAt": "2026-11-08T17:39:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo#3",
-          "title": "London City thump Birmingham to close gap on second",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-          "description": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-          "author": "",
-          "publishedAt": "2026-11-08T17:06:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-08T22:16:59Z",
+      "fetchedAt": "2026-11-09T01:46:02Z",
       "articles": [
         {
           "guid": "",
@@ -415,16 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Oldham boss sent off for HEADBUTTING Sheff Wed player in FA Cup",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-08T08:29:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-micky-mellon_7401610.jpg?20261108203613"
-        },
-        {
-          "guid": "",
           "title": "Liverpool latest: Iraola explains why Palace penalty left him 'very upset'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -442,6 +422,16 @@
           "publishedAt": "2026-11-07T07:27:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Carrick will not resign after draw leaves Man Utd in drop zone",
+          "url": "https://www.skysports.com/football/news/11095/13610018/michael-carrick-will-not-resign-at-manchester-united-after-draw-leaves-side-one-place-off-bottom-paper-talk",
+          "description": "The top stories and transfer rumours from Monday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-06T22:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         },
         {
           "guid": "",
