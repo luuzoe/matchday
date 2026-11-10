@@ -4,8 +4,78 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-10T17:19:37Z",
+      "fetchedAt": "2026-11-10T22:25:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o#2",
+          "title": "Man City thrash Inter to claim first CL win of season",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+          "author": "",
+          "publishedAt": "2026-11-10T22:05:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo#1",
+          "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+          "description": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
+          "author": "",
+          "publishedAt": "2026-11-10T20:49:11Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o#2",
+          "title": "Chelsea play out goalless draw with Hacken",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
+          "author": "",
+          "publishedAt": "2026-11-10T20:07:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o#3",
+          "title": "Partick Thistle lose SWPL points for amateur player payments",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o?at_medium=RSS&at_campaign=rss",
+          "description": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
+          "author": "",
+          "publishedAt": "2026-11-10T19:23:42Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad2/live/eb58f280-dd3b-11f1-9ac0-6b8f7fc58221.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo#3",
+          "title": "Lecturer's bid to challenge Fifa president Infantino",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss",
+          "description": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency.",
+          "author": "",
+          "publishedAt": "2026-11-10T19:14:14Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b5/live/d9f18dc0-dd29-11f1-ab46-9fae224bbf6f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko#0",
+          "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+          "author": "",
+          "publishedAt": "2026-11-10T18:12:02Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo#0",
+          "title": "Wales' Johnson says definitely more to come after 50 caps",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
+          "description": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
+          "author": "",
+          "publishedAt": "2026-11-10T18:01:03Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo#0",
           "title": "McTominay reveals heart treatment at World Cup",
@@ -27,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7304/live/75840950-dd22-11f1-ab46-9fae224bbf6f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o#5",
           "title": "What is the Women's Champions League prize money?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League.",
@@ -57,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno#1",
           "title": "Kompany back at Bayern training after collapse",
           "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
           "description": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
@@ -67,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o#5",
           "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
           "description": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
@@ -107,7 +177,17 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe1/live/8d30a200-dcfc-11f1-933b-ff2499ee76f6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo#7",
+          "title": "Szoboszlai fitness call to come at 'last minute'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+          "description": "Hungary say they will do \"everything possible\" for Liverpool midfielder Dominik Szoboszlai to feature in Nations League fixtures against Georgia and Northern Ireland across the next week.",
+          "author": "",
+          "publishedAt": "2026-11-10T12:06:28Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro#1",
           "title": "Wales call up MK Dons' Collins as Moore withdraws",
           "url": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro?at_medium=RSS&at_campaign=rss",
           "description": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
@@ -115,123 +195,53 @@
           "publishedAt": "2026-11-10T11:47:59Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo#0",
-          "title": "Hill gets first England call-up as Konsa cover",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
-          "description": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
-          "author": "",
-          "publishedAt": "2026-11-10T11:41:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po#0",
-          "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
-          "author": "",
-          "publishedAt": "2026-11-10T11:23:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/36f4e8e0-dcfe-11f1-933b-ff2499ee76f6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo#0",
-          "title": "Wenger considers standing against Infantino",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
-          "author": "",
-          "publishedAt": "2026-11-10T08:53:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pm7gkd#16",
-          "title": "Podcast: What is going wrong at Aberdeen?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pm7gkd?at_medium=RSS&at_campaign=rss",
-          "description": "Robinson is out, but are Aberdeen’s problems much bigger than the manager?",
-          "author": "",
-          "publishedAt": "2026-11-10T08:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm7gks.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo#0",
-          "title": "How Germany's greatest goalscorer is guiding the next generation",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
-          "description": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
-          "author": "",
-          "publishedAt": "2026-11-10T07:34:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno#16",
-          "title": "Caldwell & McGlynn linked with Aberdeen job - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno?at_medium=RSS&at_campaign=rss",
-          "description": "Early names in the frame for Aberdeen job as Celtic midfielder withdraws from international duty.",
-          "author": "",
-          "publishedAt": "2026-11-10T07:25:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/ef09eb00-dcd7-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro#3",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-10T06:40:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro#2",
-          "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
-          "description": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.",
-          "author": "",
-          "publishedAt": "2026-11-10T06:35:30Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/w3ct9tpb#5",
-          "title": "More than the Score",
-          "url": "https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&at_campaign=rss",
-          "description": "The five nominees have been announced for the BBC World Service award",
-          "author": "",
-          "publishedAt": "2026-11-10T06:30:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo#0",
-          "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-          "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-          "author": "",
-          "publishedAt": "2026-11-10T06:24:50Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-10T17:19:37Z",
+      "fetchedAt": "2026-11-10T22:25:57Z",
       "articles": [
         {
           "guid": "",
-          "title": "WCL: Hacken vs Chelsea LIVE!",
-          "url": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/live/578259",
+          "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-10T17:15:00Z",
+          "publishedAt": "2026-11-10T21:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-chelsea-women-bompastor_7392074.jpg?20261030173639"
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Brentford latest: Bees fail with Igor Thiago red card appeal",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-10T20:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea frustrated at Hacken in WCL",
+          "url": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/report/578259",
+          "description": "Chelsea remain unbeaten in the Women&#8217;s Champions League but they were frustrated in a goalless draw at BK Hacken.",
+          "author": "",
+          "publishedAt": "2026-11-10T19:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-hacken-chelsea-womens-champions-league_7403369.jpg?20261110181944"
+        },
+        {
+          "guid": "",
+          "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
+          "url": "https://www.skysports.com/football/news/11095/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
+          "description": "Scott McTominay has revealed he needed to have his heart &#8220;shocked&#8221; two days before Scotland's World Cup opener against Haiti.",
+          "author": "",
+          "publishedAt": "2026-11-10T16:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mctominay-scotland_7403281.jpg?20261110163823"
         },
         {
           "guid": "",
@@ -252,16 +262,6 @@
           "publishedAt": "2026-11-10T13:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7401837.jpg?20261109081304"
-        },
-        {
-          "guid": "",
-          "title": "Brentford latest: Bees defender receives first senior Netherlands call-up",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-10T12:23:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
         },
         {
           "guid": "",
@@ -365,6 +365,16 @@
         },
         {
           "guid": "",
+          "title": "City claim first win of European campaign in Inter thrashing",
+          "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
+          "description": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
+          "author": "",
+          "publishedAt": "2026-11-09T21:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-man-city_7403449.jpg?20261110213156"
+        },
+        {
+          "guid": "",
           "title": "Birmingham announce shock Brady departure",
           "url": "https://www.skysports.com/football/news/11095/13610387/tom-brady-leaves-birmingham-nfl-legend-and-minority-owner-makes-shock-departure-after-three-years",
           "description": "Birmingham have announced the shock departure of NFL legend&#160;Tom Brady as minority owner with the club sitting top of the Championship table.",
@@ -385,16 +395,6 @@
         },
         {
           "guid": "",
-          "title": "Palace latest: Duo added to Palace shortlist to succeed Sage",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-09T14:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-        },
-        {
-          "guid": "",
           "title": "'My will is to stay' - Alisson wants new Liverpool contract",
           "url": "https://www.skysports.com/football/news/11095/13610181/alisson-liverpool-goalkeeper-wants-to-stay-at-anfield-beyond-contract-expiry-at-the-end-of-this-season",
           "description": "Liverpool goalkeeper Alisson says he wants to stay at Anfield beyond the end of the season when his contract expires.",
@@ -402,26 +402,6 @@
           "publishedAt": "2026-11-09T12:38:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alisson-liverpool_7402127.jpg?20261109125441"
-        },
-        {
-          "guid": "",
-          "title": "How has Sage's Palace tenure unravelled so quickly?",
-          "url": "https://www.skysports.com/football/news/11095/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
-          "description": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
-          "author": "",
-          "publishedAt": "2026-11-09T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Fans would not boo if they knew England truth, says White",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-07T18:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
         }
       ]
     }
