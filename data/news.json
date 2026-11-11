@@ -4,17 +4,157 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-11T09:16:20Z",
+      "fetchedAt": "2026-11-11T17:15:52Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo#0",
-          "title": "Man Utd open talks with Pochettino about replacing Carrick",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o#0",
+          "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+          "description": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
           "author": "",
-          "publishedAt": "2026-11-11T09:11:28Z",
+          "publishedAt": "2026-11-11T16:44:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6702jxw17pjo#16",
+          "title": "No excuses as Pocognoli seeks first Hampden victory",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6702jxw17pjo?at_medium=RSS&at_campaign=rss",
+          "description": "Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English.",
+          "author": "",
+          "publishedAt": "2026-11-11T16:38:14Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/230f/live/e48de6f0-ddda-11f1-b865-d17d8611efca.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckedq15wq0dlo#0",
+          "title": "Referee observer banned for discriminatory comments",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckedq15wq0dlo?at_medium=RSS&at_campaign=rss",
+          "description": "A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at.",
+          "author": "",
+          "publishedAt": "2026-11-11T16:26:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638e/live/ad865850-dde8-11f1-9204-cdcddf7d901c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo#0",
+          "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+          "author": "",
+          "publishedAt": "2026-11-11T16:03:02Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno#0",
+          "title": "Bristol City give Skubala opportunity to improve form",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
+          "description": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+          "author": "",
+          "publishedAt": "2026-11-11T15:52:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e945/live/300e91b0-dde0-11f1-b465-b9821c2582d4.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo#0",
+          "title": "Turkey-based Bates replaces Binks in Scotland squad",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
+          "description": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
+          "author": "",
+          "publishedAt": "2026-11-11T13:37:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o#0",
+          "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-11T12:58:17Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo#2",
+          "title": "How promotion, relegation and knockouts work in Nations League",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
+          "description": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+          "author": "",
+          "publishedAt": "2026-11-11T12:09:22Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2864/live/7a894370-c170-11f1-a003-8be783290413.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo#0",
+          "title": "Scotland without captain Weir for World Cup play-off",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+          "description": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.",
+          "author": "",
+          "publishedAt": "2026-11-11T11:59:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o#0",
+          "title": "Assessing the reasons for Man City's decline in form under Maresca",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+          "description": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
+          "author": "",
+          "publishedAt": "2026-11-11T11:47:09Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwr7y79jm354o#16",
+          "title": "You are Scotland boss Pocognoli - what would you do?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwr7y79jm354o?at_medium=RSS&at_campaign=rss",
+          "description": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
+          "author": "",
+          "publishedAt": "2026-11-11T11:33:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo#3",
+          "title": "Bromley signings 'not good enough' - ex-boss Woodman",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss",
+          "description": "Ex-Bromley boss Andy Woodman criticises the club's summer recruitment and says he is looking forward to his next challenge.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:32:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/ee209630-ddb8-11f1-90cd-85e940e3a009.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo#0",
+          "title": "Shirt pull on Isak should have been penalty - panel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:23:37Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo#0",
+          "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+          "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
+          "description": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:17:09Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ce9/live/e2d43030-ddb2-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro#1",
+          "title": "Robinson unfazed by Pochettino departure talk",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+          "description": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
+          "author": "",
+          "publishedAt": "2026-11-11T09:54:38Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno#0",
@@ -27,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de06/live/30649f20-d939-11f1-95ea-8df9a040b6bf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o#2",
           "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o?at_medium=RSS&at_campaign=rss",
           "description": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
@@ -47,17 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmdgtt.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y97eew80p7o#16",
-          "title": "Wimmer among Aberdeen applicants - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6y97eew80p7o?at_medium=RSS&at_campaign=rss",
-          "description": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
-          "author": "",
-          "publishedAt": "2026-11-11T07:40:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/892eeb70-dda2-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo#2",
           "title": "From Jersey to Somalia... via Liverpool & Man City",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
@@ -67,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e425/live/60d99780-d9ef-11f1-bb10-cdca6001fbcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo#2",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -84,125 +214,135 @@
           "author": "",
           "publishedAt": "2026-11-11T06:24:28Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo#0",
-          "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-10T23:08:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pmc96j#3",
-          "title": "72+: The EFL Podcast",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
-          "description": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
-          "author": "",
-          "publishedAt": "2026-11-10T22:29:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o#2",
-          "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
-          "description": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
-          "author": "",
-          "publishedAt": "2026-11-10T22:17:53Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o#1",
-          "title": "Man City thrash Inter to claim first CL win of season",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
-          "author": "",
-          "publishedAt": "2026-11-10T22:05:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo#3",
-          "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-          "description": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
-          "author": "",
-          "publishedAt": "2026-11-10T20:49:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o#1",
-          "title": "Chelsea play out goalless draw with Hacken",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-          "description": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
-          "author": "",
-          "publishedAt": "2026-11-10T20:07:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o#5",
-          "title": "Partick Thistle lose SWPL points for amateur player payments",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o?at_medium=RSS&at_campaign=rss",
-          "description": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
-          "author": "",
-          "publishedAt": "2026-11-10T19:23:42Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad2/live/eb58f280-dd3b-11f1-9ac0-6b8f7fc58221.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo#5",
-          "title": "Lecturer's bid to challenge Fifa president Infantino",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss",
-          "description": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency.",
-          "author": "",
-          "publishedAt": "2026-11-10T19:14:14Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b5/live/d9f18dc0-dd29-11f1-ab46-9fae224bbf6f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko#0",
-          "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
-          "author": "",
-          "publishedAt": "2026-11-10T18:12:02Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo#0",
-          "title": "Wales' Johnson says definitely more to come after 50 caps",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-          "description": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
-          "author": "",
-          "publishedAt": "2026-11-10T18:01:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo#2",
-          "title": "McTominay reveals heart treatment at World Cup",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-          "description": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
-          "author": "",
-          "publishedAt": "2026-11-10T16:46:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-11T09:16:20Z",
+      "fetchedAt": "2026-11-11T17:15:53Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd strike Pochettino agreement with Carrick set to depart",
+          "url": "https://www.skysports.com/football/news/11095/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+          "description": "Manchester United have reached a verbal agreement in principle with Mauricio Pochettino to take over as head coach.",
+          "author": "",
+          "publishedAt": "2026-11-11T17:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7403861.png?20261111123427"
+        },
+        {
+          "guid": "",
+          "title": "Ex-Rangers boss Beale resigns from Belgian club",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-11T16:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-michael-beale-belgium_7404248.jpg?20261111165547"
+        },
+        {
+          "guid": "",
+          "title": "Kane targets biggest team prizes ahead of record-breaking England cap",
+          "url": "https://www.skysports.com/football/news/11095/13610856/england-harry-kane-targets-european-championships-world-cup-and-champions-league-to-add-biggest-team-prizes-to-ballon-dor",
+          "description": "Harry Kane will become England's record appearance maker on Thursday night - but the Ballon d'Or winner now has his sights set on the biggest team trophies in football.&#160;",
+          "author": "",
+          "publishedAt": "2026-11-11T15:29:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-england_7370153.jpg?20261007064514"
+        },
+        {
+          "guid": "",
+          "title": "Palace latest: Talks progressing for Frank to succeed Sage",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-11T14:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+        },
+        {
+          "guid": "",
+          "title": "Is Pochettino a short-term fix? Man Utd pursuit of Carrick replacement questioned",
+          "url": "https://www.skysports.com/football/news/11095/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
+          "description": "<em>Sky Sports News' </em>Kaveh Solhekol has questioned Manchester United's pursuit of Mauricio Pochettino, suggesting there are better options available.",
+          "author": "",
+          "publishedAt": "2026-11-11T12:44:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346135.jpg?20260909143140"
+        },
+        {
+          "guid": "",
+          "title": "England latest: Spence, Konsa, Lewis-Skelly to miss Croatia game",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-11T12:24:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+        },
+        {
+          "guid": "",
+          "title": "Ipswich latest: VAR missed Town penalty vs Hull says panel",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-11T11:39:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Van Dijk 'not panicking' over new deal",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-11T10:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
+          "url": "https://www.skysports.com/football/news/11095/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
+          "description": "Liverpool should have been awarded a penalty when Jurrien Timber pulled Alexander Isak's shirt in Arsenal's victory at Anfield, an independent panel has ruled.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:33:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128"
+        },
+        {
+          "guid": "",
+          "title": "Big underdogs once more, can Arsenal beat Barcelona again?",
+          "url": "https://www.skysports.com/football/news/11095/13610549/barcelona-vs-arsenal-can-gunners-learn-from-2025-womens-champions-league-victory-ahead-of-league-phase-meeting-on-thursday",
+          "description": "Arsenal face Barcelona in the Women's Champions League this week - the first time the two have met since the 2025 final when the Gunners were victorious against all odds.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/25/05/1920x1080/skysports-arsenal-champions-league_6926362.jpg?20250524193507"
+        },
+        {
+          "guid": "",
+          "title": "From the sack in Cyprus to Liverpool: Iraola's first job explained",
+          "url": "https://www.skysports.com/football/news/11095/13576948/andoni-iraola-was-sacked-from-his-first-job-at-aek-larnaca-in-cyprus-liverpool-managers-difficult-career-start-explained",
+          "description": "Not every successful career starts spectacularly well but Andoni Iraola's journey to Liverpool will take some beating. Seven years ago, he was sacked from his first job in management after a winless streak in the Cypriot top division with AEK Larnaca.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-andoni-iraola-aek-larnaca_7331744.jpg?20260826123654"
+        },
+        {
+          "guid": "",
+          "title": "Meet the youngest top-flight manager in Europe",
+          "url": "https://www.skysports.com/football/news/11095/13594403/jordan-hadaway-interview-meet-the-25-year-old-llandudno-boss-the-youngest-top-flight-manager-in-europe",
+          "description": "As football has evolved, so have routes into football management.",
+          "author": "",
+          "publishedAt": "2026-11-11T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-llandudno-jordan-hadaway_7403248.jpg?20261110155455"
+        },
         {
           "guid": "",
           "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
@@ -215,23 +355,13 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Would Poch be the right appointment? Have your say",
+          "title": "Man Utd latest: US cancel planned media access with Poch nearing Old Trafford move",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-11T09:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
-          "url": "https://www.skysports.com/football/news/11095/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
-          "description": "Manchester United are close to agreeing a deal with Mauricio Pochettino to become their next head coach if they decide to sack Michael Carrick.",
-          "author": "",
-          "publishedAt": "2026-11-11T08:28:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7402897.jpg?20261110104010"
         },
         {
           "guid": "",
@@ -245,16 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
-          "url": "https://www.skysports.com/football/news/11095/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
-          "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-10T22:44:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
           "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -262,26 +382,6 @@
           "publishedAt": "2026-11-10T21:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
-          "title": "Brentford latest: Bees fail with Igor Thiago red card appeal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-10T20:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea frustrated at Hacken in WCL",
-          "url": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/report/578259",
-          "description": "Chelsea remain unbeaten in the Women&#8217;s Champions League but they were frustrated in a goalless draw at BK Hacken.",
-          "author": "",
-          "publishedAt": "2026-11-10T19:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-hacken-chelsea-womens-champions-league_7403369.jpg?20261110181944"
         },
         {
           "guid": "",
@@ -295,26 +395,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd Q&A: Carrick, Poch, INEOS and more answered",
-          "url": "https://www.skysports.com/football/news/11095/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions",
-          "description": "Kaveh Solhekol has answered your latest questions on Manchester United, with Michael Carrick's future up in the air, the club in the relegation zone and more issues behind the scenes.",
-          "author": "",
-          "publishedAt": "2026-11-10T15:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-football-pl-united_7387131.jpg?20261025194558"
-        },
-        {
-          "guid": "",
-          "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
-          "url": "https://www.skysports.com/football/news/11095/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
-          "description": "Sky Sports' Paul Merson believes Manchester United&#8217;s transfer strategy is to blame for their worst start to a top-flight season instead of head coach Michael Carrick.",
-          "author": "",
-          "publishedAt": "2026-11-10T13:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7401837.jpg?20261109081304"
-        },
-        {
-          "guid": "",
           "title": "Lure of the Championship - Why foreign coaches are drawn to England's second tier",
           "url": "https://www.skysports.com/football/news/11095/13610313/foreign-coaches-in-the-championship-why-working-in-englands-second-tier-is-a-target-for-top-managers-from-abroad",
           "description": "The focus is often on the lack of opportunities for British coaches but look at it another way and it is remarkable that 16 of the clubs in the sixth-richest league in European football &#8211; two thirds of them &#8211; are currently being coached by men from the British Isles.",
@@ -325,83 +405,23 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Van Dijk 'not panicking' about new deal.",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Man Utd legend Rooney confirmed as 'I'm a Celeb' contestant",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-10T12:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wayne-rooney_7403894.jpg?20261111125800"
         },
         {
           "guid": "",
-          "title": "England latest: Jobe Bellingham on 'emotion' of call-up with Jude",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "title": "Arsenal latest: Zubimendi responds to January exit claims",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-10T10:39:00Z",
+          "publishedAt": "2026-11-07T18:20:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-        },
-        {
-          "guid": "",
-          "title": "Merson: If Chelsea don't get Champions League it's a massive failure",
-          "url": "https://www.skysports.com/football/news/11095/13610138/chelsea-not-showing-the-consistency-to-get-champions-league-football-this-season-says-paul-merson",
-          "description": "In his latest <em>Sky Sports </em>column, Paul Merson gives his view on Chelsea's defeat to Sunderland - as Xabi Alonso's inconsistent start to life at Stamford Bridge continues.",
-          "author": "",
-          "publishedAt": "2026-11-10T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-chelsea_7402109.jpg?20261109122921"
-        },
-        {
-          "guid": "",
-          "title": "Tough-tackling Schlager proves his worth for Forest",
-          "url": "https://www.skysports.com/football/news/11095/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
-          "description": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in <a href='https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542' target='_blank'>the 3-1 win over Manchester City on Saturday</a> when he dispossessed Elliot Anderson for Liam Delap's first goal.",
-          "author": "",
-          "publishedAt": "2026-11-10T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: Lindelof agrees new contract",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-10T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "Kompany at Bayern training base for first time since collapse",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-10T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-vincent-kompany_7384819.jpg?20261023173822"
-        },
-        {
-          "guid": "",
-          "title": "Transfer Centre LIVE! What has Poch said about Premier League return?",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-10T09:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053"
-        },
-        {
-          "guid": "",
-          "title": "City claim first win of European campaign in Inter thrashing",
-          "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
-          "description": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
-          "author": "",
-          "publishedAt": "2026-11-09T21:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-man-city_7403449.jpg?20261110213156"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
         }
       ]
     }
