@@ -4,10 +4,40 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-10T22:25:57Z",
+      "fetchedAt": "2026-11-11T02:04:32Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo#0",
+          "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-10T23:08:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pmc96j#3",
+          "title": "72+: The EFL Podcast",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
+          "description": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+          "author": "",
+          "publishedAt": "2026-11-10T22:29:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o#2",
+          "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+          "description": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+          "author": "",
+          "publishedAt": "2026-11-10T22:17:53Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o#1",
           "title": "Man City thrash Inter to claim first CL win of season",
           "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
           "description": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
@@ -17,7 +47,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo#0",
           "title": "Pocognoli to lean on Scotland's 'captain group of five'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
           "description": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
@@ -27,7 +57,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o#1",
           "title": "Chelsea play out goalless draw with Hacken",
           "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
           "description": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
@@ -37,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o#5",
           "title": "Partick Thistle lose SWPL points for amateur player payments",
           "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o?at_medium=RSS&at_campaign=rss",
           "description": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
@@ -97,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7304/live/75840950-dd22-11f1-ab46-9fae224bbf6f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o#7",
           "title": "What is the Women's Champions League prize money?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League.",
@@ -127,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno#2",
           "title": "Kompany back at Bayern training after collapse",
           "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
           "description": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
@@ -147,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/d3b23a40-d6df-11f1-b441-2b33b063138f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o#2",
           "title": "Who are the main candidates for the Aberdeen job?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
           "description": "Two domestic names stand out, while there is also the possibility of a foreign appointment following Stephen Robinson's departure.",
@@ -157,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c41a/live/882b2a90-dcf3-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o#2",
           "title": "Dortmund fans' group criticises Nmecha celebration",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o?at_medium=RSS&at_campaign=rss",
           "description": "A Christian group set up for footballers says it wants to \"demonstrate love and respect towards everyone\" following criticism from fans.",
@@ -165,44 +195,24 @@
           "publishedAt": "2026-11-10T12:48:21Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a4/live/b5fe3e40-dd01-11f1-b882-b9b1c69603b0.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ev3vmykweko#1",
-          "title": "Savage denies media work is impacting role as manager",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6ev3vmykweko?at_medium=RSS&at_campaign=rss",
-          "description": "Robbie Savage rejects criticism that his work as a co-commentator and pundit is impacting his role as Peterborough United boss.",
-          "author": "",
-          "publishedAt": "2026-11-10T12:39:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe1/live/8d30a200-dcfc-11f1-933b-ff2499ee76f6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo#7",
-          "title": "Szoboszlai fitness call to come at 'last minute'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
-          "description": "Hungary say they will do \"everything possible\" for Liverpool midfielder Dominik Szoboszlai to feature in Nations League fixtures against Georgia and Northern Ireland across the next week.",
-          "author": "",
-          "publishedAt": "2026-11-10T12:06:28Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro#1",
-          "title": "Wales call up MK Dons' Collins as Moore withdraws",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro?at_medium=RSS&at_campaign=rss",
-          "description": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
-          "author": "",
-          "publishedAt": "2026-11-10T11:47:59Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-10T22:25:57Z",
+      "fetchedAt": "2026-11-11T02:04:32Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+          "url": "https://www.skysports.com/football/news/11095/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+          "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-10T22:44:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
         {
           "guid": "",
           "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
@@ -392,16 +402,6 @@
           "publishedAt": "2026-11-09T17:10:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-ballon_7390748.jpg?20261029104829"
-        },
-        {
-          "guid": "",
-          "title": "'My will is to stay' - Alisson wants new Liverpool contract",
-          "url": "https://www.skysports.com/football/news/11095/13610181/alisson-liverpool-goalkeeper-wants-to-stay-at-anfield-beyond-contract-expiry-at-the-end-of-this-season",
-          "description": "Liverpool goalkeeper Alisson says he wants to stay at Anfield beyond the end of the season when his contract expires.",
-          "author": "",
-          "publishedAt": "2026-11-09T12:38:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alisson-liverpool_7402127.jpg?20261109125441"
         }
       ]
     }
