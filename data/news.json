@@ -4,10 +4,50 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-13T01:18:01Z",
+      "fetchedAt": "2026-11-13T08:09:03Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pmqwrn#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no#16",
+          "title": "Pocognoli courts potential new Scotland players - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no?at_medium=RSS&at_campaign=rss",
+          "description": "Scotland head coach Sebastien Pocognoli attempts to increase player pool as former Aberdeen player hints at Pittodrie return.",
+          "author": "",
+          "publishedAt": "2026-11-13T07:48:33Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e45/live/cbc93d20-df35-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o#0",
+          "title": "How big a problem is central defence for Pocognoli?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&at_campaign=rss",
+          "description": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
+          "author": "",
+          "publishedAt": "2026-11-13T07:23:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o#0",
+          "title": "Liverpool and Van Dijk have a decision to make",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
+          "description": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
+          "author": "",
+          "publishedAt": "2026-11-13T06:57:25Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-13T06:42:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pmqwrn#3",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
           "description": "Harry Kane becomes the most-capped England men's player in history.",
@@ -67,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo#5",
           "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
           "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
           "description": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
@@ -127,16 +167,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14be/live/7ef6b840-ded3-11f1-8afb-c1f8fc064db2.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo#16",
-          "title": "Goodwillie prosecutors 'wrong' not to put footballer on trial for rape, court hears",
-          "url": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo?at_medium=RSS&at_campaign=rss",
-          "description": "Denise Clair has brought a case for a private criminal prosecution against the footballer, who was ruled to have raped her by a civil court.",
-          "author": "",
-          "publishedAt": "2026-11-12T17:31:02Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624c/live/20082b60-deb1-11f1-8fb5-a771a656a227.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do#0",
           "title": "Crystal Palace sack boss Sage after 16 games",
           "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
@@ -185,53 +215,13 @@
           "publishedAt": "2026-11-12T16:12:39Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqlq3llg19go#16",
-          "title": "Largs get floodlights consent in time for cup tie with Ayr – watch on BBC",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmqlq3llg19go?at_medium=RSS&at_campaign=rss",
-          "description": "The Scottish Cup third-round tie between Largs Thistle and Ayr United will be shown live on the BBC Scotland channel, website and iPlayer on Friday, 27 November.",
-          "author": "",
-          "publishedAt": "2026-11-12T15:00:57Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5250/live/03144960-dea4-11f1-82bd-ab0398e9e082.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o#5",
-          "title": "Police investigation into Vigar's death ongoing",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
-          "description": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
-          "author": "",
-          "publishedAt": "2026-11-12T13:11:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4800/live/690b1270-de96-11f1-9afe-1f03bfe02283.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o#5",
-          "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
-          "description": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
-          "author": "",
-          "publishedAt": "2026-11-12T11:31:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7137/live/e8eba510-de85-11f1-b88b-3f1671ea859d.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo#2",
-          "title": "Six matches that defined Carrick's Man Utd tenure",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
-          "author": "",
-          "publishedAt": "2026-11-12T11:25:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60a/live/0222d570-d167-11f1-b441-2b33b063138f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-13T01:18:01Z",
+      "fetchedAt": "2026-11-13T08:09:03Z",
       "articles": [
         {
           "guid": "",
@@ -385,7 +375,7 @@
         },
         {
           "guid": "",
-          "title": "'Overwhelming' - Record-breaker Kane celebrates 'amazing' Wembley night",
+          "title": "Record-breaker Kane celebrates 'amazing' Wembley night",
           "url": "https://www.skysports.com/football/news/11095/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
           "description": "Harry Kane says the reaction to his Ballon d'Or win and record appearance for England has been \"overwhelming\".&#160;",
           "author": "",
