@@ -4,8 +4,38 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-14T09:25:42Z",
+      "fetchedAt": "2026-11-14T15:43:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go#0",
+          "title": "Former Stoke City manager Thordarson dies aged 71",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
+          "description": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
+          "author": "",
+          "publishedAt": "2026-11-14T15:04:59Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o#1",
+          "title": "'Exciting' Moylan flourishing for club and country",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games.",
+          "author": "",
+          "publishedAt": "2026-11-14T09:59:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaf/live/a56ea780-de92-11f1-9afe-1f03bfe02283.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo#3",
+          "title": "NI target challenge of Nations League promotion",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss",
+          "description": "A win against Ukraine on Saturday night would leave Northern Ireland needing only a point away to Hungary next week to secure promotion to Nations League A for the first time.",
+          "author": "",
+          "publishedAt": "2026-11-14T09:57:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1c/live/9874d100-df7b-11f1-b844-3146c4983677.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo#0",
           "title": "Tuchel to remind England of anti-racism protocols before Spain game",
@@ -57,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o#3",
           "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
           "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
@@ -67,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5264/live/26ec7c50-deb7-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o#1",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
           "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -77,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o#7",
           "title": "Ferguson 'made up' with first win as Glentoran boss",
           "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
           "description": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor.",
@@ -97,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko#1",
           "title": "Goalkeeper involved in fatal collision gets 12-game ban",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
           "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
@@ -117,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#7",
           "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
           "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
@@ -127,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo#3",
           "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
@@ -137,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo#3",
           "title": "'It's a shootout' - Wales out to derail stuttering Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
           "description": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
@@ -147,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0b/live/28b62340-df7c-11f1-b844-3146c4983677.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo#5",
           "title": "Ronaldinho, 46, to play first game since 2015",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
           "description": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
@@ -157,17 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a24/live/9b132b20-df92-11f1-a9ad-6774a3284d10.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo#3",
-          "title": "EFL warns clubs over social media posts",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-          "description": "The English Football League (EFL) warns its members about their usage of posts on social media.",
-          "author": "",
-          "publishedAt": "2026-11-13T18:20:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo#7",
           "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
           "description": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
@@ -187,27 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo#5",
-          "title": "'Memories flood back' - Rochdale & York meet again after title drama",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&at_campaign=rss",
-          "description": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
-          "author": "",
-          "publishedAt": "2026-11-13T16:39:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d4/live/0b137b00-debc-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pmwxf4#5",
-          "title": "Football Daily",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&at_campaign=rss",
-          "description": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
-          "author": "",
-          "publishedAt": "2026-11-13T16:05:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwxgk.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o#1",
           "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
           "description": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
@@ -217,22 +217,102 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o#7",
-          "title": "Odegaard backing Norway to avenge Wales defeat",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
-          "description": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko#5",
+          "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+          "description": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
           "author": "",
-          "publishedAt": "2026-11-13T12:43:51Z",
+          "publishedAt": "2026-11-13T12:09:48Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo#7",
+          "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.",
+          "author": "",
+          "publishedAt": "2026-11-13T10:49:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-14T09:25:42Z",
+      "fetchedAt": "2026-11-14T15:43:58Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Norway vs Wales team news LIVE!",
+          "url": "https://www.skysports.com/football/norway-vs-wales/live/554107",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T15:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-harry-wilson-wales_7396687.jpg?20261104102340"
+        },
+        {
+          "guid": "",
+          "title": "Manchester United take three points against Crystal Palace",
+          "url": "https://www.skysports.com/watch/video/13612213/manchester-united-2-0-crystal-palace-womens-super-league-highlights",
+          "description": "Highlights of the Women's Super League match between Manchester United and Crystal Palace.",
+          "author": "",
+          "publishedAt": "2026-11-14T14:43:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-man-united-wsl_7406477.jpg?20261114144904"
+        },
+        {
+          "guid": "",
+          "title": "England latest: Spence, Konsa back in training after missing Croatia game",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T12:05:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+        },
+        {
+          "guid": "",
+          "title": "WSL LIVE! Chelsea hang on for big win vs 10-player Man City",
+          "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T11:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ayaka-yamashita-wsl_7406494.jpg?20261114151752"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea leapfrog Man City to become new WSL leaders",
+          "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/report/575819",
+          "description": "Chelsea leapfrogged champions Manchester City at the top of the Women's Super League table with a 1-0 victory at Stamford Bridge thanks to Sandy Baltimore's bullet first-half strike.",
+          "author": "",
+          "publishedAt": "2026-11-14T10:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406453.jpg?20261114142505"
+        },
+        {
+          "guid": "",
+          "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
+          "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
+          "description": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
+          "author": "",
+          "publishedAt": "2026-11-14T10:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Odegaard discusses Arsenal contract situation",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
         {
           "guid": "",
           "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
@@ -265,7 +345,7 @@
         },
         {
           "guid": "",
-          "title": "Reijnders scores hat-trick as Netherlands beat Greece by seven",
+          "title": "Timber scores twice from left-back as Netherlands beat Greece by seven",
           "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
           "description": "",
           "author": "",
@@ -315,16 +395,6 @@
         },
         {
           "guid": "",
-          "title": "Palace latest: Eagles hold further Frank talks",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-13T14:25:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919"
-        },
-        {
-          "guid": "",
           "title": "The HECTIC schedule Pochettino will face ahead of new life at Man Utd!",
           "url": "https://www.skysports.com/watch/video/13611911/from-usa-to-manchester-utd-mauricio-pochettinos-hectic-schedule-explained",
           "description": "Sky Sports's Rob Dorsett explains why the new Manchester United head coach, Mauricio Pochettino, has a VERY busy few days ahead of him.",
@@ -345,26 +415,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd appoint Pochettino as head coach",
-          "url": "https://www.skysports.com/football/news/11095/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford",
-          "description": "Mauricio Pochettino has been appointed as the new Manchester United head coach, following the sacking of Michael Carrick.",
-          "author": "",
-          "publishedAt": "2026-11-13T12:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-mauricio_7405773.png?20261113122444"
-        },
-        {
-          "guid": "",
-          "title": "Who could England face in Nations League quarter-finals?",
-          "url": "https://www.skysports.com/football/news/11095/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march",
-          "description": "England have sealed their place in the Nations League quarter-finals after beating Croatia at Wembley - but who will they play in the last eight in March?",
-          "author": "",
-          "publishedAt": "2026-11-13T11:56:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-morgan-rogers_7405404.jpg?20261112201743"
-        },
-        {
-          "guid": "",
           "title": "Transfer Centre LIVE! Pochettino 'will be backed considerably' in January",
           "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "description": "",
@@ -372,46 +422,6 @@
           "publishedAt": "2026-11-13T11:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7405764.jpg?20261113121614"
-        },
-        {
-          "guid": "",
-          "title": "In a clash of the top two, should Chelsea be considered underdogs?",
-          "url": "https://www.skysports.com/football/news/11095/13611487/do-chelsea-go-into-this-weekends-top-of-the-table-wsl-clash-with-manchester-city-as-underdogs",
-          "description": "To consider Chelsea as underdogs in domestic competition feels alien. To a club so endowed with silverware and success over such a long period, it's like a dirty word. Something reserved for opponents, not them.",
-          "author": "",
-          "publishedAt": "2026-11-13T09:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-women-wsl_7405065.jpg?20261112141816"
-        },
-        {
-          "guid": "",
-          "title": "Man City are 'messier', but are they more dangerous than ever?",
-          "url": "https://www.skysports.com/football/news/11095/13611021/chelsea-vs-man-city-mary-fowler-reveals-her-sides-latest-evolution-as-we-ask-are-city-more-dangerous-than-ever",
-          "description": "Trying to find a chink in Manchester City's armour is like looking for a needle in a haystack. If it does exist, it's barely detectable. Andree Jeglertz's impact has been profound in that sense.",
-          "author": "",
-          "publishedAt": "2026-11-13T09:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city-women-wsl_7404059.jpg?20261111151804"
-        },
-        {
-          "guid": "",
-          "title": "Fernandes rejects second Man Utd contract offer",
-          "url": "https://www.skysports.com/football/news/11095/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer",
-          "description": "Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season.",
-          "author": "",
-          "publishedAt": "2026-11-12T23:39:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-man-utd_7386564.jpg?20261025124546"
-        },
-        {
-          "guid": "",
-          "title": "Inside Man Utd's pursuit of Pochettino",
-          "url": "https://www.skysports.com/football/news/11095/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded",
-          "description": "Manchester United's bosses met Mauricio Pochettino two years ago and considered him as a possible replacement for Erik ten Hag.",
-          "author": "",
-          "publishedAt": "2026-11-12T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403964.jpg?20261111142338"
         },
         {
           "guid": "",
