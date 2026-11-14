@@ -1,9 +1,18 @@
 name: Refresh watchdog
-# GitHub scheduled (cron) runs are unreliable on their own: the refresh
-# workflow fired only ~4 schedule events in 15 hours on 2026-11-07/08, so
-# published data went ~3 hours stale. This watchdog runs every 15 minutes,
-# checks the age of the last commit that touched the published ESPN feed,
-# and re-triggers the refresh workflow when the feed is older than 15 minutes.
+# FIXED 2026-11-14 — true root cause, proven from run 43518493207's log:
+# `gh workflow run` shells out to git to resolve the repo, but the job had
+# NO actions/checkout step, so it died with "failed to run git: fatal: not
+# a git repository". The earlier theory (missing workflow_dispatch trigger
+# in refresh-football-data.yml) was WRONG — that trigger has been present
+# since 2026-11-08. Fix: check out the repo first (step below).
+# Also: never fail on transient API errors (warn + exit 0), and judge
+# liveness by the refresh workflow's last completed RUN, not by the last
+# commit touching the feed file (refresh only commits when data changes,
+# so the commit-age signal reads "stale" forever during the quiet
+# international break).
+# NOTE: GitHub throttles schedule triggers — the watchdog fired only 4x on
+# Nov 13, not every 15 min. This fix restores its ability to trigger a
+# refresh when it does fire; it does not restore the 15-min cadence.
 on:
   schedule:
     - cron: '*/15 * * * *'
@@ -16,24 +25,47 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check feed freshness and re-trigger the refresh
+      - uses: actions/checkout@v4
+      - name: Check refresh liveness and re-trigger if stalled
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -euo pipefail
-          last_commit=$(gh api "repos/$GITHUB_REPOSITORY/commits?path=data/espn/league-data.json&per_page=1" --jq '.[0].commit.committer.date')
-          if [ -z "$last_commit" ] || [ "$last_commit" = "null" ]; then
-            echo "::warning::Could not read the last feed commit; triggering a refresh to be safe."
-            gh workflow run refresh-football-data.yml --ref main
+          # Never fail this job on a transient API error: the watchdog's
+          # job is to attempt a re-trigger, not to page anyone.
+          set -uo pipefail
+
+          trigger_refresh() {
+            echo "Triggering refresh-football-data."
+            if gh workflow run refresh-football-data.yml --ref main; then
+              echo "Refresh triggered."
+            else
+              echo "::warning::gh workflow run failed; will retry on the next watchdog tick."
+            fi
+          }
+
+          # Primary signal: last completed run of the refresh workflow.
+          # Retry the read 3x; a failed read triggers a refresh to be safe.
+          last_run=""
+          for i in 1 2 3; do
+            last_run=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/refresh-football-data.yml/runs?status=completed&per_page=1" --jq '.workflow_runs[0].updated_at // empty' 2>/dev/null || true)
+            [ -n "$last_run" ] && break
+            sleep 10
+          done
+
+          if [ -z "$last_run" ]; then
+            echo "::warning::Could not read the last refresh run; triggering a refresh to be safe."
+            trigger_refresh
             exit 0
           fi
-          last_epoch=$(date -u -d "$last_commit" +%s)
+
+          last_epoch=$(date -u -d "$last_run" +%s)
           now_epoch=$(date -u +%s)
           age=$((now_epoch - last_epoch))
-          echo "Last feed commit: $last_commit ($age seconds ago)"
+          echo "Last completed refresh run: $last_run ($age seconds ago)"
           if [ "$age" -gt 900 ]; then
-            echo "Feed is stale (older than 15 minutes); triggering refresh-football-data."
-            gh workflow run refresh-football-data.yml --ref main
+            echo "Refresh workflow has not completed in >15 minutes; re-triggering."
+            trigger_refresh
           else
-            echo "Feed is fresh; nothing to do."
+            echo "Refresh workflow is alive; nothing to do."
           fi
+          exit 0
