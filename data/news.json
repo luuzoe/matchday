@@ -4,10 +4,70 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-13T22:02:05Z",
+      "fetchedAt": "2026-11-14T01:56:06Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o#1",
+          "title": "Ferguson 'made up' with first win as Glentoran boss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
+          "description": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:54:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f8/live/229b49c0-dfab-11f1-be1f-9dae57fabf82.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo#0",
+          "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+          "description": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:53:17Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko#0",
+          "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+          "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:37:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo#2",
+          "title": "'If that penalty is given against you, you're furious'",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+          "description": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:34:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#1",
+          "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+          "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:11:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo#0",
+          "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:05:14Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo#1",
           "title": "'It's a shootout' - Wales out to derail stuttering Norway",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
           "description": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.",
@@ -27,17 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a24/live/9b132b20-df92-11f1-a9ad-6774a3284d10.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#1",
-          "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-          "description": "Tolu Arokodare scores twice in the second half as Nigeria claim a 3-1 win over Tanzania to bolster their hopes of reaching the 2027 Africa Cup of Nations.",
-          "author": "",
-          "publishedAt": "2026-11-13T18:36:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbef/live/57f19600-df89-11f1-a5d4-0b20a170e974.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo#1",
           "title": "EFL warns clubs over social media posts",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
           "description": "The English Football League (EFL) warns its members about their usage of posts on social media.",
@@ -47,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo#5",
           "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
           "description": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
@@ -67,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo#3",
           "title": "'Memories flood back' - Rochdale & York meet again after title drama",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&at_campaign=rss",
           "description": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
@@ -77,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d4/live/0b137b00-debc-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pmwxf4#3",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pmwxf4#5",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&at_campaign=rss",
           "description": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
@@ -107,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo#3",
           "title": "Missing Israel games 'stressful' for captain Collins",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel.",
@@ -157,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo#3",
           "title": "Beckham to be inducted into US Soccer Hall of Fame",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss",
           "description": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.",
@@ -167,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/1d957c40-df36-11f1-86fa-cbe84eade4f1.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o#5",
           "title": "Who makes your Northern Ireland XI against Ukraine?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o?at_medium=RSS&at_campaign=rss",
           "description": "Ahead of Northern Ireland's Nations League outing with Ukraine in Belfast, who would you pick in your starting team at Windsor Park?",
@@ -177,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0806/live/0c8ef120-ddf0-11f1-ba1a-f14c9b2af876.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo#1",
           "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
           "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
@@ -187,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo#3",
           "title": "How do you stop Haaland? Wales show how it's done",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
           "description": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
@@ -195,74 +245,44 @@
           "publishedAt": "2026-11-13T08:05:12Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no#16",
-          "title": "Hayen on shortlist for Aberdeen job - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no?at_medium=RSS&at_campaign=rss",
-          "description": "New name in frame for Aberdeen job as Scotland head coach Sebastien Pocognoli attempts to increase player pool.",
-          "author": "",
-          "publishedAt": "2026-11-13T07:48:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b6/live/e11327b0-df51-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o#3",
-          "title": "How big a problem is central defence for Pocognoli?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&at_campaign=rss",
-          "description": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
-          "author": "",
-          "publishedAt": "2026-11-13T07:23:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o#0",
-          "title": "Liverpool and Van Dijk have a decision to make",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
-          "description": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
-          "author": "",
-          "publishedAt": "2026-11-13T06:57:25Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o#5",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-13T06:42:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pmqwrn#7",
-          "title": "Football Daily",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane becomes the most-capped England men's player in history.",
-          "author": "",
-          "publishedAt": "2026-11-12T23:37:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo#3",
-          "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-          "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
-          "author": "",
-          "publishedAt": "2026-11-12T23:09:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-13T22:02:05Z",
+      "fetchedAt": "2026-11-14T01:56:07Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Papers: Man Utd eyeing move for Como star Paz",
+          "url": "https://www.skysports.com/football/news/11095/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
+          "description": "The top stories and transfer rumours from Saturday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-13T22:51:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Reijnders scores hat-trick as Netherlands beat Greece by seven",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-13T22:14:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-netherlands-nations-league_7406126.jpg?20261113221316"
+        },
+        {
+          "guid": "",
+          "title": "Dowman breaks record after making England U21s debut in loss to Portugal",
+          "url": "https://www.skysports.com/football/england-u21-vs-portugal-u21/report/578797",
+          "description": "Max Dowman broke Jude Bellingham's record to become the youngest player to represent England at U21 level but could not stop Lee Carsley's side from falling to a 1-0 loss against Portugal.",
+          "author": "",
+          "publishedAt": "2026-11-13T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-max-dowman-england_7406122.jpg?20261113220317"
+        },
         {
           "guid": "",
           "title": "McGinn double seals win for ragged Scotland",
@@ -270,16 +290,6 @@
           "description": "John McGinn's double rescued Scotland as they toiled to a 2-1 win over North Macedonia to keep their Nations League promotion hopes alive.",
           "author": "",
           "publishedAt": "2026-11-13T21:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-john-mcginn-scotland_7406088.jpg?20261113211951"
-        },
-        {
-          "guid": "",
-          "title": "Scotland beat North Macedonia thanks to McGinn double LIVE!",
-          "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/live/554098",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-13T18:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-john-mcginn-scotland_7406088.jpg?20261113211951"
         },
@@ -325,16 +335,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd appoint Pochettino as head coach",
-          "url": "https://www.skysports.com/football/news/11095/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford",
-          "description": "Mauricio Pochettino has been appointed as the new Manchester United head coach, following the sacking of Michael Carrick.",
-          "author": "",
-          "publishedAt": "2026-11-13T12:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-mauricio_7405773.png?20261113122444"
-        },
-        {
-          "guid": "",
           "title": "Man Utd latest: Poch explains why he won't join immediately as Carrick pens farewell",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -342,6 +342,16 @@
           "publishedAt": "2026-11-13T12:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd appoint Pochettino as head coach",
+          "url": "https://www.skysports.com/football/news/11095/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford",
+          "description": "Mauricio Pochettino has been appointed as the new Manchester United head coach, following the sacking of Michael Carrick.",
+          "author": "",
+          "publishedAt": "2026-11-13T12:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-mauricio_7405773.png?20261113122444"
         },
         {
           "guid": "",
@@ -372,26 +382,6 @@
           "publishedAt": "2026-11-13T11:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jay-stansfield-will-lankshear_7405754.jpg?20261113115901"
-        },
-        {
-          "guid": "",
-          "title": "In a clash of the top two, should Chelsea be considered underdogs?",
-          "url": "https://www.skysports.com/football/news/11095/13611487/do-chelsea-go-into-this-weekends-top-of-the-table-wsl-clash-with-manchester-city-as-underdogs",
-          "description": "To consider Chelsea as underdogs in domestic competition feels alien. To a club so endowed with silverware and success over such a long period, it's like a dirty word. Something reserved for opponents, not them.",
-          "author": "",
-          "publishedAt": "2026-11-13T09:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-women-wsl_7405065.jpg?20261112141816"
-        },
-        {
-          "guid": "",
-          "title": "Man City are 'messier', but are they more dangerous than ever?",
-          "url": "https://www.skysports.com/football/news/11095/13611021/chelsea-vs-man-city-mary-fowler-reveals-her-sides-latest-evolution-as-we-ask-are-city-more-dangerous-than-ever",
-          "description": "Trying to find a chink in Manchester City's armour is like looking for a needle in a haystack. If it does exist, it's barely detectable. Andree Jeglertz's impact has been profound in that sense.",
-          "author": "",
-          "publishedAt": "2026-11-13T09:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city-women-wsl_7404059.jpg?20261111151804"
         },
         {
           "guid": "",
