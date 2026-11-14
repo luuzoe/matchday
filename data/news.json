@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-14T09:02:07Z",
+      "fetchedAt": "2026-11-14T09:25:42Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo#0",
+          "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
+          "description": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-14T09:13:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo#0",
           "title": "Who would make your England-Spain combined XI?",
@@ -215,23 +225,13 @@
           "publishedAt": "2026-11-13T12:43:51Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo#3",
-          "title": "Missing Israel games 'stressful' for captain Collins",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo?at_medium=RSS&at_campaign=rss",
-          "description": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel.",
-          "author": "",
-          "publishedAt": "2026-11-13T12:26:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685e/live/266232e0-df55-11f1-b8ca-0348146d1a32.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-14T09:02:07Z",
+      "fetchedAt": "2026-11-14T09:25:42Z",
       "articles": [
         {
           "guid": "",
