@@ -4,8 +4,108 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-14T20:07:46Z",
+      "fetchedAt": "2026-11-14T23:52:36Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#0",
+          "title": "The 'manager's dream' who has put NI one game from history",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+          "description": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+          "author": "",
+          "publishedAt": "2026-11-14T23:21:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o#2",
+          "title": "Liverpool put three past Brighton to end winless run",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+          "description": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+          "author": "",
+          "publishedAt": "2026-11-14T23:00:29Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo#0",
+          "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+          "description": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+          "author": "",
+          "publishedAt": "2026-11-14T22:40:02Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o#2",
+          "title": "Devlin nets winner as NI top Nations League group",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
+          "description": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
+          "author": "",
+          "publishedAt": "2026-11-14T22:38:02Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o#0",
+          "title": "White has 'exciting future' despite boos - Rice",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+          "description": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
+          "author": "",
+          "publishedAt": "2026-11-14T22:26:56Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo#1",
+          "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-14T21:48:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo#6",
+          "title": "Spurs held to a draw by Everton in the WSL",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
+          "author": "",
+          "publishedAt": "2026-11-14T20:56:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo#1",
+          "title": "What Wales need to stay in Nations League top tier",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
+          "author": "",
+          "publishedAt": "2026-11-14T20:52:48Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6a/live/8d336370-e065-11f1-b454-23ac84bf5ae9.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo#0",
+          "title": "'No racism in Spain' – De la Fuente message for Tuchel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+          "description": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-14T20:43:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo#0",
+          "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+          "description": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-14T20:22:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o#2",
           "title": "Haaland helps Norway to win over Wales in Nations League",
@@ -47,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko#2",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko#6",
           "title": "'I just play where the manager tells me to play!' - Walsh",
           "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
           "description": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
@@ -77,17 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o#3",
-          "title": "'Exciting' Moylan flourishing for club and country",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games.",
-          "author": "",
-          "publishedAt": "2026-11-14T09:59:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaf/live/a56ea780-de92-11f1-9afe-1f03bfe02283.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo#5",
           "title": "Tuchel to remind England of anti-racism protocols before Spain game",
           "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
           "description": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
@@ -97,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo#1",
           "title": "Who would make your England-Spain combined XI?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
           "description": "How many England players do you think would make the Spain team?",
@@ -135,94 +225,84 @@
           "publishedAt": "2026-11-14T07:49:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o#1",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
-          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-14T06:27:36Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo#3",
-          "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-          "description": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
-          "author": "",
-          "publishedAt": "2026-11-13T22:53:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo#6",
-          "title": "'If that penalty is given against you, you're furious'",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
-          "description": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
-          "author": "",
-          "publishedAt": "2026-11-13T22:34:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#5",
-          "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-          "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-          "author": "",
-          "publishedAt": "2026-11-13T22:11:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo#1",
-          "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
-          "author": "",
-          "publishedAt": "2026-11-13T22:05:14Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo#3",
-          "title": "Ronaldinho, 46, to play first game since 2015",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
-          "description": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
-          "author": "",
-          "publishedAt": "2026-11-13T19:12:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a24/live/9b132b20-df92-11f1-a9ad-6774a3284d10.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo#10",
-          "title": "All done deals from September-November 2026",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-          "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-          "author": "",
-          "publishedAt": "2026-11-13T17:21:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o#3",
-          "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-          "description": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-          "author": "",
-          "publishedAt": "2026-11-13T15:28:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-14T20:07:47Z",
+      "fetchedAt": "2026-11-14T23:52:36Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man City latest: Haaland 'hasn't read much' about PL charges guilty verdict",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T22:50:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "",
+          "title": "Spurs latest: Kulusevski makes first appearance for Sweden in 725 days",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T22:33:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Gyokeres continues superb Sweden form",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Kalajdzic scores late as Republic of Ireland taste defeat in Austria",
+          "url": "https://www.skysports.com/football/austria-vs-republic-of-ireland/report/554103",
+          "description": "Sasa Kalajdzic dealt the Republic of Ireland a late blow in Linz with the only goal in Austria's 1-0 Nations League victory at the Raiffeisen Arena.",
+          "author": "",
+          "publishedAt": "2026-11-14T21:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-austria-republic-of-ireland_7406735.jpg?20261114215208"
+        },
+        {
+          "guid": "",
+          "title": "Devlin nets first international goal as Northern Ireland beat Ukraine",
+          "url": "https://www.skysports.com/football/northern-ireland-vs-ukraine/report/554106",
+          "description": "Terry Devlin's first international goal kept Northern Ireland top of their Nations League group as a 1-0 win over Ukraine set up a promotion decider away to Hungary on Tuesday.",
+          "author": "",
+          "publishedAt": "2026-11-14T21:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-terry-devlin-northern-ireland_7406742.jpg?20261114215916"
+        },
+        {
+          "guid": "",
+          "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
+          "url": "https://www.skysports.com/football/news/11095/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
+          "description": "Thomas Tuchel insisted his words had been \"twisted\" as questions over anti-racism protocols overshadowed the build-up to England's Nations League showdown in Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-14T21:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7406703.jpg?20261114203201"
+        },
+        {
+          "guid": "",
+          "title": "Palace latest: Sage thanks fans after exit",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-14T21:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919"
+        },
         {
           "guid": "",
           "title": "Wales beaten in Norway as threat of Nations League relegation grows",
@@ -235,7 +315,7 @@
         },
         {
           "guid": "",
-          "title": "England latest: Tuchel hits out at Spanish press, Trafford set to start",
+          "title": "England latest: Tuchel confirms Spence and Konsa available to face Spain",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
@@ -245,7 +325,7 @@
         },
         {
           "guid": "",
-          "title": "A new No 1? How to stop Lamine Yamal? Tuchel's selection issues",
+          "title": "Trafford to start in Spain - but what are Tuchel's other selection issues?",
           "url": "https://www.skysports.com/football/news/11095/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal",
           "description": "Against the best team in the world, Thomas Tuchel's defensive decisions will be key. And he has many to make.",
           "author": "",
@@ -285,16 +365,6 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Odegaard discusses Arsenal contract situation",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
           "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
           "url": "https://www.skysports.com/football/news/11095/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision",
           "description": "FC Andorra goalkeeper Jesus Owono has been suspended for 12 matches for his challenge of \"excessive force\" which resulted in the death of Tenerife forward Jesus de Miguel.",
@@ -315,17 +385,7 @@
         },
         {
           "guid": "",
-          "title": "Papers: Man Utd eyeing move for Como star Paz",
-          "url": "https://www.skysports.com/football/news/11095/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
-          "description": "The top stories and transfer rumours from Saturday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-13T22:51:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Portugal changing design of No 7 on shirts in respect to Ronaldo",
+          "title": "Portugal honour Ronaldo with shirt design - then lose 4-1 in first game without him",
           "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
           "description": "",
           "author": "",
@@ -372,56 +432,6 @@
           "publishedAt": "2026-11-13T12:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd appoint Pochettino as head coach",
-          "url": "https://www.skysports.com/football/news/11095/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford",
-          "description": "Mauricio Pochettino has been appointed as the new Manchester United head coach, following the sacking of Michael Carrick.",
-          "author": "",
-          "publishedAt": "2026-11-13T12:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-mauricio_7405773.png?20261113122444"
-        },
-        {
-          "guid": "",
-          "title": "Transfer Centre LIVE! Pochettino 'will be backed considerably' in January",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-13T11:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7405764.jpg?20261113121614"
-        },
-        {
-          "guid": "",
-          "title": "Inside Man Utd's pursuit of Pochettino",
-          "url": "https://www.skysports.com/football/news/11095/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded",
-          "description": "Manchester United's bosses met Mauricio Pochettino two years ago and considered him as a possible replacement for Erik ten Hag.",
-          "author": "",
-          "publishedAt": "2026-11-12T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403964.jpg?20261111142338"
-        },
-        {
-          "guid": "",
-          "title": "Neville: Pochettino needs control of Man Utd recruitment",
-          "url": "https://www.skysports.com/football/news/11095/13611886/gary-neville-mauricio-pochettino-needs-control-of-manchester-united-recruitment",
-          "description": "Sky Sports' Gary Neville says it will be key for Mauricio Pochettino to take a leading role in Manchester United's recruitment plans for the upcoming transfer window and beyond if he is to achieve success at Old Trafford.",
-          "author": "",
-          "publishedAt": "2026-11-12T14:49:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053"
-        },
-        {
-          "guid": "",
-          "title": "Why have Man Utd only had two 'successful' managers?",
-          "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-12T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
         }
       ]
     }
