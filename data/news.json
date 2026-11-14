@@ -4,10 +4,70 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-14T02:35:32Z",
+      "fetchedAt": "2026-11-14T09:02:07Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo#0",
+          "title": "Who would make your England-Spain combined XI?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
+          "description": "How many England players do you think would make the Spain team?",
+          "author": "",
+          "publishedAt": "2026-11-14T08:57:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/dbd5b700-db7c-11f1-a701-fddedf244c16.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo#0",
+          "title": "Clough's longevity: landmark achievement or indictment on football?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
+          "description": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
+          "author": "",
+          "publishedAt": "2026-11-14T08:35:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d44/live/17211cb0-de97-11f1-9afe-1f03bfe02283.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo#16",
+          "title": "Titz and Clarke on Aberdeen shortlist - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo?at_medium=RSS&at_campaign=rss",
+          "description": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
+          "author": "",
+          "publishedAt": "2026-11-14T08:28:16Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c15/live/ea54c0f0-e004-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo#0",
+          "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+          "description": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+          "author": "",
+          "publishedAt": "2026-11-14T07:49:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o#0",
+          "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
+          "author": "",
+          "publishedAt": "2026-11-14T06:37:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5264/live/26ec7c50-deb7-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-14T06:27:36Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o#3",
           "title": "Ferguson 'made up' with first win as Glentoran boss",
           "url": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
           "description": "Glentoran manager Duncan Ferguson said he is \"made up\" with his first three points on his home debut, after a 2-1 win over Bangor.",
@@ -47,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po#3",
           "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
           "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
@@ -57,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo#1",
           "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
@@ -77,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0b/live/28b62340-df7c-11f1-b844-3146c4983677.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo#1",
           "title": "Ronaldinho, 46, to play first game since 2015",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
           "description": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
@@ -87,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a24/live/9b132b20-df92-11f1-a9ad-6774a3284d10.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo#3",
           "title": "EFL warns clubs over social media posts",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
           "description": "The English Football League (EFL) warns its members about their usage of posts on social media.",
@@ -117,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo#5",
           "title": "'Memories flood back' - Rochdale & York meet again after title drama",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck1l05drreqqo?at_medium=RSS&at_campaign=rss",
           "description": "A look at how Saturday's opponents Rochdale and York City have acclimatised to League Two after their famous final-day National League title decider.",
@@ -147,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o#7",
           "title": "Odegaard backing Norway to avenge Wales defeat",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
           "description": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
@@ -165,94 +225,34 @@
           "publishedAt": "2026-11-13T12:26:18Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685e/live/266232e0-df55-11f1-b8ca-0348146d1a32.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko#0",
-          "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-          "description": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
-          "author": "",
-          "publishedAt": "2026-11-13T12:09:48Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo#7",
-          "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
-          "description": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.",
-          "author": "",
-          "publishedAt": "2026-11-13T10:49:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo#1",
-          "title": "The club preparing to play again after the death of a player",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
-          "description": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.",
-          "author": "",
-          "publishedAt": "2026-11-13T10:00:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f0/live/e7015f10-de76-11f1-9115-cfe6d179af3a.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo#0",
-          "title": "Fernandes rejects second Man Utd contract offer",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
-          "author": "",
-          "publishedAt": "2026-11-13T09:55:01Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo#3",
-          "title": "Beckham to be inducted into US Soccer Hall of Fame",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss",
-          "description": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.",
-          "author": "",
-          "publishedAt": "2026-11-13T08:22:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/1d957c40-df36-11f1-86fa-cbe84eade4f1.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o#5",
-          "title": "Who makes your Northern Ireland XI against Ukraine?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o?at_medium=RSS&at_campaign=rss",
-          "description": "Ahead of Northern Ireland's Nations League outing with Ukraine in Belfast, who would you pick in your starting team at Windsor Park?",
-          "author": "",
-          "publishedAt": "2026-11-13T08:21:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0806/live/0c8ef120-ddf0-11f1-ba1a-f14c9b2af876.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo#1",
-          "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
-          "author": "",
-          "publishedAt": "2026-11-13T08:13:19Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo#3",
-          "title": "How do you stop Haaland? Wales show how it's done",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
-          "description": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
-          "author": "",
-          "publishedAt": "2026-11-13T08:05:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-14T02:35:32Z",
+      "fetchedAt": "2026-11-14T09:02:07Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
+          "url": "https://www.skysports.com/football/news/11095/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision",
+          "description": "FC Andorra goalkeeper Jesus Owono has been suspended for 12 matches for his challenge of \"excessive force\" which resulted in the death of Tenerife forward Jesus de Miguel.",
+          "author": "",
+          "publishedAt": "2026-11-14T07:22:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145"
+        },
+        {
+          "guid": "",
+          "title": "What does a Pochettino team look like?",
+          "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
+          "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
+          "author": "",
+          "publishedAt": "2026-11-14T07:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
+        },
         {
           "guid": "",
           "title": "Papers: Man Utd eyeing move for Como star Paz",
@@ -375,33 +375,23 @@
         },
         {
           "guid": "",
-          "title": "Birmingham lead & Boro's Lankshear reliance - Championship talking points",
-          "url": "https://www.skysports.com/football/news/11095/13611861/birmingham-lead-middlesbroughs-will-lankshear-reliance-west-ham-need-scott-parker-spark-championship-talking-points",
-          "description": "We are a third of the way through the Championship season!",
+          "title": "In a clash of the top two, should Chelsea be considered underdogs?",
+          "url": "https://www.skysports.com/football/news/11095/13611487/do-chelsea-go-into-this-weekends-top-of-the-table-wsl-clash-with-manchester-city-as-underdogs",
+          "description": "To consider Chelsea as underdogs in domestic competition feels alien. To a club so endowed with silverware and success over such a long period, it's like a dirty word. Something reserved for opponents, not them.",
           "author": "",
-          "publishedAt": "2026-11-13T11:20:00Z",
+          "publishedAt": "2026-11-13T09:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jay-stansfield-will-lankshear_7405754.jpg?20261113115901"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-women-wsl_7405065.jpg?20261112141816"
         },
         {
           "guid": "",
-          "title": "'It's a lie!' - Palmer wants to play for England, says Rogers",
-          "url": "https://www.skysports.com/football/news/11095/13611803/cole-palmer-its-a-lie-chelsea-forward-does-not-want-to-play-for-england-says-team-mate-morgan-rogers",
-          "description": "Morgan Rogers says it is a \"lie\" that his Chelsea team-mate Cole Palmer does not want to play for England.",
+          "title": "Man City are 'messier', but are they more dangerous than ever?",
+          "url": "https://www.skysports.com/football/news/11095/13611021/chelsea-vs-man-city-mary-fowler-reveals-her-sides-latest-evolution-as-we-ask-are-city-more-dangerous-than-ever",
+          "description": "Trying to find a chink in Manchester City's armour is like looking for a needle in a haystack. If it does exist, it's barely detectable. Andree Jeglertz's impact has been profound in that sense.",
           "author": "",
-          "publishedAt": "2026-11-13T07:46:00Z",
+          "publishedAt": "2026-11-13T09:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-cole-palmer-morgan-rogers_7405746.jpg?20261113114639"
-        },
-        {
-          "guid": "",
-          "title": "England player ratings: Who impressed and who struggled in Croatia win?",
-          "url": "https://www.skysports.com/watch/video/13611751/england-vs-croatia-england-player-ratings-as-tuchels-reach-the-nations-league-quarters-finals",
-          "description": "David Reed and Pete Smith deliver their England player ratings following the Three Lions&#8217; 2-1 victory over Croatia, as Harry Kane makes history on a record-breaking night and England secure their place in the Nations League quarter-finals.",
-          "author": "",
-          "publishedAt": "2026-11-12T23:53:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-england-player-ratings_7405514.jpg?20261113000741"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city-women-wsl_7404059.jpg?20261111151804"
         },
         {
           "guid": "",
@@ -432,16 +422,6 @@
           "publishedAt": "2026-11-12T14:49:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053"
-        },
-        {
-          "guid": "",
-          "title": "What does a Pochettino team look like?",
-          "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
-          "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
-          "author": "",
-          "publishedAt": "2026-11-12T10:59:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
         },
         {
           "guid": "",
