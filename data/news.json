@@ -4,8 +4,58 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-15T11:24:14Z",
+      "fetchedAt": "2026-11-15T14:12:12Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o#0",
+          "title": "Club's first match since player's death abandoned because of serious injury",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+          "description": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
+          "author": "",
+          "publishedAt": "2026-11-15T14:06:19Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo#1",
+          "title": "Bristol Rovers being let down by poor players - Evans",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
+          "description": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
+          "author": "",
+          "publishedAt": "2026-11-15T13:55:09Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno#1",
+          "title": "Pitch perimeters under review after Vigar death",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+          "description": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
+          "author": "",
+          "publishedAt": "2026-11-15T13:49:17Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o#0",
+          "title": "Branthwaite, Garner and King omitted for Spain game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
+          "author": "",
+          "publishedAt": "2026-11-15T13:15:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o#0",
+          "title": "Wenger decides not to challenge Fifa chief Infantino",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+          "author": "",
+          "publishedAt": "2026-11-15T11:28:25Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go#16",
           "title": "Celtic have eye on midfielder Ebonog - gossip",
@@ -37,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o#1",
           "title": "Who am I? Guess WSL star No 12",
           "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
           "description": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
@@ -67,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#1",
           "title": "The 'manager's dream' who has put NI one game from history",
           "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
           "description": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
@@ -87,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo#3",
           "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
@@ -107,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o#3",
           "title": "White has 'exciting future' despite boos - Rice",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
           "description": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
@@ -117,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo#0",
           "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
@@ -137,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo#5",
           "title": "What Wales need to stay in Nations League top tier",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
@@ -147,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6a/live/8d336370-e065-11f1-b454-23ac84bf5ae9.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo#1",
           "title": "'No racism in Spain' – De la Fuente message for Tuchel",
           "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
           "description": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
@@ -177,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6958/live/cbfec630-e060-11f1-9e26-b3b65586122f.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo#3",
           "title": "Bompastor's risks pay off as Chelsea go top of WSL",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
           "description": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
@@ -185,54 +235,24 @@
           "publishedAt": "2026-11-14T18:55:34Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8119/live/c11a1b50-e05d-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo#2",
-          "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
-          "description": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
-          "author": "",
-          "publishedAt": "2026-11-14T18:27:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276e/live/9e2ede40-e03b-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko#1",
-          "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-          "description": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
-          "author": "",
-          "publishedAt": "2026-11-14T16:26:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko#6",
-          "title": "'I just play where the manager tells me to play!' - Walsh",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
-          "description": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-14T16:17:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/a45e56c0-e044-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo#2",
-          "title": "Chelsea go top with 1-0 win against Man City",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
-          "description": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
-          "author": "",
-          "publishedAt": "2026-11-14T15:50:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ee/live/76b3b1a0-e041-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-15T11:24:14Z",
+      "fetchedAt": "2026-11-15T14:12:12Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "How to watch Ronaldinho's return today live on Sky!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13612463/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T12:49:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ronaldinho-returns_7403243.png?20261110155336"
+        },
         {
           "guid": "",
           "title": "England latest: King among trio left out of squad for Spain clash",
@@ -422,16 +442,6 @@
           "publishedAt": "2026-11-13T12:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7403170.jpg?20261110135743"
-        },
-        {
-          "guid": "",
-          "title": "How to watch Ronaldinho's return today live on Sky!",
-          "url": "https://www.skysports.com/football/news/11095/13610697/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
-          "description": "Ronaldinho is set to return to professional football for the first time in over a decade, and you can <a href='https://www.youtube.com/watch?v=cTcp2uFjyDA'>watch it exclusively on Sky Sports from 4.15pm.</a>",
-          "author": "",
-          "publishedAt": "2026-11-11T15:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ronaldinho-returns_7403243.png?20261110155336"
         }
       ]
     }
