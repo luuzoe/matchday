@@ -4,8 +4,58 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-15T19:46:35Z",
+      "fetchedAt": "2026-11-15T22:21:13Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo#0",
+          "title": "Who swaggered around like he owned the place? Spain v England ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
+          "description": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
+          "author": "",
+          "publishedAt": "2026-11-15T22:12:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e3c/live/1664df80-e132-11f1-a204-d95dd4dbb76b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo#2",
+          "title": "London City earn point in thrilling draw against Arsenal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
+          "description": "London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium.",
+          "author": "",
+          "publishedAt": "2026-11-15T22:06:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c81/live/db26b240-e122-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o#0",
+          "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-15T20:47:44Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a569/live/89f0acc0-e12f-11f1-ac15-d140d3bbd516.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o#0",
+          "title": "London City's 'bravery' paying off in top three pursuit",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+          "description": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+          "author": "",
+          "publishedAt": "2026-11-15T20:03:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342a/live/cd3dcfa0-e141-11f1-b838-e76e4fa8abe5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o#2",
+          "title": "Aston Villa beat Birmingham in WSL derby",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o?at_medium=RSS&at_campaign=rss",
+          "description": "Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022.",
+          "author": "",
+          "publishedAt": "2026-11-15T19:47:37Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5a/live/dbf1e190-e10e-11f1-a2d0-ff163dc3689d.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo#2",
           "title": "Struggling Charlton make WSL history after defeat at West Ham",
@@ -37,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno#3",
           "title": "Children's tournament abandoned for parents' behaviour",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
           "description": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
@@ -78,7 +128,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go#0",
-          "title": "Chapecoense crash survivor wins promotion in final game",
+          "title": "Chapecoense air crash survivor wins promotion in final game",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
           "description": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
           "author": "",
@@ -165,74 +215,54 @@
           "publishedAt": "2026-11-15T10:45:52Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o#0",
-          "title": "How Spain's humble superstar Simon became world's best keeper",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
-          "description": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
-          "author": "",
-          "publishedAt": "2026-11-15T07:29:30Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o#5",
-          "title": "Who am I? Guess WSL star No 12",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
-          "description": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
-          "author": "",
-          "publishedAt": "2026-11-15T07:01:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo#3",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
-          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-15T06:47:10Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo#0",
-          "title": "Respect? Exposure? Why England's star names are going abroad",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
-          "description": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
-          "author": "",
-          "publishedAt": "2026-11-15T06:25:41Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#5",
-          "title": "The 'manager's dream' who has put NI one game from history",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
-          "description": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
-          "author": "",
-          "publishedAt": "2026-11-14T23:21:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o#6",
-          "title": "Liverpool put three past Brighton to end winless run",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
-          "description": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
-          "author": "",
-          "publishedAt": "2026-11-14T23:00:29Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-15T19:46:35Z",
+      "fetchedAt": "2026-11-15T22:21:13Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Klopp criticises Infantino and calls for change in FIFA leadership",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T22:04:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-jurgen-klopp-germany_7362846.jpg?20260927224330"
+        },
+        {
+          "guid": "",
+          "title": "Ten-man England hold on to claim famous win over Spain",
+          "url": "https://www.skysports.com/football/spain-vs-england/report/554117",
+          "description": "England withstood a Spain fightback after Elliot Anderson's red card to secure a famous 3-2 victory and finish above the world champions at the top of their Nations League group.",
+          "author": "",
+          "publishedAt": "2026-11-15T21:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-england_7407324.jpg?20261115211138"
+        },
+        {
+          "guid": "",
+          "title": "Pocognoli reflects on an experimental start to Scotland reign",
+          "url": "https://www.skysports.com/football/live-blog/11095/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T21:44:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-pocognoli_7364445.jpg?20260929195145"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Zubimendi suffers injury scare for Spain against England",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T21:36:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
         {
           "guid": "",
           "title": "Earps stars as London City frustrate Arsenal to seal point at Emirates",
@@ -285,13 +315,13 @@
         },
         {
           "guid": "",
-          "title": "Spain vs England LIVE!",
+          "title": "Reaction to England's dramatic win in Spain LIVE!",
           "url": "https://www.skysports.com/football/spain-vs-england/live/554117",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-15T17:45:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-ben-white-england_7407261.jpg?20261115183934"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-englan-england-players_7407371.jpg?20261115220250"
         },
         {
           "guid": "",
@@ -335,16 +365,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: USA thrash Haiti in Poch's penultimate match",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T08:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
           "title": "Man City latest: Haaland 'hasn't read much' about PL charges guilty verdict",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -365,33 +385,13 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: Gyokeres continues superb Sweden form",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Palace latest: Sage thanks fans after exit",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
-          "url": "https://www.skysports.com/football/news/11095/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
-          "description": "Thomas Tuchel insisted his words had been \"twisted\" as questions over anti-racism protocols overshadowed the build-up to England's Nations League showdown in Madrid.",
           "author": "",
           "publishedAt": "2026-11-14T21:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7406703.jpg?20261114203201"
-        },
-        {
-          "guid": "",
-          "title": "Wenger not expected to stand for FIFA presidency",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T13:01:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-fifa-arsene-wenger_7313553.jpg?20260804112138"
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919"
         },
         {
           "guid": "",
@@ -405,23 +405,13 @@
         },
         {
           "guid": "",
-          "title": "Portugal honour Ronaldo with shirt design - then lose 4-1 in first game without him",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-13T22:14:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7281214.jpg?20260623193024"
-        },
-        {
-          "guid": "",
           "title": "Who could England face in Nations League quarter-finals?",
           "url": "https://www.skysports.com/football/news/11095/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march",
-          "description": "England have sealed their place in the Nations League quarter-finals after beating Croatia at Wembley - but who will they play in the last eight in March?",
+          "description": "England have topped their group in the Nations League after an incredible win over Spain - but who will they play in the last eight in March?",
           "author": "",
           "publishedAt": "2026-11-13T11:56:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-morgan-rogers_7405404.jpg?20261112201743"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bellingham-kane-england_7407369.jpg?20261115215740"
         },
         {
           "guid": "",
