@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-15T22:21:13Z",
+      "fetchedAt": "2026-11-15T23:42:36Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pn5rdk#1",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
+          "description": "Reaction to England’s 3-2 win over Spain in the Nations League.",
+          "author": "",
+          "publishedAt": "2026-11-15T23:16:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo#0",
           "title": "Who swaggered around like he owned the place? Spain v England ratings",
@@ -34,7 +44,7 @@
           "author": "",
           "publishedAt": "2026-11-15T20:47:44Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a569/live/89f0acc0-e12f-11f1-ac15-d140d3bbd516.png"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cbd/live/8908cdb0-e143-11f1-a2d0-ff163dc3689d.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o#0",
@@ -205,24 +215,34 @@
           "publishedAt": "2026-11-15T11:28:25Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go#16",
-          "title": "Celtic have eye on midfielder Ebonog - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go?at_medium=RSS&at_campaign=rss",
-          "description": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
-          "author": "",
-          "publishedAt": "2026-11-15T10:45:52Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-15T22:21:13Z",
+      "fetchedAt": "2026-11-15T23:42:36Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
+          "url": "https://www.skysports.com/football/news/11095/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
+          "description": "The top stories and transfer rumours from Monday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-15T22:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Kroupi scores first France goal in win as Belgium beat Italy to quarters spot",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T22:33:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-eli-junior-kroupi_7407406.jpg?20261115223153"
+        },
         {
           "guid": "",
           "title": "Klopp criticises Infantino and calls for change in FIFA leadership",
@@ -232,6 +252,16 @@
           "publishedAt": "2026-11-15T22:04:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-jurgen-klopp-germany_7362846.jpg?20260927224330"
+        },
+        {
+          "guid": "",
+          "title": "England talking points: Tuchel learns Argentina lesson as full-backs shine",
+          "url": "https://www.skysports.com/football/news/11095/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine",
+          "description": "After England beat Spain in their own back yard in a statement result, we look at the main talking points from a memorable moment in Madrid...",
+          "author": "",
+          "publishedAt": "2026-11-15T21:52:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-tuchel-england_7407412.jpg?20261115224539"
         },
         {
           "guid": "",
@@ -315,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Reaction to England's dramatic win in Spain LIVE!",
-          "url": "https://www.skysports.com/football/spain-vs-england/live/554117",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T17:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-englan-england-players_7407371.jpg?20261115220250"
-        },
-        {
-          "guid": "",
           "title": "Brazil legend Ronaldinho involved in STUNNING opener on Ravenna debut!",
           "url": "https://www.skysports.com/watch/video/13612543/brazil-legend-ronaldinho-involved-in-ravenna-opener-on-debut",
           "description": "Brazil legend Ronaldinho was involved in the build-up to Ravenna's opener on his Serie C debut against Forli - as well as the celebrations!",
@@ -345,7 +365,7 @@
         },
         {
           "guid": "",
-          "title": "England latest: How many different right-backs has Tuchel picked recently?",
+          "title": "England latest: 'Complete performance' our best so far, says Tuchel",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
@@ -395,16 +415,6 @@
         },
         {
           "guid": "",
-          "title": "What does a Pochettino team look like?",
-          "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
-          "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
-          "author": "",
-          "publishedAt": "2026-11-14T07:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
-        },
-        {
-          "guid": "",
           "title": "Who could England face in Nations League quarter-finals?",
           "url": "https://www.skysports.com/football/news/11095/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march",
           "description": "England have topped their group in the Nations League after an incredible win over Spain - but who will they play in the last eight in March?",
@@ -412,16 +422,6 @@
           "publishedAt": "2026-11-13T11:56:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bellingham-kane-england_7407369.jpg?20261115215740"
-        },
-        {
-          "guid": "",
-          "title": "Why have Man Utd only had two 'successful' managers?",
-          "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-12T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
         }
       ]
     }
