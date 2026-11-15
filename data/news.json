@@ -4,8 +4,68 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-15T17:54:24Z",
+      "fetchedAt": "2026-11-15T19:46:35Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo#2",
+          "title": "Struggling Charlton make WSL history after defeat at West Ham",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
+          "description": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
+          "author": "",
+          "publishedAt": "2026-11-15T19:43:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ede/live/02b680b0-e10f-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo#0",
+          "title": "Ronaldinho makes comeback in Ravenna win",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+          "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+          "author": "",
+          "publishedAt": "2026-11-15T19:31:48Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko#0",
+          "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+          "description": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+          "author": "",
+          "publishedAt": "2026-11-15T18:27:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno#1",
+          "title": "Children's tournament abandoned for parents' behaviour",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+          "description": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+          "author": "",
+          "publishedAt": "2026-11-15T18:24:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d368/live/30545390-e11d-11f1-a7a2-7bb21fac8f0b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o#16",
+          "title": "Sule strikes late as Scotland U21s snatch draw against USA",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o?at_medium=RSS&at_campaign=rss",
+          "description": "St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
+          "author": "",
+          "publishedAt": "2026-11-15T18:11:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7146/live/d7b69920-e11f-11f1-a7a2-7bb21fac8f0b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o#0",
+          "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+          "description": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+          "author": "",
+          "publishedAt": "2026-11-15T17:56:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo#1",
           "title": "AS FAR retain Women's African Champions League title",
@@ -27,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/586b44a0-e10f-11f1-b3df-4961589d9b68.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o#1",
           "title": "Tenerife return to action after death of De Miguel",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
           "description": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
@@ -37,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo#1",
           "title": "Why Northern Ireland won't focus on point they need in Hungary",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
           "description": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
@@ -67,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo#5",
           "title": "Bristol Rovers being let down by poor players - Evans",
           "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
           "description": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
@@ -77,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno#3",
           "title": "Pitch perimeters under review after Vigar death",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
           "description": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
@@ -85,16 +145,6 @@
           "publishedAt": "2026-11-15T13:49:17Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o#0",
-          "title": "Branthwaite, Garner and King omitted for Spain game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
-          "description": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
-          "author": "",
-          "publishedAt": "2026-11-15T13:15:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o#0",
@@ -127,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o#5",
           "title": "Who am I? Guess WSL star No 12",
           "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
           "description": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
@@ -137,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo#3",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
           "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -157,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#5",
           "title": "The 'manager's dream' who has put NI one game from history",
           "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
           "description": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
@@ -167,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o#6",
           "title": "Liverpool put three past Brighton to end winless run",
           "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
           "description": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
@@ -175,93 +225,73 @@
           "publishedAt": "2026-11-14T23:00:29Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo#5",
-          "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
-          "description": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
-          "author": "",
-          "publishedAt": "2026-11-14T22:40:02Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o#2",
-          "title": "Devlin nets winner as NI top Nations League group",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
-          "description": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
-          "author": "",
-          "publishedAt": "2026-11-14T22:38:02Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o#5",
-          "title": "White has 'exciting future' despite boos - Rice",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-          "description": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
-          "author": "",
-          "publishedAt": "2026-11-14T22:26:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo#1",
-          "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-14T21:48:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo#6",
-          "title": "Spurs held to a draw by Everton in the WSL",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
-          "description": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
-          "author": "",
-          "publishedAt": "2026-11-14T20:56:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo#5",
-          "title": "What Wales need to stay in Nations League top tier",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
-          "author": "",
-          "publishedAt": "2026-11-14T20:52:48Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6a/live/8d336370-e065-11f1-b454-23ac84bf5ae9.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo#3",
-          "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-          "description": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
-          "author": "",
-          "publishedAt": "2026-11-14T20:43:57Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-15T17:54:24Z",
+      "fetchedAt": "2026-11-15T19:46:35Z",
       "articles": [
         {
           "guid": "",
-          "title": "Spain vs England build-up LIVE!",
+          "title": "Earps stars as London City frustrate Arsenal to seal point at Emirates",
+          "url": "https://www.skysports.com/watch/video/13612562/arsenal-1-1-london-city-lionesses-wsl-highlights",
+          "description": "Highlights of the Women's Super League match between Arsenal and London City Lionesses.",
+          "author": "",
+          "publishedAt": "2026-11-15T18:37:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-lcl-wsl_7407250.jpg?20261115182624"
+        },
+        {
+          "guid": "",
+          "title": "Scot Prem latest: Aberdeen appoint ex-Luzern boss Frick as new head coach",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T18:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-mario-frick-aberdeen_7407257.jpg?20261115183532"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal's wait for home WSL win goes on after Earps masterclass",
+          "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/report/575818",
+          "description": "Arsenal's wait for a home WSL win continues as they drew 1-1 against London City Lionesses on Sunday - their fifth draw in a row at the Emirates this season - with an inspired Mary Earps denying the Gunners victory.",
+          "author": "",
+          "publishedAt": "2026-11-15T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407153.jpg?20261115164523"
+        },
+        {
+          "guid": "",
+          "title": "Ronaldinho plays 45 mins on return to pro football aged 46",
+          "url": "https://www.skysports.com/football/live-blog/11095/13612463/ronaldinho-plays-45-minutes-on-his-debut-for-italian-side-ravenna-at-age-of-46",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T18:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ronaldinho-ravenna_7407232.jpg?20261115181122"
+        },
+        {
+          "guid": "",
+          "title": "WSL: Villa beat rivals Birmingham as Charlton suffer record-breaking loss",
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T18:02:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-wsl-womens-super-league_7010956.jpg?20250904114315"
+        },
+        {
+          "guid": "",
+          "title": "Spain vs England LIVE!",
           "url": "https://www.skysports.com/football/spain-vs-england/live/554117",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-15T17:45:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-kane-harry-england_7362124.jpg?20260926210443"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-ben-white-england_7407261.jpg?20261115183934"
         },
         {
           "guid": "",
@@ -275,16 +305,6 @@
         },
         {
           "guid": "",
-          "title": "London City Lionesses hit back minutes after Arsenal take the lead!",
-          "url": "https://www.skysports.com/watch/video/13612525/wsl-london-city-lionesses-hit-back-minutes-after-arsenal-take-the-lead",
-          "description": "London City Lionesses were not behind for long as Isobel Goodwin cancelled out Frida Maanum's opener.",
-          "author": "",
-          "publishedAt": "2026-11-15T16:48:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-lcl-arsenal_7407161.jpg?20261115165417"
-        },
-        {
-          "guid": "",
           "title": "Transfer Centre LIVE! 'Fulham defender among Poch's Man Utd January targets'",
           "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "description": "",
@@ -295,17 +315,7 @@
         },
         {
           "guid": "",
-          "title": "Saves at either end as Arsenal and London City hunt for next goal LIVE!",
-          "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/live/575818",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T15:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407175.jpg?20261115172318"
-        },
-        {
-          "guid": "",
-          "title": "England latest: King among trio left out of squad for Spain clash",
+          "title": "England latest: How many different right-backs has Tuchel picked recently?",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
@@ -365,16 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Kalajdzic scores late as Republic of Ireland taste defeat in Austria",
-          "url": "https://www.skysports.com/football/austria-vs-republic-of-ireland/report/554103",
-          "description": "Sasa Kalajdzic dealt the Republic of Ireland a late blow in Linz with the only goal in Austria's 1-0 Nations League victory at the Raiffeisen Arena.",
-          "author": "",
-          "publishedAt": "2026-11-14T21:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-austria-republic-of-ireland_7406735.jpg?20261114215208"
-        },
-        {
-          "guid": "",
           "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
           "url": "https://www.skysports.com/football/news/11095/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
           "description": "Thomas Tuchel insisted his words had been \"twisted\" as questions over anti-racism protocols overshadowed the build-up to England's Nations League showdown in Madrid.",
@@ -385,43 +385,13 @@
         },
         {
           "guid": "",
-          "title": "Wales beaten in Norway as threat of Nations League relegation grows",
-          "url": "https://www.skysports.com/football/norway-vs-wales/report/554107",
-          "description": "Wales suffered a 3-1 defeat to Norway in Oslo despite a spirited performance, as the threat of relegation to the second tier of the Nations League now looms over Craig Bellamy's side.",
+          "title": "Wenger not expected to stand for FIFA presidency",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-14T19:00:00Z",
+          "publishedAt": "2026-11-14T13:01:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-antonio-nusa-football_7406630.jpg?20261114182536"
-        },
-        {
-          "guid": "",
-          "title": "Trafford to start in Spain - but what are Tuchel's other selection issues?",
-          "url": "https://www.skysports.com/football/news/11095/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal",
-          "description": "Against the best team in the world, Thomas Tuchel's defensive decisions will be key. And he has many to make.",
-          "author": "",
-          "publishedAt": "2026-11-14T16:02:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-trafford-pickford_7406536.jpg?20261114162602"
-        },
-        {
-          "guid": "",
-          "title": "Big tactical calls and restricting Shaw - How Chelsea got better of Man City",
-          "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/report/575819",
-          "description": "Chelsea leapfrogged champions Manchester City at the top of the Women's Super League table with a 1-0 victory at Stamford Bridge thanks to Sandy Baltimore's bullet first-half strike.",
-          "author": "",
-          "publishedAt": "2026-11-14T10:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406453.jpg?20261114142505"
-        },
-        {
-          "guid": "",
-          "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
-          "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
-          "description": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
-          "author": "",
-          "publishedAt": "2026-11-14T10:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-fifa-arsene-wenger_7313553.jpg?20260804112138"
         },
         {
           "guid": "",
@@ -452,6 +422,16 @@
           "publishedAt": "2026-11-13T11:56:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-morgan-rogers_7405404.jpg?20261112201743"
+        },
+        {
+          "guid": "",
+          "title": "Why have Man Utd only had two 'successful' managers?",
+          "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-12T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
         }
       ]
     }
