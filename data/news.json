@@ -4,8 +4,68 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-15T06:24:37Z",
+      "fetchedAt": "2026-11-15T11:24:14Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go#16",
+          "title": "Celtic have eye on midfielder Ebonog - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go?at_medium=RSS&at_campaign=rss",
+          "description": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
+          "author": "",
+          "publishedAt": "2026-11-15T10:45:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o#0",
+          "title": "How Spain's humble superstar Simon became world's best keeper",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+          "description": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+          "author": "",
+          "publishedAt": "2026-11-15T07:29:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo#0",
+          "title": "How Aston Villa are reclaiming their identity",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?",
+          "author": "",
+          "publishedAt": "2026-11-15T07:12:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o#0",
+          "title": "Who am I? Guess WSL star No 12",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
+          "description": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+          "author": "",
+          "publishedAt": "2026-11-15T07:01:31Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-15T06:47:10Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo#0",
+          "title": "Respect? Exposure? Why England's star names are going abroad",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+          "author": "",
+          "publishedAt": "2026-11-15T06:25:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo#0",
           "title": "The 'manager's dream' who has put NI one game from history",
@@ -27,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo#1",
           "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
@@ -47,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o#1",
           "title": "White has 'exciting future' despite boos - Rice",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
           "description": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
@@ -57,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo#3",
           "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
@@ -137,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276e/live/9e2ede40-e03b-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko#1",
           "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
           "description": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
@@ -165,74 +225,44 @@
           "publishedAt": "2026-11-14T15:50:34Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ee/live/76b3b1a0-e041-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go#0",
-          "title": "Former Stoke City manager Thordarson dies aged 71",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
-          "description": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
-          "author": "",
-          "publishedAt": "2026-11-14T15:04:59Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo#5",
-          "title": "Tuchel to remind England of anti-racism protocols before Spain game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-          "description": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
-          "author": "",
-          "publishedAt": "2026-11-14T09:13:30Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo#1",
-          "title": "Who would make your England-Spain combined XI?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
-          "description": "How many England players do you think would make the Spain team?",
-          "author": "",
-          "publishedAt": "2026-11-14T08:57:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/dbd5b700-db7c-11f1-a701-fddedf244c16.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo#1",
-          "title": "Clough's longevity: landmark achievement or indictment on football?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
-          "description": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
-          "author": "",
-          "publishedAt": "2026-11-14T08:35:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d44/live/17211cb0-de97-11f1-9afe-1f03bfe02283.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo#16",
-          "title": "Titz and Clarke on Aberdeen shortlist - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo?at_medium=RSS&at_campaign=rss",
-          "description": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
-          "author": "",
-          "publishedAt": "2026-11-14T08:28:16Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c15/live/ea54c0f0-e004-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo#0",
-          "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-          "description": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
-          "author": "",
-          "publishedAt": "2026-11-14T07:49:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-15T06:24:37Z",
+      "fetchedAt": "2026-11-15T11:24:14Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "England latest: King among trio left out of squad for Spain clash",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T10:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
+          "url": "https://www.skysports.com/football/news/11095/13612415/x-paper-talk",
+          "description": "The top stories and transfer rumours from Sunday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-15T09:47:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: USA thrash Haiti in Poch's penultimate match",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-15T08:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
         {
           "guid": "",
           "title": "Man City latest: Haaland 'hasn't read much' about PL charges guilty verdict",
@@ -315,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "England latest: Tuchel confirms Spence and Konsa available to face Spain",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-        },
-        {
-          "guid": "",
           "title": "Trafford to start in Spain - but what are Tuchel's other selection issues?",
           "url": "https://www.skysports.com/football/news/11095/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal",
           "description": "Against the best team in the world, Thomas Tuchel's defensive decisions will be key. And he has many to make.",
@@ -335,13 +355,13 @@
         },
         {
           "guid": "",
-          "title": "Raphinha AND Ancelotti sent off as Brazil beaten by Japan",
+          "title": "Wenger not expected to stand for FIFA presidency",
           "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-14T13:01:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-raphinha-brazil_7406385.jpg?20261114130232"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-fifa-arsene-wenger_7313553.jpg?20260804112138"
         },
         {
           "guid": "",
@@ -395,43 +415,23 @@
         },
         {
           "guid": "",
-          "title": "Dowman breaks record after making England U21s debut in loss to Portugal",
-          "url": "https://www.skysports.com/football/england-u21-vs-portugal-u21/report/578797",
-          "description": "Max Dowman broke Jude Bellingham's record to become the youngest player to represent England at U21 level but could not stop Lee Carsley's side from falling to a 1-0 loss against Portugal.",
-          "author": "",
-          "publishedAt": "2026-11-13T22:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-max-dowman-england_7406122.jpg?20261113220317"
-        },
-        {
-          "guid": "",
-          "title": "McGinn double seals win for ragged Scotland",
-          "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098",
-          "description": "John McGinn's double rescued Scotland as they toiled to a 2-1 win over North Macedonia to keep their Nations League promotion hopes alive.",
-          "author": "",
-          "publishedAt": "2026-11-13T21:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-john-mcginn-scotland_7406088.jpg?20261113211951"
-        },
-        {
-          "guid": "",
-          "title": "Tearful Pochettino admits he 'couldn't say no to Man Utd'",
-          "url": "https://www.skysports.com/football/news/11095/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career",
-          "description": "An emotional Mauricio Pochettino said that leaving his role with the United States was the \"toughest decision of his career\" but admitted he couldn't turn down the chance to become head coach of Manchester United.",
-          "author": "",
-          "publishedAt": "2026-11-13T15:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettinp_7405898.jpg?20261113153009"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Poch explains why he won't join immediately as Carrick pens farewell",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
+          "title": "How do Arsenal rediscover the 'fear factor' at the Emirates?",
+          "url": "https://www.skysports.com/football/news/11095/13610560/arsenal-vs-london-city-lionesses-have-renee-slegers-side-lost-the-fear-factor-of-playing-at-the-emirates-stadium",
+          "description": "When Arsenal don't win at the Emirates Stadium, it's a big deal. But after four attempts, Renee Slegers' side are still yet to win at home in the Women's Super League. That's a crisis.",
           "author": "",
           "publishedAt": "2026-11-13T12:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7403170.jpg?20261110135743"
+        },
+        {
+          "guid": "",
+          "title": "How to watch Ronaldinho's return today live on Sky!",
+          "url": "https://www.skysports.com/football/news/11095/13610697/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
+          "description": "Ronaldinho is set to return to professional football for the first time in over a decade, and you can <a href='https://www.youtube.com/watch?v=cTcp2uFjyDA'>watch it exclusively on Sky Sports from 4.15pm.</a>",
+          "author": "",
+          "publishedAt": "2026-11-11T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-ronaldinho-returns_7403243.png?20261110155336"
         }
       ]
     }
