@@ -4,17 +4,17 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-16T19:53:59Z",
+      "fetchedAt": "2026-11-16T21:00:59Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live#0",
-          "title": "Watch: Monday Night Club",
-          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
-          "description": "Mark Chapman and guests debate the weekend's football.",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnb81q#3",
+          "title": "BBC Women's Football Weekly",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnb81q?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City star Vivianne Miedema joins Ellen and Ben to discuss her WSL comeback.",
           "author": "",
-          "publishedAt": "2026-11-16T21:00:00Z",
+          "publishedAt": "2026-11-16T19:58:00Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnb830.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o#0",
@@ -24,7 +24,7 @@
           "author": "",
           "publishedAt": "2026-11-16T19:43:33Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c62/live/9cca3b80-e1b7-11f1-99b6-a35a62fa4264.png"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131e/live/7321ccd0-e1f8-11f1-ac6e-e9777cdcbb4f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo#1",
@@ -231,7 +231,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-16T19:54:00Z",
+      "fetchedAt": "2026-11-16T21:00:59Z",
       "articles": [
         {
           "guid": "",
@@ -245,13 +245,13 @@
         },
         {
           "guid": "",
-          "title": "Switzerland vs Scotland LIVE!",
+          "title": "Scotland falling apart in Switzerland LIVE!",
           "url": "https://www.skysports.com/football/switzerland-vs-scotland/live/554127",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-16T18:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-andy-robertson-scotland_7406189.jpg?20261113230254"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-switzerland_7408110.jpg?20261116202357"
         },
         {
           "guid": "",
@@ -345,7 +345,7 @@
         },
         {
           "guid": "",
-          "title": "England latest: 'Spain parading WC trophy made us hungry' says Kane",
+          "title": "England latest: Tuchel addresses No 1 battle and Nations League ambitions",
           "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
           "description": "",
           "author": "",
@@ -415,13 +415,13 @@
         },
         {
           "guid": "",
-          "title": "What does a Pochettino team look like?",
-          "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
-          "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
+          "title": "Brentford latest: Hickey limps off injured while on Scotland duty",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-14T07:00:00Z",
+          "publishedAt": "2026-11-14T14:39:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
         },
         {
           "guid": "",
