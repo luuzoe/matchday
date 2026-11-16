@@ -4,8 +4,128 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-16T03:10:04Z",
+      "fetchedAt": "2026-11-16T09:51:00Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo#0",
+          "title": "How promotion, relegation and knockouts work in Nations League",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
+          "description": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+          "author": "",
+          "publishedAt": "2026-11-16T09:46:34Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2864/live/7a894370-c170-11f1-a003-8be783290413.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o#0",
+          "title": "More than F1 - Monza's captivating football story",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
+          "description": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como.",
+          "author": "",
+          "publishedAt": "2026-11-16T08:31:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6901/live/b39a7c30-e108-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o#2",
+          "title": "Every goal from the Women's Super League - matchweek 10",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
+          "description": "Watch every goal from across the Women's Super League in matchweek ten, from a brilliant free kick from West Ham's Viviane Asseyi to a stunning strike from Maya Le Tissier on her 150th Manchester United appearance.",
+          "author": "",
+          "publishedAt": "2026-11-16T08:30:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/0649a5a0-e127-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o#0",
+          "title": "Burnham urges caution on scrapping 3pm TV blackout",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
+          "description": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
+          "author": "",
+          "publishedAt": "2026-11-16T08:18:33Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/99edb2d0-e193-11f1-9e84-492a244b27cc.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo#16",
+          "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo?at_medium=RSS&at_campaign=rss",
+          "description": "Mario Frick reportedly rejected the Wolfsburg job before becoming Aberdeen's new head coach, while Celtic are said to have no plans to sell in-form Mika Baur.",
+          "author": "",
+          "publishedAt": "2026-11-16T08:17:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3877/live/fe6f26b0-e195-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo#2",
+          "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
+          "description": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2.",
+          "author": "",
+          "publishedAt": "2026-11-16T08:02:51Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pn6v34#16",
+          "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
+          "description": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
+          "author": "",
+          "publishedAt": "2026-11-16T08:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pn6v3j.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo#0",
+          "title": "Vote for the best men's European striker this century",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
+          "description": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
+          "author": "",
+          "publishedAt": "2026-11-16T07:59:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1253/live/86ce4590-df57-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po#0",
+          "title": "Homophobia on the rise in football - what is your club doing about it?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
+          "description": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
+          "author": "",
+          "publishedAt": "2026-11-16T07:26:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/e2ff0ba0-c707-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o#0",
+          "title": "Is Scotland's system limiting Gannon-Doak's threat?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
+          "description": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
+          "author": "",
+          "publishedAt": "2026-11-16T07:09:40Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cx9871qeq59jo#16",
+          "title": "Clyde ready for 'heavy metal football' as rock band sponsors club",
+          "url": "https://www.bbc.co.uk/news/articles/cx9871qeq59jo?at_medium=RSS&at_campaign=rss",
+          "description": "Metalcore act Bleed From Within have also co-designed the new third kit for the Bully Wee, who now play in the band's home town of Hamilton.",
+          "author": "",
+          "publishedAt": "2026-11-16T06:48:40Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f21/live/43f3e0e0-df75-11f1-b844-3146c4983677.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqy0el2jy17ro#1",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqy0el2jy17ro?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-16T06:23:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo#0",
           "title": "How did England cling on against Spain and what did Tuchel do differently?",
@@ -27,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pn5rdk#1",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pn5rdk#3",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
           "description": "Reaction to England’s 3-2 win over Spain in the Nations League.",
@@ -57,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c81/live/db26b240-e122-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o#1",
           "title": "Man Utd target Fulham's Bassey - Monday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
@@ -67,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cbd/live/8908cdb0-e143-11f1-a2d0-ff163dc3689d.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o#1",
           "title": "London City's 'bravery' paying off in top three pursuit",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
           "description": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
@@ -97,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ede/live/02b680b0-e10f-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo#1",
           "title": "Ronaldinho makes comeback in Ravenna win",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
           "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
@@ -115,114 +235,54 @@
           "publishedAt": "2026-11-15T18:27:08Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno#3",
-          "title": "Children's tournament abandoned for parents' behaviour",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
-          "description": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
-          "author": "",
-          "publishedAt": "2026-11-15T18:24:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d368/live/30545390-e11d-11f1-a7a2-7bb21fac8f0b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o#16",
-          "title": "Sule strikes late as Scotland U21s snatch draw against USA",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o?at_medium=RSS&at_campaign=rss",
-          "description": "St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
-          "author": "",
-          "publishedAt": "2026-11-15T18:11:08Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7146/live/d7b69920-e11f-11f1-a7a2-7bb21fac8f0b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o#0",
-          "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
-          "description": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
-          "author": "",
-          "publishedAt": "2026-11-15T17:56:57Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo#3",
-          "title": "AS FAR retain Women's African Champions League title",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
-          "description": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
-          "author": "",
-          "publishedAt": "2026-11-15T17:23:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go#1",
-          "title": "Chapecoense air crash survivor wins promotion in final game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
-          "description": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
-          "author": "",
-          "publishedAt": "2026-11-15T17:10:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/586b44a0-e10f-11f1-b3df-4961589d9b68.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o#1",
-          "title": "Tenerife return to action after death of De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
-          "description": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
-          "author": "",
-          "publishedAt": "2026-11-15T16:38:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo#1",
-          "title": "Why Northern Ireland won't focus on point they need in Hungary",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
-          "description": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
-          "author": "",
-          "publishedAt": "2026-11-15T16:04:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o#16",
-          "title": "You are Scotland boss Pocognoli - what would you do?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o?at_medium=RSS&at_campaign=rss",
-          "description": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
-          "author": "",
-          "publishedAt": "2026-11-15T15:58:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o#0",
-          "title": "Club's first match since player's death abandoned because of serious injury",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
-          "description": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
-          "author": "",
-          "publishedAt": "2026-11-15T14:06:19Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo#5",
-          "title": "Bristol Rovers being let down by poor players - Evans",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
-          "description": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
-          "author": "",
-          "publishedAt": "2026-11-15T13:55:09Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-16T03:10:04Z",
+      "fetchedAt": "2026-11-16T09:51:00Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Newcastle latest: Hall reaches 'new level' in battle with Yamal",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-16T08:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
+        },
+        {
+          "guid": "",
+          "title": "England latest: 'Spain parading WC trophy made us hungry' says Kane",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-16T07:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+        },
+        {
+          "guid": "",
+          "title": "France top Group A1 as Belgium thrash Italy to claim quarters spot",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-16T07:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-eli-junior-kroupi_7407406.jpg?20261115223153"
+        },
+        {
+          "guid": "",
+          "title": "Redemption for Tuchel in 'Miracle in Madrid' - Spain vs England Verdict",
+          "url": "https://www.skysports.com/watch/video/13612650/redemption-for-thomas-tuchel-in-miracle-in-madrid-spain-vs-england-verdict",
+          "description": "Rob Dorsett gives his verdict on England's 'statement victory over Spain in the Nations League.",
+          "author": "",
+          "publishedAt": "2026-11-16T00:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-england-konsa-white_7407466.jpg?20261116003749"
+        },
         {
           "guid": "",
           "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
@@ -232,16 +292,6 @@
           "publishedAt": "2026-11-15T22:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Kroupi scores first France goal in win as Belgium beat Italy to quarters spot",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T22:33:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-eli-junior-kroupi_7407406.jpg?20261115223153"
         },
         {
           "guid": "",
@@ -271,7 +321,7 @@
           "author": "",
           "publishedAt": "2026-11-15T21:52:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-tuchel-england_7407412.jpg?20261115224539"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7407578.jpg?20261116081535"
         },
         {
           "guid": "",
@@ -282,16 +332,6 @@
           "publishedAt": "2026-11-15T21:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-england_7407324.jpg?20261115211138"
-        },
-        {
-          "guid": "",
-          "title": "Pocognoli reflects on an experimental start to Scotland reign",
-          "url": "https://www.skysports.com/football/live-blog/11095/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T21:44:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-pocognoli_7364445.jpg?20260929195145"
         },
         {
           "guid": "",
@@ -375,43 +415,13 @@
         },
         {
           "guid": "",
-          "title": "England latest: 'Complete performance' our best so far, says Tuchel",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-          "description": "",
+          "title": "What does a Pochettino team look like?",
+          "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
+          "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
           "author": "",
-          "publishedAt": "2026-11-15T10:28:00Z",
+          "publishedAt": "2026-11-14T07:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: Haaland 'hasn't read much' about PL charges guilty verdict",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T22:50:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "",
-          "title": "Spurs latest: Kulusevski makes first appearance for Sweden in 725 days",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T22:33:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
-        },
-        {
-          "guid": "",
-          "title": "Palace latest: Sage thanks fans after exit",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T21:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
         },
         {
           "guid": "",
@@ -422,6 +432,16 @@
           "publishedAt": "2026-11-13T11:56:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bellingham-kane-england_7407369.jpg?20261115215740"
+        },
+        {
+          "guid": "",
+          "title": "Why have Man Utd only had two 'successful' managers?",
+          "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-12T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
         }
       ]
     }
