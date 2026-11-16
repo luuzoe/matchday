@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-15T23:42:36Z",
+      "fetchedAt": "2026-11-16T02:15:28Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo#0",
+          "title": "How did England cling on against Spain and what did Tuchel do differently?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
+          "description": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+          "author": "",
+          "publishedAt": "2026-11-16T00:02:22Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e2/live/f2069dc0-e14c-11f1-91da-8b08e1a7b4c4.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o#0",
+          "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+          "description": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
+          "author": "",
+          "publishedAt": "2026-11-15T23:52:43Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sounds/play/p0pn5rdk#1",
           "title": "Football Daily",
@@ -24,7 +44,7 @@
           "author": "",
           "publishedAt": "2026-11-15T22:12:55Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e3c/live/1664df80-e132-11f1-a204-d95dd4dbb76b.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/2c2c7e30-e151-11f1-a2d0-ff163dc3689d.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo#2",
@@ -127,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo#3",
           "title": "AS FAR retain Women's African Champions League title",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
           "description": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
@@ -137,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go#1",
           "title": "Chapecoense air crash survivor wins promotion in final game",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
           "description": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
@@ -195,33 +215,13 @@
           "publishedAt": "2026-11-15T13:55:09Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno#3",
-          "title": "Pitch perimeters under review after Vigar death",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
-          "description": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
-          "author": "",
-          "publishedAt": "2026-11-15T13:49:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o#0",
-          "title": "Wenger decides not to challenge Fifa chief Infantino",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
-          "description": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
-          "author": "",
-          "publishedAt": "2026-11-15T11:28:25Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-15T23:42:36Z",
+      "fetchedAt": "2026-11-16T02:15:28Z",
       "articles": [
         {
           "guid": "",
@@ -242,6 +242,16 @@
           "publishedAt": "2026-11-15T22:33:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-eli-junior-kroupi_7407406.jpg?20261115223153"
+        },
+        {
+          "guid": "",
+          "title": "Is Trafford England's new No 1 after Spain heroics?",
+          "url": "https://www.skysports.com/football/news/11095/13612624/james-trafford-has-leeds-goalkeeper-overtaken-jordan-pickford-as-englands-no-1-after-starring-display-against-spain",
+          "description": "Do England have a new No 1? Thomas Tuchel insists not. \"There's no No 1,\" he said. But Jordan Pickford might have his work cut out to wrestle the shirt back from James Trafford on the evidence of his performance in <a href='https://www.skysports.com/football/spain-vs-england/report/554117'>England's 3-2 win over Spain.</a>",
+          "author": "",
+          "publishedAt": "2026-11-15T22:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-james-trafford-exri-konsa_7407447.jpg?20261115233939"
         },
         {
           "guid": "",
@@ -372,16 +382,6 @@
           "publishedAt": "2026-11-15T10:28:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-        },
-        {
-          "guid": "",
-          "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
-          "url": "https://www.skysports.com/football/news/11095/13612415/x-paper-talk",
-          "description": "The top stories and transfer rumours from Sunday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-15T09:47:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         },
         {
           "guid": "",
