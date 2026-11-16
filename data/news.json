@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-16T09:51:00Z",
+      "fetchedAt": "2026-11-16T11:11:13Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo#0",
@@ -241,8 +241,38 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-16T09:51:00Z",
+      "fetchedAt": "2026-11-16T11:11:13Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Still England's best? Bronze and Earps' performances analysed",
+          "url": "https://www.skysports.com/football/news/11095/13612488/lucy-bronze-leads-chelsea-to-biggest-wsl-win-of-season-over-man-city-as-mary-earps-gives-arsenal-another-headache-at-home",
+          "description": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.</em>",
+          "author": "",
+          "publishedAt": "2026-11-16T11:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-bronze-earps-wsl_7407645.jpg?20261116095757"
+        },
+        {
+          "guid": "",
+          "title": "Lukaku retires from international football",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-16T10:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/07/1920x1080/skysports-romelu-lukaku-belgium_7291820.jpg?20260707100229"
+        },
+        {
+          "guid": "",
+          "title": "England, Man Utd, Man City... Get your questions in for a Kaveh Solhekol Q&A!",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-16T09:50:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-kaveh-england-squad_7355206.jpg?20260918101411"
+        },
         {
           "guid": "",
           "title": "Newcastle latest: Hall reaches 'new level' in battle with Yamal",
@@ -262,16 +292,6 @@
           "publishedAt": "2026-11-16T07:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-        },
-        {
-          "guid": "",
-          "title": "France top Group A1 as Belgium thrash Italy to claim quarters spot",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-16T07:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-eli-junior-kroupi_7407406.jpg?20261115223153"
         },
         {
           "guid": "",
@@ -302,16 +322,6 @@
           "publishedAt": "2026-11-15T22:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-james-trafford-exri-konsa_7407447.jpg?20261115233939"
-        },
-        {
-          "guid": "",
-          "title": "Klopp criticises Infantino and calls for change in FIFA leadership",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T22:04:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-jurgen-klopp-germany_7362846.jpg?20260927224330"
         },
         {
           "guid": "",
@@ -352,16 +362,6 @@
           "publishedAt": "2026-11-15T18:37:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-lcl-wsl_7407250.jpg?20261115182624"
-        },
-        {
-          "guid": "",
-          "title": "Scot Prem latest: Aberdeen appoint ex-Luzern boss Frick as new head coach",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T18:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-mario-frick-aberdeen_7407257.jpg?20261115183532"
         },
         {
           "guid": "",
