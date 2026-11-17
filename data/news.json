@@ -4,7 +4,7 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-17T02:42:29Z",
+      "fetchedAt": "2026-11-17T03:50:05Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o#0",
@@ -201,7 +201,7 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-17T02:42:30Z",
+      "fetchedAt": "2026-11-17T03:50:05Z",
       "articles": [
         {
           "guid": "",
