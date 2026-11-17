@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-17T19:51:41Z",
+      "fetchedAt": "2026-11-17T21:21:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o#0",
+          "title": "Rangers great Brand dies aged 89",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
+          "description": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
+          "author": "",
+          "publishedAt": "2026-11-17T21:02:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o#1",
+          "title": "Millwall open disciplinary proceedings against Baker",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
+          "description": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
+          "author": "",
+          "publishedAt": "2026-11-17T20:00:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo#0",
           "title": "Madrid-bound Gabriel posts farewell Man Utd message",
@@ -47,8 +67,8 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#5",
-          "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#3",
+          "title": "Swansea boss Matos on brink of Strasbourg move",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
           "description": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg.",
           "author": "",
@@ -127,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e0/live/43fce150-e285-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo#3",
           "title": "'Why not have a go?' - the halfway line goal phenomenon",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
           "description": "Why Premier League players are trying their luck on goal from long range more regularly.",
@@ -164,7 +184,7 @@
           "author": "",
           "publishedAt": "2026-11-17T11:06:33Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e6b/live/78344ae0-e275-11f1-b639-73d1df360b76.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95fd/live/d0bfe3a0-e2c4-11f1-a9da-01a195e70ea0.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o#0",
@@ -195,33 +215,13 @@
           "publishedAt": "2026-11-17T09:48:24Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo#2",
-          "title": "'Switzerland didn't have better players but were better team'",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
-          "description": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland.",
-          "author": "",
-          "publishedAt": "2026-11-17T09:09:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdd/live/4d87f670-e216-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o#1",
-          "title": "Owono did not deserve 12-match ban - Pique",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
-          "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-          "author": "",
-          "publishedAt": "2026-11-17T08:28:10Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-17T19:51:41Z",
+      "fetchedAt": "2026-11-17T21:21:57Z",
       "articles": [
         {
           "guid": "",
@@ -235,13 +235,13 @@
         },
         {
           "guid": "",
-          "title": "Wales vs Portugal LIVE!",
+          "title": "Pedro Neto sent off as Portugal lead Wales in thriller LIVE!",
           "url": "https://www.skysports.com/football/wales-vs-portugal/live/554136",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-17T18:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-portugal_7409021.jpg?20261117191136"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-portugal-wales_7409062.jpg?20261117203415"
         },
         {
           "guid": "",
