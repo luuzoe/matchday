@@ -4,8 +4,38 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-17T11:12:04Z",
+      "fetchedAt": "2026-11-17T12:43:05Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo#0",
+          "title": "'Why not have a go?' - the halfway line goal phenomenon",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+          "description": "Why Premier League players are trying their luck on goal from long range more regularly.",
+          "author": "",
+          "publishedAt": "2026-11-17T11:54:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo#3",
+          "title": "When is the Nations League quarter-final draw?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
+          "author": "",
+          "publishedAt": "2026-11-17T11:21:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo#0",
+          "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+          "author": "",
+          "publishedAt": "2026-11-17T11:13:40Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#3",
           "title": "Swansea in fight to keep Matos amid Strasbourg interest",
@@ -28,9 +58,9 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o#0",
-          "title": "Blackburn boss Mowbray steps down over health issues",
+          "title": "Blackburn boss Mowbray steps back over health issues",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-          "description": "Blackburn Rovers head coach Tony Mowbray steps down from his role with the Championship club due to health issues.",
+          "description": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
           "author": "",
           "publishedAt": "2026-11-17T10:40:41Z",
           "publisher": "BBC Sport",
@@ -38,7 +68,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo#0",
-          "title": "Has Infantino already won Fifa election as challengers are revealed?",
+          "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
           "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
           "author": "",
@@ -77,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo#3",
           "title": "How do NI replace 'perfect player' Donley?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo?at_medium=RSS&at_campaign=rss",
           "description": "With Jamie Donley suspended for Northern Ireland's Nations League visit to Hungary on Tuesday night, manager Michael O'Neill has a decision to make around a starting striker.",
@@ -157,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c4/live/3e1d00f0-e1e3-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o#1",
           "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
           "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
           "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
@@ -175,34 +205,24 @@
           "publishedAt": "2026-11-16T22:36:26Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo#2",
-          "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
-          "description": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
-          "author": "",
-          "publishedAt": "2026-11-16T22:14:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo#1",
-          "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona duo, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-16T22:06:32Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/833e/live/92b22870-e201-11f1-ba8d-01314a590f72.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-17T11:12:04Z",
+      "fetchedAt": "2026-11-17T12:43:05Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "EFL latest: Matos set to leave Swansea for Strasbourg",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T12:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20260731163403"
+        },
         {
           "guid": "",
           "title": "Toone, Beever-Jones return for Lionesses ahead of WC play-off",
@@ -215,16 +235,6 @@
         },
         {
           "guid": "",
-          "title": "Mowbray steps down from Blackburn due to health issues",
-          "url": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
-          "description": "Tony Mowbray has stepped down from his role as Blackburn Rovers head coach due to health issues.",
-          "author": "",
-          "publishedAt": "2026-11-17T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-tony-mowbray-blackburn_7408470.jpg?20261117101155"
-        },
-        {
-          "guid": "",
           "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
           "url": "https://www.skysports.com/football/live-blog/11095/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
           "description": "",
@@ -232,6 +242,16 @@
           "publishedAt": "2026-11-17T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/22/05/1920x1080/skysports-cristiano-ronaldo_5765711.jpg?20220509072444"
+        },
+        {
+          "guid": "",
+          "title": "Mowbray steps down from Blackburn due to health issues",
+          "url": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
+          "description": "Tony Mowbray has stepped down from his role as Blackburn Rovers head coach due to health issues.",
+          "author": "",
+          "publishedAt": "2026-11-17T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-tony-mowbray-blackburn_7408470.jpg?20261117101155"
         },
         {
           "guid": "",
@@ -252,6 +272,16 @@
           "publishedAt": "2026-11-17T08:54:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sebastien-pocognoli_7408472.jpg?20261117101348"
+        },
+        {
+          "guid": "",
+          "title": "Transfer Centre LIVE! McKennie speaks on USA players reuniting with Poch at Man Utd",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T08:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346130.jpg?20260909143007"
         },
         {
           "guid": "",
@@ -285,7 +315,7 @@
         },
         {
           "guid": "",
-          "title": "Wales have a free hit against Ronaldo-less Portugal",
+          "title": "Wales have free hit against Ronaldo-less Portugal",
           "url": "https://www.skysports.com/football/news/11095/13612984/wales-vs-portugal-no-cristiano-ronaldo-for-the-visitors-as-craig-bellamys-side-have-a-free-hit-in-final-nations-league-encounter",
           "description": "The Cardiff City Stadium sold out very quickly when the Nations League fixtures threw up a Wales vs Portugal game for the final match of Group D.",
           "author": "",
@@ -345,7 +375,7 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Wirtz scores twice as Klopp's Germany put FIVE past the Dutch",
+          "title": "Liverpool latest: Wirtz scores twice as Klopp's Germany thrash Netherlands",
           "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -362,26 +392,6 @@
           "publishedAt": "2026-11-15T22:45:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Palace latest: Frank speaks for first time as Palace boss",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-15T09:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7403963.jpg?20261111142259"
-        },
-        {
-          "guid": "",
-          "title": "Brentford latest: Hickey limps off injured while on Scotland duty",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-14T14:39:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
         },
         {
           "guid": "",
