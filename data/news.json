@@ -4,10 +4,80 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-16T21:00:59Z",
+      "fetchedAt": "2026-11-17T02:42:29Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pnb81q#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o#0",
+          "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+          "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+          "author": "",
+          "publishedAt": "2026-11-17T00:19:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o#0",
+          "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
+          "description": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
+          "author": "",
+          "publishedAt": "2026-11-16T22:36:26Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo#2",
+          "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+          "description": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+          "author": "",
+          "publishedAt": "2026-11-16T22:14:34Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo#0",
+          "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona duo, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-16T22:06:32Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/833e/live/92b22870-e201-11f1-ba8d-01314a590f72.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnbcy5#3",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+          "description": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+          "author": "",
+          "publishedAt": "2026-11-16T21:14:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po#0",
+          "title": "Portugal boss responds to criticism from Ronaldo's mum",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
+          "description": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+          "author": "",
+          "publishedAt": "2026-11-16T21:08:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#0",
+          "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+          "description": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+          "author": "",
+          "publishedAt": "2026-11-16T21:01:50Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnb81q#5",
           "title": "BBC Women's Football Weekly",
           "url": "https://www.bbc.co.uk/sounds/play/p0pnb81q?at_medium=RSS&at_campaign=rss",
           "description": "Manchester City star Vivianne Miedema joins Ellen and Ben to discuss her WSL comeback.",
@@ -17,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnb830.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o#1",
           "title": "Robertson eclipses Dalglish to become Scotland's most capped man",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
           "description": "Andy Robertson has taken over from Kenny Dalglish as Scotland's most-capped player, making his 103rd appearance in Monday's Nations League game against Switzerland.",
@@ -27,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131e/live/7321ccd0-e1f8-11f1-ac6e-e9777cdcbb4f.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo#3",
           "title": "Cameroon, Senegal and Benin close in on Afcon 2027 qualification",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
           "description": "Cameroon, Senegal and Benin are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial win in their bid to reach the finals.",
@@ -47,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo#1",
           "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
           "description": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
@@ -87,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e5/live/cdf90280-e1b3-11f1-9a3f-99aca912798e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o#5",
           "title": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
           "url": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o?at_medium=RSS&at_campaign=rss",
           "description": "Blackpool boss Ian Evatt says his squad had a horrific build-up to Saturday's League One defeat by AFC Wimbledon following a fast-spreading sickness bug in his camp.",
@@ -117,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6b8/live/289c2d10-e1b5-11f1-9a3f-99aca912798e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo#3",
           "title": "Vinicius says transfer interest affected Real form",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
           "description": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer.",
@@ -125,113 +195,13 @@
           "publishedAt": "2026-11-16T12:01:16Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2464/live/48304950-e1aa-11f1-8ee3-23d0d09d2796.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo#0",
-          "title": "Belgium's Lukaku retires from internationals",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
-          "description": "Romelu Lukaku retires from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.",
-          "author": "",
-          "publishedAt": "2026-11-16T11:40:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af62/live/60764690-e1aa-11f1-8ee3-23d0d09d2796.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo#1",
-          "title": "What's at the top of Frick's Aberdeen to-do list?",
-          "url": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
-          "description": "Mario Frick is Aberdeen's new head coach, but what does the former Liechtenstein striker have to do to lift his side clear of the relegation zone?",
-          "author": "",
-          "publishedAt": "2026-11-16T11:15:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/269f/live/a542ab20-e127-11f1-9d32-63e01ae9cf36.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo#3",
-          "title": "How promotion, relegation and knockouts work in Nations League",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
-          "description": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
-          "author": "",
-          "publishedAt": "2026-11-16T09:46:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2864/live/7a894370-c170-11f1-a003-8be783290413.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o#3",
-          "title": "More than F1 - Monza's captivating football story",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
-          "description": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como.",
-          "author": "",
-          "publishedAt": "2026-11-16T08:31:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6901/live/b39a7c30-e108-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o#2",
-          "title": "Every goal from the Women's Super League - matchweek 10",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
-          "description": "Watch every goal from across the Women's Super League in matchweek ten, from a brilliant free kick from West Ham's Viviane Asseyi to a stunning strike from Maya Le Tissier on her 150th Manchester United appearance.",
-          "author": "",
-          "publishedAt": "2026-11-16T08:30:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/0649a5a0-e127-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o#0",
-          "title": "Burnham urges caution on scrapping 3pm TV blackout",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
-          "description": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
-          "author": "",
-          "publishedAt": "2026-11-16T08:18:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/99edb2d0-e193-11f1-9e84-492a244b27cc.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo#2",
-          "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
-          "description": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2.",
-          "author": "",
-          "publishedAt": "2026-11-16T08:02:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pn6v34#16",
-          "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
-          "description": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
-          "author": "",
-          "publishedAt": "2026-11-16T08:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pn6v3j.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo#0",
-          "title": "Vote for the best men's European striker this century",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
-          "description": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
-          "author": "",
-          "publishedAt": "2026-11-16T07:59:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1253/live/86ce4590-df57-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po#1",
-          "title": "Homophobia on the rise in football - what is your club doing about it?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
-          "description": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
-          "author": "",
-          "publishedAt": "2026-11-16T07:26:27Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/e2ff0ba0-c707-11f1-bc2e-018d645d8d21.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-16T21:00:59Z",
+      "fetchedAt": "2026-11-17T02:42:30Z",
       "articles": [
         {
           "guid": "",
@@ -239,19 +209,49 @@
           "url": "https://www.skysports.com/football/news/11095/13612913/andy-robertson-scotland-captain-breaks-national-appearance-record-by-winning-103rd-senior-cap-vs-switzerland",
           "description": "Andy Robertson has broken the record for the most senior Scotland men's team caps, surpassing the feat held by Sir Kenny Dalglish for 40 years.",
           "author": "",
-          "publishedAt": "2026-11-16T19:47:00Z",
+          "publishedAt": "2026-11-16T22:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scotland_7402989.jpg?20261110115123"
         },
         {
           "guid": "",
-          "title": "Scotland falling apart in Switzerland LIVE!",
-          "url": "https://www.skysports.com/football/switzerland-vs-scotland/live/554127",
-          "description": "",
+          "title": "Record-breaker Robertson speaks out after Scotland's bad loss to Switzerland",
+          "url": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
+          "description": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
           "author": "",
-          "publishedAt": "2026-11-16T18:30:00Z",
+          "publishedAt": "2026-11-16T21:35:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-switzerland_7408110.jpg?20261116202357"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135"
+        },
+        {
+          "guid": "",
+          "title": "Rice verbally agrees new Arsenal contract",
+          "url": "https://www.skysports.com/football/news/11095/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
+          "description": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal,&#160;<em>Sky Sports News</em>&#160;can reveal.&#160;",
+          "author": "",
+          "publishedAt": "2026-11-16T21:12:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-declan-rice-arsenal_7383215.jpg?20261021214729"
+        },
+        {
+          "guid": "",
+          "title": "Wales have a free hit against Ronaldo-less Portugal",
+          "url": "https://www.skysports.com/football/news/11095/13612984/wales-vs-portugal-no-cristiano-ronaldo-for-the-visitors-as-craig-bellamys-side-have-a-free-hit-in-final-nations-league-encounter",
+          "description": "The Cardiff City Stadium sold out very quickly when the Nations League fixtures threw up a Wales vs Portugal game for the final match of Group D.",
+          "author": "",
+          "publishedAt": "2026-11-16T19:28:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-bellamy-wales_7263098.jpg?20260601163126"
+        },
+        {
+          "guid": "",
+          "title": "'Outstanding' Dowman scores historic winner as England U21s beat France",
+          "url": "https://www.skysports.com/football/england-u21-vs-france-u21/report/578798",
+          "description": "Max Dowman became England Under-21s' youngest ever goalscorer by grabbing a late winner in a 3-2 victory over France at Ashton Gate.&#160;",
+          "author": "",
+          "publishedAt": "2026-11-16T19:07:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-dowman-england_7408188.jpg?20261116220011"
         },
         {
           "guid": "",
@@ -282,16 +282,6 @@
           "publishedAt": "2026-11-16T15:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
-          "title": "Has Tuchel learnt from Argentina disaster and fixed England's 'DNA problem'?",
-          "url": "https://www.skysports.com/watch/video/13612859/thomas-tuchel-has-england-boss-learnt-from-argentina-disaster-and-fixed-dna-problem",
-          "description": "Sky Sports' David Reed breaks down whether Thomas Tuchel has already fixed England's 'DNA problem'.",
-          "author": "",
-          "publishedAt": "2026-11-16T14:22:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-england-thomas-tuchel_7407807.jpg?20261116143006"
         },
         {
           "guid": "",
@@ -335,13 +325,13 @@
         },
         {
           "guid": "",
-          "title": "Newcastle latest: Hall reaches 'new level' in battle with Lamine Yamal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Liverpool latest: Wirtz scores twice as Klopp's Germany put FIVE past the Dutch",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-16T08:30:00Z",
+          "publishedAt": "2026-11-16T08:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         },
         {
           "guid": "",
@@ -355,9 +345,9 @@
         },
         {
           "guid": "",
-          "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
-          "url": "https://www.skysports.com/football/news/11095/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
-          "description": "The top stories and transfer rumours from Monday's newspapers...",
+          "title": "Papers: Timber, Raya and Hincapie to sign new Arsenal contracts",
+          "url": "https://www.skysports.com/football/news/11095/13613047/jurrien-timber-david-raya-and-piero-hincapie-to-extend-arsenal-contracts-alongside-declan-rice-paper-talk",
+          "description": "The top stories and transfer rumours from Tuesday's newspapers...",
           "author": "",
           "publishedAt": "2026-11-15T22:45:00Z",
           "publisher": "Sky Sports",
@@ -375,27 +365,7 @@
         },
         {
           "guid": "",
-          "title": "England talking points: Tuchel learns Argentina lesson as full-backs shine",
-          "url": "https://www.skysports.com/football/news/11095/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine",
-          "description": "After England beat Spain in their own back yard in a statement result, we look at the main talking points from a memorable moment in Madrid...",
-          "author": "",
-          "publishedAt": "2026-11-15T21:52:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7407578.jpg?20261116081535"
-        },
-        {
-          "guid": "",
-          "title": "Ten-man England hold on to claim famous win over Spain",
-          "url": "https://www.skysports.com/football/spain-vs-england/report/554117",
-          "description": "England withstood a Spain fightback after Elliot Anderson's red card to secure a famous 3-2 victory and finish above the world champions at the top of their Nations League group.",
-          "author": "",
-          "publishedAt": "2026-11-15T21:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-england_7407324.jpg?20261115211138"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Dowman becomes England U21s youngest-ever starter",
+          "title": "Arsenal latest: VOTE - Is Rice the best midfielder in the league?",
           "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -425,13 +395,13 @@
         },
         {
           "guid": "",
-          "title": "Who could England face in Nations League quarter-finals?",
-          "url": "https://www.skysports.com/football/news/11095/13611876/nations-league-2026-27-england-into-quarter-finals-but-who-will-they-play-in-last-eight-in-march",
-          "description": "England have topped their group in the Nations League after an incredible win over Spain - but who will they play in the last eight in March?",
+          "title": "Rice: More to come from Arsenal's £105m 'bargain'",
+          "url": "https://www.skysports.com/football/news/11095/13596475/declan-rice-arsenals-total-player-and-105m-bargain-can-unlock-more-levels-after-agreeing-new-contract",
+          "description": "Arsenal's Kroenke family owners tend not to get involved in transfer dealings but when it came to Declan Rice, and the prospect of spending &#163;100m on a player for the first time, they needed to be sure that it was a sensible investment.",
           "author": "",
-          "publishedAt": "2026-11-13T11:56:00Z",
+          "publishedAt": "2026-10-08T12:54:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bellingham-kane-england_7407369.jpg?20261115215740"
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7371338.jpg?20261008143645"
         }
       ]
     }
