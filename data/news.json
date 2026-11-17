@@ -4,10 +4,130 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-17T12:43:05Z",
+      "fetchedAt": "2026-11-17T19:51:41Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo#0",
+          "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+          "description": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-17T19:35:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/9eaa4ed0-e2b7-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo#1",
+          "title": "Senegal become first side to book Afcon 2027 spot",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+          "description": "Senegal become the first side to qualify for the 2027 Africa Cup of Nations, while Egypt miss the chance to join them and Nigeria suffer another setback.",
+          "author": "",
+          "publishedAt": "2026-11-17T18:56:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo#0",
+          "title": "Arsenal Double winner Storey dies aged 81",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+          "author": "",
+          "publishedAt": "2026-11-17T17:33:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo#1",
+          "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+          "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+          "author": "",
+          "publishedAt": "2026-11-17T17:13:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#5",
+          "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+          "description": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg.",
+          "author": "",
+          "publishedAt": "2026-11-17T16:52:59Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o#3",
+          "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
+          "url": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
+          "description": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
+          "author": "",
+          "publishedAt": "2026-11-17T16:03:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f106/live/1294a7e0-e296-11f1-8dda-8925a81c3da5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo#0",
+          "title": "FA wants to host Nations League finals in England",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+          "description": "England could host the Nations League finals this season after Football Association officials register their interest.",
+          "author": "",
+          "publishedAt": "2026-11-17T15:51:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#0",
+          "title": "Rooney says he considered taking his own life at Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+          "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+          "author": "",
+          "publishedAt": "2026-11-17T14:09:19Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo#1",
+          "title": "Romario demands Ancelotti sacking as war of words continues",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
+          "description": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties.",
+          "author": "",
+          "publishedAt": "2026-11-17T13:10:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/5325dfe0-e278-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo#1",
+          "title": "Hincapie in advanced talks over new Arsenal deal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract.",
+          "author": "",
+          "publishedAt": "2026-11-17T13:09:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f33/live/1e7eaf70-e286-11f1-b166-176de21e2352.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo#3",
+          "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
+          "description": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
+          "author": "",
+          "publishedAt": "2026-11-17T12:56:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/703a/live/149159b0-e27f-11f1-bd1e-f9c53347c5a6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o#2",
+          "title": "Watch: Can Northern Ireland hit the right notes in Budapest?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
+          "description": "As Northern Ireland prepare to face Hungary in a key Nations League encounter, BBC Sport NI teams up with the Ulster Orchestra to build up to the big game in Budapest in musical fashion.",
+          "author": "",
+          "publishedAt": "2026-11-17T12:40:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e0/live/43fce150-e285-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo#1",
           "title": "'Why not have a go?' - the halfway line goal phenomenon",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
           "description": "Why Premier League players are trying their luck on goal from long range more regularly.",
@@ -17,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo#7",
           "title": "When is the Nations League quarter-final draw?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
@@ -27,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo#1",
           "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
@@ -35,16 +155,6 @@
           "publishedAt": "2026-11-17T11:13:40Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#3",
-          "title": "Swansea in fight to keep Matos amid Strasbourg interest",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
-          "description": "Vitor Matos is understood to have indicated he is interested in leaving Swansea, who have had an official approach from the French top-flight club.",
-          "author": "",
-          "publishedAt": "2026-11-17T11:09:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o#0",
@@ -77,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo#3",
           "title": "Pochettino says he would tell Guardiola to take USA job",
           "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
           "description": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
@@ -97,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdd/live/4d87f670-e216-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o#1",
           "title": "Owono did not deserve 12-match ban - Pique",
           "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
           "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
@@ -105,123 +215,103 @@
           "publishedAt": "2026-11-17T08:28:10Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo#3",
-          "title": "How do NI replace 'perfect player' Donley?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3rrg9xdp5ypo?at_medium=RSS&at_campaign=rss",
-          "description": "With Jamie Donley suspended for Northern Ireland's Nations League visit to Hungary on Tuesday night, manager Michael O'Neill has a decision to make around a starting striker.",
-          "author": "",
-          "publishedAt": "2026-11-17T08:17:08Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e779/live/81e02c10-e1d2-11f1-99b6-a35a62fa4264.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pncq48#16",
-          "title": "Listen: Where do Scotland go after Swiss humiliation?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pncq48?at_medium=RSS&at_campaign=rss",
-          "description": "Pressure builds on Pocognoli after Scotland’s Swiss nightmare.",
-          "author": "",
-          "publishedAt": "2026-11-17T08:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pncq6d.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o#0",
-          "title": "Are Scotland still too reliant on 'old guard'?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
-          "description": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.",
-          "author": "",
-          "publishedAt": "2026-11-17T07:55:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72d/live/90cf5280-e260-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o#0",
-          "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
-          "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-          "author": "",
-          "publishedAt": "2026-11-17T07:22:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6m2le1784m7o#16",
-          "title": "'Monaco unrest as they prepare to face Hearts' - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6m2le1784m7o?at_medium=RSS&at_campaign=rss",
-          "description": "Speculation surrounds the future of two top Monaco players as they prepare to face Heart of Midlothian, while the Scottish Premiership's top summer free agents are highlighted.",
-          "author": "",
-          "publishedAt": "2026-11-17T07:10:09Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc6/live/73afe1c0-e255-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cx5y1pl7yvz6o#1",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx5y1pl7yvz6o?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-17T06:26:22Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o#0",
-          "title": "Why always him? The rise and fall of Balotelli",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
-          "description": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli.",
-          "author": "",
-          "publishedAt": "2026-11-17T06:15:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/033a/live/effd2720-ddf4-11f1-8445-15eb55286f71.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no#1",
-          "title": "Life after Ronaldo - Portugal face post-Bale Wales",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no?at_medium=RSS&at_campaign=rss",
-          "description": "As Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era.",
-          "author": "",
-          "publishedAt": "2026-11-17T04:45:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c4/live/3e1d00f0-e1e3-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o#1",
-          "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
-          "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-          "author": "",
-          "publishedAt": "2026-11-17T00:19:58Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o#3",
-          "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
-          "description": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
-          "author": "",
-          "publishedAt": "2026-11-16T22:36:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-17T12:43:05Z",
+      "fetchedAt": "2026-11-17T19:51:41Z",
       "articles": [
         {
           "guid": "",
-          "title": "EFL latest: Matos set to leave Swansea for Strasbourg",
+          "title": "Man Utd latest: 'I begin my next chapter' - Gabriel's exit statement in full",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T18:41:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
+        {
+          "guid": "",
+          "title": "Wales vs Portugal LIVE!",
+          "url": "https://www.skysports.com/football/wales-vs-portugal/live/554136",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-portugal_7409021.jpg?20261117191136"
+        },
+        {
+          "guid": "",
+          "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+          "url": "https://www.skysports.com/football/news/11095/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
+          "description": "JJ Gabriel has announced he is leaving Manchester United as he looks forward to his \"next chapter\" at Real Madrid.",
+          "author": "",
+          "publishedAt": "2026-11-17T18:29:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-laliga_7396670.jpg?20261104095651"
+        },
+        {
+          "guid": "",
+          "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
           "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T16:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
+          "url": "https://www.skysports.com/football/news/11095/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
+          "description": "Arsenal are close to finalising new deals with David Raya, Jurrien Timber and Piero Hincapie.",
+          "author": "",
+          "publishedAt": "2026-11-17T16:23:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-raya-timber_7408927.jpg?20261117162721"
+        },
+        {
+          "guid": "",
+          "title": "'World Cup is unfinished business for England,' says Wiegman",
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T16:16:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-sarina-wiegman-england-women_7380562.jpg?20261019105522"
+        },
+        {
+          "guid": "",
+          "title": "Rooney contemplated suicide at ‘lowest point’ of Man Utd career",
+          "url": "https://www.skysports.com/football/news/11095/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career",
+          "description": "Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated suicide.",
+          "author": "",
+          "publishedAt": "2026-11-17T14:36:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-wayne-rooney_7403894.jpg?20261117152853"
+        },
+        {
+          "guid": "",
+          "title": "Vinicius Junior scores 12-minute hat-trick as Brazil dominate Singapore",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-17T12:38:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-vini-jr-brazil_7408628.jpg?20261117123734"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea latest: Henderson says everyone responsible for creating right culture",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-17T12:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20260731163403"
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
         },
         {
           "guid": "",
@@ -231,17 +321,7 @@
           "author": "",
           "publishedAt": "2026-11-17T11:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-ella-toone-england-women_7252965.jpg?20260519105727"
-        },
-        {
-          "guid": "",
-          "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
-          "url": "https://www.skysports.com/football/live-blog/11095/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-17T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/22/05/1920x1080/skysports-cristiano-ronaldo_5765711.jpg?20220509072444"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-ella-toone-aggie-beever-jones_7408856.jpg?20261117152654"
         },
         {
           "guid": "",
@@ -255,13 +335,23 @@
         },
         {
           "guid": "",
-          "title": "Arsenal latest: 'Agreement reached over new Raya contract'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Lewandowski lighting up Chicago Fire as MLS club makes big plans",
+          "url": "https://www.skysports.com/football/news/11095/13610420/gregg-broughton-interview-chicago-fire-sporting-director-on-robert-lewandowski-and-a-club-trying-to-find-an-edge-in-mls",
+          "description": "Chicago is a sporting city. &#8220;When the Bears play, you really notice it,&#8221; Gregg Broughton tells <em>Sky Sports</em>. &#8220;When the Bulls are winning, you notice it.&#8221; This year, the White Sox made the play-offs. &#8220;The whole city stopped.&#8221; The soccer team wants a piece of that.",
+          "author": "",
+          "publishedAt": "2026-11-17T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-robert-lewandowski_7408231.jpg?20261116225032"
+        },
+        {
+          "guid": "",
+          "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
+          "url": "https://www.skysports.com/football/live-blog/11095/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-17T09:15:00Z",
+          "publishedAt": "2026-11-17T10:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+          "imageUrl": "https://e1.365dm.com/22/05/1920x1080/skysports-cristiano-ronaldo_5765711.jpg?20220509072444"
         },
         {
           "guid": "",
@@ -285,26 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Pocognoli: Heavy Swiss loss not true reflection of Nations League encounter",
-          "url": "https://www.skysports.com/football/live-blog/11095/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-16T23:43:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-scotland-sebastien_7408198.jpg?20261116220749"
-        },
-        {
-          "guid": "",
-          "title": "Record-breaker Robertson speaks out after Scotland's bad loss to Switzerland",
-          "url": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
-          "description": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
-          "author": "",
-          "publishedAt": "2026-11-16T21:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135"
-        },
-        {
-          "guid": "",
           "title": "Rice verbally agrees new Arsenal contract",
           "url": "https://www.skysports.com/football/news/11095/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
           "description": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal,&#160;<em>Sky Sports News</em>&#160;can reveal.&#160;",
@@ -325,76 +395,6 @@
         },
         {
           "guid": "",
-          "title": "'Outstanding' Dowman scores historic winner as England U21s beat France",
-          "url": "https://www.skysports.com/football/england-u21-vs-france-u21/report/578798",
-          "description": "Max Dowman became England Under-21s' youngest ever goalscorer by grabbing a late winner in a 3-2 victory over France at Ashton Gate.&#160;",
-          "author": "",
-          "publishedAt": "2026-11-16T19:07:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-dowman-england_7408188.jpg?20261116220011"
-        },
-        {
-          "guid": "",
-          "title": "Frank appointed Crystal Palace manager",
-          "url": "https://www.skysports.com/football/news/11095/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park",
-          "description": "Crystal Palace have appointed Thomas Frank as their new manager.",
-          "author": "",
-          "publishedAt": "2026-11-16T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-frank-crystal-palace_7408022.png?20261116181511"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Pochettino staff arrive in Manchester early to prepare for Liverpool",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-16T15:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
-          "title": "Kaveh Q&A: YOUR questions answered on Man Utd, Man City, England and more",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-16T13:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/03/1920x1080/skysports-football-kaveh-iran_7189016.jpg?20260311135949"
-        },
-        {
-          "guid": "",
-          "title": "Portugal manager defends himself against Ronaldo's mother",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-16T10:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7365775.jpg?20261001133141"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool latest: Wirtz scores twice as Klopp's Germany thrash Netherlands",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-16T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "",
-          "title": "Papers: Timber, Raya and Hincapie to sign new Arsenal contracts",
-          "url": "https://www.skysports.com/football/news/11095/13613047/jurrien-timber-david-raya-and-piero-hincapie-to-extend-arsenal-contracts-alongside-declan-rice-paper-talk",
-          "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-15T22:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
           "title": "What does a Pochettino team look like?",
           "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
           "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
@@ -402,6 +402,16 @@
           "publishedAt": "2026-11-14T07:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
+        },
+        {
+          "guid": "",
+          "title": "Why have Man Utd only had two 'successful' managers?",
+          "url": "https://www.skysports.com/football/story-telling/13610897/why-have-man-utd-only-had-two-successful-managers",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-12T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
         },
         {
           "guid": "",
