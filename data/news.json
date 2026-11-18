@@ -4,8 +4,88 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-18T03:00:58Z",
+      "fetchedAt": "2026-11-18T09:36:34Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo#5",
+          "title": "When is the Nations League quarter-final draw?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
+          "author": "",
+          "publishedAt": "2026-11-18T09:33:42Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo#17",
+          "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+          "description": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+          "author": "",
+          "publishedAt": "2026-11-18T09:00:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o#0",
+          "title": "Manchester won't always be blue - Pochettino",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+          "description": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+          "author": "",
+          "publishedAt": "2026-11-18T08:42:28Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2794/live/b8059f20-e324-11f1-baab-4b3b35d174b7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o#16",
+          "title": "Rangers explore return for Cerny - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o?at_medium=RSS&at_campaign=rss",
+          "description": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
+          "author": "",
+          "publishedAt": "2026-11-18T08:15:37Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f5/live/17ebea90-e328-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnkk9j#16",
+          "title": "Listen: What needs to change for Pocognoli and Scotland?",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnkk9j?at_medium=RSS&at_campaign=rss",
+          "description": "What needs to change to turn Scotland’s fortunes around?",
+          "author": "",
+          "publishedAt": "2026-11-18T08:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnkkb9.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro#0",
+          "title": "From one of Ajax's future stars to quitting football for music",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
+          "description": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
+          "author": "",
+          "publishedAt": "2026-11-18T07:02:42Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-18T06:56:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#0",
+          "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+          "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
+          "author": "",
+          "publishedAt": "2026-11-18T06:27:11Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po#0",
           "title": "Belief and bench steer Northern Ireland into Nations League top tier",
@@ -107,16 +187,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo#0",
-          "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-          "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-          "author": "",
-          "publishedAt": "2026-11-17T17:13:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo#3",
           "title": "Swansea boss Matos on brink of Strasbourg move",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
@@ -125,16 +195,6 @@
           "publishedAt": "2026-11-17T16:52:59Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o#5",
-          "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
-          "url": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
-          "description": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
-          "author": "",
-          "publishedAt": "2026-11-17T16:03:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f106/live/1294a7e0-e296-11f1-8dda-8925a81c3da5.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo#1",
@@ -147,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#1",
           "title": "Rooney says he considered taking his own life at Man Utd",
           "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
           "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
@@ -177,7 +237,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f33/live/1e7eaf70-e286-11f1-b166-176de21e2352.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo#5",
           "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
           "description": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
@@ -185,54 +245,64 @@
           "publishedAt": "2026-11-17T12:56:27Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/703a/live/149159b0-e27f-11f1-bd1e-f9c53347c5a6.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o#2",
-          "title": "Watch: Can Northern Ireland hit the right notes in Budapest?",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
-          "description": "As Northern Ireland prepare to face Hungary in a key Nations League encounter, BBC Sport NI teams up with the Ulster Orchestra to build up to the big game in Budapest in musical fashion.",
-          "author": "",
-          "publishedAt": "2026-11-17T12:40:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e0/live/43fce150-e285-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo#5",
-          "title": "'Why not have a go?' - the halfway line goal phenomenon",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
-          "description": "Why Premier League players are trying their luck on goal from long range more regularly.",
-          "author": "",
-          "publishedAt": "2026-11-17T11:54:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo#7",
-          "title": "When is the Nations League quarter-final draw?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
-          "author": "",
-          "publishedAt": "2026-11-17T11:21:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo#1",
-          "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
-          "author": "",
-          "publishedAt": "2026-11-17T11:13:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-18T03:00:58Z",
+      "fetchedAt": "2026-11-18T09:36:34Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Arsenal latest: Gunners on a contract roll - who could be next?",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T09:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Which forwards should start against Man Utd? VOTE!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
+          "title": "Wiegman lays down Lionesses gauntlet - but whose spot is under threat?",
+          "url": "https://www.skysports.com/football/news/11095/13613373/sarina-wiegman-lays-down-gauntlet-to-england-players-looking-to-make-world-cup-squad-but-whose-spot-is-under-threat",
+          "description": "England haven't qualified for the World Cup yet but Sarina Wiegman has laid down the gauntlet to anyone that wants to make her squad.",
+          "author": "",
+          "publishedAt": "2026-11-18T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/06/1920x1080/skysports-sarina-wiegman_7268264.jpg?20260608120928"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Pochettino set for first day in charge",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T07:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
+        {
+          "guid": "",
+          "title": "Transfer Centre LIVE! Get your questions in for today's SSN transfer special!",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T07:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703"
+        },
         {
           "guid": "",
           "title": "Papers: Poch to appoint Man Utd's first-ever female coach",
@@ -285,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: 'I begin my next chapter' - Gabriel's exit statement in full",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-17T18:41:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
           "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
           "url": "https://www.skysports.com/football/news/11095/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
           "description": "JJ Gabriel has announced he is leaving Manchester United as he looks forward to his \"next chapter\" at Real Madrid.",
@@ -302,26 +362,6 @@
           "publishedAt": "2026-11-17T18:29:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-laliga_7396670.jpg?20261104095651"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Gyokeres and Odegaard involved in Nations League goals",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-17T16:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-17T16:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
         },
         {
           "guid": "",
@@ -361,17 +401,7 @@
           "author": "",
           "publishedAt": "2026-11-17T12:38:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-erling-haaland_7409122.jpg?20261117220357"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Henderson says everyone responsible for creating right culture",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-17T12:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-erling-haaland_7409122.jpg?20261118092114"
         },
         {
           "guid": "",
@@ -382,26 +412,6 @@
           "publishedAt": "2026-11-17T11:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-ella-toone-aggie-beever-jones_7408856.jpg?20261117152654"
-        },
-        {
-          "guid": "",
-          "title": "Mowbray steps down from Blackburn due to health issues",
-          "url": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
-          "description": "Tony Mowbray has stepped down from his role as Blackburn Rovers head coach due to health issues.",
-          "author": "",
-          "publishedAt": "2026-11-17T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-tony-mowbray-blackburn_7408470.jpg?20261117101155"
-        },
-        {
-          "guid": "",
-          "title": "What is going wrong for Pocognoli and Scotland?",
-          "url": "https://www.skysports.com/football/news/11095/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around",
-          "description": "A year is a long time in football and that is certainly the case when it comes to Scotland's fortunes.",
-          "author": "",
-          "publishedAt": "2026-11-17T08:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-sebastien-pocognoli_7408472.jpg?20261117101348"
         },
         {
           "guid": "",
@@ -422,6 +432,16 @@
           "publishedAt": "2026-11-16T07:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+        },
+        {
+          "guid": "",
+          "title": "What does a Pochettino team look like?",
+          "url": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
+          "description": "<a href='https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford'>Mauricio Pochettino has been named Manchester United's new manager</a> following the sacking of Michael Carrick, so what can supporters actually expect on the pitch?",
+          "author": "",
+          "publishedAt": "2026-11-14T07:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
         },
         {
           "guid": "",
