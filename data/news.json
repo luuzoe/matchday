@@ -4,10 +4,100 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-18T19:36:13Z",
+      "fetchedAt": "2026-11-19T00:34:58Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo#0",
+          "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-18T22:34:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo#2",
+          "title": "Buurman rescues late Chelsea win against PSG",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+          "description": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+          "author": "",
+          "publishedAt": "2026-11-18T22:13:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnqxmx#1",
+          "title": "Euro Leagues",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnqxmx?at_medium=RSS&at_campaign=rss",
+          "description": "Who makes the list of the Top 10 European Strikers of the Century so far?",
+          "author": "",
+          "publishedAt": "2026-11-18T22:06:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo#0",
+          "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+          "author": "",
+          "publishedAt": "2026-11-18T21:22:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o#1",
+          "title": "England defender Carter joins Bay FC after Gotham exit",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+          "description": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+          "author": "",
+          "publishedAt": "2026-11-18T21:07:26Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o#0",
+          "title": "Strasbourg appoint Swansea boss Matos",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+          "description": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+          "author": "",
+          "publishedAt": "2026-11-18T20:57:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o#0",
+          "title": "FA explored legal challenge to Infantino staying on",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+          "description": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+          "author": "",
+          "publishedAt": "2026-11-18T20:55:01Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo#2",
+          "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+          "description": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-18T20:25:40Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo#0",
+          "title": "Leicester split with sponsor after porn actress row",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+          "description": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+          "author": "",
+          "publishedAt": "2026-11-18T19:10:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo#1",
           "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
           "description": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
@@ -17,7 +107,17 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c880/live/28da6540-e37b-11f1-b879-03485a55c082.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o#1",
+          "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
+          "description": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+          "author": "",
+          "publishedAt": "2026-11-18T18:06:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/9fbcb180-e36d-11f1-9f51-4bfc31543510.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go#3",
           "title": "Rooney revelations important - Bradford boss Duff",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go?at_medium=RSS&at_campaign=rss",
           "description": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
@@ -27,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3743/live/c2268860-e375-11f1-b879-03485a55c082.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o#3",
           "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&at_campaign=rss",
           "description": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
@@ -37,7 +137,17 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pnnkrh#1",
+          "guid": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo#2",
+          "title": "Watch: Non-league player scores from own half",
+          "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
+          "description": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+          "author": "",
+          "publishedAt": "2026-11-18T16:46:34Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnnkrh#3",
           "title": "72+: The EFL Podcast",
           "url": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
           "description": "Aaron, Jobi and Tommy Smith talk all things EFL.",
@@ -77,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef1/live/5edbfef0-e354-11f1-acd4-25eaaa5def63.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo#1",
           "title": "Israel row a 'defining moment for us' - Hallgrimsson",
           "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made \"this group stronger\".",
@@ -87,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c390/live/18f5b870-e333-11f1-9479-d17d3e98c29d.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo#0",
+          "guid": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo#1",
           "title": "Toney loses bid to avoid Euro 2028 court clash",
           "url": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
           "description": "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
@@ -105,144 +215,34 @@
           "publishedAt": "2026-11-18T12:38:38Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/1634e590-e345-11f1-99aa-0f40b013ad11.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo#0",
-          "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
-          "description": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:51:37Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/7fc32c80-e2a3-11f1-8226-87dfa5049e9a.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo#1",
-          "title": "Williams to join temporary Swansea coaching team",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
-          "description": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:48:39Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d275/live/5ed8a260-e33a-11f1-9479-d17d3e98c29d.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo#0",
-          "title": "Former Spain midfielder Mata retires aged 38",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
-          "description": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:12:46Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do#1",
-          "title": "NI will carry momentum into Euro 2028 qualifiers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do?at_medium=RSS&at_campaign=rss",
-          "description": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:04:44Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aad/live/8b1820c0-e327-11f1-baab-4b3b35d174b7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo#13",
-          "title": "When is the Nations League quarter-final draw?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
-          "description": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
-          "author": "",
-          "publishedAt": "2026-11-18T09:33:42Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo#17",
-          "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-          "description": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-          "author": "",
-          "publishedAt": "2026-11-18T09:00:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o#0",
-          "title": "Manchester won't always be blue - Pochettino",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
-          "description": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-          "author": "",
-          "publishedAt": "2026-11-18T08:42:28Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2794/live/b8059f20-e324-11f1-baab-4b3b35d174b7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pnkk9j#16",
-          "title": "Listen: What needs to change for Pocognoli and Scotland?",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pnkk9j?at_medium=RSS&at_campaign=rss",
-          "description": "What needs to change to turn Scotland’s fortunes around?",
-          "author": "",
-          "publishedAt": "2026-11-18T08:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnkkb9.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro#0",
-          "title": "From one of Ajax's future stars to quitting football for music",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-          "description": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-          "author": "",
-          "publishedAt": "2026-11-18T07:02:42Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o#1",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-18T06:56:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#0",
-          "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
-          "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
-          "author": "",
-          "publishedAt": "2026-11-18T06:27:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po#5",
-          "title": "Belief and bench steer Northern Ireland into Nations League top tier",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
-          "description": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
-          "author": "",
-          "publishedAt": "2026-11-17T23:49:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o#1",
-          "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
-          "description": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
-          "author": "",
-          "publishedAt": "2026-11-17T23:37:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-18T19:36:13Z",
+      "fetchedAt": "2026-11-19T00:34:58Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
+          "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
+          "description": "Veerle Buurman's late winner snatched a late 1-0 win for Chelsea against Paris Saint-Germain to move them to the top of the Champions League table.",
+          "author": "",
+          "publishedAt": "2026-11-18T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-buurman-chelsea-veerle_7409927.jpg?20261118215413"
+        },
+        {
+          "guid": "",
+          "title": "Hemp stars as Man City beat Hacken in Champions League",
+          "url": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/report/578269",
+          "description": "Lauren Hemp scored one and assisted another as Manchester City beat BK Hacken 2-0 in their penultimate Women's Champions League league phase game on Wednesday.",
+          "author": "",
+          "publishedAt": "2026-11-18T19:50:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-khadija-shaw-lauren-hemp_7409846.jpg?20261118200554"
+        },
         {
           "guid": "",
           "title": "Transfer Centre LIVE! Time for Man Utd to sell Fernandes? Vote here!",
@@ -255,16 +255,6 @@
         },
         {
           "guid": "",
-          "title": "FREE STREAM: Watch 'Unfinished Business' Transfer Show on Sky Sports News",
-          "url": "https://www.skysports.com/football/news/11095/13613662/free-stream-watch-special-unfinished-business-transfer-show-on-sky-sports-news-with-guest-alan-pardew",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T18:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703"
-        },
-        {
-          "guid": "",
           "title": "Fernandes tumbles as new No 1 is crowned: Sky Sports' top 25 Premier League players",
           "url": "https://www.skysports.com/football/news/11095/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
           "description": "Bruno Fernandes has been dethroned as the king of the Premier League in a major shake-up to the top 25 Premier League players.",
@@ -272,16 +262,6 @@
           "publishedAt": "2026-11-18T17:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-erling-haaland_7408870.jpg?20261117153443"
-        },
-        {
-          "guid": "",
-          "title": "WCL: Shaw adds super Man City second at Hacken LIVE!",
-          "url": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/live/578269",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T16:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-hemp-lauren-city_7409825.jpg?20261118192239"
         },
         {
           "guid": "",
@@ -305,7 +285,7 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Pochettino's first words as he arrives at Carrington for first time",
+          "title": "Man Utd latest: Pochettino's words as he arrived at Carrington for first time",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -322,16 +302,6 @@
           "publishedAt": "2026-11-18T13:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-        },
-        {
-          "guid": "",
-          "title": "Newcastle latest: Jaissle wants to add more goals to squad in January",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T13:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
         },
         {
           "guid": "",
@@ -352,6 +322,16 @@
           "publishedAt": "2026-11-18T12:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-transfers_7408772.jpg?20261117144218"
+        },
+        {
+          "guid": "",
+          "title": "Matos completes Strasbourg switch with Williams in Swansea talks",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T11:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
         },
         {
           "guid": "",
@@ -382,16 +362,6 @@
           "publishedAt": "2026-11-18T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7402106.jpg?20261109122847"
-        },
-        {
-          "guid": "",
-          "title": "Hall is England's best left-back - because he started out as a midfielder",
-          "url": "https://www.skysports.com/football/news/11095/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
-          "description": "The most spectacular moment came in the 18th minute. It took a fifth Spain player to stop him dancing through the defence. But it was the turn away from Fabian Ruiz and Mikel Merino on the seven-minute mark that showed Lewis Hall at his most impudent.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hall-newcastle-united_7409318.jpg?20261118085027"
         },
         {
           "guid": "",
@@ -442,6 +412,16 @@
           "publishedAt": "2026-11-18T07:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Pochettino could help Man Utd's pursuit of Paz",
+          "url": "https://www.skysports.com/football/news/11095/13613766/manchester-united-pursuit-of-nico-paz-boosted-by-mauricio-pochettino-arrival-paper-talk",
+          "description": "The top stories and transfer rumours from Thursday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-17T22:58:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         }
       ]
     }
