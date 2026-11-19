@@ -4,8 +4,48 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-19T07:52:46Z",
+      "fetchedAt": "2026-11-19T09:18:57Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo#0",
+          "title": "The best European strikers this century - ranked by you",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport reveals the top 10 European strikers this century, as voted for by you.",
+          "author": "",
+          "publishedAt": "2026-11-19T08:50:01Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f24b/live/3bc2f180-e3ea-11f1-99b6-a35a62fa4264.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo#1",
+          "title": "Leicester split with sponsor after porn actress row",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+          "description": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+          "author": "",
+          "publishedAt": "2026-11-19T08:26:16Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm62pqd0v7dlo#16",
+          "title": "Armstrong would relish Rangers switch - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm62pqd0v7dlo?at_medium=RSS&at_campaign=rss",
+          "description": "Romania-based winger eyes reunion with manager at Ibrox as Celtic hero reveals approach from Rangers...",
+          "author": "",
+          "publishedAt": "2026-11-19T08:01:39Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba9/live/e8eace60-e3ee-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnsj90#16",
+          "title": "Podcast: Who should be worried in Premiership bottom four?",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnsj90?at_medium=RSS&at_campaign=rss",
+          "description": "Aberdeen, Hibs, Motherwell & Killie... FIGHT!",
+          "author": "",
+          "publishedAt": "2026-11-19T08:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnsjj9.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo#0",
           "title": "How Premier League's big six keep getting richer",
@@ -110,14 +150,14 @@
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o#0",
           "title": "Strasbourg appoint Swansea boss Matos",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
-          "description": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+          "description": "Strasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move.",
           "author": "",
           "publishedAt": "2026-11-18T20:57:54Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o#1",
           "title": "FA explored legal challenge to Infantino staying on",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
           "description": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
@@ -137,16 +177,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo#1",
-          "title": "Leicester split with sponsor after porn actress row",
-          "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
-          "description": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
-          "author": "",
-          "publishedAt": "2026-11-18T19:10:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo#1",
           "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
           "url": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
@@ -157,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c880/live/28da6540-e37b-11f1-b879-03485a55c082.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o#3",
           "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
           "description": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
@@ -167,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/9fbcb180-e36d-11f1-9f51-4bfc31543510.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go#5",
           "title": "Rooney revelations important - Bradford boss Duff",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go?at_medium=RSS&at_campaign=rss",
           "description": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
@@ -185,47 +215,37 @@
           "publishedAt": "2026-11-18T17:06:29Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o#0",
-          "title": "The tightest survival scrap for years? Why it's not too early to worry",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
-          "description": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
-          "author": "",
-          "publishedAt": "2026-11-18T16:09:55Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo#16",
-          "title": "Pressley calls for national centre to enhance Scottish game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo?at_medium=RSS&at_campaign=rss",
-          "description": "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.",
-          "author": "",
-          "publishedAt": "2026-11-18T15:07:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759f/live/82b10c50-e361-11f1-a898-e7da1c1ebbf0.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o#16",
-          "title": "Fan voice on board key to ending Celtic unrest - club legend McStay",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o?at_medium=RSS&at_campaign=rss",
-          "description": "Celtic legend Paul McStay says having a supporters representative on the board would be a significant step to halting the unrest between the club and the fans.",
-          "author": "",
-          "publishedAt": "2026-11-18T13:55:58Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef1/live/5edbfef0-e354-11f1-acd4-25eaaa5def63.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-19T07:52:46Z",
+      "fetchedAt": "2026-11-19T09:18:57Z",
       "articles": [
         {
           "guid": "",
-          "title": "Man Utd latest: Poch's first day recapped – First words, January targets and what's next",
+          "title": "Man City have problems - is Fernandez their most obvious?",
+          "url": "https://www.skysports.com/football/news/11095/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
+          "description": "Enzo Maresca is being forced to work within an unprecedented set of circumstances this season. Up until recently, his fixation on football matters served to quieten the noise around the club. But now the anomalous nature of Manchester City's situation is apparent on and off the pitch.",
+          "author": "",
+          "publishedAt": "2026-11-19T09:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7409613.jpg?20261118134750"
+        },
+        {
+          "guid": "",
+          "title": "Premier League talking points: Trial by Anfield as Poch begins Man Utd tenure",
+          "url": "https://www.skysports.com/football/news/11095/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
+          "description": "The Premier League is back after the recent international break and the <em>Sky Sports</em> football writers dissect all the major talking points ahead of another busy weekend's action.",
+          "author": "",
+          "publishedAt": "2026-11-19T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league_7408877.jpg?20261117153906"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Poch's Carrington arrival recap – reaction, transfer plans and what's next",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -295,23 +315,13 @@
         },
         {
           "guid": "",
-          "title": "Everton latest: Striker remains a priority for Toffees in January",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "title": "Man City latest: Club braced for Ait-Nouri interest in January",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-18T13:20:00Z",
+          "publishedAt": "2026-11-18T13:05:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-        },
-        {
-          "guid": "",
-          "title": "Your PL club's 'Unfinished Business' revealed ahead of January window",
-          "url": "https://www.skysports.com/football/news/11095/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T12:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
         },
         {
           "guid": "",
@@ -325,23 +335,13 @@
         },
         {
           "guid": "",
-          "title": "Matos completes Strasbourg switch with Williams in Swansea talks",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "title": "Your PL club's 'Unfinished Business' revealed ahead of January window",
+          "url": "https://www.skysports.com/football/news/11095/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-18T11:30:00Z",
+          "publishedAt": "2026-11-18T12:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: Onana signs new deal",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T11:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703"
         },
         {
           "guid": "",
@@ -395,23 +395,13 @@
         },
         {
           "guid": "",
-          "title": "Have your say: Rank your own Premier League top 10!",
+          "title": "Rank your own Premier League top 10 players!",
           "url": "https://www.skysports.com/football/live-blog/11095/13613478/premier-league-top-25-players-who-is-the-best-player-in-the-premier-league-right-now",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-18T07:42:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-premier-league_7409411.jpg?20261118103312"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea latest: Martinez keeps clean sheet on return from broken jaw",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T07:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
         },
         {
           "guid": "",
@@ -422,6 +412,16 @@
           "publishedAt": "2026-11-17T22:58:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Why have Man Utd only had two 'successful' managers?",
+          "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-12T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
         }
       ]
     }
