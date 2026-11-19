@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-19T16:53:14Z",
+      "fetchedAt": "2026-11-19T18:27:28Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo#10",
+          "title": "All done deals from September-November 2026",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+          "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "author": "",
+          "publishedAt": "2026-11-19T17:54:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o#0",
+          "title": "We'll only sell if offer makes club blink - McInnes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+          "description": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
+          "author": "",
+          "publishedAt": "2026-11-19T17:11:51Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo#10",
           "title": "Manager ins and outs - 2026-27",
@@ -15,6 +35,16 @@
           "publishedAt": "2026-11-19T16:45:46Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/m003501m#1",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
+          "description": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
+          "author": "",
+          "publishedAt": "2026-11-19T16:42:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo#1",
@@ -28,7 +58,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o#0",
-          "title": "Struggling Blackpool sack head coach Evatt",
+          "title": "Struggling Blackpool sack Evatt on his birthday",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
           "description": "Blackpool sack head coach Ian Evatt after a year in charge following a run of one win and six defeats in their past 10 league games.",
           "author": "",
@@ -195,63 +225,63 @@
           "publishedAt": "2026-11-19T07:14:11Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o#1",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-19T07:06:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o#0",
-          "title": "Vote for the first BBC Men's Footballer of the Year",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
-          "description": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
-          "author": "",
-          "publishedAt": "2026-11-19T06:30:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo#2",
-          "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
-          "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
-          "description": "The midfielder speaks of the \"special moment\" he scored from within his own half.",
-          "author": "",
-          "publishedAt": "2026-11-19T05:30:23Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo#3",
-          "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-18T22:34:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-19T16:53:14Z",
+      "fetchedAt": "2026-11-19T18:27:28Z",
       "articles": [
         {
           "guid": "",
-          "title": "Man City latest: Guehi returns to training - with a surprise guest!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "West Ham latest: Parker looking forward to Hammers homecoming",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-19T16:17:00Z",
+          "publishedAt": "2026-11-19T17:40:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
+        },
+        {
+          "guid": "",
+          "title": "Forest latest: PL vote not in support of Man City",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-19T17:38:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
+        },
+        {
+          "guid": "",
+          "title": "Spurs latest: 'You only know a tenth of the truth,' says Frank",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-19T17:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Palace latest: Frank outlines three key areas of improvement ahead of first game",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-19T17:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
+        },
+        {
+          "guid": "",
+          "title": "Coventry latest: Yirenkyi to face late fitness test before Palace clash",
+          "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-19T16:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
         },
         {
           "guid": "",
@@ -262,6 +292,16 @@
           "publishedAt": "2026-11-19T15:26:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954"
+        },
+        {
+          "guid": "",
+          "title": "Frick targets Premiership top-six for Aberdeen with 'heavy metal football'",
+          "url": "https://www.skysports.com/football/news/11095/13613844/mario-frick-aberdeens-new-head-coach-targets-scottish-premiership-top-six-with-heavy-metal-football",
+          "description": "Aberdeen's new head coach Mario Frick will not just be happy with Scottish Premiership survival this season, insisting he wants a top-six finish.",
+          "author": "",
+          "publishedAt": "2026-11-19T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mario-frick-aberdeen_7410719.jpg?20261119164048"
         },
         {
           "guid": "",
@@ -295,13 +335,13 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Pochettino reveals 1999 Treble connection and Fergie dream",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "EFL latest: Evatt sacked hours after Happy Birthday message from Blackpool",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-19T12:00:00Z",
+          "publishedAt": "2026-11-19T11:48:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-ian-evatt-blackpool_7410754.jpg?20261119172041"
         },
         {
           "guid": "",
@@ -365,26 +405,6 @@
         },
         {
           "guid": "",
-          "title": "The secrets of Brentford's success",
-          "url": "https://www.skysports.com/football/news/11095/13613585/how-brentford-plan-to-develop-the-best-young-talent-and-break-into-the-premier-league-elite",
-          "description": "'Data wizards'. 'Great recruiters'. 'Punching above their weight' - Brentford have come to be known for all these things in recent years. Now, having established themselves in the Premier League, they have become bolder about wanting to mix it with the big clubs and break into Europe.",
-          "author": "",
-          "publishedAt": "2026-11-18T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-igor-thiago-premier-league_7392886.jpg?20261031164456"
-        },
-        {
-          "guid": "",
-          "title": "Fernandes tumbles as new No 1 is crowned: Sky Sports' top 25 Premier League players",
-          "url": "https://www.skysports.com/football/news/11095/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
-          "description": "Bruno Fernandes has been dethroned as the king of the Premier League in a major shake-up to the top 25 Premier League players.",
-          "author": "",
-          "publishedAt": "2026-11-18T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-erling-haaland_7408870.jpg?20261117153443"
-        },
-        {
-          "guid": "",
           "title": "Premier League predictor - play our new game each week!",
           "url": "https://www.skysports.com/football/live-blog/11095/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
           "description": "",
@@ -412,36 +432,6 @@
           "publishedAt": "2026-11-18T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7402106.jpg?20261109122847"
-        },
-        {
-          "guid": "",
-          "title": "Hall is England's best left-back - because he started out as a midfielder",
-          "url": "https://www.skysports.com/football/news/11095/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
-          "description": "The most spectacular moment came in the 18th minute. It took a fifth Spain player to stop him dancing through the defence. But it was the turn away from Fabian Ruiz and Mikel Merino on the seven-minute mark that showed Lewis Hall at his most impudent.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hall-newcastle-united_7409318.jpg?20261118085027"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool latest: 'A promising picture on the injury front'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "",
-          "title": "Top 10 Premier League players - voted by the readers!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13613478/premier-league-top-25-players-who-is-the-best-player-in-the-premier-league-right-now",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T07:42:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-premier-league_7409411.jpg?20261118103312"
         }
       ]
     }
