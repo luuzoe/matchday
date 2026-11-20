@@ -4,20 +4,120 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-20T12:45:04Z",
+      "fetchedAt": "2026-11-20T16:48:12Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo#1",
+          "title": "Mowbray support no surprise, says interim boss Johnson",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
+          "description": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
+          "author": "",
+          "publishedAt": "2026-11-20T16:27:19Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09e9/live/06156b60-e4fa-11f1-a8e4-b1e12a49db15.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o#0",
+          "title": "Man Utd fan criticism has gone too far at times - Berrada",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+          "author": "",
+          "publishedAt": "2026-11-20T16:24:46Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f72e/live/c613bd70-e4fc-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo#0",
+          "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
+          "author": "",
+          "publishedAt": "2026-11-20T16:00:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82f/live/889e19c0-e4cc-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o#0",
+          "title": "Why injured Joao Pedro may be Chelsea's most important player",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
+          "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
+          "author": "",
+          "publishedAt": "2026-11-20T15:18:42Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddb/live/bbd39d90-e415-11f1-b37c-b3a71d7200af.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o#0",
+          "title": "Filming training by drones should be illegal - Iraola",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+          "author": "",
+          "publishedAt": "2026-11-20T15:08:51Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fcc/live/7922cff0-e4ee-11f1-8781-bf15c9202663.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo#0",
+          "title": "Celtic's Baur out for 10 weeks, says O'Neill",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
+          "description": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says.",
+          "author": "",
+          "publishedAt": "2026-11-20T14:47:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f456/live/ffbb6070-e4f0-11f1-8781-bf15c9202663.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o#3",
+          "title": "SFA should not change to pander to clubs - McLeish",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o?at_medium=RSS&at_campaign=rss",
+          "description": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms.",
+          "author": "",
+          "publishedAt": "2026-11-20T14:09:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db75/live/0bd7f770-e4e6-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro#0",
+          "title": "Arteta warns Arsenal players over FPL team news leak",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+          "description": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-20T14:08:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/ba1c8130-e4e5-11f1-b039-c1944465024e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo#1",
+          "title": "Key questions as Scottish Premiership returns",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
+          "description": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
+          "author": "",
+          "publishedAt": "2026-11-20T13:53:22Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo#1",
+          "title": "Legendary Irish League manager Coyle dies aged 80",
+          "url": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
+          "description": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
+          "author": "",
+          "publishedAt": "2026-11-20T13:52:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo#0",
           "title": "Southampton give head coach Eckert new deal",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
           "description": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
           "author": "",
-          "publishedAt": "2026-11-20T12:33:39Z",
+          "publishedAt": "2026-11-20T13:10:33Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o#3",
           "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
           "description": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
@@ -27,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390b/live/ce0a76c0-e468-11f1-99b6-a35a62fa4264.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po#1",
+          "guid": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po#5",
           "title": "Fan found not guilty of racially abusing Semenyo",
           "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
           "description": "Mark Mogan was accused of shouting abuse at Antoine Semenyo at a match at Anfield in August 2025.",
@@ -37,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o#1",
           "title": "EFL preview: Evans' gripes & unexpected departures",
           "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport explores five things to capture your attention this EFL weekend.",
@@ -87,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo#1",
           "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
@@ -97,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccb/live/578a67d0-e3ff-11f1-99b6-a35a62fa4264.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o#3",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -115,133 +215,73 @@
           "publishedAt": "2026-11-20T06:13:23Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d5/live/baeaef60-e261-11f1-900c-895604014268.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o#0",
-          "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
-          "description": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-19T23:57:54Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo#2",
-          "title": "Lyon outclass Arsenal for Champions League win",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
-          "author": "",
-          "publishedAt": "2026-11-19T22:56:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko#1",
-          "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
-          "description": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-19T21:57:22Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o#0",
-          "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
-          "description": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
-          "author": "",
-          "publishedAt": "2026-11-19T20:44:11Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro#0",
-          "title": "Frank happy to be 'back in the circus' at Palace",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
-          "description": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
-          "author": "",
-          "publishedAt": "2026-11-19T20:16:10Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo#3",
-          "title": "New manager Frick to take Aberdeen back to basics",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
-          "description": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
-          "author": "",
-          "publishedAt": "2026-11-19T19:11:26Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ec/live/f852eba0-e44b-11f1-9192-3924a59e54c7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o#3",
-          "title": "England fined for fans' anti-Catholic chants in Spain",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
-          "description": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
-          "author": "",
-          "publishedAt": "2026-11-19T19:11:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o#0",
-          "title": "Sutton's predictions v world champion boxer Lauren Price",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-          "author": "",
-          "publishedAt": "2026-11-19T18:52:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo#1",
-          "title": "Pochettino's first Man Utd training session filmed by drone operator",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
-          "description": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
-          "author": "",
-          "publishedAt": "2026-11-19T18:45:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo#10",
-          "title": "All done deals from September-November 2026",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-          "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-          "author": "",
-          "publishedAt": "2026-11-19T17:54:30Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o#5",
-          "title": "We'll only sell if offer makes club blink - McInnes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
-          "description": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
-          "author": "",
-          "publishedAt": "2026-11-19T17:11:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-20T12:45:05Z",
+      "fetchedAt": "2026-11-20T16:48:12Z",
       "articles": [
         {
           "guid": "",
-          "title": "Eckert signs new Saints deal despite 'Spygate' controversy",
-          "url": "https://www.skysports.com/football/news/11095/13614334/southampton-boss-tonda-eckert-given-contract-extension-despite-spygate-controversy",
-          "description": "Southampton boss Tonda Eckert has been handed a contract extension through to 2029.",
+          "title": "Chelsea latest: 'Tom Brady in discussions over Blues investment'",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-20T12:30:00Z",
+          "publishedAt": "2026-11-20T16:11:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7254559.jpg?20260521084229"
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Scot Prem latest: McInnes confident big names will stay at Rangers in January",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-20T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-rangers-derek-mcinnes_7384778.jpg?20261023161730"
+        },
+        {
+          "guid": "",
+          "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
+          "url": "https://www.skysports.com/football/news/11095/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+          "description": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
+          "author": "",
+          "publishedAt": "2026-11-20T14:36:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7411463.jpg?20261120140859"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Poch addresses Bruno future and wants say on squad decisions",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-20T14:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
+        {
+          "guid": "",
+          "title": "Man City latest: Maresca backs Donnarumma, Fernandez and reveals injury doubts",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-20T13:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "",
+          "title": "Spurs latest: De Zerbi on Tel, Maddison and Mudryk's podcast comments",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-20T13:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
         },
         {
           "guid": "",
@@ -255,16 +295,6 @@
         },
         {
           "guid": "",
-          "title": "Will Frank turn things around at Crystal Palace?",
-          "url": "https://www.skysports.com/football/news/11095/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
-          "description": "One of the Premier League's most charismatic managers is back.",
-          "author": "",
-          "publishedAt": "2026-11-20T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408620.jpg?20261117123420"
-        },
-        {
-          "guid": "",
           "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
           "url": "https://www.skysports.com/football/news/11095/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
           "description": "It's all eyes on Bruno Guimaraes this Saturday. The Newcastle hero who captained the team to cup success returns in Arsenal colours. And he returns as a growing cog in the Gunners' system.",
@@ -275,13 +305,13 @@
         },
         {
           "guid": "",
-          "title": "Transfer Centre LIVE! Mourinho responds to JJ Gabriel's impending Man Utd exit",
+          "title": "Transfer Centre LIVE! Will Fernandes stay? Man Utd CEO gives update...",
           "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-20T09:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-laliga_7396670.jpg?20261104095651"
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018"
         },
         {
           "guid": "",
@@ -315,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Drone footage 'a significant tactical advantage to Liverpool'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-19T21:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
           "title": "PL Predictions: How will your club fare this weekend?",
           "url": "https://www.skysports.com/football/news/11095/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight as the Premier League returns from the international break.",
@@ -332,16 +352,6 @@
           "publishedAt": "2026-11-19T18:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Palace latest: Frank adds Chelsea coach to his backroom staff",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-19T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
         },
         {
           "guid": "",
@@ -375,16 +385,6 @@
         },
         {
           "guid": "",
-          "title": "Seven years on from the sack at Spurs what sort of coach is Pochettino now?",
-          "url": "https://www.skysports.com/football/news/11095/13612583/mauricio-pochettino-at-man-utd-seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-he-now-we-will-soon-find-out",
-          "description": "What Mauricio Pochettino achieved with Tottenham Hotspur in the previous decade looks even more impressive now than it did at the time. Manchester United really should have turned to the popular Argentine coach years ago.",
-          "author": "",
-          "publishedAt": "2026-11-19T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
-        },
-        {
-          "guid": "",
           "title": "Man City have problems - is Fernandez their most obvious?",
           "url": "https://www.skysports.com/football/news/11095/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
           "description": "Enzo Maresca is being forced to work within an unprecedented set of circumstances this season. Up until recently, his fixation on football matters served to quieten the noise around the club. But now the anomalous nature of Manchester City's situation is apparent on and off the pitch.",
@@ -415,23 +415,13 @@
         },
         {
           "guid": "",
-          "title": "Hall is England's best left-back - because he started out as a midfielder",
-          "url": "https://www.skysports.com/football/news/11095/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
-          "description": "The most spectacular moment came in the 18th minute. It took a fifth Spain player to stop him dancing through the defence. But it was the turn away from Fabian Ruiz and Mikel Merino on the seven-minute mark that showed Lewis Hall at his most impudent.",
+          "title": "Liverpool latest: Iraola gives Gravenberch, Frimpong and Van Dijk injury updates",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-18T10:00:00Z",
+          "publishedAt": "2026-11-18T08:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hall-newcastle-united_7409318.jpg?20261118085027"
-        },
-        {
-          "guid": "",
-          "title": "What does Arteta do with Konsa once Saliba returns?",
-          "url": "https://www.skysports.com/football/news/11095/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness",
-          "description": "Arsenal have a big set of fixtures coming up after the November international break. Big games require big team selections - and Mikel Arteta has a huge decision to make in his defence.",
-          "author": "",
-          "publishedAt": "2026-11-18T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7402106.jpg?20261109122847"
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         }
       ]
     }
