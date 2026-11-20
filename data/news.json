@@ -4,8 +4,48 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-20T20:46:14Z",
+      "fetchedAt": "2026-11-20T22:55:54Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do#0",
+          "title": "NFL great Brady could buy Chelsea stake",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+          "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+          "author": "",
+          "publishedAt": "2026-11-20T22:36:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o#0",
+          "title": "Lampard calls for fairness after Coventry penalty row",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
+          "description": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in the wake of his side being denied a penalty at Everton.",
+          "author": "",
+          "publishedAt": "2026-11-20T22:04:19Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d704/live/01ee3ee0-e455-11f1-80a9-5325c842329b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o#0",
+          "title": "Shevchenko lying about drugs test claims - Mudryk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+          "description": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
+          "author": "",
+          "publishedAt": "2026-11-20T21:54:17Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o#2",
+          "title": "Watch: Inverness and Ayr play out goalless draw",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+          "description": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
+          "author": "",
+          "publishedAt": "2026-11-20T21:47:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo#0",
           "title": "Osimhen keen on Man Utd move - Saturday's gossip",
@@ -27,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0985/live/d8838190-e4fa-11f1-a8e4-b1e12a49db15.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo#1",
           "title": "Chelsea fined £150,000 for discriminatory chanting",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
           "description": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January.",
@@ -47,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo#3",
           "title": "Matos accepts Swansea fans' anger over shock exit",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss",
           "description": "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss.",
@@ -77,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo#3",
           "title": "Mowbray support no surprise, says interim boss Johnson",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
           "description": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
@@ -97,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82f/live/889e19c0-e4cc-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o#1",
           "title": "Why injured Joao Pedro may be Chelsea's most important player",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
           "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
@@ -155,64 +195,34 @@
           "publishedAt": "2026-11-20T13:53:22Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo#5",
-          "title": "Legendary Irish League manager Coyle dies aged 80",
-          "url": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
-          "description": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
-          "author": "",
-          "publishedAt": "2026-11-20T13:52:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo#1",
-          "title": "Southampton give head coach Eckert new deal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
-          "description": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
-          "author": "",
-          "publishedAt": "2026-11-20T13:10:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o#5",
-          "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
-          "description": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
-          "author": "",
-          "publishedAt": "2026-11-20T11:35:16Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390b/live/ce0a76c0-e468-11f1-99b6-a35a62fa4264.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po#5",
-          "title": "Fan found not guilty of racially abusing Semenyo",
-          "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
-          "description": "Mark Mogan was accused of shouting abuse at Antoine Semenyo at a match at Anfield in August 2025.",
-          "author": "",
-          "publishedAt": "2026-11-20T11:12:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o#5",
-          "title": "EFL preview: Evans' gripes & unexpected departures",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport explores five things to capture your attention this EFL weekend.",
-          "author": "",
-          "publishedAt": "2026-11-20T08:24:38Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61b/live/371b89f0-e370-11f1-a094-5fdc692f3e33.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-20T20:46:14Z",
+      "fetchedAt": "2026-11-20T22:55:55Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Kane set to miss three months with ankle injury",
+          "url": "https://www.skysports.com/football/news/11095/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury",
+          "description": "Harry Kane is expected to be sidelined for three months after suffering an ankle injury during Bayern Munich's Bundesliga game with Cologne on Friday.",
+          "author": "",
+          "publishedAt": "2026-11-20T22:26:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-harry-kane-bayern-munich_7411889.jpg?20261120222213"
+        },
+        {
+          "guid": "",
+          "title": "Van Dijk uncertain on Liverpool future",
+          "url": "https://www.skysports.com/football/news/11095/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years",
+          "description": "Liverpool captain Virgil van Dijk believes he can keeping playing for \"many more years\" - but says he does not yet know whether that will be at Anfield next season.&#160;",
+          "author": "",
+          "publishedAt": "2026-11-20T20:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-liverpool-van-dijk_7411788.jpg?20261120202101"
+        },
         {
           "guid": "",
           "title": "Drones, data and Bruno - Pochettino on his early Man Utd challenges",
@@ -335,16 +345,6 @@
         },
         {
           "guid": "",
-          "title": "Palace latest: Frank adds Chelsea coach to his backroom staff",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-19T17:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
-        },
-        {
-          "guid": "",
           "title": "Assessing Iraola's Liverpool start",
           "url": "https://www.skysports.com/football/news/11095/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
           "description": "Liverpool head coach Andoni Iraola asked for judgements on his tenure to wait until after the November international break - we assess how the Basque is faring so far in his new role ahead of the visit of Manchester United in the Premier League on Super Sunday.",
@@ -402,16 +402,6 @@
           "publishedAt": "2026-11-18T15:12:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-daviod-raya-arsenal_7409699.png?20261118153705"
-        },
-        {
-          "guid": "",
-          "title": "Liverpool latest: Iraola gives Gravenberch, Frimpong and Van Dijk injury updates",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
         }
       ]
     }
