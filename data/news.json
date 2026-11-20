@@ -4,8 +4,58 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-20T04:04:47Z",
+      "fetchedAt": "2026-11-20T07:58:50Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo#0",
+          "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+          "description": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+          "author": "",
+          "publishedAt": "2026-11-20T07:42:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/610e5c60-e361-11f1-a898-e7da1c1ebbf0.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo#0",
+          "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+          "description": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+          "author": "",
+          "publishedAt": "2026-11-20T07:26:36Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo#1",
+          "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+          "author": "",
+          "publishedAt": "2026-11-20T07:08:51Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccb/live/578a67d0-e3ff-11f1-99b6-a35a62fa4264.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o#1",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-20T06:43:38Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo#0",
+          "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+          "description": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
+          "author": "",
+          "publishedAt": "2026-11-20T06:13:23Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d5/live/baeaef60-e261-11f1-900c-895604014268.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o#0",
           "title": "Arsenal 'have ingredients' but Europe's elite on another level",
@@ -67,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ec/live/f852eba0-e44b-11f1-9192-3924a59e54c7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o#1",
           "title": "England fined for fans' anti-Catholic chants in Spain",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
           "description": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
@@ -87,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo#1",
           "title": "Pochettino's first Man Utd training session filmed by drone operator",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
           "description": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
@@ -107,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o#3",
           "title": "We'll only sell if offer makes club blink - McInnes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
           "description": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
@@ -137,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo#5",
           "title": "Crawley keep Blackwell as boss until end of season",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
           "description": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
@@ -147,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157a/live/569d91d0-e436-11f1-8346-933d3547e297.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o#1",
           "title": "Struggling Blackpool sack Evatt on his birthday",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
           "description": "Blackpool sack head coach Ian Evatt after a year in charge following a run of one win and six defeats in their past 10 league games.",
@@ -167,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8510/live/71f11f30-e420-11f1-9e08-55a8a3b48445.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo#5",
           "title": "Five return for Wales' World Cup play-off final",
           "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
           "description": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
@@ -175,53 +225,13 @@
           "publishedAt": "2026-11-19T13:40:43Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/71778330-e3f0-11f1-a1b0-810734adec41.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo#0",
-          "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-          "description": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
-          "author": "",
-          "publishedAt": "2026-11-19T13:29:42Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4515/live/c1425af0-e41a-11f1-b37c-b3a71d7200af.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o#1",
-          "title": "Will this be the tightest Championship promotion race ever?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o?at_medium=RSS&at_campaign=rss",
-          "description": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?",
-          "author": "",
-          "publishedAt": "2026-11-19T12:36:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0079/live/93457630-e35e-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqj3kn54nxljo#5",
-          "title": "Posh chairman MacAnthony 'fighting for his legacy'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqj3kn54nxljo?at_medium=RSS&at_campaign=rss",
-          "description": "Darragh MacAnthony says he is \"working around the clock\" to protect his \"legacy\" as Peterborough United chairman.",
-          "author": "",
-          "publishedAt": "2026-11-19T12:33:21Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da2/live/a46292a0-e40c-11f1-b37c-b3a71d7200af.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo#5",
-          "title": "Leicester split with sponsor after porn actress row",
-          "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
-          "description": "A fan group had complained after BC Game appointed a porn actress as a brand ambassador.",
-          "author": "",
-          "publishedAt": "2026-11-19T11:44:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-20T04:04:47Z",
+      "fetchedAt": "2026-11-20T07:58:50Z",
       "articles": [
         {
           "guid": "",
@@ -285,16 +295,6 @@
         },
         {
           "guid": "",
-          "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
-          "url": "https://www.skysports.com/football/news/11095/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
-          "description": "Premier League clubs have voted to cover the legal costs of their five board members if they are sued individually by Manchester City's sponsors.",
-          "author": "",
-          "publishedAt": "2026-11-19T15:26:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954"
-        },
-        {
-          "guid": "",
           "title": "Frick targets Premiership top-six for Aberdeen with 'heavy metal football'",
           "url": "https://www.skysports.com/football/news/11095/13613844/mario-frick-aberdeens-new-head-coach-targets-scottish-premiership-top-six-with-heavy-metal-football",
           "description": "Aberdeen's new head coach Mario Frick will not just be happy with Scottish Premiership survival this season, insisting he wants a top-six finish.",
@@ -352,6 +352,16 @@
           "publishedAt": "2026-11-19T11:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-chelsea_7408490.jpg?20261117103110"
+        },
+        {
+          "guid": "",
+          "title": "How 'sleeping giant' Everton are exceeding expectations",
+          "url": "https://www.skysports.com/football/news/11095/13612885/everton-how-premier-leagues-sleeping-giant-are-exceeding-expectations-ahead-of-brentford-test",
+          "description": "Everything felt a bit gloomy at Everton after the closure of the summer transfer window. 'Disappointment' was the buzzword used by David Moyes - especially after a Deadline Day move for Folarin Balogun fell through.",
+          "author": "",
+          "publishedAt": "2026-11-19T10:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-everton_7408528.jpg?20261117111835"
         },
         {
           "guid": "",
@@ -415,13 +425,13 @@
         },
         {
           "guid": "",
-          "title": "Papers: Fulham pushing to extend contract of Man Utd target",
-          "url": "https://www.skysports.com/football/news/11095/13614185/fulham-pushing-to-extend-contract-of-man-utd-target-calvin-bassey-paper-talk",
-          "description": "The top stories and transfer rumours from Friday's newspapers...",
+          "title": "Hall is England's best left-back - because he started out as a midfielder",
+          "url": "https://www.skysports.com/football/news/11095/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
+          "description": "The most spectacular moment came in the 18th minute. It took a fifth Spain player to stop him dancing through the defence. But it was the turn away from Fabian Ruiz and Mikel Merino on the seven-minute mark that showed Lewis Hall at his most impudent.",
           "author": "",
-          "publishedAt": "2026-11-17T22:58:00Z",
+          "publishedAt": "2026-11-18T10:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hall-newcastle-united_7409318.jpg?20261118085027"
         }
       ]
     }
