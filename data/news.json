@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-19T23:20:30Z",
+      "fetchedAt": "2026-11-20T00:47:44Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o#0",
+          "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+          "description": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+          "author": "",
+          "publishedAt": "2026-11-19T23:57:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo#2",
           "title": "Lyon outclass Arsenal for Champions League win",
@@ -157,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8510/live/71f11f30-e420-11f1-9e08-55a8a3b48445.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo#3",
           "title": "Five return for Wales' World Cup play-off final",
           "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
           "description": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
@@ -205,23 +215,13 @@
           "publishedAt": "2026-11-19T11:44:35Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o#5",
-          "title": "Magill returns to NI squad for Greece friendlies",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
-          "description": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.",
-          "author": "",
-          "publishedAt": "2026-11-19T11:12:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b69/live/b1481ac0-e408-11f1-ab35-e1af93fa5cce.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-19T23:20:30Z",
+      "fetchedAt": "2026-11-20T00:47:44Z",
       "articles": [
         {
           "guid": "",
