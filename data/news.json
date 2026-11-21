@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-21T08:52:27Z",
+      "fetchedAt": "2026-11-21T11:49:20Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckn80vgexz13o#16",
+          "title": "Two SPFL postponements due to frozen pitch",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn80vgexz13o?at_medium=RSS&at_campaign=rss",
+          "description": "Dunfermline's Championship match against Greenock Morton and Spartans' League Two game against Dumbarton have been postponed due to a frozen pitch.",
+          "author": "",
+          "publishedAt": "2026-11-21T11:32:13Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0691/live/4c26eab0-e596-11f1-9ccc-ff5a88abcfc6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pp3b1b#3",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+          "description": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+          "author": "",
+          "publishedAt": "2026-11-21T10:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3b6t.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o#0",
           "title": "The Chelsea loanee turning heads and Championship defenders at 17",
@@ -107,16 +127,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e193/live/602d2330-e519-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o#3",
-          "title": "Sarr focused on Palace return after Liverpool interest",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
-          "description": "Crystal Palace forward Ismaila Sarr says he has moved on from Liverpool's interest in signing him and is keen for a \"fresh start\" under Thomas Frank.",
-          "author": "",
-          "publishedAt": "2026-11-20T18:41:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0985/live/d8838190-e4fa-11f1-a8e4-b1e12a49db15.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo#1",
           "title": "Chelsea fined £150,000 for discriminatory chanting",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
@@ -147,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d1/live/124f7ad0-e502-11f1-9e2f-7fb5281f0b3c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o#1",
           "title": "Man Utd fan criticism has gone too far at times - Berrada",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
@@ -207,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fcc/live/7922cff0-e4ee-11f1-8781-bf15c9202663.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo#3",
           "title": "Celtic's Baur out for 10 weeks, says O'Neill",
           "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
           "description": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says.",
@@ -221,8 +231,38 @@
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-21T08:52:27Z",
+      "fetchedAt": "2026-11-21T11:49:21Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Kane vows to be back for ‘business end of season’ after ankle surgery",
+          "url": "https://www.skysports.com/football/news/11095/13614655/harry-kane-england-and-bayern-munich-striker-vows-to-be-back-for-business-end-of-season-after-ankle-surgery",
+          "description": "Harry Kane is targeting the \"business end of the season\" after undergoing surgery on a torn ligament in his left ankle.",
+          "author": "",
+          "publishedAt": "2026-11-21T11:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-harry-kane-bayern-munich_7411889.jpg?20261120222213"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Arteta warns players about FPL leaks",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-21T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Spurs latest: 'He has to invite me to party!' - De Zerbi defends Maddison",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-21T09:49:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
         {
           "guid": "",
           "title": "Papers: Osimhen ready to listen to Man Utd offers",
@@ -232,16 +272,6 @@
           "publishedAt": "2026-11-20T23:30:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Kane set to miss three months with ankle injury",
-          "url": "https://www.skysports.com/football/news/11095/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury",
-          "description": "Harry Kane is expected to be sidelined for three months after suffering an ankle injury during Bayern Munich's Bundesliga game with Cologne on Friday.",
-          "author": "",
-          "publishedAt": "2026-11-20T22:26:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-harry-kane-bayern-munich_7411889.jpg?20261120222213"
         },
         {
           "guid": "",
@@ -265,16 +295,6 @@
         },
         {
           "guid": "",
-          "title": "Brighton latest: In-form midfielder signs new contract",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-20T17:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-        },
-        {
-          "guid": "",
           "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
           "url": "https://www.skysports.com/football/news/11095/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
           "description": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
@@ -285,33 +305,13 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Poch addresses Bruno future and wants say on squad decisions",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
+          "title": "Will Frank turn things around at Crystal Palace?",
+          "url": "https://www.skysports.com/football/news/11095/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
+          "description": "One of the Premier League's most charismatic managers is back.",
           "author": "",
-          "publishedAt": "2026-11-20T14:30:00Z",
+          "publishedAt": "2026-11-20T10:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: Maresca backs Donnarumma, Fernandez and reveals injury doubts",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-20T13:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "",
-          "title": "Spurs latest: De Zerbi on Tel, Maddison and Mudryk's podcast comments",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-20T13:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408620.jpg?20261117123420"
         },
         {
           "guid": "",
@@ -325,33 +325,13 @@
         },
         {
           "guid": "",
-          "title": "Transfer Centre LIVE! Will Fernandes stay? Man Utd CEO gives update...",
+          "title": "Transfer Centre LIVE! Cost to appoint Poch as Man Utd manager revealed...",
           "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-20T09:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Saka out for four more weeks with injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-20T09:28:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "From booed to beloved – how Hurzeler turned his Brighton fortunes around",
-          "url": "https://www.skysports.com/football/news/11095/13613485/fabian-hurzeler-how-brighton-boss-won-fans-over-as-seagulls-relish-in-more-controlled-football",
-          "description": "Graham Potter set the tone. Roberto De Zerbi raised expectations. Fabian Hurzeler is blowing both out of the water.",
-          "author": "",
-          "publishedAt": "2026-11-20T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-fabian-hurzeler_7409565.jpg?20261119153704"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7411402.jpg?20261120132145"
         },
         {
           "guid": "",
@@ -362,16 +342,6 @@
           "publishedAt": "2026-11-19T18:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Assessing Iraola's Liverpool start",
-          "url": "https://www.skysports.com/football/news/11095/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
-          "description": "Liverpool head coach Andoni Iraola asked for judgements on his tenure to wait until after the November international break - we assess how the Basque is faring so far in his new role ahead of the visit of Manchester United in the Premier League on Super Sunday.",
-          "author": "",
-          "publishedAt": "2026-11-19T13:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-liverpool_7410291.jpg?20261119104807"
         },
         {
           "guid": "",
@@ -422,6 +392,46 @@
           "publishedAt": "2026-11-18T15:12:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-daviod-raya-arsenal_7409699.png?20261118153705"
+        },
+        {
+          "guid": "",
+          "title": "What does Arteta do with Konsa now Saliba is back?",
+          "url": "https://www.skysports.com/football/news/11095/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness",
+          "description": "Arsenal have a big set of fixtures coming up after the November international break. Big games require big team selections - and Mikel Arteta has a huge decision to make in his defence.",
+          "author": "",
+          "publishedAt": "2026-11-18T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7402106.jpg?20261109122847"
+        },
+        {
+          "guid": "",
+          "title": "Hall is England's best left-back - because he started out as a midfielder",
+          "url": "https://www.skysports.com/football/news/11095/13549994/lewis-hall-is-englands-best-left-back-because-the-newcastle-player-started-out-as-a-midfielder-in-chelseas-youth-teams",
+          "description": "The most spectacular moment came in the 18th minute. It took a fifth Spain player to stop him dancing through the defence. But it was the turn away from Fabian Ruiz and Mikel Merino on the seven-minute mark that showed Lewis Hall at his most impudent.",
+          "author": "",
+          "publishedAt": "2026-11-18T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hall-newcastle-united_7409318.jpg?20261118085027"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Iraola gives Gravenberch, Frimpong and Van Dijk injury updates",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T08:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
+          "title": "Man City vs Fulham team news as Fernandez is benched LIVE!",
+          "url": "https://www.skysports.com/football/manchester-city-vs-fulham/live/559551",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-04T13:29:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/09/1920x1080/skysports-enzo-fernandez-premier-league_7357008.jpg?20260920141518"
         }
       ]
     }
