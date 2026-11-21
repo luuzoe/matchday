@@ -4,8 +4,38 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-21T21:48:34Z",
+      "fetchedAt": "2026-11-21T23:36:05Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/iplayer/live/bbcone#0",
+          "title": "Match of the Day",
+          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+          "description": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+          "author": "",
+          "publishedAt": "2026-11-22T09:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o#3",
+          "title": "London City keep up title hunt with emphatic win over Crystal Palace",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
+          "description": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
+          "author": "",
+          "publishedAt": "2026-11-21T23:14:10Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno#17",
+          "title": "'They looked like a team again' - Hearts  roar back with Dundee demolition",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+          "description": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+          "author": "",
+          "publishedAt": "2026-11-21T22:45:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo#1",
           "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
@@ -128,7 +158,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o#1",
-          "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+          "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
           "author": "",
@@ -138,7 +168,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o#1",
-          "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+          "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
           "author": "",
@@ -225,53 +255,43 @@
           "publishedAt": "2026-11-21T16:07:19Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo#3",
-          "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
-          "author": "",
-          "publishedAt": "2026-11-21T15:34:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no#6",
-          "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
-          "description": "How Manchester City and Fulham players rated in their Premier League match.",
-          "author": "",
-          "publishedAt": "2026-11-21T14:21:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ea/live/83478520-e5c0-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o#7",
-          "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
-          "description": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
-          "author": "",
-          "publishedAt": "2026-11-21T13:29:40Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-21T21:48:35Z",
+      "fetchedAt": "2026-11-21T23:36:05Z",
       "articles": [
         {
           "guid": "",
-          "title": "Chelsea latest: 'He was in pain' - Alonso gives update on Caicedo injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-21T20:50:00Z",
+          "publishedAt": "2026-11-21T22:37:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
+          "url": "https://www.skysports.com/football/news/11095/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
+          "description": "Tottenham boss Roberto De Zerbi was not surprised by a dazzling full-debut display from &#8220;special&#8221; talent Luca Williams-Barnett and compared the 18-year-old to Barcelona&#8217;s Lamine Yamal after Saturday&#8217;s 2-0 win over Ipswich.",
+          "author": "",
+          "publishedAt": "2026-11-21T22:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-tottenham-spurs-luca-williams-barnett_7412663.jpg?20261121173422"
+        },
+        {
+          "guid": "",
+          "title": "Euro latest: PSG's Doue suffers serious knee injury",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-21T21:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-doue-psg_7413016.jpg?20261121215948"
         },
         {
           "guid": "",
@@ -315,16 +335,6 @@
         },
         {
           "guid": "",
-          "title": "Brilliant Paulsen save keeps Motherwell level vs Rangers LIVE!",
-          "url": "https://www.skysports.com/football/motherwell-vs-rangers/live/558416",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-21T19:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-motherwell-alex-paulsen_7413007.jpg?20261121214639"
-        },
-        {
-          "guid": "",
           "title": "Arsenal's winning run ended by Newcastle in thrilling draw",
           "url": "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
           "description": "Arsenal's four-game winning Premier League run without conceding was ended by Newcastle in a frantic 2-2 draw.",
@@ -345,16 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Fulham earn point at the Etihad as Man City's poor run continues",
-          "url": "https://www.skysports.com/watch/video/13614722/manchester-city-1-1-fulham-premier-league-highlights",
-          "description": "Highlights from the Premier League match between Manchester City and Fulham.",
-          "author": "",
-          "publishedAt": "2026-11-21T17:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7412303.jpg?20261121143723"
-        },
-        {
-          "guid": "",
           "title": "Eighteen-year-old Williams-Barnett shines as Spurs beat Ipswich",
           "url": "https://www.skysports.com/watch/video/13614870/tottenham-hotspur-2-0-ipswich-town-premier-league-highlights",
           "description": "FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Ipswich Town.",
@@ -362,6 +362,16 @@
           "publishedAt": "2026-11-21T17:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412577.jpg?20261121170234"
+        },
+        {
+          "guid": "",
+          "title": "Fulham earn point at the Etihad as Man City's poor run continues",
+          "url": "https://www.skysports.com/watch/video/13614722/manchester-city-1-1-fulham-premier-league-highlights",
+          "description": "Highlights from the Premier League match between Manchester City and Fulham.",
+          "author": "",
+          "publishedAt": "2026-11-21T17:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7412303.jpg?20261121143723"
         },
         {
           "guid": "",
@@ -392,16 +402,6 @@
           "publishedAt": "2026-11-21T17:10:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-coventry-palace-highlights_7412576.jpg?20261121170201"
-        },
-        {
-          "guid": "",
-          "title": "Bournemouth make more history with comfortable win against Forest",
-          "url": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/report/559545",
-          "description": "Bournemouth continued their unstoppable form with a comfortable 2-0 victory against Nottingham Forest and created two bits of history in the process.",
-          "author": "",
-          "publishedAt": "2026-11-21T17:05:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-justin-kluivert-bournemouth_7412484.jpg?20261121160937"
         },
         {
           "guid": "",
