@@ -4,17 +4,47 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-22T11:59:42Z",
+      "fetchedAt": "2026-11-22T16:43:55Z",
       "articles": [
         {
           "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#17",
-          "title": "Listen to Off The Ball",
+          "title": "Listen: Sportsound - football & rugby reviews",
           "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-          "description": "The most petty and ill-informed football show on radio.",
+          "description": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
           "author": "",
-          "publishedAt": "2026-11-22T14:00:00Z",
+          "publishedAt": "2026-11-22T17:00:00Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo#0",
+          "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+          "description": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
+          "author": "",
+          "publishedAt": "2026-11-22T16:25:35Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/e5be34d0-e686-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero#0",
+          "title": "PSG's Doue to have surgery on ruptured ACL",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
+          "author": "",
+          "publishedAt": "2026-11-22T15:50:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o#2",
+          "title": "Frick delivers on 'heavy metal football' promise",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o?at_medium=RSS&at_campaign=rss",
+          "description": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
+          "author": "",
+          "publishedAt": "2026-11-22T13:12:42Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f987/live/a16bfad0-e670-11f1-a5bc-ddaec99ca2c4.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo#11",
@@ -22,12 +52,22 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
           "author": "",
-          "publishedAt": "2026-11-22T11:55:13Z",
+          "publishedAt": "2026-11-22T12:02:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo#0",
+          "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+          "description": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+          "author": "",
+          "publishedAt": "2026-11-22T12:00:45Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo#4",
           "title": "Rochdale sack boss Watson after Northampton defeat",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
           "description": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
@@ -77,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o#2",
           "title": "Why Arsenal are behind in race for Champions League spots",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
@@ -87,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o#2",
           "title": "Argentina midfielder Paredes collapses during TV interview",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
           "description": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
@@ -97,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c81e/live/26d6d700-e642-11f1-acea-8b4bc3bc92cd.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o#2",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
           "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -114,17 +154,7 @@
           "author": "",
           "publishedAt": "2026-11-22T06:21:55Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56b/live/6a92bb70-e44a-11f1-9192-3924a59e54c7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckzd9n5j9mj9o#18",
-          "title": "Wales boss Wilkinson rules out Fishlock return",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9n5j9mj9o?at_medium=RSS&at_campaign=rss",
-          "description": "Rhian Wilkinson has not considered asking Jess Fishlock to come out of retirement for the Women's World Cup play-off final against Norway.",
-          "author": "",
-          "publishedAt": "2026-11-22T05:12:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e6b/live/4d195490-e423-11f1-9e08-55a8a3b48445.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c7f/live/e716ae00-e688-11f1-a8fd-13fffcb9ff5a.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo#3",
@@ -177,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo#2",
           "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
@@ -187,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo#6",
           "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
           "description": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
@@ -197,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o#4",
           "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
           "description": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
@@ -205,83 +235,83 @@
           "publishedAt": "2026-11-21T20:35:12Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o#7",
-          "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
-          "author": "",
-          "publishedAt": "2026-11-21T20:30:50Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo#2",
-          "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
-          "description": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
-          "author": "",
-          "publishedAt": "2026-11-21T20:07:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o#1",
-          "title": "Arsenal go six points clear after lively draw at Newcastle",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-          "description": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
-          "author": "",
-          "publishedAt": "2026-11-21T19:59:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d9/live/fcb7f580-e5e2-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o#1",
-          "title": "Evanilson strikes again as Bournemouth beat Forest",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-          "description": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
-          "author": "",
-          "publishedAt": "2026-11-21T19:59:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efb/live/0c0d5f70-e5cf-11f1-a094-5fdc692f3e33.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-22T11:59:42Z",
+      "fetchedAt": "2026-11-22T16:43:55Z",
       "articles": [
         {
           "guid": "",
-          "title": "Burnley vs Blackburn LIVE!",
-          "url": "https://www.skysports.com/football/burnley-vs-blackburn-rovers/live/560679",
-          "description": "",
+          "title": "McBurnie's late double stuns 10-man Brighton after Tzolakis heroics",
+          "url": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/report/559549",
+          "description": "A Konstantinos Tzolakis goalkeeping masterclass teed up Oli McBurnie to score two late goals as Hull stunned dominant Brighton in a smash-and-grab 2-0 win at the MKM Stadium.",
           "author": "",
-          "publishedAt": "2026-11-22T11:45:00Z",
+          "publishedAt": "2026-11-22T16:15:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-burnley-blackburn_7407743.jpg?20261116124348"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-hull-city_7413617.jpg?20261122155755"
         },
         {
           "guid": "",
-          "title": "WSL: Man City vs Spurs LIVE!",
-          "url": "https://www.skysports.com/football/manchester-city-women-vs-tottenham-hotspur-women/live/575831",
+          "title": "Man City lose again as home WSL record crumbles with Spurs defeat",
+          "url": "https://www.skysports.com/football/manchester-city-women-vs-tottenham-hotspur-women/report/575831",
+          "description": "Manchester City lost for a second WSL game in a row, beaten 3-1 by Tottenham, with their 100 per cent home league record under Andree Jeglertz coming to an abrupt end.",
+          "author": "",
+          "publishedAt": "2026-11-22T14:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-jess-naz-spurs-wsl_7413465.jpg?20261122135954"
+        },
+        {
+          "guid": "",
+          "title": "Burnley’s wait for a home win goes on as Blackburn twice hit back in derby",
+          "url": "https://www.skysports.com/football/burnley-vs-blackburn-rovers/report/560679",
+          "description": "Todd Cantwell's penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues.",
+          "author": "",
+          "publishedAt": "2026-11-22T14:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-todd-cantwell-blackburn-rovers_7413453.jpg?20261122135146"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Poch appointment provides optimism, says Neville",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T13:38:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Iraola explains Gakpo, Gravenberch absences",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T13:34:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
+          "title": "Watford sack head coach Dionisi",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T12:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-alessio-dionisi-watford_7376278.jpg?20261013214018"
+        },
+        {
+          "guid": "",
+          "title": "WSL: Arsenal booed after goalless home draw against West Ham LIVE!",
+          "url": "https://www.skysports.com/football/arsenal-women-vs-west-ham-united-women/live/575825",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-22T11:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407756.jpg?20261116125003"
-        },
-        {
-          "guid": "",
-          "title": "Watford set to sack head coach Dionisi",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-22T11:05:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-alessio-dionisi-watford_7376278.jpg?20261013214018"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-alessia-russo-ines-belloumou_7413577.jpg?20261122152453"
         },
         {
           "guid": "",
@@ -295,16 +325,6 @@
         },
         {
           "guid": "",
-          "title": "Bellingham stars as Real Madrid produce dramatic late comeback against Celta Vigo",
-          "url": "https://www.skysports.com/watch/video/13615140/real-madrid-2-1-celta-vigo-la-liga-highlights",
-          "description": "Highlights of the La Liga match between Real Madrid and Celta Vigo.",
-          "author": "",
-          "publishedAt": "2026-11-22T07:20:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-real-la-liga_7413211.jpg?20261122072756"
-        },
-        {
-          "guid": "",
           "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
           "url": "https://www.skysports.com/football/news/11095/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold",
           "description": "Bruno Fernandes exclusively told <em>Sky Sports </em>that Manchester United have offered him a new contract but he has put discussions on hold as he insists the club's priority must be returning to winning ways.",
@@ -315,23 +335,13 @@
         },
         {
           "guid": "",
-          "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
-          "url": "https://www.skysports.com/football/news/11095/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
-          "description": "Tottenham boss Roberto De Zerbi was not surprised by a dazzling full-debut display from &#8220;special&#8221; talent Luca Williams-Barnett and compared the 18-year-old to Barcelona&#8217;s Lamine Yamal after Saturday&#8217;s 2-0 win over Ipswich.",
-          "author": "",
-          "publishedAt": "2026-11-21T22:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-tottenham-spurs-luca-williams-barnett_7412663.jpg?20261121173422"
-        },
-        {
-          "guid": "",
-          "title": "Euro latest: PSG's Doue suffers serious knee injury",
+          "title": "Euro latest: Barcelona score three times in 10 mins in epic comeback",
           "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-21T21:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-doue-psg_7413016.jpg?20261121215948"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-garcia_7413606.jpg?20261122155448"
         },
         {
           "guid": "",
@@ -385,16 +395,6 @@
         },
         {
           "guid": "",
-          "title": "Eighteen-year-old Williams-Barnett shines as Spurs beat Ipswich",
-          "url": "https://www.skysports.com/watch/video/13614870/tottenham-hotspur-2-0-ipswich-town-premier-league-highlights",
-          "description": "FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Ipswich Town.",
-          "author": "",
-          "publishedAt": "2026-11-21T17:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412577.jpg?20261121170234"
-        },
-        {
-          "guid": "",
           "title": "Hits and misses: Problems for passive Man City as Chelsea bullied again",
           "url": "https://www.skysports.com/football/news/11095/13614659/problems-for-passive-man-city-as-chelsea-are-bullied-by-leeds-premier-league-hits-and-misses",
           "description": "",
@@ -405,23 +405,13 @@
         },
         {
           "guid": "",
-          "title": "From booed to beloved – how Hurzeler turned his Brighton fortunes around",
-          "url": "https://www.skysports.com/football/news/11095/13613485/fabian-hurzeler-how-brighton-boss-won-fans-over-as-seagulls-relish-in-more-controlled-football",
-          "description": "Graham Potter set the tone. Roberto De Zerbi raised expectations. Fabian Hurzeler is blowing both out of the water.",
+          "title": "PSG confirm Doue has ACL injury with surgery imminent",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-20T08:00:00Z",
+          "publishedAt": "2026-11-19T14:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-fabian-hurzeler_7409565.jpg?20261119153704"
-        },
-        {
-          "guid": "",
-          "title": "PL Predictions: How will your club fare this weekend?",
-          "url": "https://www.skysports.com/football/news/11095/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
-          "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight as the Premier League returns from the international break.",
-          "author": "",
-          "publishedAt": "2026-11-19T18:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-desire-doue-psg-ligue-1_7413511.jpg?20261122143256"
         },
         {
           "guid": "",
@@ -445,13 +435,13 @@
         },
         {
           "guid": "",
-          "title": "Premier League talking points: Trial by Anfield as Poch begins Man Utd tenure",
-          "url": "https://www.skysports.com/football/news/11095/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
-          "description": "The Premier League is back after the recent international break and the <em>Sky Sports</em> football writers dissect all the major talking points ahead of another busy weekend's action.",
+          "title": "Szoboszlai puts Liverpool ahead after Yoro's early red for Man Utd LIVE!",
+          "url": "https://www.skysports.com/football/liverpool-vs-manchester-united/live/559550",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-19T08:00:00Z",
+          "publishedAt": "2026-11-11T10:49:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league_7408877.jpg?20261117153906"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7413677.jpg?20261122163950"
         }
       ]
     }
