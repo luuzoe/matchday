@@ -4,17 +4,37 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-21T23:36:05Z",
+      "fetchedAt": "2026-11-22T01:42:12Z",
       "articles": [
         {
-          "guid": "https://www.bbc.co.uk/iplayer/live/bbcone#0",
-          "title": "Match of the Day",
-          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-          "description": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo#3",
+          "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
           "author": "",
-          "publishedAt": "2026-11-22T09:00:00Z",
+          "publishedAt": "2026-11-22T00:13:01Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/116c8440-e607-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo#3",
+          "title": "I wish referee had opportunity to see 'handball' again - Hart",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-22T00:08:13Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po#17",
+          "title": "Naderi's 'lucky punch' keeps Rangers in touch",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po?at_medium=RSS&at_campaign=rss",
+          "description": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
+          "author": "",
+          "publishedAt": "2026-11-22T00:01:31Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b0/live/ab978b20-e600-11f1-b58d-2d14eb0c7952.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o#3",
@@ -67,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o#7",
           "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
           "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
@@ -197,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b74/live/92725440-e5ba-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno#3",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno#7",
           "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
           "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss",
           "description": "Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town.",
@@ -235,33 +255,13 @@
           "publishedAt": "2026-11-21T17:43:44Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4348/live/f6872900-e5cf-11f1-a738-4787e1a18cce.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo#3",
-          "title": "Leeds 'created piece of history' in Chelsea win - Farke",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
-          "description": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
-          "author": "",
-          "publishedAt": "2026-11-21T17:42:14Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/18b230e0-e5d2-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo#1",
-          "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
-          "author": "",
-          "publishedAt": "2026-11-21T16:07:19Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-21T23:36:05Z",
+      "fetchedAt": "2026-11-22T01:42:12Z",
       "articles": [
         {
           "guid": "",
