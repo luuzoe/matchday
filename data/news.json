@@ -4,8 +4,48 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-22T08:52:11Z",
+      "fetchedAt": "2026-11-22T11:59:42Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm#17",
+          "title": "Listen to Off The Ball",
+          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+          "description": "The most petty and ill-informed football show on radio.",
+          "author": "",
+          "publishedAt": "2026-11-22T14:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo#11",
+          "title": "Manager ins and outs - 2026-27",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+          "author": "",
+          "publishedAt": "2026-11-22T11:55:13Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo#2",
+          "title": "Rochdale sack boss Watson after Northampton defeat",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+          "description": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+          "author": "",
+          "publishedAt": "2026-11-22T10:55:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f89/live/28d78d60-e660-11f1-8ebd-1d2173202734.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo#17",
+          "title": "Armstrong plays down talk of Rangers transfer - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
+          "description": "Dinamo Bucharest winger Danny Armstrong says he has not talked with Rangers manager Derek McInnes about a move to Ibrox, while the chances of Jack Grealish joining Celtic are played down.",
+          "author": "",
+          "publishedAt": "2026-11-22T09:10:02Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba9/live/e8eace60-e3ee-11f1-a094-5fdc692f3e33.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po#0",
           "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
@@ -177,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo#2",
           "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
           "description": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
@@ -205,57 +245,57 @@
           "publishedAt": "2026-11-21T19:59:17Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efb/live/0c0d5f70-e5cf-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo#1",
-          "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-          "description": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-21T19:59:13Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed41/live/db5e04d0-e5d6-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo#1",
-          "title": "Man City drop points to Fulham despite superb Anderson volley",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-          "description": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
-          "author": "",
-          "publishedAt": "2026-11-21T19:59:08Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed1/live/772ed3d0-e5cd-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo#1",
-          "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-          "description": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
-          "author": "",
-          "publishedAt": "2026-11-21T19:59:02Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67dd/live/c58c8e30-e5cf-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do#1",
-          "title": "Villa's home woes continue as Sunderland earn point",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-21T19:58:56Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0228/live/9a476370-e5e4-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-22T08:52:11Z",
+      "fetchedAt": "2026-11-22T11:59:42Z",
       "articles": [
         {
           "guid": "",
-          "title": "Bellingham stars as Real Madrid produce DRAMATIC late comeback against Celta Vigo!",
+          "title": "Burnley vs Blackburn LIVE!",
+          "url": "https://www.skysports.com/football/burnley-vs-blackburn-rovers/live/560679",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T11:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-burnley-blackburn_7407743.jpg?20261116124348"
+        },
+        {
+          "guid": "",
+          "title": "WSL: Man City vs Spurs LIVE!",
+          "url": "https://www.skysports.com/football/manchester-city-women-vs-tottenham-hotspur-women/live/575831",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T11:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407756.jpg?20261116125003"
+        },
+        {
+          "guid": "",
+          "title": "Watford set to sack head coach Dionisi",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T11:05:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-alessio-dionisi-watford_7376278.jpg?20261013214018"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Gunners facing nervous wait for news on Raya injury",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T10:46:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "Bellingham stars as Real Madrid produce dramatic late comeback against Celta Vigo",
           "url": "https://www.skysports.com/watch/video/13615140/real-madrid-2-1-celta-vigo-la-liga-highlights",
           "description": "Highlights of the La Liga match between Real Madrid and Celta Vigo.",
           "author": "",
@@ -272,16 +312,6 @@
           "publishedAt": "2026-11-22T07:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7412899.jpg?20261121194818"
-        },
-        {
-          "guid": "",
-          "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-21T22:37:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
         },
         {
           "guid": "",
@@ -302,16 +332,6 @@
           "publishedAt": "2026-11-21T21:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-doue-psg_7413016.jpg?20261121215948"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Arteta gives update on Raya injury",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-21T20:33:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
         },
         {
           "guid": "",
@@ -385,26 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Van Dijk uncertain on Liverpool future",
-          "url": "https://www.skysports.com/football/news/11095/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years",
-          "description": "Liverpool captain Virgil van Dijk believes he can keeping playing for \"many more years\" - but says he does not yet know whether that will be at Anfield next season.&#160;",
-          "author": "",
-          "publishedAt": "2026-11-20T20:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-liverpool-van-dijk_7411788.jpg?20261120202101"
-        },
-        {
-          "guid": "",
-          "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
-          "url": "https://www.skysports.com/football/news/11095/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
-          "description": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
-          "author": "",
-          "publishedAt": "2026-11-20T14:36:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7411463.jpg?20261120140859"
-        },
-        {
-          "guid": "",
           "title": "From booed to beloved – how Hurzeler turned his Brighton fortunes around",
           "url": "https://www.skysports.com/football/news/11095/13613485/fabian-hurzeler-how-brighton-boss-won-fans-over-as-seagulls-relish-in-more-controlled-football",
           "description": "Graham Potter set the tone. Roberto De Zerbi raised expectations. Fabian Hurzeler is blowing both out of the water.",
@@ -445,13 +445,13 @@
         },
         {
           "guid": "",
-          "title": "Why have Man Utd only had two 'successful' managers?",
-          "url": "https://www.skysports.com/football/story-telling/11095/13610897/why-have-man-utd-only-had-two-successful-managers",
-          "description": "",
+          "title": "Premier League talking points: Trial by Anfield as Poch begins Man Utd tenure",
+          "url": "https://www.skysports.com/football/news/11095/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
+          "description": "The Premier League is back after the recent international break and the <em>Sky Sports</em> football writers dissect all the major talking points ahead of another busy weekend's action.",
           "author": "",
-          "publishedAt": "2026-11-12T08:00:00Z",
+          "publishedAt": "2026-11-19T08:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league_7408877.jpg?20261117153906"
         }
       ]
     }
