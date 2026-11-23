@@ -4,11 +4,51 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-22T22:08:28Z",
+      "fetchedAt": "2026-11-23T00:24:09Z",
       "articles": [
         {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o#1",
+          "title": "Did Liverpool 'get lucky' with red card decision?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+          "author": "",
+          "publishedAt": "2026-11-22T23:59:59Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo#1",
+          "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+          "author": "",
+          "publishedAt": "2026-11-22T23:59:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee71/live/9b96d180-e6ce-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo#0",
+          "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+          "author": "",
+          "publishedAt": "2026-11-22T23:20:16Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0ppcw2v#2",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
+          "description": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+          "author": "",
+          "publishedAt": "2026-11-22T23:14:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
+        },
+        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo#0",
-          "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+          "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
           "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
           "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
           "author": "",
@@ -87,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5929/live/d677bad0-e6a1-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo#7",
           "title": "Own-goal mishap gifts Brighton first away victory",
           "url": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
           "description": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.",
@@ -147,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo#7",
           "title": "Spurs deny Man City top spot with statement win",
           "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
           "description": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table.",
@@ -167,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/ca5f8910-e68a-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo#4",
           "title": "Holders Celtic win 17-0 in Women's Scottish Cup",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
           "description": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
@@ -185,44 +225,24 @@
           "publishedAt": "2026-11-22T17:40:00Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o#1",
-          "title": "Arsenal frustrations grow as winless home run continues",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-          "author": "",
-          "publishedAt": "2026-11-22T17:30:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba6/live/e2a8c430-e696-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo#7",
-          "title": "Jakirovic full of praise for Tzolakis performance",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss",
-          "description": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.\"",
-          "author": "",
-          "publishedAt": "2026-11-22T17:18:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb36/live/8e08d630-e697-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o#2",
-          "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
-          "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-          "author": "",
-          "publishedAt": "2026-11-22T17:00:01Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-22T22:08:28Z",
+      "fetchedAt": "2026-11-23T00:24:09Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Ref Watch: Send in your questions for Dermot!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T23:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20261102102417"
+        },
         {
           "guid": "",
           "title": "Gary Neville on De Ligt selection and 'negligent' Man Utd",
@@ -325,6 +345,16 @@
         },
         {
           "guid": "",
+          "title": "Hull City latest: Is goalkeeper Tzolakis destined for the top?",
+          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-22T17:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339"
+        },
+        {
+          "guid": "",
           "title": "Arsenal booed after another home WSL draw as Man Utd beat Blues",
           "url": "https://www.skysports.com/football/news/11095/13615326/wsl-arsenal-draw-again-at-home-man-utd-leave-it-late-to-beat-birmingham-and-charlton-earn-first-point-of-season",
           "description": "Arsenal were booed by their fans after they held to a sixth successive draw at home, drawing 0-0 with West Ham in the Women's Super League.",
@@ -402,26 +432,6 @@
           "publishedAt": "2026-11-21T21:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-amorim-milan_7413905.jpg?20261122200244"
-        },
-        {
-          "guid": "",
-          "title": "Hull City latest: Is goalkeeper Tzolakis destined for the top?",
-          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-20T15:25:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339"
-        },
-        {
-          "guid": "",
-          "title": "PSG confirm Doue has ACL injury with surgery imminent",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-19T14:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-desire-doue-psg-ligue-1_7413511.jpg?20261122143256"
         }
       ]
     }
