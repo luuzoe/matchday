@@ -4,8 +4,38 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-23T02:42:40Z",
+      "fetchedAt": "2026-11-23T07:58:26Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o#0",
+          "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
+          "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+          "author": "",
+          "publishedAt": "2026-11-23T07:52:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a7e/live/9a263a10-e698-11f1-936e-1fd1d31671db.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-23T06:31:21Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo#0",
+          "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+          "author": "",
+          "publishedAt": "2026-11-23T06:17:59Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o#1",
           "title": "Did Liverpool 'get lucky' with red card decision?",
@@ -37,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0ppcw2v#2",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0ppcw2v#6",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
           "description": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
@@ -47,7 +77,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo#2",
           "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
           "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
           "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
@@ -77,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo#4",
           "title": "Pepe did not injure eyes staring at sun, say Villarreal",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
           "description": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
@@ -205,34 +235,24 @@
           "publishedAt": "2026-11-22T17:54:32Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/ca5f8910-e68a-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo#4",
-          "title": "Holders Celtic win 17-0 in Women's Scottish Cup",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
-          "description": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
-          "author": "",
-          "publishedAt": "2026-11-22T17:53:41Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b7373ba0-e692-11f1-936e-1fd1d31671db.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0ppch4v#17",
-          "title": "Podcast: Premiership review, Ross County, Dumbarton & Largs Thistle",
-          "url": "https://www.bbc.co.uk/sounds/play/p0ppch4v?at_medium=RSS&at_campaign=rss",
-          "description": "SPFL review plus Ross County's Stuart Kettlewell, Dumbarton's new manager & Largs Thistle",
-          "author": "",
-          "publishedAt": "2026-11-22T17:40:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-23T02:42:40Z",
+      "fetchedAt": "2026-11-23T07:58:26Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd latest: Worst defence in Europe...are Red Devils really in a relegation battle?",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-23T07:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
         {
           "guid": "",
           "title": "Ref Watch: Send in your questions for Dermot!",
@@ -322,16 +342,6 @@
           "publishedAt": "2026-11-22T18:25:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-rio-ngumoha-liverpool_7413795.jpg?20261122181605"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: Worst defence in Europe as Keane & Neville react to Liverpool loss",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-22T18:24:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
         },
         {
           "guid": "",
