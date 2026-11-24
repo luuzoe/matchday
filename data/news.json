@@ -4,17 +4,57 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-24T15:18:09Z",
+      "fetchedAt": "2026-11-24T18:08:56Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo#0",
+          "title": "Klopp advice and Iraola confidence boosts Wirtz",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+          "description": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+          "author": "",
+          "publishedAt": "2026-11-24T17:19:08Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#0",
           "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
           "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
           "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
           "author": "",
-          "publishedAt": "2026-11-24T15:16:15Z",
+          "publishedAt": "2026-11-24T17:16:09Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o#0",
+          "title": "Yoro red card overturned, but refs' chief Webb backs decision",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+          "author": "",
+          "publishedAt": "2026-11-24T17:00:32Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo#0",
+          "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+          "description": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+          "author": "",
+          "publishedAt": "2026-11-24T16:34:18Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo#1",
+          "title": "Defender Heaven open to leaving Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone.",
+          "author": "",
+          "publishedAt": "2026-11-24T15:56:55Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#0",
@@ -57,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o#3",
           "title": "Glens boss Ferguson apologises after seven-game ban",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
           "description": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
@@ -77,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/272a6460-e7e6-11f1-8b26-c1adae33e7f2.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l5d5py5k5o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c32l5d5py5k5o#3",
           "title": "Four Midlands teams in the Championship top five - can it last?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c32l5d5py5k5o?at_medium=RSS&at_campaign=rss",
           "description": "With more than a third of the season gone, Stoke City, Birmingham City, Wolves and West Brom are all in the Championship promotion race. Who can keep it up?",
@@ -107,7 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5345/live/8e981730-e7f2-11f1-8b26-c1adae33e7f2.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo#2",
           "title": "The youngest Premier League goalscorers this season",
           "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
           "description": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
@@ -127,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo#1",
           "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
           "description": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts.",
@@ -187,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo#5",
           "title": "Who am I? Plus today's other quizzes",
           "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
           "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -195,44 +235,94 @@
           "publishedAt": "2026-11-24T06:42:40Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo#0",
-          "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
-          "description": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
-          "author": "",
-          "publishedAt": "2026-11-24T06:16:53Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo#1",
-          "title": "Who has made Troy's Premier League team of the week?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
-          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-          "author": "",
-          "publishedAt": "2026-11-23T23:26:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo#5",
-          "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
-          "description": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?",
-          "author": "",
-          "publishedAt": "2026-11-23T23:07:48Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d76/live/77129050-e7dd-11f1-99a1-253766e7ad8b.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-24T15:18:09Z",
+      "fetchedAt": "2026-11-24T18:08:56Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Arsenal vs Borussia Dortmund LIVE!",
+          "url": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-24T18:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400173.jpg?20261107164646"
+        },
+        {
+          "guid": "",
+          "title": "How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished",
+          "url": "https://www.skysports.com/football/news/11095/13616058/jurrien-timbers-shirt-pull-on-alexander-isak-ref-chief-howard-webb-admits-quick-check-in-arsenals-win-at-liverpool",
+          "description": "Referees&#8217; chief Howard Webb admitted it was a &#8220;quick check&#8221; by VAR for Arsenal defender Jurrien Timber&#8217;s unpunished shirt-pull on Liverpool striker Alexander Isak in the Gunners&#8217; win at Anfield.",
+          "author": "",
+          "publishedAt": "2026-11-24T17:13:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128"
+        },
+        {
+          "guid": "",
+          "title": "Ref chief Webb backs process around Yoro sending off despite successful appeal",
+          "url": "https://www.skysports.com/football/news/11095/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
+          "description": "Referees' chief Howard Webb has backed the process of the officials who sent off Manchester United defender Leny Yoro at Liverpool - despite the red card being overturned on appeal.",
+          "author": "",
+          "publishedAt": "2026-11-24T17:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102"
+        },
+        {
+          "guid": "",
+          "title": "Listen in! The VAR audio that supported Yoro's red card decision at Anfield",
+          "url": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
+          "description": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
+          "author": "",
+          "publishedAt": "2026-11-24T17:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655"
+        },
+        {
+          "guid": "",
+          "title": "Transfer Centre LIVE! Heaven open to leaving Man Utd in January",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-24T16:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/25/03/1920x1080/skysports-man-utd-ayden-heaven_6858858.jpg?20250316174910"
+        },
+        {
+          "guid": "",
+          "title": "Galatasaray vs Aston Villa LIVE!",
+          "url": "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-24T16:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/10/1920x1080/skysports-nicolas-jackson-aston-villa_7385588.jpg?20261024143403"
+        },
+        {
+          "guid": "",
+          "title": "Spurs latest: Teenager Williams-Barnett signs new deal",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-24T16:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Berrada admits Man Utd transfer spending will be limited by stadium plans",
+          "url": "https://www.skysports.com/football/news/11095/13615995/man-utd-transfer-spending-to-be-limited-by-new-stadium-plans-in-the-short-term-according-to-chief-executive-omar-berrada",
+          "description": "Manchester United chief executive Omar Berrada admits plans to build a new 100,000-seater stadium will limit transfer spending in upcoming windows.",
+          "author": "",
+          "publishedAt": "2026-11-24T16:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-berrada-man-utd_7265413.jpg?20260604164618"
+        },
         {
           "guid": "",
           "title": "Man Utd latest: Shaw included in squad for Sporting trip",
@@ -247,7 +337,7 @@
           "guid": "",
           "title": "Senegal confirmed AFCON 2025 champions after appeal",
           "url": "https://www.skysports.com/football/news/11095/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal",
-          "description": "The Court of Arbitration for Sport (CAS) have announced Senegal as the winners of AFCON 2025.",
+          "description": "The Court of Arbitration for Sport (CAS) has announced Senegal as the winners of the 2025 Africa Cup of Nations (AFCON).",
           "author": "",
           "publishedAt": "2026-11-24T14:20:00Z",
           "publisher": "Sky Sports",
@@ -265,26 +355,6 @@
         },
         {
           "guid": "",
-          "title": "Morocco raise concerns over Senegal's AFCON appeal",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-24T13:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/25/10/1920x1080/skysports-afcon-trophy_7051505.jpg?20251015115012"
-        },
-        {
-          "guid": "",
-          "title": "Barnet midfielder charged with rape",
-          "url": "https://www.skysports.com/football/news/11095/13615973/barnet-midfielder-isiah-noel-williams-charged-with-three-counts-of-rape-and-one-count-of-engaging-in-sexual-communication-with-a-child",
-          "description": "A League Two footballer has been charged with three counts of rape and one count of engaging in sexual communication with a child.",
-          "author": "",
-          "publishedAt": "2026-11-24T12:41:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-barnet-stock-gv-file-pic_7415268.jpg?20261124125521"
-        },
-        {
-          "guid": "",
           "title": "Crystal Palace Women deducted three points for use of subs",
           "url": "https://www.skysports.com/football/news/11095/13615948/crystal-palace-women-deducted-three-points-in-wsl-for-making-substitutions-at-four-windows-in-everton-win",
           "description": "Crystal Palace Women have been deducted three points in the WSL with immediate effect.",
@@ -292,16 +362,6 @@
           "publishedAt": "2026-11-24T11:34:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-crystal-palace-general_7415221.jpg?20261124120619"
-        },
-        {
-          "guid": "",
-          "title": "New research shows stagnation in girls’ ambitions of reaching top of sport",
-          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-24T09:50:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-michelle-agyemang_7415103.jpg?20261124095353"
         },
         {
           "guid": "",
@@ -325,53 +385,13 @@
         },
         {
           "guid": "",
-          "title": "Everton latest: Moyes unsure over Tarkowski appeal with Liverpool up next",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "title": "Man City latest: De Bruyne speaks for first time on club's guilty verdict",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-23T23:02:00Z",
+          "publishedAt": "2026-11-23T21:10:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-        },
-        {
-          "guid": "",
-          "title": "Brentford latest: 'Get real' - Andrews pushes back against rising expectations",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-23T23:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
-        },
-        {
-          "guid": "",
-          "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
-          "url": "https://www.skysports.com/football/news/11095/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
-          "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-23T22:40:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Janelt scores rocket as Brentford thrash 10-man Everton to move sixth!",
-          "url": "https://www.skysports.com/watch/video/13615838/brentford-4-0-everton-premier-league-highlights",
-          "description": "FREE TO WATCH: Highlights from Brentford&#8217;s match against Everton in the Premier League.",
-          "author": "",
-          "publishedAt": "2026-11-23T22:21:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-pl-hlts_7414919.jpg?20261123222612"
-        },
-        {
-          "guid": "",
-          "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
-          "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-          "description": "Keane Lewis-Potter&#8217;s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
-          "author": "",
-          "publishedAt": "2026-11-23T21:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-potter-outarra_7414942.jpg?20261123231353"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
         },
         {
           "guid": "",
@@ -392,16 +412,6 @@
           "publishedAt": "2026-11-23T19:37:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7414745.jpg?20261123193045"
-        },
-        {
-          "guid": "",
-          "title": "What would relegation mean for Man Utd? Kaveh answers your questions!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-23T16:14:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-kaveh-solhekol-ask-kaveh_7414639.jpg?20261123170845"
         },
         {
           "guid": "",
