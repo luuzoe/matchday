@@ -4,8 +4,28 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-24T04:35:05Z",
+      "fetchedAt": "2026-11-24T06:28:30Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo#0",
+          "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+          "description": "Fifa president Gianni Infantino's globe-trotting by private jet since his plan to sell of a stake in the World Cup has come under scrutiny.",
+          "author": "",
+          "publishedAt": "2026-11-24T06:16:53Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pnv96n#1",
+          "title": "Euro Leagues",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pnv96n?at_medium=RSS&at_campaign=rss",
+          "description": "Freddie Potts discusses his new life in Bruges after leaving West Ham after 16 years.",
+          "author": "",
+          "publishedAt": "2026-11-24T06:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo#0",
           "title": "Who has made Troy's Premier League team of the week?",
@@ -17,7 +37,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo#3",
           "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
           "description": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?",
@@ -67,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0ppk3nb#1",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0ppk3nb#3",
           "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
           "url": "https://www.bbc.co.uk/sounds/play/p0ppk3nb?at_medium=RSS&at_campaign=rss",
           "description": "Mark Chapman is joined by Conor Coady, Chris Sutton and Rory Smith.",
@@ -185,23 +205,13 @@
           "publishedAt": "2026-11-23T15:09:50Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o#0",
-          "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
-          "description": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
-          "author": "",
-          "publishedAt": "2026-11-23T13:07:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/1a7ae070-e726-11f1-914b-6d226d813a52.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-24T04:35:05Z",
+      "fetchedAt": "2026-11-24T06:28:30Z",
       "articles": [
         {
           "guid": "",
