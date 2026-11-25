@@ -4,15 +4,25 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-25T18:22:08Z",
+      "fetchedAt": "2026-11-25T20:36:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0ppxp3z#3",
+          "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
+          "url": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
+          "description": "Stockport County's Ollie Norwood tells us what has meant he keeps scoring epic free kicks",
+          "author": "",
+          "publishedAt": "2026-11-25T18:35:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o#0",
           "title": "Glasner criticises Forest players yet to learn English",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
           "description": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
           "author": "",
-          "publishedAt": "2026-11-25T18:00:26Z",
+          "publishedAt": "2026-11-25T18:32:55Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f7/live/c0988ec0-e8ee-11f1-99a1-253766e7ad8b.jpg"
         },
@@ -27,7 +37,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c6/live/764fb5d0-e8eb-11f1-8808-1d4222955d7e.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o#5",
           "title": "EFL Trophy holders Luton face Palace U21s in last 32",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
           "description": "EFL Trophy holders Luton Town will meet Crystal Palace Under-21s in the last 32 of the competition.",
@@ -65,6 +75,16 @@
           "publishedAt": "2026-11-25T16:19:45Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a27/live/39af5f80-e8e7-11f1-8808-1d4222955d7e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/w3ct9tpd#7",
+          "title": "More than the Score",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct9tpd?at_medium=RSS&at_campaign=rss",
+          "description": "The Court of Arbitration for Sport reinstates Senegal as Africa Cup of Nations champions",
+          "author": "",
+          "publishedAt": "2026-11-25T14:57:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pptwc3.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno#0",
@@ -117,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bc/live/26f95460-e809-11f1-95bb-3f37d3e026b0.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#7",
           "title": "Millwall face partial stadium closure after discriminatory chants",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
           "description": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
@@ -137,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/c65y10j841jpo#0",
+          "guid": "https://www.bbc.co.uk/news/articles/c65y10j841jpo#1",
           "title": "EA adds AI-generated John Motson to FC 27 video game",
           "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
           "description": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
@@ -207,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o#1",
           "title": "Are Manchester United this season's Tottenham?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
           "description": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
@@ -225,53 +245,43 @@
           "publishedAt": "2026-11-25T01:20:53Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894a/live/51627690-e86e-11f1-bcda-1d03b8eb883f.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o#3",
-          "title": "Bellingham plays down Zidane comparison after wonder goal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-          "description": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
-          "author": "",
-          "publishedAt": "2026-11-24T23:54:10Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o#3",
-          "title": "Arteta says Arsenal need more luck to kill off games",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-          "description": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
-          "author": "",
-          "publishedAt": "2026-11-24T23:44:04Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-25T18:22:08Z",
+      "fetchedAt": "2026-11-25T20:36:52Z",
       "articles": [
         {
           "guid": "",
-          "title": "Club Brugge vs Liverpool LIVE!",
+          "title": "Birmingham lead at Burnley LIVE!",
+          "url": "https://www.skysports.com/football/burnley-vs-birmingham-city/live/560699",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-25T19:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-birmingham-city_7416526.jpg?20261125200137"
+        },
+        {
+          "guid": "",
+          "title": "Isak breaks deadlock as Liverpool lead Club Brugge LIVE!",
           "url": "https://www.skysports.com/football/club-brugge-vs-liverpool/live/577679",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-25T17:58:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/09/1920x1080/skysports-alexis-mac-allister_7346585.jpg?20260909222846"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-bradley-barcola-brugge_7416535.jpg?20261125201606"
         },
         {
           "guid": "",
-          "title": "Sporting vs Man Utd team news LIVE!",
+          "title": "Lammens saves Sporting penalty to keep Man Utd level LIVE!",
           "url": "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/live/577686",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-25T17:51:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-pochettino-mauricio_7416442.jpg?20261125181010"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-harry-maguire-man-utd_7416536.jpg?20261125201905"
         },
         {
           "guid": "",
@@ -305,7 +315,7 @@
         },
         {
           "guid": "",
-          "title": "Forest latest: I'm no magician but we expected more points, says Glasner",
+          "title": "Forest latest: Glasner met Marinakis for transfer talks",
           "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
           "author": "",
@@ -332,16 +342,6 @@
           "publishedAt": "2026-11-25T13:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
-          "title": "Guardiola confirms Italy snub and hints at next coaching role",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-25T13:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-pep-guardiola-manchester-city_7377077.jpg?20261014201059"
         },
         {
           "guid": "",
@@ -445,13 +445,13 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Wirtz enjoying life after finding top form",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "title": "Palace latest: Mingueza back in training after missing Coventry trip",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
           "description": "",
           "author": "",
-          "publishedAt": "2026-11-24T18:15:00Z",
+          "publishedAt": "2026-11-22T07:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
         }
       ]
     }
