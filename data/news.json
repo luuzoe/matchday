@@ -4,8 +4,98 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-25T07:50:41Z",
+      "fetchedAt": "2026-11-25T11:29:51Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo#13",
+          "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything team explain why the Premier League fixtures have some unusual kick-off times this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-25T11:25:51Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/1b641f20-e8bf-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no#0",
+          "title": "Lincoln sack head coach duo Cohen and Shaw",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
+          "description": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
+          "author": "",
+          "publishedAt": "2026-11-25T11:04:32Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb84/live/59c159f0-e8be-11f1-ac76-db9e97f93d67.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#5",
+          "title": "Millwall face partial stadium closure after discriminatory chants",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
+          "description": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
+          "author": "",
+          "publishedAt": "2026-11-25T10:58:32Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo#3",
+          "title": "Wales and West Ham's Morgan suffers serious injury",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss",
+          "description": "Wales and West Ham winger Ffion Morgan faces a lengthy spell on the sidelines after suffering a serious knee injury.",
+          "author": "",
+          "publishedAt": "2026-11-25T10:38:44Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6y97xpqe4e5o#3",
+          "title": "'Most frustrating of career' - Martin on Foxes draw at Blackpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6y97xpqe4e5o?at_medium=RSS&at_campaign=rss",
+          "description": "Leicester City boss Russell Martin describes Tuesday's 1-1 draw with Blackpool as the most frustrating result of his career.",
+          "author": "",
+          "publishedAt": "2026-11-25T10:09:10Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4458/live/c2e53fb0-e8b3-11f1-9e64-bddd508b9881.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo#13",
+          "title": "Why Man City can't wear their new kit in Premier League",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Ask Me Anything team explains why Manchester City will not be able to wear their new fourth kit in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-25T09:38:16Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0469/live/eb169590-e8b0-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gn898zl80o#16",
+          "title": "'Two faces' & rudely named set-pieces end Hibs' long wait for home win",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn898zl80o?at_medium=RSS&at_campaign=rss",
+          "description": "Hibs show they are capable of winning ugly with the help of a beautiful goal as Marink Reedijk guides them to a first home league win in nearly eight months against Dundee.",
+          "author": "",
+          "publishedAt": "2026-11-25T09:04:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179d/live/07f05db0-e8af-11f1-869a-f96fd5660210.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pprk8s#16",
+          "title": "Podcast: Flying under the radar? Scottish football's unsung heroes",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pprk8s?at_medium=RSS&at_campaign=rss",
+          "description": "Hidden gems: Scottish football's best-kept secrets",
+          "author": "",
+          "publishedAt": "2026-11-25T08:00:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pprk9y.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6lymzn0lx02o#16",
+          "title": "Celtic consider move for midfielder Ashour - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6lymzn0lx02o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic linked with Egypt midfielder as Rangers prepare to offload striker...",
+          "author": "",
+          "publishedAt": "2026-11-25T07:54:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f21/live/2e2a5490-e8a5-11f1-99b6-a35a62fa4264.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o#0",
           "title": "How to unearth young stars, the Bayern Munich way",
@@ -30,11 +120,11 @@
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o#0",
           "title": "Are Manchester United this season's Tottenham?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-          "description": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+          "description": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
           "author": "",
           "publishedAt": "2026-11-25T06:22:36Z",
           "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6874/live/00c21c60-e8b2-11f1-869a-f96fd5660210.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo#16",
@@ -65,16 +155,6 @@
           "publishedAt": "2026-11-24T23:44:04Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0ppqqv0#16",
-          "title": "Sportsound reaction to thriller at Ibrox",
-          "url": "https://www.bbc.co.uk/sounds/play/p0ppqqv0?at_medium=RSS&at_campaign=rss",
-          "description": "Reaction to big wins for Rangers and Hibs",
-          "author": "",
-          "publishedAt": "2026-11-24T23:25:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo#0",
@@ -127,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo#7",
           "title": "Klopp advice and Iraola confidence boosts Wirtz",
           "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
           "description": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
@@ -147,16 +227,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o#3",
-          "title": "Yoro red card overturned, but refs' chief Webb backs decision",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
-          "author": "",
-          "publishedAt": "2026-11-24T17:00:32Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo#7",
           "title": "FA chief signs NDA to view Fifa sell-off plot documents",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
@@ -167,16 +237,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#3",
-          "title": "Millwall face partial stadium closure after discriminatory chants",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
-          "description": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
-          "author": "",
-          "publishedAt": "2026-11-24T14:23:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg"
-        },
-        {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo#16",
           "title": "SFA leads tributes to former president Peat",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo?at_medium=RSS&at_campaign=rss",
@@ -185,74 +245,24 @@
           "publishedAt": "2026-11-24T13:35:17Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/850b/live/8c488a70-e809-11f1-95bb-3f37d3e026b0.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o#5",
-          "title": "Non-league player injured falling down badger hole",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
-          "description": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
-          "author": "",
-          "publishedAt": "2026-11-24T12:31:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo#7",
-          "title": "Palace docked points for using four sub windows in WSL win",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-          "description": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
-          "author": "",
-          "publishedAt": "2026-11-24T12:14:19Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o#16",
-          "title": "Ferguson apologises after receiving seven-game ban as Glentoran boss",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
-          "description": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
-          "author": "",
-          "publishedAt": "2026-11-24T11:36:18Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e31/live/ab98c410-e7f7-11f1-ab60-79086b6495b8.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo#13",
-          "title": "Which Premier League players are set for yellow card suspensions?",
-          "url": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
-          "description": "Seventeen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
-          "author": "",
-          "publishedAt": "2026-11-24T09:47:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42f9/live/2d735fc0-e728-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo#3",
-          "title": "Dead hippo to be honoured on football club tifo",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
-          "description": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
-          "author": "",
-          "publishedAt": "2026-11-24T09:43:38Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5345/live/8e981730-e7f2-11f1-8b26-c1adae33e7f2.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo#2",
-          "title": "The youngest Premier League goalscorers this season",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
-          "description": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
-          "author": "",
-          "publishedAt": "2026-11-24T09:10:34Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-25T07:50:41Z",
+      "fetchedAt": "2026-11-25T11:29:51Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Chelsea latest: Club did not sanction controversial Fofana interview",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-25T10:21:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
         {
           "guid": "",
           "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
@@ -265,7 +275,7 @@
         },
         {
           "guid": "",
-          "title": "Arsenal punished for bluntless in attack - but Man City also have problems",
+          "title": "Arsenal punished for bluntness in attack - but Man City also have problems",
           "url": "https://www.skysports.com/football/news/11095/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
           "description": "Arsenal face Manchester City in a blockbuster Premier League contest this weekend, but in recent days and months, both teams have issues to overcome.",
           "author": "",
@@ -277,21 +287,21 @@
           "guid": "",
           "title": "'You question everything' - Haaland lays City's frustrations bare",
           "url": "https://www.skysports.com/football/news/11095/13616226/erling-haaland-frustrated-with-manchester-city-form-when-you-dont-win-you-question-everything",
-          "description": "Erling Haaland has admitted Manchester City's poor form is affecting the players, admitting \"when you don't win, you question everything\" after they were held 2-2 at home by Napoli in the Champions League.",
+          "description": "Erling Haaland said Manchester City's poor form is affecting the players, admitting \"when you don't win, you question everything\" after they were held 2-2 at home by Napoli in the Champions League.",
           "author": "",
           "publishedAt": "2026-11-24T22:51:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-haaland-manchester-city_7415835.jpg?20261124230423"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-haaland-manchester-city_7415835.jpg?20261125103205"
         },
         {
           "guid": "",
-          "title": "Real Madrid top CL table as Bellingham scores stunner in thumping PSV win",
+          "title": "Mourinho calls Bellingham best midfielder in the world - your verdict!",
           "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-24T22:26:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-jude-bellingham-real-madrid_7415775.jpg?20261124223221"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-jude-bellingham-real_7415957.jpg?20261125105927"
         },
         {
           "guid": "",
@@ -311,7 +321,7 @@
           "author": "",
           "publishedAt": "2026-11-24T21:56:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arsenal-borussia-dortmund_7415724.jpg?20261124215641"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-arsenal-borussia-dortmund_7415724.jpg?20261125105614"
         },
         {
           "guid": "",
@@ -321,27 +331,7 @@
           "author": "",
           "publishedAt": "2026-11-24T21:50:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7415728.jpg?20261124215803"
-        },
-        {
-          "guid": "",
-          "title": "Parker still winless as Portsmouth beat West Ham",
-          "url": "https://www.skysports.com/football/portsmouth-vs-west-ham-united/report/560695",
-          "description": "Scott Parker's winless start to life as West Ham boss continued as Odin Bailey netted his first Portsmouth goal in a 1-0 victory at Fratton Park.",
-          "author": "",
-          "publishedAt": "2026-11-24T21:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-portsmouth_7415658.jpg?20261124210540"
-        },
-        {
-          "guid": "",
-          "title": "Lankshear steers Boro back to the top of the Championship",
-          "url": "https://www.skysports.com/football/middlesbrough-vs-swansea-city/report/560693",
-          "description": "Will Lankshear was back among the goals as Middlesbrough cemented their position at the top of the Championship with a 2-1 win over Swansea City.",
-          "author": "",
-          "publishedAt": "2026-11-24T21:35:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-will-lankshear-middlesbrough_7415667.jpg?20261124211457"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7415728.jpg?20261125101836"
         },
         {
           "guid": "",
@@ -355,7 +345,17 @@
         },
         {
           "guid": "",
-          "title": "Man Utd latest: Fernandes 'not worried' about future",
+          "title": "Ronaldo scores 987th career goal in Al Nassr victory",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-24T20:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372504.jpg?20261012222844"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Should Szoboszlai's goal have stood? Vote!",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
@@ -395,23 +395,13 @@
         },
         {
           "guid": "",
-          "title": "Man Utd to contact PL and refs over 'totally wrong' Yoro red card interpretation",
-          "url": "https://www.skysports.com/football/news/11095/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
-          "description": "Manchester United will contact ProRef and the Premier League directly over what they believe to be a 'totally wrong' interpretation of Leny Yoro's red card against Liverpool.",
+          "title": "Senegal confirmed AFCON 2025 champions after appeal",
+          "url": "https://www.skysports.com/football/news/11095/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal",
+          "description": "The Court of Arbitration for Sport (CAS) has announced Senegal as the winners of the 2025 Africa Cup of Nations (AFCON).",
           "author": "",
-          "publishedAt": "2026-11-24T17:00:00Z",
+          "publishedAt": "2026-11-24T14:20:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102"
-        },
-        {
-          "guid": "",
-          "title": "Transfer Centre LIVE! Heaven open to leaving Man Utd in January",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-24T16:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/25/03/1920x1080/skysports-man-utd-ayden-heaven_6858858.jpg?20250316174910"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-sadio-mane_7415365.jpg?20261124145012"
         },
         {
           "guid": "",
@@ -452,6 +442,16 @@
           "publishedAt": "2026-11-21T21:50:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-rangers-aberdeen_7415736.jpg?20261124220106"
+        },
+        {
+          "guid": "",
+          "title": "EFL: Watford appoint Iordanescu as Lincoln sack head coaches",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-11T11:20:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-edward-iordanescu_7414275.jpg?20261123104839"
         }
       ]
     }
