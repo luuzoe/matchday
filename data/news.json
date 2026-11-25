@@ -4,8 +4,38 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-25T02:22:11Z",
+      "fetchedAt": "2026-11-25T07:50:41Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o#0",
+          "title": "How to unearth young stars, the Bayern Munich way",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+          "author": "",
+          "publishedAt": "2026-11-25T07:22:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/befff4e0-e4f2-11f1-8781-bf15c9202663.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-25T06:56:11Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o#0",
+          "title": "Are Manchester United this season's Tottenham?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+          "author": "",
+          "publishedAt": "2026-11-25T06:22:36Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo#16",
           "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
@@ -67,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o#7",
           "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o?at_medium=RSS&at_campaign=rss",
           "description": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
@@ -87,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo#3",
           "title": "Bayern hold 'constructive' talks over Musiala's health",
           "url": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
           "description": "Bayern Munich are only focused on getting Jamal Musiala back from injury and not interested in the comments made regarding his contract, the club's sporting director Max Eberl insists.",
@@ -97,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo#3",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo#5",
           "title": "Klopp advice and Iraola confidence boosts Wirtz",
           "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
           "description": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
@@ -107,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#1",
           "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
           "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
           "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
@@ -137,7 +167,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o#3",
           "title": "Millwall face partial stadium closure after discriminatory chants",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
           "description": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
@@ -167,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo#5",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo#7",
           "title": "Palace docked points for using four sub windows in WSL win",
           "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
           "description": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
@@ -177,8 +207,8 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o#7",
-          "title": "Glens boss Ferguson apologises after seven-game ban",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o#16",
+          "title": "Ferguson apologises after receiving seven-game ban as Glentoran boss",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
           "description": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
           "author": "",
@@ -197,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42f9/live/2d735fc0-e728-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo#3",
           "title": "Dead hippo to be honoured on football club tifo",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
           "description": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
@@ -215,33 +245,13 @@
           "publishedAt": "2026-11-24T09:10:34Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o#7",
-          "title": "Barnet forward Noel-Williams charged with rape",
-          "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
-          "description": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
-          "author": "",
-          "publishedAt": "2026-11-24T08:50:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo#7",
-          "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
-          "description": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts.",
-          "author": "",
-          "publishedAt": "2026-11-24T08:36:50Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb1/live/4368f080-e40b-11f1-ab35-e1af93fa5cce.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-25T02:22:11Z",
+      "fetchedAt": "2026-11-25T07:50:41Z",
       "articles": [
         {
           "guid": "",
@@ -255,7 +265,7 @@
         },
         {
           "guid": "",
-          "title": "Arsenal showing bluntless in attack - but Man City have problems too",
+          "title": "Arsenal punished for bluntless in attack - but Man City also have problems",
           "url": "https://www.skysports.com/football/news/11095/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
           "description": "Arsenal face Manchester City in a blockbuster Premier League contest this weekend, but in recent days and months, both teams have issues to overcome.",
           "author": "",
