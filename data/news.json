@@ -4,8 +4,18 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-26T19:44:46Z",
+      "fetchedAt": "2026-11-26T21:42:40Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o#0",
+          "title": "Haaland considers Man City exit - Friday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+          "description": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.",
+          "author": "",
+          "publishedAt": "2026-11-26T21:25:06Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e731/live/617667b0-e9dd-11f1-99b6-a35a62fa4264.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o#3",
           "title": "Carsley eyes Euros history with England U21s after draw",
@@ -25,6 +35,16 @@
           "publishedAt": "2026-11-26T19:19:49Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o#6",
+          "title": "What will returning Magill bring to Northern Ireland?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
+          "description": "As she gears up for her international return, what will Simone Magill bring to Northern Ireland against Greece in Friday's friendly?",
+          "author": "",
+          "publishedAt": "2026-11-26T18:34:20Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/e216c380-e9ae-11f1-a094-5fdc692f3e33.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o#0",
@@ -67,7 +87,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b9/live/affbfc90-e9b7-11f1-8d2a-f5d2aabc11cb.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo#3",
           "title": "Fofana has apologised for interview - Alonso",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
           "description": "Chelsea manager Xabi Alonso says defender Wesley Fofana has apologised for his controversial comments in an interview he gave without permission from the club.",
@@ -97,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482e/live/b53f8050-e971-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o#3",
           "title": "The American manager with a maths degree making history in La Liga",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
           "description": "Real Sociedad boss Pellegrino Matarazzo made history as the first American manager in La Liga. His side face Crystal Palace in the Europa League on Thursday.",
@@ -117,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#4",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#6",
           "title": "How to follow the Premier League on the BBC this weekend",
           "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
           "description": "Our Ask Me Anything team explains how to follow matches from week 12 of the Premier League season on the BBC this weekend.",
@@ -125,16 +145,6 @@
           "publishedAt": "2026-11-26T12:06:15Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/64ea96a0-e8bb-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o#3",
-          "title": "Fifa confirms internal data stolen in cyber attack",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
-          "description": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
-          "author": "",
-          "publishedAt": "2026-11-26T11:30:07Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o#14",
@@ -207,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo#3",
           "title": "'Laughing gas has ended careers' - so how common is it in football?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
           "description": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers.",
@@ -215,34 +225,34 @@
           "publishedAt": "2026-11-26T06:18:30Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o#3",
-          "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-          "description": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
-          "author": "",
-          "publishedAt": "2026-11-26T00:24:48Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o#2",
-          "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
-          "description": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
-          "author": "",
-          "publishedAt": "2026-11-25T23:38:42Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70be/live/120c5330-e927-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-26T19:44:47Z",
+      "fetchedAt": "2026-11-26T21:42:40Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Brighton latest: Hurzeler reserves praise for Osman after ECL brace",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-26T21:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+        },
+        {
+          "guid": "",
+          "title": "Bournemouth make European history after coming from behind to beat Celta Vigo",
+          "url": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/report/577814",
+          "description": "Bournemouth continued their magnificent run of form with a 2-1 victory against Celta Vigo, creating two bits of history in the process.",
+          "author": "",
+          "publishedAt": "2026-11-26T20:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bournemouth-rayan_7417392.jpg?20261126193347"
+        },
         {
           "guid": "",
           "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
@@ -275,23 +285,13 @@
         },
         {
           "guid": "",
-          "title": "Leeds latest: Farke not drawn on own future amid new deals for players",
-          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-26T16:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
-        },
-        {
-          "guid": "",
-          "title": "Europa and Conference League LIVE! Brighton in control | 10-man Bournemouth lead",
-          "url": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/live/577814",
+          "title": "EL & ECL LIVE! Palace come from behind to lead, Sunderland and Celtic all square",
+          "url": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/live/577827",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-26T16:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-alvaro-rodriguez_7417358.jpg?20261126185132"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-mamadou-sarr-eddie-nketiah_7417416.jpg?20261126202200"
         },
         {
           "guid": "",
@@ -335,16 +335,6 @@
         },
         {
           "guid": "",
-          "title": "Brighton latest: Seagulls watching Ukraine striker - who's likened to Haaland",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-26T13:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-        },
-        {
-          "guid": "",
           "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
           "url": "https://www.skysports.com/football/news/11095/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
           "description": "Mauricio Pochettino will need more than just good performances to turn Manchester United&#8217;s season around &#8211; refereeing decisions will have to go their way too.",
@@ -362,6 +352,16 @@
           "publishedAt": "2026-11-26T12:09:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7415492.jpg?20261124170754"
+        },
+        {
+          "guid": "",
+          "title": "Osman stars as Brighton bounce back with Conference League win",
+          "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-cs-universitatea-craiova/report/577942",
+          "description": "Ibrahim Osman scored his first Brighton goals as his side returned to winning ways by cruising to a 4-0 success over 10-man Universitatea Craiova in the Conference League.",
+          "author": "",
+          "publishedAt": "2026-11-26T10:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-brighton-ibrahim-osman_7417345.jpg?20261126183808"
         },
         {
           "guid": "",
@@ -392,16 +392,6 @@
           "publishedAt": "2026-11-26T08:20:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-man-utd-champions-league_7416843.jpg?20261126082754"
-        },
-        {
-          "guid": "",
-          "title": "Forest latest: Glasner criticises players yet to learn English",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-26T07:26:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
         },
         {
           "guid": "",
