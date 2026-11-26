@@ -4,8 +4,48 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-26T10:20:49Z",
+      "fetchedAt": "2026-11-26T12:16:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#4",
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything team explains how to follow matches from week 12 of the Premier League season on the BBC this weekend.",
+          "author": "",
+          "publishedAt": "2026-11-26T12:06:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/64ea96a0-e8bb-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o#0",
+          "title": "Fifa confirms internal data stolen in cyber attack",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
+          "description": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
+          "author": "",
+          "publishedAt": "2026-11-26T11:30:07Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o#14",
+          "title": "Who is close to a yellow card suspension in Champions League?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
+          "author": "",
+          "publishedAt": "2026-11-26T11:21:53Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pq0m9k#18",
+          "title": "BBC Women's Football Weekly",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pq0m9k?at_medium=RSS&at_campaign=rss",
+          "description": "Three Lionesses join Ellen, Ben & Em ahead of their 2027 World Cup play-off final.",
+          "author": "",
+          "publishedAt": "2026-11-26T11:18:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq0mdz.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/articles/cm5y1g91xq3po#18",
           "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
@@ -205,53 +245,13 @@
           "publishedAt": "2026-11-25T22:05:53Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/aa1d08d0-e860-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do#2",
-          "title": "Cherki rescues point for Man City against Napoli",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
-          "description": "Rayan Cherki's late equaliser rescues a point for Manchester City at home to Napoli in the Champions League, who have now won just one of their past seven games in all competitions.",
-          "author": "",
-          "publishedAt": "2026-11-25T22:05:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0a/live/4cdf0f20-e85f-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o#2",
-          "title": "Real Madrid put in five-star second half to win against PSV",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
-          "description": "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.",
-          "author": "",
-          "publishedAt": "2026-11-25T22:05:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba5/live/0ccb6090-e8f6-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro#4",
-          "title": "Ferguson's Glentoran reign hits early turbulence",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
-          "description": "Duncan Ferguson's short tenure at Glentoran is already proving anything but straightforward with just one win so far and the former Everton striker now suspended for seven games.",
-          "author": "",
-          "publishedAt": "2026-11-25T21:41:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c6/live/644041b0-e90f-11f1-8383-53f283141713.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo#0",
-          "title": "Regulator chief 'has stomach' to face Man City",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
-          "description": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
-          "author": "",
-          "publishedAt": "2026-11-25T21:27:35Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894b/live/46715940-e913-11f1-8383-53f283141713.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-26T10:20:49Z",
+      "fetchedAt": "2026-11-26T12:16:52Z",
       "articles": [
         {
           "guid": "",
@@ -262,6 +262,16 @@
           "publishedAt": "2026-11-26T10:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-liam-delap_7415147.jpg?20261124104255"
+        },
+        {
+          "guid": "",
+          "title": "Collins: I got choked up before I came on for my Wales debut!",
+          "url": "https://www.skysports.com/football/news/11095/13612810/aaron-collins-exclusive-mk-dons-striker-discusses-electric-start-to-2026-27-and-first-senior-wales-call-up",
+          "description": "On Friday November 6, Aaron Collins was notified by the FAW that he was on the standby list for Wales' Nations League matches against Norway and Portugal.",
+          "author": "",
+          "publishedAt": "2026-11-26T10:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-aaron-collins-wales_7416038.jpg?20261125103302"
         },
         {
           "guid": "",
@@ -321,7 +331,7 @@
           "author": "",
           "publishedAt": "2026-11-25T22:50:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-anthony-gordon_7416676.jpg?20261125224913"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-anthony-gordon-barcelona_7416993.jpg?20261126115244"
         },
         {
           "guid": "",
@@ -405,16 +415,6 @@
         },
         {
           "guid": "",
-          "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
-          "url": "https://www.skysports.com/football/news/11095/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league",
-          "description": "The sight of Matthijs de Ligt, arms outstretched in disbelief at the lack of cover as Alexander Isak raced away from him, immediately felt symbolic. The Dutchman is only 27 years old but this looked like a zonal defender now living in a man-to-man marking world.",
-          "author": "",
-          "publishedAt": "2026-11-25T16:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-fulham_7416216.jpg?20261125133643"
-        },
-        {
-          "guid": "",
           "title": "Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?",
           "url": "https://www.skysports.com/football/news/11095/13616388/dominik-szoboszlai-free-kick-for-liverpool-vs-man-utd-reveals-grey-area-as-mauricio-pochettino-questions-decision",
           "description": "Mauricio Pochettino fumed over Leny Yoro's red card for Manchester United in their defeat to Liverpool, but also felt Dominik Szoboszlai's opener should not have stood &#8211; is he right?",
@@ -422,16 +422,6 @@
           "publishedAt": "2026-11-25T15:15:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-dominik-szoboszlai_7416266.jpg?20261125144550"
-        },
-        {
-          "guid": "",
-          "title": "Man City latest: 'Title race over if City lose to Arsenal,' says Merse",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-25T12:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
         },
         {
           "guid": "",
@@ -452,6 +442,16 @@
           "publishedAt": "2026-11-24T18:02:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
+        },
+        {
+          "guid": "",
+          "title": "Premier League predictor - play our new game each week!",
+          "url": "https://www.skysports.com/football/live-blog/11095/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-18T16:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-predictor_7408710.jpg?20261117135327"
         }
       ]
     }
