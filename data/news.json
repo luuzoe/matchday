@@ -4,8 +4,98 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-27T13:12:18Z",
+      "fetchedAt": "2026-11-27T19:56:21Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo#0",
+          "title": "Emery praises Garnacho attitude after Villa selection snub",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.",
+          "author": "",
+          "publishedAt": "2026-11-27T17:42:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141e/live/97985990-ea85-11f1-a739-457c2295eaba.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o#0",
+          "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+          "author": "",
+          "publishedAt": "2026-11-27T16:14:34Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo#0",
+          "title": "Spurs' Savio to miss festive fixtures after injury setback",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
+          "author": "",
+          "publishedAt": "2026-11-27T16:05:30Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo#0",
+          "title": "Man Utd trigger Fernandes' one-year contract extension",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+          "author": "",
+          "publishedAt": "2026-11-27T15:08:41Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo#0",
+          "title": "What happens now for Bayern Munich and Musiala?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+          "author": "",
+          "publishedAt": "2026-11-27T15:03:12Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo#0",
+          "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+          "author": "",
+          "publishedAt": "2026-11-27T14:37:58Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo#1",
+          "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+          "description": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+          "author": "",
+          "publishedAt": "2026-11-27T14:37:51Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo#2",
+          "title": "Iordanescu ready for Watford 'challenge'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+          "description": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
+          "author": "",
+          "publishedAt": "2026-11-27T13:58:15Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o#2",
+          "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
+          "description": "The Wales midfielder, central to Cardiff's change in fortunes, grew up in a Swansea-supporting area and has been the focal point of a Wales debate.",
+          "author": "",
+          "publishedAt": "2026-11-27T13:16:05Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bc/live/be4480c0-ea5b-11f1-89b9-f318b11567ea.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko#16",
           "title": "Ipswich Women sign Ademiluyi for record fee",
@@ -17,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/fbaf2690-ea4c-11f1-b220-b9f21129b546.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo#2",
           "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
           "description": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
@@ -27,7 +117,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo#2",
           "title": "EFL preview: Happy Potters face struggling Hammers",
           "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport explores five things to capture your attention this EFL weekend.",
@@ -37,7 +127,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o#0",
+          "guid": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o#1",
           "title": "Botman banned from driving for using phone at wheel",
           "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
           "description": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
@@ -47,7 +137,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb89/live/0ffd2b20-ea4c-11f1-b220-b9f21129b546.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo#1",
           "title": "Clashes mar European games as Macron condemns violence",
           "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
           "description": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
@@ -57,17 +147,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo#0",
-          "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo?at_medium=RSS&at_campaign=rss",
-          "description": "Southampton and Middlesbrough prepare to re-ignite their rivalry as they meet for the first time since the Spygate scandal unfolded.",
-          "author": "",
-          "publishedAt": "2026-11-27T10:11:58Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea46/live/cfe72420-ea49-11f1-b220-b9f21129b546.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o#5",
           "title": "Why Cambridgeshire derby could be season-defining",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
           "description": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
@@ -97,7 +177,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3b1/live/677d69a0-ea33-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo#1",
           "title": "What makes or breaks a high press?",
           "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
           "description": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
@@ -107,17 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko#1",
-          "title": "Who am I? Plus today's other quizzes",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "author": "",
-          "publishedAt": "2026-11-27T06:59:03Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o#1",
           "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
@@ -125,16 +195,6 @@
           "publishedAt": "2026-11-27T06:58:33Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo#0",
-          "title": "What happens now for Bayern Munich and Musiala?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-          "description": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
-          "author": "",
-          "publishedAt": "2026-11-27T06:54:36Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go#0",
@@ -147,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/e37d1e90-e9e0-11f1-9361-cd8ed0157587.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o#2",
           "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
           "description": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
@@ -155,123 +215,153 @@
           "publishedAt": "2026-11-27T00:18:44Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko#1",
-          "title": "Hearts' European hopes hang by a thread but Vrancken proud",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
-          "description": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
-          "author": "",
-          "publishedAt": "2026-11-26T23:59:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o#0",
-          "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
-          "description": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
-          "author": "",
-          "publishedAt": "2026-11-26T22:27:52Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pq4ydb#5",
-          "title": "Euro Leagues",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
-          "description": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
-          "author": "",
-          "publishedAt": "2026-11-26T22:13:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o#1",
-          "title": "Haaland considers Man City exit - Friday's gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
-          "description": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.",
-          "author": "",
-          "publishedAt": "2026-11-26T21:25:06Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e731/live/617667b0-e9dd-11f1-99b6-a35a62fa4264.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o#5",
-          "title": "Carsley eyes Euros history with England U21s after draw",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
-          "description": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
-          "author": "",
-          "publishedAt": "2026-11-26T19:35:17Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o#2",
-          "title": "Referee being 'drunk' claims are 'entirely unfounded'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
-          "description": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
-          "author": "",
-          "publishedAt": "2026-11-26T19:19:49Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o#5",
-          "title": "What will returning Magill bring to Northern Ireland?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
-          "description": "As she gears up for her international return, what will Simone Magill bring to Northern Ireland against Greece in Friday's friendly?",
-          "author": "",
-          "publishedAt": "2026-11-26T18:34:20Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/e216c380-e9ae-11f1-a094-5fdc692f3e33.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-27T13:12:18Z",
+      "fetchedAt": "2026-11-27T19:56:21Z",
       "articles": [
         {
           "guid": "",
-          "title": "Man Utd latest: Fernandes misses training with illness",
+          "title": "Transfer Centre LIVE! Bowen to discuss West Ham future if promotion bid fails",
+          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T18:54:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-wes-ham-west-jarrod-bowen_7378869.jpg?20261017142240"
+        },
+        {
+          "guid": "",
+          "title": "Nottingham Forest vs Chelsea LIVE!",
+          "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7414211.jpg?20261123092717"
+        },
+        {
+          "guid": "",
+          "title": "Eckert makes SIX changes as Southampton host Middlesbrough LIVE!",
+          "url": "https://www.skysports.com/football/southampton-vs-middlesbrough/live/560709",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T18:30:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7415052.jpg?20261124081417"
+        },
+        {
+          "guid": "",
+          "title": "Man City latest: 'We must go through these bumps to be a better team,' says Maresca",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T18:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+        },
+        {
+          "guid": "",
+          "title": "Aston Villa latest: Club open to terminating Garnacho loan",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T18:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+        },
+        {
+          "guid": "",
+          "title": "Arsenal latest: Arteta gives Raya update with Odegaard confident on new deal",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T17:41:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+        },
+        {
+          "guid": "",
+          "title": "VOTE: Were Arsenal right to sack Slegers?",
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T16:35:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/07/1920x1080/skysports-wsl-wsl-fixtures_7306590.jpg?20260725163652"
+        },
+        {
+          "guid": "",
+          "title": "Slegers sacked by Arsenal",
+          "url": "https://www.skysports.com/football/news/11095/13592850/renee-slegers-sacked-by-arsenal-only-18-months-after-winning-champions-league-following-poor-start-to-wsl-season",
+          "description": "Renee Slegers has been sacked as Arsenal head coach after a poor start to the Women's Super League season.",
+          "author": "",
+          "publishedAt": "2026-11-27T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-renee-slegers-arsenal_7417953.jpg?20261127152059"
+        },
+        {
+          "guid": "",
+          "title": "Where did it go wrong for Slegers at Arsenal?",
+          "url": "https://www.skysports.com/football/news/11095/13615727/renee-slegers-has-left-arsenal-by-mutual-consent-how-her-tenure-went-from-hero-to-zero-in-such-a-short-space-of-time",
+          "description": "Arsenal have parted company with Renee Slegers after less than two years permanently in charge, during which time the club celebrated unrivalled highs and endured dispiriting lows. The polarisation of the Dutchwoman's tenure is quite unusual.",
+          "author": "",
+          "publishedAt": "2026-11-27T15:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-renee-slegers-arsenal_7414665.jpg?20261123173029"
+        },
+        {
+          "guid": "",
+          "title": "Maresca: You can't compare Man City and Arsenal",
+          "url": "https://www.skysports.com/football/news/11095/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project",
+          "description": "Enzo Maresca said Premier League title rivals Manchester City and Arsenal couldn&#8217;t be compared after his side's early-season form raised expectations.",
+          "author": "",
+          "publishedAt": "2026-11-27T14:47:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-maresca-arteta_7417937.jpg?20261127151212"
+        },
+        {
+          "guid": "",
+          "title": "Liverpool latest: Iraola gives injury update on trio ahead of Merseyside derby",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T14:15:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd activate Fernandes contract extension clause",
+          "url": "https://www.skysports.com/football/news/11095/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028",
+          "description": "Manchester United have triggered their 12-month option to extend captain Bruno Fernandes' contract.",
+          "author": "",
+          "publishedAt": "2026-11-27T14:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7417939.jpg?20261127151323"
+        },
+        {
+          "guid": "",
+          "title": "Spurs latest: De Zerbi confirms injured Savio to miss festive fixtures",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T14:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+        },
+        {
+          "guid": "",
+          "title": "Man Utd latest: Pochettino hits back at criticism - 'I am not nice'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-27T12:03:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: 'Club open to letting Garnacho leave in January'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T10:23:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-        },
-        {
-          "guid": "",
-          "title": "The English Lamine Yamal? Why Williams-Barnett is getting Spurs fans excited",
-          "url": "https://www.skysports.com/football/news/11095/13616313/why-sky-is-the-limit-for-luca-williams-barnett-as-roberto-de-zerbi-makes-lamine-yamal-comparisons",
-          "description": "To earn comparisons to Lamine Yamal after just three Premier League appearances might seem a little far-fetched, but Roberto De Zerbi showed no hesitation.",
-          "author": "",
-          "publishedAt": "2026-11-27T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-spurs_7416025.jpg?20261125101151"
-        },
-        {
-          "guid": "",
-          "title": "Brighton's perfect blend: The duo key to Seagulls' rise",
-          "url": "https://www.skysports.com/football/news/11095/13616787/pascal-gross-and-luka-vuskovic-helping-drive-fabian-hurzelers-brighton-and-their-stunning-premier-league-start",
-          "description": "It was a painful Sunday afternoon at Hull, but by the time Brighton pair Luka Vuskovic&#160;and Pascal Gross arrived at the beachside restaurant on Tuesday, you got the impression they didn't need too much of the bracing near-frozen sea air to boost the mood.",
-          "author": "",
-          "publishedAt": "2026-11-27T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-pascal-gross-luka-vuskovic_7417035.jpg?20261126124345"
         },
         {
           "guid": "",
@@ -285,36 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Hull should be in League One, says xG - so how do they keep winning?",
-          "url": "https://www.skysports.com/football/news/11095/13616834/hull-city-should-be-in-league-one-this-season-according-to-expected-goals-so-how-do-the-tigers-keep-winning-in-the-premier-league",
-          "description": "Hull aren't doing much wrong as a newly promoted club so far. A great start to the campaign has them middle of the Premier League table, clear of the relegation zone and unbeaten at home all season.",
-          "author": "",
-          "publishedAt": "2026-11-27T08:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-hull-city_7417132.jpg?20261126143332"
-        },
-        {
-          "guid": "",
-          "title": "Papers: Liverpool interested in exploring Musiala deal",
-          "url": "https://www.skysports.com/football/news/11095/13617073/liverpool-transfer-news-reds-prepared-to-explore-jamal-musiala-deal-next-summer-if-he-can-prove-fitness-paper-talk",
-          "description": "The top stories and transfer rumours from Friday's newspapers...",
-          "author": "",
-          "publishedAt": "2026-11-27T07:52:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-        },
-        {
-          "guid": "",
-          "title": "Hemmings unfazed by rise at Villa and eager to take next step",
-          "url": "https://www.skysports.com/football/news/11095/13616958/george-hemmings-exclusive-aston-villa-prospect-unfazed-by-rapid-rise-in-unai-emerys-squad-as-he-eyes-next-step",
-          "description": "Two days after being thrown into a cauldron in Istanbul during Aston Villa's loss to Galatasaray in the Champions League, George Hemmings strolls into the media centre at Bodymoor Heath, sliders on, looking entirely at home in the senior surroundings that should be new to him.",
-          "author": "",
-          "publishedAt": "2026-11-26T19:09:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-george-hemmings-aston-villa_7417380.jpg?20261126192314"
-        },
-        {
-          "guid": "",
           "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
           "url": "https://www.skysports.com/football/news/11095/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
           "description": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
@@ -322,16 +382,6 @@
           "publishedAt": "2026-11-26T19:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-tonda-eckert-southampton_7324138.jpg?20260817143551"
-        },
-        {
-          "guid": "",
-          "title": "Leeds latest: Farke calls out 'big time' staff member for wearing a snood!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-26T16:45:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
         },
         {
           "guid": "",
@@ -355,26 +405,6 @@
         },
         {
           "guid": "",
-          "title": "Chelsea latest: Fofana apologises over unauthorised interview",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-26T14:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-        },
-        {
-          "guid": "",
-          "title": "Arsenal latest: Arteta set to give Raya injury update",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-26T14:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-        },
-        {
-          "guid": "",
           "title": "Delap's chance at redemption against toothless Chelsea",
           "url": "https://www.skysports.com/football/news/11095/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
           "description": "When Liam Delap joined Chelsea in the summer of 2025, he probably had ambitions of cementing himself as an elite Premier League No 9. Perhaps even positioning himself to be the heir to Harry Kane's throne for England.",
@@ -392,46 +422,6 @@
           "publishedAt": "2026-11-25T17:18:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-the-radar-isak-silva_7417192.jpg?20261126154055"
-        },
-        {
-          "guid": "",
-          "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
-          "url": "https://www.skysports.com/football/news/11095/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league",
-          "description": "The sight of Matthijs de Ligt, arms outstretched in disbelief at the lack of cover as Alexander Isak raced away from him, immediately felt symbolic. The Dutchman is only 27 years old but this looked like a zonal defender now living in a man-to-man marking world.",
-          "author": "",
-          "publishedAt": "2026-11-25T16:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-fulham_7416216.jpg?20261125133643"
-        },
-        {
-          "guid": "",
-          "title": "Transfer Centre LIVE! Who is the Premier League's best bargain buy?",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-24T16:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/16/04/1920x1080/vincent-kompany-gareth-bale-manchester-city-real-madrid-champions-league_3455847.jpg?20160426210555"
-        },
-        {
-          "guid": "",
-          "title": "Fulham latest: No chance Bassey leaves in January, says Arbeloa",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-22T09:05:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
-        },
-        {
-          "guid": "",
-          "title": "Premier League predictor - play our new game each week!",
-          "url": "https://www.skysports.com/football/live-blog/11095/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-18T16:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-predictor_7408710.jpg?20261117135327"
         }
       ]
     }
