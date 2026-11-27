@@ -4,8 +4,38 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-27T11:09:15Z",
+      "fetchedAt": "2026-11-27T13:12:18Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko#16",
+          "title": "Ipswich Women sign Ademiluyi for record fee",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko?at_medium=RSS&at_campaign=rss",
+          "description": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
+          "author": "",
+          "publishedAt": "2026-11-27T12:10:39Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/fbaf2690-ea4c-11f1-b220-b9f21129b546.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo#0",
+          "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+          "description": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
+          "author": "",
+          "publishedAt": "2026-11-27T11:57:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo#1",
+          "title": "EFL preview: Happy Potters face struggling Hammers",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport explores five things to capture your attention this EFL weekend.",
+          "author": "",
+          "publishedAt": "2026-11-27T11:03:43Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png"
+        },
         {
           "guid": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o#0",
           "title": "Botman banned from driving for using phone at wheel",
@@ -127,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko#1",
           "title": "Hearts' European hopes hang by a thread but Vrancken proud",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
           "description": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
@@ -167,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e731/live/617667b0-e9dd-11f1-99b6-a35a62fa4264.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o#5",
           "title": "Carsley eyes Euros history with England U21s after draw",
           "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
           "description": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
@@ -177,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o#2",
           "title": "Referee being 'drunk' claims are 'entirely unfounded'",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
           "description": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
@@ -195,34 +225,24 @@
           "publishedAt": "2026-11-26T18:34:20Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/e216c380-e9ae-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o#2",
-          "title": "Calvert-Lewin signs new Leeds deal until 2029",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
-          "description": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
-          "author": "",
-          "publishedAt": "2026-11-26T18:00:31Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o#2",
-          "title": "Germany's Freigang given 16-month ban over drugs test issues",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
-          "description": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
-          "author": "",
-          "publishedAt": "2026-11-26T17:12:45Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-27T11:09:15Z",
+      "fetchedAt": "2026-11-27T13:12:18Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Man Utd latest: Fernandes misses training with illness",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T12:03:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+        },
         {
           "guid": "",
           "title": "Aston Villa latest: 'Club open to letting Garnacho leave in January'",
@@ -255,23 +275,13 @@
         },
         {
           "guid": "",
-          "title": "'Man Utd being relegated would be the biggest shock in history... but it won't happen'",
+          "title": "'Man Utd being relegated would be biggest shock in history... but it won't happen'",
           "url": "https://www.skysports.com/football/news/11095/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson",
           "description": "In his latest <em>Sky Sports </em>column, Paul Merson previews a big weekend for Manchester United, before Arsenal take on Manchester City in a huge game live  this Sunday.",
           "author": "",
           "publishedAt": "2026-11-27T09:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7417653.jpg?20261127090442"
-        },
-        {
-          "guid": "",
-          "title": "Man Utd latest: 'Como star Paz on list of replacements for Fernandes'",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T08:46:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-merson-says-premier-league_7387678.jpg?20261026110935"
         },
         {
           "guid": "",
@@ -345,23 +355,23 @@
         },
         {
           "guid": "",
-          "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
-          "url": "https://www.skysports.com/football/news/11095/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
-          "description": "Mauricio Pochettino will need more than just good performances to turn Manchester United&#8217;s season around &#8211; refereeing decisions will have to go their way too.",
+          "title": "Chelsea latest: Fofana apologises over unauthorised interview",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-26T12:20:00Z",
+          "publishedAt": "2026-11-26T14:15:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-man-utd-sporting_7416621.jpg?20261125220910"
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
         },
         {
           "guid": "",
-          "title": "Yoro red card: Written reasons for overturned decision revealed",
-          "url": "https://www.skysports.com/football/news/11095/13616792/leny-yoro-red-card-written-reasons-why-manchester-united-defenders-red-card-at-liverpool-was-overturned-published-by-the-fa",
-          "description": "The Football Association has released the written reasons why Leny Yoro's red card for Manchester United at Liverpool was overturned - even though refereeing body Pro Ref said the on-field decision was correct.",
+          "title": "Arsenal latest: Arteta set to give Raya injury update",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
           "author": "",
-          "publishedAt": "2026-11-26T12:09:00Z",
+          "publishedAt": "2026-11-26T14:00:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7415492.jpg?20261124170754"
+          "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
         },
         {
           "guid": "",
