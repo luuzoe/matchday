@@ -4,8 +4,48 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-27T19:56:21Z",
+      "fetchedAt": "2026-11-27T21:58:21Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o#0",
+          "title": "Celtic defend head of security amid Green Brigade row",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:50:01Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ef/live/10726840-eaa6-11f1-9541-edfa153772c7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o#0",
+          "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:31:54Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o#0",
+          "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:19:27Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9b/live/13900680-eaa7-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pqb0nm#2",
+          "title": "Football Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss",
+          "description": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts.",
+          "author": "",
+          "publishedAt": "2026-11-27T20:47:00Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pqb0qm.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo#0",
           "title": "Emery praises Garnacho attitude after Villa selection snub",
@@ -27,7 +67,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo#1",
           "title": "Spurs' Savio to miss festive fixtures after injury setback",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
           "description": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
@@ -57,7 +97,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo#1",
           "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
           "description": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
@@ -175,54 +215,44 @@
           "publishedAt": "2026-11-27T07:21:15Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3b1/live/677d69a0-ea33-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo#1",
-          "title": "What makes or breaks a high press?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
-          "description": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
-          "author": "",
-          "publishedAt": "2026-11-27T07:17:13Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o#1",
-          "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
-          "author": "",
-          "publishedAt": "2026-11-27T06:58:33Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go#0",
-          "title": "Man City owners should be forced to sell, say clubs",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
-          "author": "",
-          "publishedAt": "2026-11-27T06:38:14Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/e37d1e90-e9e0-11f1-9361-cd8ed0157587.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o#2",
-          "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
-          "description": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
-          "author": "",
-          "publishedAt": "2026-11-27T00:18:44Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-27T19:56:21Z",
+      "fetchedAt": "2026-11-27T21:58:21Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "Azaz does a full Adebayor to celebrate in front of Boro fans!",
+          "url": "https://www.skysports.com/watch/video/13617359/southampton-v-middlesbrough-saints-second-causes-chaos-after-azaz-goads-boro-fans",
+          "description": "Finn Azaz does his best Emmanuel Adebayor impression to celebrate in front of Middlesbrough supporters after scoring for Southampton.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:42:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-football-saints_7418259.jpg?20261127214518"
+        },
+        {
+          "guid": "",
+          "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
+          "url": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea",
+          "description": "Morgan Gibbs-White nets again to put Nottingham Forest within sight of victory over Chelsea.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:34:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-gibbs-white-forest_7418250.jpg?20261127213617"
+        },
+        {
+          "guid": "",
+          "title": "'It's a WORLDIE!' - Igor Jesus shocks Chelsea with stunning volley",
+          "url": "https://www.skysports.com/watch/video/13617329/goal-i-jesus-5-nottm-forest-1-0-chelsea",
+          "description": "Igor Jesus volleys home a stunning opener to give Nottingham Forest the lead against Chelsea.",
+          "author": "",
+          "publishedAt": "2026-11-27T20:10:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-igor-jesus-chelsea_7418186.jpg?20261127201816"
+        },
         {
           "guid": "",
           "title": "Transfer Centre LIVE! Bowen to discuss West Ham future if promotion bid fails",
@@ -235,23 +265,23 @@
         },
         {
           "guid": "",
-          "title": "Nottingham Forest vs Chelsea LIVE!",
+          "title": "Gibbs-White at the double as Forest edge Chelsea in five-goal thriller LIVE!",
           "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-27T18:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7414211.jpg?20261123092717"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-morgan-gibbs-white_7418255.jpg?20261127214157"
         },
         {
           "guid": "",
-          "title": "Eckert makes SIX changes as Southampton host Middlesbrough LIVE!",
+          "title": "Saints beat Boro in ill-tempered first meeting since 'Spygate' LIVE!",
           "url": "https://www.skysports.com/football/southampton-vs-middlesbrough/live/560709",
           "description": "",
           "author": "",
           "publishedAt": "2026-11-27T18:30:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7415052.jpg?20261124081417"
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ryan-manning-s-southampton_7418246.jpg?20261127213036"
         },
         {
           "guid": "",
@@ -345,16 +375,6 @@
         },
         {
           "guid": "",
-          "title": "Spurs latest: De Zerbi confirms injured Savio to miss festive fixtures",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T14:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
-        },
-        {
-          "guid": "",
           "title": "Man Utd latest: Pochettino hits back at criticism - 'I am not nice'",
           "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -375,13 +395,13 @@
         },
         {
           "guid": "",
-          "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
-          "url": "https://www.skysports.com/football/news/11095/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
-          "description": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
+          "title": "Hemmings unfazed by rise at Villa and eager to take next step",
+          "url": "https://www.skysports.com/football/news/11095/13616958/george-hemmings-exclusive-aston-villa-prospect-unfazed-by-rapid-rise-in-unai-emerys-squad-as-he-eyes-next-step",
+          "description": "Two days after being thrown into a cauldron in Istanbul during Aston Villa's loss to Galatasaray in the Champions League, George Hemmings strolls into the media centre at Bodymoor Heath, sliders on, looking entirely at home in the senior surroundings that should be new to him.",
           "author": "",
-          "publishedAt": "2026-11-26T19:00:00Z",
+          "publishedAt": "2026-11-26T19:09:00Z",
           "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-tonda-eckert-southampton_7324138.jpg?20260817143551"
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-george-hemmings-aston-villa_7417380.jpg?20261126192314"
         },
         {
           "guid": "",
@@ -392,26 +412,6 @@
           "publishedAt": "2026-11-26T16:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Chelsea Q&A: Are Blues in crisis? What next for Fofana after viral interview?",
-          "url": "https://www.skysports.com/football/news/11095/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
-          "description": "After Chelsea fell to back-to-back losses with a 4-1 humiliation by Leeds at Stamford Bridge last Saturday, <em>Sky Sports News</em> reporter James Savundra examines the latest developments at Stamford Bridge.",
-          "author": "",
-          "publishedAt": "2026-11-26T15:55:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7417301.png?20261126174459"
-        },
-        {
-          "guid": "",
-          "title": "Delap's chance at redemption against toothless Chelsea",
-          "url": "https://www.skysports.com/football/news/11095/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
-          "description": "When Liam Delap joined Chelsea in the summer of 2025, he probably had ambitions of cementing himself as an elite Premier League No 9. Perhaps even positioning himself to be the heir to Harry Kane's throne for England.",
-          "author": "",
-          "publishedAt": "2026-11-26T10:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-liam-delap_7415147.jpg?20261124104255"
         },
         {
           "guid": "",
