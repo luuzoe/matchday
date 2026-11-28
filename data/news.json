@@ -4,8 +4,98 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-28T03:47:29Z",
+      "fetchedAt": "2026-11-28T10:45:52Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo#0",
+          "title": "Man Utd trigger Fernandes' one-year contract extension",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+          "author": "",
+          "publishedAt": "2026-11-28T10:28:36Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo#0",
+          "title": "How Cardiff are changing Swansea derby narrative",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo?at_medium=RSS&at_campaign=rss",
+          "description": "Cardiff City used to be the dysfunctional poor relations in south Wales derbies, but they are changing the narrative with their rivals Swansea City.",
+          "author": "",
+          "publishedAt": "2026-11-28T10:07:52Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdd/live/a1746250-ea6d-11f1-a828-d384c0290f6b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq143gn0gd80o#15",
+          "title": "Sheffield United scout Hearts' McPake - gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq143gn0gd80o?at_medium=RSS&at_campaign=rss",
+          "description": "Hearts winger linked with Sheffield United as former St Johnstone chairman reveals 49ers approach.",
+          "author": "",
+          "publishedAt": "2026-11-28T08:36:34Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d7/live/8dc009a0-eb06-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo#0",
+          "title": "Ranking the Premier League's ultimate free-kick specialists",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+          "description": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10.",
+          "author": "",
+          "publishedAt": "2026-11-28T08:14:24Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d9c/live/aafa5b20-e8fd-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cw5y1e747375o#2",
+          "title": "I watched every Brighton game at Dortmund - Gross",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw5y1e747375o?at_medium=RSS&at_campaign=rss",
+          "description": "Brighton's Pascal Gross shares why he returned after getting his move to Borussia Dortmund.",
+          "author": "",
+          "publishedAt": "2026-11-28T07:29:50Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e08/live/726932e0-ea56-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o#0",
+          "title": "How dad's embarrassment was making of Gross at Brighton",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o?at_medium=RSS&at_campaign=rss",
+          "description": "Pascal Gross says his dad 'embarrassment' at him looking for free-kicks played an important part in him becoming the player he is today at Brighton.",
+          "author": "",
+          "publishedAt": "2026-11-28T07:25:04Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb8/live/786c73f0-e8ee-11f1-8808-1d4222955d7e.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o#0",
+          "title": "Who am I? Plus today's other quizzes",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "author": "",
+          "publishedAt": "2026-11-28T07:04:56Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno#0",
+          "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+          "description": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him.",
+          "author": "",
+          "publishedAt": "2026-11-28T06:54:09Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/c6402090-eace-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo#0",
+          "title": "How a football team rebuilt after 19 players died in plane crash",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+          "description": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
+          "author": "",
+          "publishedAt": "2026-11-28T06:30:34Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o#0",
           "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
@@ -67,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo#1",
           "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
           "description": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
@@ -88,7 +178,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o#0",
-          "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+          "title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
           "description": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
           "author": "",
@@ -97,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o#1",
           "title": "Champions League to be a factor in Paz move - Saturday's gossip",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
@@ -117,7 +207,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pqb0qm.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo#3",
           "title": "Emery praises Garnacho attitude after Villa selection snub",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.",
@@ -127,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141e/live/97985990-ea85-11f1-a739-457c2295eaba.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o#1",
           "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
           "description": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
@@ -137,7 +227,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo#1",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo#5",
           "title": "Spurs' Savio to miss festive fixtures after injury setback",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
           "description": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
@@ -145,93 +235,13 @@
           "publishedAt": "2026-11-27T16:05:30Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo#0",
-          "title": "Man Utd trigger Fernandes' one-year contract extension",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
-          "author": "",
-          "publishedAt": "2026-11-27T15:08:41Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo#1",
-          "title": "What happens now for Bayern Munich and Musiala?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-          "description": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
-          "author": "",
-          "publishedAt": "2026-11-27T15:03:12Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo#1",
-          "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
-          "description": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
-          "author": "",
-          "publishedAt": "2026-11-27T14:37:58Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo#1",
-          "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
-          "description": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
-          "author": "",
-          "publishedAt": "2026-11-27T14:37:51Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo#3",
-          "title": "Iordanescu ready for Watford 'challenge'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
-          "description": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
-          "author": "",
-          "publishedAt": "2026-11-27T13:58:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o#5",
-          "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
-          "description": "The Wales midfielder, central to Cardiff's change in fortunes, grew up in a Swansea-supporting area and has been the focal point of a Wales debate.",
-          "author": "",
-          "publishedAt": "2026-11-27T13:16:05Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bc/live/be4480c0-ea5b-11f1-89b9-f318b11567ea.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko#16",
-          "title": "Ipswich Women sign Ademiluyi for record fee",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko?at_medium=RSS&at_campaign=rss",
-          "description": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
-          "author": "",
-          "publishedAt": "2026-11-27T12:10:39Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/fbaf2690-ea4c-11f1-b220-b9f21129b546.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo#3",
-          "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
-          "description": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
-          "author": "",
-          "publishedAt": "2026-11-27T11:57:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-28T03:47:29Z",
+      "fetchedAt": "2026-11-28T10:45:52Z",
       "articles": [
         {
           "guid": "",
