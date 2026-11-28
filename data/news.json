@@ -4,8 +4,78 @@
     {
       "title": "BBC Sport",
       "feedUrl": "https://feeds.bbci.co.uk/sport/football/rss.xml?edition=int",
-      "fetchedAt": "2026-11-27T21:58:21Z",
+      "fetchedAt": "2026-11-28T02:28:17Z",
       "articles": [
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o#0",
+          "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+          "description": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:58:49Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf9/live/42579250-ea73-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm62pw2e18dwo#15",
+          "title": "Ayr beat Largs to book place in Scottish Cup fourth round",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm62pw2e18dwo?at_medium=RSS&at_campaign=rss",
+          "description": "Watch the goals from Ayr United's Scottish Cup win over Largs Thistle.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:57:03Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e713/live/aab93280-eab5-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo#2",
+          "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+          "description": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:47:57Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/9a001150-eab2-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do#2",
+          "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:45:22Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2c/live/67522bc0-eab3-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o#2",
+          "title": "Bremen fight back to earn draw in six-goal thriller",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+          "description": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:37:16Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b319/live/827c8ba0-eab0-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o#0",
+          "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+          "description": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:30:22Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo#0",
+          "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+          "description": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:59:48Z",
+          "publisher": "BBC Sport",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg"
+        },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o#0",
           "title": "Celtic defend head of security amid Green Brigade row",
@@ -18,7 +88,7 @@
         },
         {
           "guid": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o#0",
-          "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+          "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
           "description": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
           "author": "",
@@ -37,7 +107,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9b/live/13900680-eaa7-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pqb0nm#2",
+          "guid": "https://www.bbc.co.uk/sounds/play/p0pqb0nm#3",
           "title": "Football Daily",
           "url": "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss",
           "description": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts.",
@@ -87,7 +157,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo#0",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo#1",
           "title": "What happens now for Bayern Munich and Musiala?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
           "description": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
@@ -117,7 +187,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo#3",
           "title": "Iordanescu ready for Watford 'challenge'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
           "description": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
@@ -127,7 +197,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o#5",
           "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
           "description": "The Wales midfielder, central to Cardiff's change in fortunes, grew up in a Swansea-supporting area and has been the focal point of a Wales debate.",
@@ -147,7 +217,7 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/fbaf2690-ea4c-11f1-b220-b9f21129b546.jpg"
         },
         {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo#2",
+          "guid": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo#3",
           "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
           "description": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
@@ -155,74 +225,104 @@
           "publishedAt": "2026-11-27T11:57:24Z",
           "publisher": "BBC Sport",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo#2",
-          "title": "EFL preview: Happy Potters face struggling Hammers",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport explores five things to capture your attention this EFL weekend.",
-          "author": "",
-          "publishedAt": "2026-11-27T11:03:43Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o#1",
-          "title": "Botman banned from driving for using phone at wheel",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
-          "description": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
-          "author": "",
-          "publishedAt": "2026-11-27T10:34:09Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb89/live/0ffd2b20-ea4c-11f1-b220-b9f21129b546.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo#1",
-          "title": "Clashes mar European games as Macron condemns violence",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-          "description": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-          "author": "",
-          "publishedAt": "2026-11-27T10:24:24Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o#5",
-          "title": "Why Cambridgeshire derby could be season-defining",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
-          "description": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
-          "author": "",
-          "publishedAt": "2026-11-27T08:25:44Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e2/live/f755d740-e98b-11f1-99b6-a35a62fa4264.png"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sounds/play/p0pq69mt#15",
-          "title": "Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pq69mt?at_medium=RSS&at_campaign=rss",
-          "description": "Another criticial weekend of SPFL action with a huge grudge match at Tynecastle.",
-          "author": "",
-          "publishedAt": "2026-11-27T08:00:00Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq69ng.jpg"
-        },
-        {
-          "guid": "https://www.bbc.co.uk/sport/football/articles/c95y127xxye5o#15",
-          "title": "Goodwin backs Sapsford for Australia call-up - gossip",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c95y127xxye5o?at_medium=RSS&at_campaign=rss",
-          "description": "Dundee United manager backs striker for international call-up as Hibs boss offers advice to forward.",
-          "author": "",
-          "publishedAt": "2026-11-27T07:21:15Z",
-          "publisher": "BBC Sport",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3b1/live/677d69a0-ea33-11f1-a094-5fdc692f3e33.png"
         }
       ]
     },
     {
       "title": "Sky Sports",
       "feedUrl": "https://www.skysports.com/rss/11095",
-      "fetchedAt": "2026-11-27T21:58:21Z",
+      "fetchedAt": "2026-11-28T02:28:17Z",
       "articles": [
+        {
+          "guid": "",
+          "title": "What went wrong for Alonso's Chelsea at Forest?",
+          "url": "https://www.skysports.com/football/news/11095/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
+          "description": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a miserable 3-2 defeat at Nottingham Forest.",
+          "author": "",
+          "publishedAt": "2026-11-27T23:40:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-chelsea-forest_7418332.jpg?20261127231744"
+        },
+        {
+          "guid": "",
+          "title": "Eckert: I didn't like social media post mocking Middlesbrough's play-off defeat",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T23:18:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-tonda-eckert-southampton_7418331.jpg?20261127231535"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea latest: Alonso urges fans to 'support everyone' after Fofana boos",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T23:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+        },
+        {
+          "guid": "",
+          "title": "Forest latest: We are sticking with Glasner, says Gibbs-White",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "description": "",
+          "author": "",
+          "publishedAt": "2026-11-27T23:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
+        },
+        {
+          "guid": "",
+          "title": "Papers: Man Utd in running for Paz, but Champions League key",
+          "url": "https://www.skysports.com/football/news/11095/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+          "description": "The top stories and transfer rumours from Saturday's newspapers...",
+          "author": "",
+          "publishedAt": "2026-11-27T23:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+        },
+        {
+          "guid": "",
+          "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
+          "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights",
+          "description": "Highlights from the Premier League clash between Nottingham Forest and Chelsea.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:08:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-forest_7418280.jpg?20261127220106"
+        },
+        {
+          "guid": "",
+          "title": "Southampton sink Middlesbrough in ill-tempered first meeting since 'Spygate'",
+          "url": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/560709",
+          "description": "Southampton's unbeaten start to the season at St Mary's continued as they beat leaders Middlesbrough 2-0.",
+          "author": "",
+          "publishedAt": "2026-11-27T22:00:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-finn-azaz-southampton_7418262.jpg?20261127214801"
+        },
+        {
+          "guid": "",
+          "title": "Manning and Azaz lead Saints to victory in feisty 'Spygate' reunion",
+          "url": "https://www.skysports.com/watch/video/13617366/southampton-2-0-middlesbrough-championship-highlights",
+          "description": "Highlights of the Sky Bet Championship match between Southampton and Middlesbrough.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:55:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-football-saints_7418278.jpg?20261127215904"
+        },
+        {
+          "guid": "",
+          "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
+          "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562",
+          "description": "Morgan Gibbs-White scored two in Nottingham Forest&#8217;s 3-2 win over Chelsea at the City Ground as the crisis deepened for Xabi Alonso.",
+          "author": "",
+          "publishedAt": "2026-11-27T21:45:00Z",
+          "publisher": "Sky Sports",
+          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-morgan-gibbs-white_7418255.jpg?20261127214157"
+        },
         {
           "guid": "",
           "title": "Azaz does a full Adebayor to celebrate in front of Boro fans!",
@@ -235,56 +335,6 @@
         },
         {
           "guid": "",
-          "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
-          "url": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea",
-          "description": "Morgan Gibbs-White nets again to put Nottingham Forest within sight of victory over Chelsea.",
-          "author": "",
-          "publishedAt": "2026-11-27T21:34:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-gibbs-white-forest_7418250.jpg?20261127213617"
-        },
-        {
-          "guid": "",
-          "title": "'It's a WORLDIE!' - Igor Jesus shocks Chelsea with stunning volley",
-          "url": "https://www.skysports.com/watch/video/13617329/goal-i-jesus-5-nottm-forest-1-0-chelsea",
-          "description": "Igor Jesus volleys home a stunning opener to give Nottingham Forest the lead against Chelsea.",
-          "author": "",
-          "publishedAt": "2026-11-27T20:10:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-igor-jesus-chelsea_7418186.jpg?20261127201816"
-        },
-        {
-          "guid": "",
-          "title": "Transfer Centre LIVE! Bowen to discuss West Ham future if promotion bid fails",
-          "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T18:54:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-wes-ham-west-jarrod-bowen_7378869.jpg?20261017142240"
-        },
-        {
-          "guid": "",
-          "title": "Gibbs-White at the double as Forest edge Chelsea in five-goal thriller LIVE!",
-          "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T18:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-morgan-gibbs-white_7418255.jpg?20261127214157"
-        },
-        {
-          "guid": "",
-          "title": "Saints beat Boro in ill-tempered first meeting since 'Spygate' LIVE!",
-          "url": "https://www.skysports.com/football/southampton-vs-middlesbrough/live/560709",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T18:30:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/11/1920x1080/skysports-ryan-manning-s-southampton_7418246.jpg?20261127213036"
-        },
-        {
-          "guid": "",
           "title": "Man City latest: 'We must go through these bumps to be a better team,' says Maresca",
           "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
           "description": "",
@@ -292,16 +342,6 @@
           "publishedAt": "2026-11-27T18:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-        },
-        {
-          "guid": "",
-          "title": "Aston Villa latest: Club open to terminating Garnacho loan",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T18:00:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
         },
         {
           "guid": "",
@@ -355,16 +395,6 @@
         },
         {
           "guid": "",
-          "title": "Liverpool latest: Iraola gives injury update on trio ahead of Merseyside derby",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-27T14:15:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-        },
-        {
-          "guid": "",
           "title": "Man Utd activate Fernandes contract extension clause",
           "url": "https://www.skysports.com/football/news/11095/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028",
           "description": "Manchester United have triggered their 12-month option to extend captain Bruno Fernandes' contract.",
@@ -395,16 +425,6 @@
         },
         {
           "guid": "",
-          "title": "Hemmings unfazed by rise at Villa and eager to take next step",
-          "url": "https://www.skysports.com/football/news/11095/13616958/george-hemmings-exclusive-aston-villa-prospect-unfazed-by-rapid-rise-in-unai-emerys-squad-as-he-eyes-next-step",
-          "description": "Two days after being thrown into a cauldron in Istanbul during Aston Villa's loss to Galatasaray in the Champions League, George Hemmings strolls into the media centre at Bodymoor Heath, sliders on, looking entirely at home in the senior surroundings that should be new to him.",
-          "author": "",
-          "publishedAt": "2026-11-26T19:09:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e1.365dm.com/26/11/1920x1080/skysports-george-hemmings-aston-villa_7417380.jpg?20261126192314"
-        },
-        {
-          "guid": "",
           "title": "PL Predictions: How will your club fare this weekend?",
           "url": "https://www.skysports.com/football/news/11095/13616076/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
           "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the <a href='https://qrcode.skysports.com/PLmaindeeplink'>Premier League</a>.",
@@ -412,16 +432,6 @@
           "publishedAt": "2026-11-26T16:00:00Z",
           "publisher": "Sky Sports",
           "imageUrl": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-        },
-        {
-          "guid": "",
-          "title": "Wirtz unlocking Isak, plus a signing of the season contender",
-          "url": "https://www.skysports.com/football/news/11095/13616467/florian-wirtz-helping-to-unlock-alexander-isak-at-liverpool-as-antonio-silva-shines-for-bournemouth-the-radar",
-          "description": "",
-          "author": "",
-          "publishedAt": "2026-11-25T17:18:00Z",
-          "publisher": "Sky Sports",
-          "imageUrl": "https://e0.365dm.com/26/11/1920x1080/skysports-the-radar-isak-silva_7417192.jpg?20261126154055"
         }
       ]
     }
